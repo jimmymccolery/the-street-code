@@ -4,7 +4,7 @@
 **Date:** 2026-05-07
 **Status:** Methodology research positioning paper documenting how a personal AI infrastructure framework maps to design-based research (DBR) requirements; n=1 framework with two formally validated work classes; honest hedges include narrower scope than canonical DBR (solo-operator vs classroom), operator-attested empirical record, transmission gap (no second operator deployed); suggestive not conclusive
 
-*Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+*Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record. This work is independent personal research, not professional output from a current employer.*
 
 ---
 

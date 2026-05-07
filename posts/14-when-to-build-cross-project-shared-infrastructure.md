@@ -4,7 +4,7 @@
 **Date:** 2026-05-07
 **Status:** Operational lesson from one cross-site shared infrastructure pattern established 2026-05-04; n=1 wrapper consumer to date; design-trade-off-grounded rather than multi-fire-grounded; suggestive not conclusive
 
-*Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+*Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record. This work is independent personal research, not professional output from a current employer.*
 
 ---
 
