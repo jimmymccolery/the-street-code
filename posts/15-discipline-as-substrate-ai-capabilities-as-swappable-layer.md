@@ -4,7 +4,7 @@
 **Date:** 2026-05-07
 **Status:** Operational lesson from running a personal AI infrastructure framework concurrently across three substrates 2026-04-27 through 2026-05-07; portability claim is theoretical-architectural rather than substitution-validated; suggestive not conclusive
 
-*Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+*Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record. This work is independent personal research, not professional output from a current employer.*
 
 ---
 
