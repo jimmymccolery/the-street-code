@@ -8,7 +8,7 @@
 
 ---
 
-In [the previous post](2026-05-03-the-rule-fired-during-its-own-promotion.md) I wrote about a single architecture-revision session where one of the rules I was promoting fired during the session promoting it. That story works as a hook because the recursion is unambiguous. Less obvious from that post: the framework being promoted in that session had been growing for weeks, and the discipline that allowed me to recognize the recursive fire when it happened was itself empirical, earned across earlier sessions where rules failed first, were named, and were promoted because failing the same way three times is empirical evidence and one or two times might be coincidence.
+In [the previous post](03-the-rule-fired-during-its-own-promotion.md) I wrote about a single architecture-revision session where one of the rules I was promoting fired during the session promoting it. That story works as a hook because the recursion is unambiguous. Less obvious from that post: the framework being promoted in that session had been growing for weeks, and the discipline that allowed me to recognize the recursive fire when it happened was itself empirical, earned across earlier sessions where rules failed first, were named, and were promoted because failing the same way three times is empirical evidence and one or two times might be coincidence.
 
 This post covers those earlier sessions. They're less dramatic than the recursive fire but they're how the framework actually got built. If you're curious how a personal AI infrastructure earns its first dozen-or-so canonical rules, this is the foundation period.
 
@@ -80,7 +80,7 @@ The pattern across the three #13 fires: the rule existed and was canonical, the 
 
 This produced a promotion candidate: a future canonical anti-pattern #18 covering "within-response role outputs must reconcile; the evidence audit cannot grade claims higher than the research role without justified upgrade reasoning." I didn't promote #18 in S004b-act. Promotion candidates need multiple fires across multiple conditions, and #18's empirical evidence at that point was one fire.
 
-#18 got promoted in the next major architecture session (the one I covered in [the previous post](2026-05-03-the-rule-fired-during-its-own-promotion.md), which was about a different rule firing during its own promotion). Empirical evidence accumulated to four fires across two projects between S004b-act and that next session, which is enough for promotion.
+#18 got promoted in the next major architecture session (the one I covered in [the previous post](03-the-rule-fired-during-its-own-promotion.md), which was about a different rule firing during its own promotion). Empirical evidence accumulated to four fires across two projects between S004b-act and that next session, which is enough for promotion.
 
 ## When the enforcement infrastructure itself drifts: the Drift Audit Block
 
@@ -138,10 +138,10 @@ That last lesson is the one that matters most for the post that came before this
 
 I'm not claiming the components of this framework are novel. Canonical files as runtime configuration, prompts as code, multi-agent anti-pattern enumeration, sync tooling for embedded snippets: each component has prior art going back fifteen-plus years in software engineering and adjacent fields. What I'm claiming is that I built a personal AI infrastructure layering these components together, observed it fail in specific repeatable ways, and named the failures so the same observation in a future session could be recognized faster than from scratch.
 
-I'm not claiming the framework is finished. [The previous post](2026-05-03-the-rule-fired-during-its-own-promotion.md) covered an architecture-revision session that promoted five new anti-patterns and refined an existing one; the framework continues to grow with each major session. What's described here is the foundation period.
+I'm not claiming the framework is finished. [The previous post](03-the-rule-fired-during-its-own-promotion.md) covered an architecture-revision session that promoted five new anti-patterns and refined an existing one; the framework continues to grow with each major session. What's described here is the foundation period.
 
 I'm not claiming this discipline scales beyond personal infrastructure. I run this for myself, across seventeen projects, on two LLM substrates. Whether the same approach holds at team scale, with multiple operators promoting rules from different observations, is an open question I haven't tested.
 
-What I am claiming: I built a personal AI discipline framework starting from operator notes, ran it across multiple sessions, observed the same rules fail multiple times under different conditions, and learned that recognition (not prevention) is what canonical infrastructure actually delivers. The first dozen rules of the framework came from this period. The next dozen would come from sessions like the one I described in [the previous post](2026-05-03-the-rule-fired-during-its-own-promotion.md).
+What I am claiming: I built a personal AI discipline framework starting from operator notes, ran it across multiple sessions, observed the same rules fail multiple times under different conditions, and learned that recognition (not prevention) is what canonical infrastructure actually delivers. The first dozen rules of the framework came from this period. The next dozen would come from sessions like the one I described in [the previous post](03-the-rule-fired-during-its-own-promotion.md).
 
 That's the foundation. The framework isn't doing magic. It's doing operator-side recognition, supported by version-controlled infrastructure, propagated automatically across projects, with empirical fire counts behind every promoted rule. That's all of it. If you're interested in similar discipline work on personal AI infrastructure, the operations are simple. The discipline of actually running them across enough sessions to accumulate empirical evidence is the hard part.
