@@ -8,7 +8,7 @@
 
 ---
 
-In [an earlier post in this series](2026-05-17-what-auditing-the-audit-taught-me-about-substrate-routing.md) I described running into a substrate-class limit on prompt-language enforcement and redesigning my audit framework around the literature's recommended pattern: structural verification outside the LLM's generation step. The redesign was a directional move based on lit-review reasoning. I committed to it without having tested it.
+In [an earlier post in this series](06-what-auditing-the-audit-taught-me-about-substrate-routing.md) I described running into a substrate-class limit on prompt-language enforcement and redesigning my audit framework around the literature's recommended pattern: structural verification outside the LLM's generation step. The redesign was a directional move based on lit-review reasoning. I committed to it without having tested it.
 
 Two validation cycles have now run. This post reports what happened in both.
 
