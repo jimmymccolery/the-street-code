@@ -64,7 +64,7 @@ Two days after the cycle closed, I submitted my framework's brochure to Gemini D
 
 Gemini's audit flagged a list of empirical claims as worth verification. One claim on the list: the brochure's reference to "validated... with 23/23 PASS and 32/32 PASS verification results respectively" for the architecture's two work classes. Gemini's reasoning, paraphrased: perfect pass rates are statistically anomalous in probabilistic LLM generation; this often indicates a permissive verification gate or reporting only post-recovery metrics rather than first-pass accuracy. The flag wasn't an accusation; it was a request to verify against canonical state.
 
-Cycle 1 verified clean against canonical state: 23/23 first-pass. Gemini's flag on Cycle 1 didn't surface anything.
+Cycle 1 verified clean against canonical state: 23/23 first-pass; Gemini's flag on Cycle 1 didn't surface anything.
 
 I addressed the flag by reading the Phase 5 report for Cycle 2 directly (the architecture-revision work class validation, which is the cycle this post is built around). The report showed 33 total claims, 32 PASS, 0 FAIL, 1 QUESTIONABLE. The QUESTIONABLE was C7, on canonical-alignment for proposed earned lessons against deployed lessons-learned state. The Phase 5 report itself framed C7 as "workflow-ordering, not Phase 3 defect." That's the alignment problem JUNE 14 named.
 

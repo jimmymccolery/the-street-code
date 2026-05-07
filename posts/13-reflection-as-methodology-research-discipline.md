@@ -12,7 +12,7 @@ This post is one tier above the methodology research arc's usual scope. Prior po
 
 Substantial AI-assisted work sessions produce two distinct output categories. Operational artifacts: posts shipped, canonical files updated, verification chains landed, deliverables completed. Methodology research material: findings about how the framework operates that emerged during the work but weren't part of the operational deliverables. The default at session close is operational-mode discipline: verify what got produced, close loops on canonical-record updates, ship final state. The default misses what reflection catches.
 
-The empirical case: across two sessions of substantive AI-assisted work, end-of-session reflection produced approximately twenty-five canonical-record additions that operational mode hadn't surfaced. Research_queue topics, lessons-learned entries, operational state sections, banked post candidates: all material that would have stayed in conversation history without explicit reflection prompting capture. This post covers what reflection is, what it produces, and why it's a reliability mechanism distinct from verification chains and Phase 5 review.
+The empirical case: across two sessions of substantive AI-assisted work, end-of-session reflection produced approximately twenty-five canonical-record additions that operational mode hadn't surfaced. All of this material would have stayed in conversation history without explicit reflection prompting capture: research_queue topics, lessons-learned entries, operational state sections, banked post candidates. This post covers what reflection is, what it produces, and why it's a reliability mechanism distinct from verification chains and Phase 5 review.
 
 ## What operational mode misses
 
