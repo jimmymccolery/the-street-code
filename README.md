@@ -16,13 +16,13 @@ The work is operator-audit-shaped: writing serves as memory-keeping and audit tr
 
 ## Conventions
 
-**Filename Date prefix:** Reflects publish Date when scheduled-publish lag exists between authoring and publication; otherwise reflects authoring Date (same-day publication). Filenames sort chronologically by publish order.
+**Filename numbering prefix:** Two-digit zero-padded sequential number reflecting authoring order. Posts numbered 01-NN by body Date ascending; same-day clusters ordered by methodology-arc sequence (the order in which the substantive work documented in posts was performed). Filenames sort by reading order.
 
-**Body Date field:** The frontmatter `**Date:**` field reflects authoring Date — when the substantive work documented in the post was performed. For same-day publications, filename Date and body Date align; for scheduled-publish posts, the two Dates may differ by days to weeks reflecting scheduling cadence.
+**Body Date field:** The frontmatter `**Date:**` field reflects authoring Date — when the substantive work documented in the post was performed. Authoring Date is the basis for filename numbering order.
 
 **Frontmatter structure:** Posts use Markdown frontmatter with `**Author:**`, `**Date:**`, and `**Status:**` fields, followed by an italic disclosure note acknowledging AI writing assistance.
 
-**Post-naming pattern:** `YYYY-MM-DD-kebab-case-slug.md` where Date prefix reflects publish Date convention above.
+**Post-naming pattern:** `NN-kebab-case-slug.md` where NN is two-digit zero-padded number reflecting authoring order convention above.
 
 ## Author
 
