@@ -45,7 +45,7 @@ The author had a smart-friend program look at his own writing and check it caref
 ### 07. When the Architecture Worked: Two-Cycle Validation
 **Date:** 2026-05-04
 
-The author tried out his new design (using different programs for different parts of the work) on two real jobs. Both worked. Every check passed in the first job (23 out of 23). Almost every check passed in the second job (32 out of 33; one small wrinkle came up). The wrinkle wasn't a problem with the design. It turned into its own lesson about WHEN to save partial work (see the next post). The design seems to do real work, at least for these two kinds of jobs. More tests would help; this is two data points, not proof.
+The author tried out his new design (using different programs for different parts of the work) on two real jobs. Both worked. Every check passed in the first job (23 out of 23). Almost every check passed in the second job (32 out of 33; one small wrinkle came up). The wrinkle wasn't a problem with the design. It turned into its own lesson about WHEN to save partial work (see the next post). The design seems to do real work, at least for these two kinds of jobs. More tests would help; this is two data points, not proof. (See also post 11, which revisits this wrinkle two days later under cross-substrate audit and finds it more substantive than this post recognized.)
 
 ### 08. When Deployment Outpaces Decisions: A Mid-Iteration Alignment Problem
 **Date:** 2026-05-04
