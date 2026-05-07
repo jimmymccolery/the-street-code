@@ -14,6 +14,16 @@ The work is operator-audit-shaped: writing serves as memory-keeping and audit tr
 - methodology/ — Framework documentation and operational disclosure
 - drafts/ — Work-in-progress posts not yet ready for publication
 
+## Conventions
+
+**Filename Date prefix:** Reflects publish Date when scheduled-publish lag exists between authoring and publication; otherwise reflects authoring Date (same-day publication). Filenames sort chronologically by publish order.
+
+**Body Date field:** The frontmatter `**Date:**` field reflects authoring Date — when the substantive work documented in the post was performed. For same-day publications, filename Date and body Date align; for scheduled-publish posts, the two Dates may differ by days to weeks reflecting scheduling cadence.
+
+**Frontmatter structure:** Posts use Markdown frontmatter with `**Author:**`, `**Date:**`, and `**Status:**` fields, followed by an italic disclosure note acknowledging AI writing assistance.
+
+**Post-naming pattern:** `YYYY-MM-DD-kebab-case-slug.md` where Date prefix reflects publish Date convention above.
+
 ## Author
 
 Jimmy McColery — building methodology research tools for AI-assisted work.
