@@ -1,6 +1,6 @@
 # The Street Code
 
-Methodology research on AI-assisted work — cross-substrate audit chains, canonical-state discipline, framework-encoded verification.
+Methodology research on AI-assisted work: cross-substrate audit chains, canonical-state discipline, framework-encoded verification.
 
 ## What this is
 
@@ -10,15 +10,15 @@ The work is operator-audit-shaped: writing serves as memory-keeping and audit tr
 
 ## Navigation
 
-- posts/ — Substantive published methodology research writing
-- methodology/ — Framework documentation and operational disclosure
-- drafts/ — Work-in-progress posts not yet ready for publication
+- posts/ - Substantive published methodology research writing
+- methodology/ - Framework documentation and operational disclosure
+- drafts/ - Work-in-progress posts not yet ready for publication
 
 ## Conventions
 
 **Filename numbering prefix:** Two-digit zero-padded sequential number reflecting authoring order. Posts numbered 01-NN by body Date ascending; same-day clusters ordered by methodology-arc sequence (the order in which the substantive work documented in posts was performed). Filenames sort by reading order.
 
-**Body Date field:** The frontmatter `**Date:**` field reflects authoring Date — when the substantive work documented in the post was performed. Authoring Date is the basis for filename numbering order.
+**Body Date field:** The frontmatter `**Date:**` field reflects authoring Date: when the substantive work documented in the post was performed. Authoring Date is the basis for filename numbering order.
 
 **Frontmatter structure:** Posts use Markdown frontmatter with `**Author:**`, `**Date:**`, and `**Status:**` fields, followed by an italic disclosure note acknowledging AI writing assistance.
 
@@ -26,4 +26,4 @@ The work is operator-audit-shaped: writing serves as memory-keeping and audit tr
 
 ## Author
 
-Jimmy McColery — building methodology research tools for AI-assisted work.
+Jimmy McColery: building methodology research tools for AI-assisted work.
