@@ -8,7 +8,7 @@ The posts in this repo tell the story of building that rulebook, testing it, bre
 
 ## How to read this repo
 
-Posts are numbered 01 through 17 in the order the work happened. Reading them in order shows how the research developed. Each post below has a one-paragraph plain-language summary. If you want to dive deeper, click into the actual post.
+Posts are numbered 01 through 18 in the order the work happened. Reading them in order shows how the research developed. Each post below has a one-paragraph plain-language summary. If you want to dive deeper, click into the actual post.
 
 ## Per-post summaries
 
@@ -97,6 +97,11 @@ This last post steps back from doing the work and asks a bigger question: what K
 
 The rulebook already had rules to PREVENT mistakes (don't claim something is true until you've actually checked). This post is about a different kind of safety net: catching mistakes AFTER they slip past, but BEFORE they cause damage. In one long work session, the author saw the same kind of mistake happen at least five times. Each time, something caught it: a check right before saving; a "look first, then change" two-step workflow; the end-of-session reflection question; the author himself spotting it. The lesson is that backup safety nets at the moment of saving are more reliable than trying to prevent every mistake upfront. Prevention costs effort every time you say something; backup safety nets only cost effort when you're about to save permanent work. The author isn't claiming this replaces prevention. Both work together; one catches what the other misses. The evidence is one session, so this is a hint, not proof. (See also post 13 for one of those backup safety nets: the end-of-session reflection question.)
 
+### 18. What Running on Auto-Pilot Revealed About Framework Structure
+**Date:** 2026-05-07
+
+Today the author tried something different: he ran his AI work session on lighter-attention mode (less double-checking than usual) to see what the rulebook would do without him watching closely. What showed up wasn't the rulebook falling apart. Some safety nets work without him paying attention at all: the AI checks itself before saving anything; the two-step "look first, then act" workflow catches mistakes between steps; the end-of-session reflection question fires no matter how tired he is. One safety net is him catching mistakes himself, and that one still worked even on lighter-attention mode, just sometimes a little later than usual. He also noticed he wears six different hats during work sessions (designer, decision-maker, double-checker, researcher, scope-keeper, reader-translator) and they kept firing even on lighter-attention mode, suggesting the hats are part of the rulebook's fabric, not contingent on him being at peak attention. Two times during today's session, the rulebook even caught itself making a mistake while the author was writing about catching mistakes; structural pattern, not coincidence. The author isn't claiming he can run on lighter-attention mode forever. Today's experiment was one session at one condition, so this is a hint, not proof, but the framework holds up better under reduced attention than he expected. (See also post 17 for the recovery-from-drift threshold this post extends.)
+
 ## What's next
 
-This repo will keep growing as new posts publish. Numbered ordering means new posts get the next number (18, 19, etc.) and join the bottom of the per-post summaries above. The arc-level summary at the top updates as the research direction develops.
+This repo will keep growing as new posts publish. Numbered ordering means new posts get the next number (19, 20, etc.) and join the bottom of the per-post summaries above. The arc-level summary at the top updates as the research direction develops.
