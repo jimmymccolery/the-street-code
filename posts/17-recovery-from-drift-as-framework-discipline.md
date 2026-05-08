@@ -67,3 +67,7 @@ I'm claiming the empirical pattern supports treating recovery-from-drift discipl
 The framework has a recovery-from-drift threshold, and today's session arc empirically demonstrated the framework operating at that threshold. Naming it surfaces a methodological observation worth the post; the canonical promotion gate keeps the observation honest pending cross-session validation.
 
 That's the post.
+
+---
+
+*Update note (added 2026-05-07): Since this post was drafted earlier today, the recovery-from-drift threshold framing has been substantively extended. The 4-mechanism composition has internal structure: mechanisms #1-3 (verify-canonical-first; Type 5 verify-then-deploy; reflection-prompt-discipline) are substrate-architectural and operate independently of operator attention; mechanism #4 (operator-side catch as backstop) is operator-side with graceful degradation under reduced intensity. The compound pair with operator-side role architecture (six functional roles operating canonically even at reduced intensity) reveals canonization-scope asymmetry as foundational gap. [Post 18](18-what-running-on-auto-pilot-revealed-about-framework-structure.md) captures the extended framing under deliberate experimental conditions (reduced verification-reviewer intensity), plus recursive operational evidence (framework catching its own drift twice within the session arc), plus cross-session experimental design enumeration as forward-research framework. The original framing is preserved as-written; this update note acknowledges the extension.*
