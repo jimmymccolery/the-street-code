@@ -8,7 +8,7 @@ The posts in this repo tell the story of building that rulebook, testing it, bre
 
 ## How to read this repo
 
-Posts are numbered 01 through 16 in the order the work happened. Reading them in order shows how the research developed. Each post below has a one-paragraph plain-language summary. If you want to dive deeper, click into the actual post.
+Posts are numbered 01 through 17 in the order the work happened. Reading them in order shows how the research developed. Each post below has a one-paragraph plain-language summary. If you want to dive deeper, click into the actual post.
 
 ## Per-post summaries
 
@@ -92,6 +92,11 @@ Most people think the smart-friend computer program is the most important part o
 
 This last post steps back from doing the work and asks a bigger question: what KIND of work is this? The author argues that what he's been doing isn't just "personal productivity" or "blog journaling." It's a real research method that academic researchers already have a name for: "design-based research," where one person designs something, uses it, and learns from using it, all at once. He matches his work to what the academic researchers say this kind of research has to look like. It mostly fits. There are two honest gaps (he hasn't worked with a partner-researcher; nobody else has tried his rulebook yet). Naming the kind of work gives it more weight than "stuff one guy figured out for himself." (See also post 07 for the two work-class validation cycles this post draws on.)
 
+### 17. Recovery-from-Drift as Framework Discipline
+**Date:** 2026-05-07
+
+The rulebook already had rules to PREVENT mistakes (don't claim something is true until you've actually checked). This post is about a different kind of safety net: catching mistakes AFTER they slip past, but BEFORE they cause damage. In one long work session, the author saw the same kind of mistake happen at least five times. Each time, something caught it: a check right before saving; a "look first, then change" two-step workflow; the end-of-session reflection question; the author himself spotting it. The lesson is that backup safety nets at the moment of saving are more reliable than trying to prevent every mistake upfront. Prevention costs effort every time you say something; backup safety nets only cost effort when you're about to save permanent work. The author isn't claiming this replaces prevention. Both work together; one catches what the other misses. The evidence is one session, so this is a hint, not proof. (See also post 13 for one of those backup safety nets: the end-of-session reflection question.)
+
 ## What's next
 
-This repo will keep growing as new posts publish. Numbered ordering means new posts get the next number (17, 18, etc.) and join the bottom of the per-post summaries above. The arc-level summary at the top updates as the research direction develops.
+This repo will keep growing as new posts publish. Numbered ordering means new posts get the next number (18, 19, etc.) and join the bottom of the per-post summaries above. The arc-level summary at the top updates as the research direction develops.
