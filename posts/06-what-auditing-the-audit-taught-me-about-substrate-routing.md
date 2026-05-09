@@ -48,7 +48,7 @@ Phase 3 Lucas produced four substantive critiques. Three named real issues with 
 
 The role's structural posture (critique by design) plus the inherited Phase 2 framing was enough to break out of the trap that the rest of the audit had settled into. That's a finding about role structure, not about Lucas specifically. Adversarial calibration on operator-authored content benefits from a role whose explicit job is to find what's wrong, separated from the roles whose jobs are to find what's right or verify what's there. Mixing critique into roles whose primary purpose is verification or synthesis lets the verification or synthesis work absorb the critique work into "everything checked out."
 
-This is consistent with the academic citation behind canonical anti-pattern #16 in my framework (Schwenk's OBHDP 1990 paper on devil's-advocacy effects in group decision-making, which found that critique modes interfere with each other when run in parallel without coordination). The principle generalizes: critique requires structural separation, not just instructional intent.
+This is consistent with the academic citation behind canonical anti-pattern #16 in my framework (Schwenk's OBHDP 1990 meta-analysis on devil's-advocacy and dialectical-inquiry effects in group decision-making, which established that structured critique outperforms no-critique consensus). The principle generalizes: critique requires structural separation, not just instructional intent — the same way the meta-analysis showed structured critique requires the structural separation of dedicated DA or DI roles to outperform consensus.
 
 ## Finding 4: cross-substrate verification chains are themselves a discipline, not just an audit overhead
 
