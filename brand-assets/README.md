@@ -4,6 +4,9 @@ Marketing + promotional assets for The Street Code methodology research framewor
 
 **Convention:** Each asset filed with descriptive kebab-case filename + brief annotation in this README pointing at its canonical source content + filing date + intended use surface.
 
+**Subfolders:**
+- `audits/` — comparative audit records + grading sessions across the brand-asset set (audit-record companion to the posters themselves; each audit dated + thematically scoped)
+
 ---
 
 ## `the-nine-sigils-poster.jpg`
