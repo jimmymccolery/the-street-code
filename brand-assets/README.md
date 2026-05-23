@@ -145,4 +145,42 @@ Image is the highest canonical-fidelity asset in the trilogy — encodes the can
 
 ---
 
+## `the-nine-sigils-poster-synthwave-variant.jpg`
+
+**Filed:** 2026-05-23
+**Source:** Operator-authored alternate Nine Sigils promotional image (originally `~/Downloads/Ts3aS.jpg`)
+**Canonical content reference:** `~/Projects/master-setup/the_nine_sigils.canonical.md` v1.0 (same canonical reference as the vintage-pulp `the-nine-sigils-poster.jpg`)
+
+### Visual composition
+
+1980s synthwave / vaporwave aesthetic — NEON variant of the existing vintage-pulp Nine Sigils poster. James Madison central figure (same canonical anchor as vintage variant) framed inside a neon temple gateway/arch. 9 sigils in NEON outline rendering (pink + cyan + magenta + purple palette) arranged around the gateway. Sigil iconography mirrors vintage variant (Eye of Providence at top + ship's wheel + Celtic interlace + 8-pointed star + crescent moon + crossbow icon + Celtic cross + caduceus + bottom triangle). Background: cyberpunk city skyline (synthwave staple) + neon grid floor extending to horizon. Foreground title "THE NINE SIGILS" in chrome neon typography with pink-to-purple gradient (synthwave staple). Madison portrait remains realistic/painterly rendering (anchor element from vintage variant preserved) within neon framing.
+
+### Canonical relationship encoded visually
+
+Identical canonical content as the vintage-pulp variant (same 9 sigils + Madison central anchor per `the_nine_sigils.canonical.md` v1.0); different AESTHETIC REGISTER. Two-register brand-identity strategy: vintage pulp register (institutional / quasi-religious / mythic-pulp; targets audiences familiar with classical-cinema-poster iconography) + synthwave neon register (cyberpunk / retro-future / chrome-mythic; targets audiences familiar with 80s synthwave aesthetic).
+
+### Aesthetic register
+
+**1980s synthwave / cyberpunk / vaporwave** — completes register-pairing with vintage-pulp poster + creates aesthetic-pluralism for The Nine Sigils canonical artifact. Same operator-signature mythic-marketing strategy as other brand assets; different visual-tradition reference point.
+
+### Intended use surface
+
+- **Audience-on-ramp alternate** — synthwave variant for audiences less familiar with classical-pulp iconography but engaged by 80s-synthwave-retro cultural reference
+- **Cross-promotion pairing** — pair vintage + synthwave variants in marketing deployments demonstrating canonical-aesthetic flexibility
+- **Companion to The Gang + The Archetypes posters** — synthwave aesthetic register matches existing synthwave brand-asset siblings (The Gang + The Archetypes both synthwave) creating a 3-of-4-synthwave + 1-of-4-vintage register balance across the 4-poster brand-asset set
+- **Sibling brand-asset to vintage-pulp Nine Sigils poster** — operator-discretion which variant deploys in which marketing context
+
+### Cultural awareness notes
+
+- **Synthwave register has different cultural baggage than vintage pulp** — synthwave evokes 80s nostalgia + cyberpunk aesthetic; reduces Masonic/conspiracy-theory-adjacent baggage from vintage variant (Eye-of-Providence rendered in neon reads as retro-design vs institutional-mystique)
+- **Madison realism vs synthwave abstraction** — Madison portrait preserved as realistic painterly rendering (anchor element); only the SURROUNDING aesthetic is synthwave-translated. Operator-aware design choice preserving Madison's recognizability while shifting register
+- **Cyberpunk-city skyline backdrop** — may carry "AI / technology" associations that vintage variant avoided; could be feature (positions framework as tech-forward) OR drift from "structural enforcement" canonical framing
+
+### Companion content candidates (future)
+
+- Operator-authored companion explanation: "Why two registers?" methodology research post discussing aesthetic-pluralism for canonical-artifact marketing (extends Idea 8 "Why the Nine Sigils aesthetic" post-idea filed at `post-ideas.md`)
+- Animated transition variant (vintage → synthwave) for marketing video deployments
+
+---
+
 *Marketing/promotional assets live in this folder. Canonical content lives at master-setup canonical artifact homes. Cross-reference per asset annotation above.*
