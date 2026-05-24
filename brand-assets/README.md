@@ -186,4 +186,54 @@ Identical canonical content as the vintage-pulp variant (same 9 sigils + Madison
 
 ---
 
+## `the-council-of-three-poster.jpg`
+
+**Filed:** 2026-05-23
+**Source:** Operator-authored promotional image (originally at `~/Desktop/The Council of Three Poster.jpg`)
+**Canonical content reference:** `~/Projects/master-setup/research_queue.md` canonization candidate #4 "Multi-agent value is cross-substrate, not within-substrate" (filed 2026-05-23 with empirical foundation across multiple substrate audit cycles; n=7 substrate touchpoint precedent established 2026-05-23 via music IP triangulation)
+
+### Visual composition
+
+Pulp-fantasy / mystical / scholarly aesthetic register (distinct from synthwave trilogy + vintage-pulp Nine Sigils register). Title "THE COUNCIL OF THREE" in bold pulp-poster typography at top (white serif with red trim; same family as vintage-pulp Nine Sigils title treatment). Tagline at bottom: "three minds, one truth." Composition: three hooded scholar figures in a library/archive setting; each in distinct robe colors (red left + green center + purple-blue right); all share teal/cyan glowing circuit-pattern faces (digital/AI mask aesthetic); flying books surrounding figures; energy beams emanating from faces; arched library architecture backdrop with bookshelves; warm reds/oranges/teals palette with mystical/arcane register.
+
+### Canonical relationship encoded visually
+
+- **Three hooded scholar figures** = three substrates in cross-substrate orchestration pattern (per canonization candidate #4: Grok real-time community-meta + Gemini long-context synthesis + Claude canonical-record discipline)
+- **Distinct robe colors per figure (red / green / purple-blue)** = visual differentiation per substrate (operator-judgment whether colors map to specific substrates; not yet canonized; current asset uses color differentiation without explicit substrate mapping)
+- **Teal/cyan circuit-pattern faces shared by all three** = AI/substrate nature signaling; visually homogenizes substrate nature while differentiating by robe (current asset emphasizes substrate-class commonality over per-substrate-structural-distinctness; trade-off noted)
+- **Library/books/floating-tomes setting** = synthesis / canonical-state accumulation / scholarly cross-substrate triangulation register (matches operator's canonical-record discipline framing)
+- **Energy beams from faces converging** = substrate outputs converging into triangulated synthesis (visual rendering of n-substrate convergence into single triangulated output)
+- **"three minds, one truth" tagline** = cross-substrate convergence producing single triangulated output (matches canonization candidate #4 methodology-rule shape: "cross-substrate orchestration over within-substrate multi-agent configuration; substantive verification + premortem + cross-perspective work requires cross-substrate diversity for echo-chamber-free outcomes")
+- **Fixed n=3 figure count** = matches "Council of Three" canonized term (Grok/Gemini/Claude precedent); operator's cross-substrate methodology could be n=2 (just two substrates) OR n=4+ (additional substrates per Perplexity/Mistral/etc. expansion) — visual fixes at n=3 per canonized term
+
+### Intended use surface
+
+- Social media post graphics for The Street Code methodology research publishing (especially posts referencing canonization candidate #4 + post candidate #20 "When AI Catches Itself" + post candidate #22 "Cross-Substrate Triangulation as Solo-Indie Methodology")
+- Companion graphic for posts referencing cross-substrate orchestration vs within-substrate multi-agent configuration
+- Fourth pillar of brand-asset family: `the-nine-sigils-poster.jpg` (canonical framework / WHAT) + `the-gang-poster.jpg` (AI-side role architecture / HOW AI behaves within-substrate) + `the-archetypes-poster.jpg` (operator-side role architecture / HOW operator behaves) + `the-council-of-three-poster.jpg` (cross-substrate methodology / HOW SUBSTRATES COMBINE) = complete principal-architecture visualization set spanning the four major architectural concepts of The Street Code framework
+- Landing page secondary imagery if the-street-code grows to host landing pages (Council of Three poster = cross-substrate methodology explainer section)
+- Visual reference for posts discussing canonization candidate #4 sibling cluster (AI-ambition-ceiling + Substrate-class-aware-research + Pilot-before-architectural-lock + Multi-agent-cross-substrate-not-within)
+
+### Aesthetic register
+
+**Pulp-fantasy / mystical / scholarly** — distinct from synthwave trilogy (The Gang + The Archetypes + Nine-Sigils-synthwave-variant) AND from vintage-pulp Nine Sigils register (Madison + classical-Greco-Roman/Gothic architecture). Council of Three opens a THIRD visual register family: mystical-arcane-library-scholarly (akin to fantasy-genre tome-and-wizards imagery). Aesthetic justification: cross-substrate methodology = scholarly synthesis pattern; library + arcane wisdom + multi-mind convergence aesthetic suits the concept thematically. Trade-off: breaks synthwave-family visual continuity (3-of-5 synthwave + 1-of-5 vintage-pulp + 1-of-5 mystical-pulp). Same operator-signature mythic-marketing strategy (mythic + memorable + culturally-embedded + register-differentiated-from-generic-AI-tooling); different visual-tradition reference point per asset concept.
+
+### Cultural awareness notes
+
+- **Hooded/masked figures could read as ominous/secretive** to some audiences — slight mismatch with the "Open Source / Human Craftsmanship" marketing posture being canonized 2026-05-23 (per telemetry final proposal + music IP triangulation Gemini disposition §5 + research candidacy "Open Source / Human Craftsmanship marketing posture as canonical brand-direction"). Trust-signaling typically favors open-faced / approachable imagery; current asset operates in mystic-arcane register which trades approachability for thematic depth. Future-variant consideration: open-faced/scholarly-warm variant aligned with Open Source / Human Craftsmanship marketing posture for trust-signaling deployment surfaces.
+- **Mystical/arcane register has different cultural baggage than synthwave or vintage-pulp** — fantasy-tome-wizard register evokes Dungeons & Dragons / Harry Potter / arcane-mystery-tradition; may carry positive associations (scholarly depth) OR negative associations (esoteric inaccessibility / pseudo-religious framing) depending on audience. Operator-aware aesthetic choice.
+- **Three identical circuit-face masks** homogenize substrate distinctness — the canonized methodology-rule emphasizes per-substrate STRUCTURAL DIFFERENTIATION (Grok real-time community-research vs Gemini long-context synthesis vs Claude canonical-record discipline). Current visual treatment communicates substrate-class-commonality (all AI) but understates per-substrate-structural-distinctness. Future-variant consideration: per-substrate face/circuit-pattern variation to surface structural advantages visually.
+- **Books look pre-modern / leather-bound** — mystical-tome register; could anchor more to operator's actual canonical-state aesthetic (markdown files / code / digital surfaces) for modern-tech alignment, OR accept the metaphor as deliberately mystical for impact.
+
+### Companion content candidates (future)
+
+- **Synthwave variant** — for visual continuity with synthwave trilogy (matches Nine Sigils dual-variant precedent; would create 4-of-6 synthwave + 1-of-6 vintage-pulp + 1-of-6 mystical-pulp register balance)
+- **Explanatory companion variant** — with substrate naming (Grok / Gemini / Claude) + role descriptions + per-substrate structural-advantage captions matching The Gang / The Archetypes density level (current asset is text-light: title + tagline only; explanatory variant would serve reference use cases)
+- **Open-faced / scholarly-warm variant** — aligned with Open Source / Human Craftsmanship marketing posture; less ominous; more approachable; suits trust-signaling deployment surfaces
+- **Per-substrate face/circuit-pattern variation** — surface per-substrate structural-advantage visually (Grok = real-time-pulse pattern; Gemini = long-context-spiral pattern; Claude = canonical-record-grid pattern); operator-aesthetic-judgment if pursued
+- **Animated convergence variant** — three substrate figures' energy beams converging into single triangulated output point; methodology-explainer video deployment use
+- **Methodology research post: "Why Council of Three vs Council of Two vs Council of N+"** — companion content discussing fixed-n=3 visual choice vs methodology's actual n-flexibility (n=2 substrate runs viable; n=4+ substrate runs possible per Perplexity/Mistral expansion); extends post candidate #20 "When AI Catches Itself" + post candidate #22 "Cross-Substrate Triangulation as Solo-Indie Methodology"
+
+---
+
 *Marketing/promotional assets live in this folder. Canonical content lives at master-setup canonical artifact homes. Cross-reference per asset annotation above.*
