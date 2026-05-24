@@ -250,6 +250,53 @@ Mining / archaeological / discovery aesthetic. Material-honest (raw gemstones no
 
 Banner aspect (~3.5:1 width:height) is intentional for full-content-width inline display via `.step-banner` CSS class on Launcher; does NOT fit the standard `.step-poster` right-column grid layout (which expects portrait/square aspect at 320-520px width). Posters and banners are complementary brand-asset classes with different deployment surfaces.
 
+## `the-calibration-canaries-poster.jpg`
+
+Added 2026-05-24 per operator request for use representing the Calibration Canaries content on the Launcher Gang tab (Step 6). **Filed in brand-assets; Launcher integration pending operator ratification of placement options (see below).**
+
+### Visual composition
+
+Portrait aspect (~3:4) watercolor painting of 5 diverse songbirds perched on branches near water, in muted earthy/blue/pink/lavender washes. Birds front-to-back: brown/buff sparrow-or-thrush patterned (front center, largest); white/cream finch with yellow accents (front right, smallest); dark-blue/black bird (middle left); bright blue bunting/bluebird (right, vivid royal blue); red cardinal (back center, prominent). Watercolor-style background suggests forest edge + water reflection.
+
+### Canonical relationship encoded visually
+
+- **Birds as canaries** = direct invocation of the canary-in-coal-mine origin metaphor for warrant canaries (per `launcher_v1.4.html` Step 6 Calibration Canaries: "A warrant canary is an explicit regular signal whose *absence* indicates something is wrong")
+- **5 diverse species** = each canary signal type is distinct (different anti-pattern fire indicators: uniform-A grading / empty Dissent Log / strawman premortem / no-contested-markers Verification Report / no-honest-weakness Team Debrief)
+- **Birds alert + observing** = the operator's reading posture canonized in Step 6: "watch for absence, not just positive content"
+- **Watercolor + atmospheric register** = the canary metaphor's gentle / observational / signal-not-threat framing; canaries are friends-of-the-miner, not adversaries
+
+### Count discrepancy honesty flag
+
+The canonical Calibration Canaries table on Launcher Step 6 enumerates **6 canaries** (Quarterback Dissent Log + Evidence Audit grades + Paranoid Stoner premortem + Hall Monitor Verification Report + Team Debrief calibration + Structural canary meta). The poster shows **5 birds**. The visual functions as atmospheric metaphor, not as 1:1 enumeration. If 1:1 mapping is desired, options: (a) treat Structural Canary meta as separate from the visual's enumeration (5 substantive canaries + 1 meta-canary); (b) treat the visual as decorative-atmospheric (no strict mapping claim); (c) re-render with 6 birds for exact mapping (operator-aesthetic-judgment if pursued).
+
+### Intended use surface
+
+- **Launcher Step 6 The Gang Calibration Canaries section** (proposed primary use; pending operator ratification of placement) — three viable placements: (1) right-column poster slot (replacing or alternating with the existing gang poster); (2) inline image above the Canaries table (banner-style placement near the section it illustrates; matches the gems-banner pattern on Step 14); (3) right-column poster + retire gang poster (consolidation; gang poster moves elsewhere or is retired)
+- Social media post graphics for posts referencing calibration discipline / warrant-canary methodology
+- Companion graphic for `lessons-learned.md` entries naming canary-fires (e.g., uniform-A grading entries)
+- Future Open Source / Human Craftsmanship marketing content where calibration honesty is a value proposition
+
+### Aesthetic register
+
+Watercolor / naturalistic / observational. Departs from existing brand-asset register (pulp/comic/illustrative for the four posters) — gentler + more inviting; suits "warning signals exist to help, not to threaten" framing of warrant-canary discipline. Vivid red cardinal as visual anchor (catches the eye like a dying canary catches attention). Naturalistic register pairs operator-friendly: birds-on-branches reads as observation-of-nature rather than imposed-discipline.
+
+### Cultural awareness notes
+
+- Canary-in-the-coal-mine metaphor is broadly culturally legible (occupational-safety history; not tradition-bound)
+- Actual canaries are yellow finches; the poster's birds are diverse North American species (cardinal, indigo bunting, etc.) — viewer may notice literal mismatch with "canary." Mitigation: the metaphor is "canary" as warning-signal-bird-class, not literal canary species. Alt text can disambiguate
+- Watercolor + naturalistic register may read as too-soft / decorative-only by viewers expecting the discipline framework's harder edges (pulp / comic / sci-fi-cyber). Operator-aesthetic-judgment whether the softer register suits the canary tab specifically OR whether a harder-register variant is wanted
+
+### Companion content candidates (future)
+
+- **Per-canary legend graphic** mapping each bird to specific canary (e.g., red cardinal = Quarterback Dissent Log canary; blue bunting = Evidence Audit grades canary; etc.) — explanatory companion to current text-light poster
+- **6-bird variant** for exact 1:1 mapping to the canonical 6-canary enumeration if 5-bird count proves a friction point
+- **Hard-register variant** (e.g., pulp-noir bird illustrations matching the Nine Sigils / Council of Three pulp/comic register) for register-coherence across brand-asset set
+- **Methodology research post: "Warrant Canaries in AI Discipline Frameworks"** — companion content for the calibration-canary discipline; this poster as hero image
+
+### Aspect ratio + display notes
+
+Portrait aspect (~3:4 height-leans-wider-than-tall) fits the standard `.step-poster` right-column grid layout (320-520px width). Could also display via `.step-banner` if a wider banner-style placement is preferred, but portrait suits the poster slot well. Operator decision: right-column poster OR inline banner-style placement near the Canaries table specifically.
+
 ---
 
 *Marketing/promotional assets live in this folder. Canonical content lives at master-setup canonical artifact homes. Cross-reference per asset annotation above.*
