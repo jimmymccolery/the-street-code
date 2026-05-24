@@ -216,7 +216,7 @@ Wide cinematic aspect (~3.5:1 banner format) showing 7 raw uncut gemstones parti
 
 ### Canonical relationship encoded visually
 
-- **7 gemstones** = 7 categories of artifacts mined by `Chat_Drain_Probe_v5.md` (earned lessons → lessons-learned.md / anti-pattern fires → _anti_patterns.canonical.md / banked decisions → open_tasks.md / recurring patterns → research_queue.md / artifacts produced → project-graph.md / chat-vs-canonical drift → canonical-file edits / planned-but-unrun work → open_tasks.md + research_queue.md)
+- **7 gemstones** = 7 categories of artifacts mined by `Chat_Drain_Probe_v5.md` (earned lessons → lessons-learned.md / unresolved decisions → research_queue.md + open_tasks.md / factual claims needing verification → verification queue / recurring patterns → _anti_patterns.canonical.md + research_queue.md / artifacts produced → project-graph.md / chat-vs-canonical drift → canonical-file edits / planned-but-unrun work → research_queue.md + open_tasks.md)
 - **Dirt (raw soil)** = raw chat content; the feedstock the drain operates on
 - **Partially buried** = artifacts hidden in chat content until structured extraction surfaces them
 - **Distinct colors per gemstone** = each artifact category is a distinct value-type; not interchangeable
@@ -241,7 +241,7 @@ Mining / archaeological / discovery aesthetic. Material-honest (raw gemstones no
 
 ### Companion content candidates (future)
 
-- **Per-gem legend graphic** mapping each gemstone color to specific drain category (orange = earned lessons; red = anti-pattern fires; etc.) — explanatory companion to current text-light banner
+- **Per-gem legend graphic** mapping each gemstone color to specific drain category (orange = earned lessons; red = unresolved decisions; pink = factual claims needing verification; green = recurring patterns; amber = artifacts produced; purple = chat-vs-canonical drift; blue = planned-but-unrun work — color-to-category mapping operator-discretion) — explanatory companion to current text-light banner
 - **Methodology research post: "What gets mined when a chat session closes"** — companion content for the Chat Drain Probe methodology; banner as hero image
 - **Cross-Substrate Triangulation use** — drain artifacts feed triangulation work (Launcher Step 15); banner could appear on triangulation-related posts as upstream-data visualization
 - **Chat Drain Probe v6 versioning** — if categories change (add Category 8 affective tone shifts; merge Categories 5+6; etc.), banner gets re-rendered with matching stone count
