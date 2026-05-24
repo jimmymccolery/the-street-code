@@ -206,6 +206,50 @@ Pulp-fantasy / mystical / scholarly aesthetic register (distinct from synthwave 
 - **Animated convergence variant** — three substrate figures' energy beams converging into single triangulated output point; methodology-explainer video deployment use
 - **Methodology research post: "Why Council of Three vs Council of Two vs Council of N+"** — companion content discussing fixed-n=3 visual choice vs methodology's actual n-flexibility (n=2 substrate runs viable; n=4+ substrate runs possible per Perplexity/Mistral expansion); extends post candidate #20 "When AI Catches Itself" + post candidate #22 "Cross-Substrate Triangulation as Solo-Indie Methodology"
 
+## `the-chat-drain-gems-banner.jpg`
+
+Added 2026-05-24 per operator request to illustrate the 7 categories of artifacts mined by the Chat Drain Probe v5.
+
+### Visual composition
+
+Wide cinematic aspect (~3.5:1 banner format) showing 7 raw uncut gemstones partially buried in dark soil under dramatic warm lighting. Stones left-to-right: orange (citrine/spessartine register), red (ruby/garnet), pink with dark inclusions (rubellite/pink tourmaline), green (emerald), amber/yellow (citrine/yellow sapphire), purple (amethyst), blue (sapphire/tanzanite).
+
+### Canonical relationship encoded visually
+
+- **7 gemstones** = 7 categories of artifacts mined by `Chat_Drain_Probe_v5.md` (earned lessons → lessons-learned.md / anti-pattern fires → _anti_patterns.canonical.md / banked decisions → open_tasks.md / recurring patterns → research_queue.md / artifacts produced → project-graph.md / chat-vs-canonical drift → canonical-file edits / planned-but-unrun work → open_tasks.md + research_queue.md)
+- **Dirt (raw soil)** = raw chat content; the feedstock the drain operates on
+- **Partially buried** = artifacts hidden in chat content until structured extraction surfaces them
+- **Distinct colors per gemstone** = each artifact category is a distinct value-type; not interchangeable
+- **Dramatic lighting** = the discipline of the structured drain surfaces value the default chat-close compaction would lose
+
+### Intended use surface
+
+- **Launcher Step 14 Chat Draining** (primary canonical use; deployed Launcher v2.8 2026-05-24) — banner-style display via `.step-banner` CSS class above the 7-category artifact table; visual primes the conceptual table content
+- Social media post graphics for posts referencing Chat Drain Probe v5 methodology
+- Companion graphic for `lessons-learned.md` entries about drain category surfacing
+- Future Open Source / Human Craftsmanship marketing content where chat-mining methodology is a value proposition
+
+### Aesthetic register
+
+Mining / archaeological / discovery aesthetic. Material-honest (raw gemstones not polished cabochons; soil texture realistic). Warm earthy palette grounds the bright gem colors. Inviting register (not ominous; not corporate) — suits methodology-research framing where "mining for value" is the operator-friendly metaphor.
+
+### Cultural awareness notes
+
+- Mining metaphor carries some baggage (extractive industry / colonial mining history); register here is artisanal / archaeological / discovery, not industrial-extractive. Aesthetic choice keeps the visual on the discovery side
+- Gemstones as visual metaphor for "value embedded in raw material" is broadly culturally legible; no specific tradition-bound iconography
+- 7-stone count matches Chat Drain Probe v5 categories; if Chat Drain Probe v6 adds an 8th category, the asset would need re-rendering (banner-asset versioning consideration)
+
+### Companion content candidates (future)
+
+- **Per-gem legend graphic** mapping each gemstone color to specific drain category (orange = earned lessons; red = anti-pattern fires; etc.) — explanatory companion to current text-light banner
+- **Methodology research post: "What gets mined when a chat session closes"** — companion content for the Chat Drain Probe methodology; banner as hero image
+- **Cross-Substrate Triangulation use** — drain artifacts feed triangulation work (Launcher Step 15); banner could appear on triangulation-related posts as upstream-data visualization
+- **Chat Drain Probe v6 versioning** — if categories change (add Category 8 affective tone shifts; merge Categories 5+6; etc.), banner gets re-rendered with matching stone count
+
+### Aspect ratio + display notes
+
+Banner aspect (~3.5:1 width:height) is intentional for full-content-width inline display via `.step-banner` CSS class on Launcher; does NOT fit the standard `.step-poster` right-column grid layout (which expects portrait/square aspect at 320-520px width). Posters and banners are complementary brand-asset classes with different deployment surfaces.
+
 ---
 
 *Marketing/promotional assets live in this folder. Canonical content lives at master-setup canonical artifact homes. Cross-reference per asset annotation above.*
