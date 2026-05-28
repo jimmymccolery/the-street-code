@@ -4,7 +4,7 @@
 **Date:** 2026-05-27
 **Status:** Single-session arc writeup from one BUILD execution day; n=1, suggestive not conclusive on phase-decomposition discipline at this refactor scale
 
-*Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+*Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
 ---
 
@@ -82,12 +82,15 @@ Two companion posts are queued: one covering the seven-phase decomposition disci
 
 ## What I'm not claiming
 
-I'm not claiming 40 commits in a day generalizes to all refactors. This was a specific decomposable architectural shift with cascading state-shape implications. Refactors without the cascade property (one-feature-at-a-time changes; local-scope additions) probably don't benefit from this much decomposition overhead.
+- I'm not claiming 40 commits in a day generalizes to all refactors. This was a specific decomposable architectural shift with cascading state-shape implications. Refactors without the cascade property (one-feature-at-a-time changes; local-scope additions) probably don't benefit from this much decomposition overhead.
+- I'm not claiming the 7-phase decomposition pattern is universal. I've fired it once at this scale; n=1. The pattern's generalizability is a claim I'd want more empirical anchors to defend.
+- I'm not claiming solo dev plus AI collaboration is faster than a senior-engineer team for this kind of refactor. This isn't a comparative study. It's a description of what one solo developer with multi-substrate AI orchestration plus a written pre-refactor design proposal produced over one working day.
+- I'm not claiming the bugs I caught with per-phase visual tests would have shipped to production. Some would have been caught later by automated tests or by integration testing; some by users. What I'm claiming is more specific: I avoided catching-cost compounding by catching the bowler-off-lane bug inside its own phase rather than three phases later.
 
-I'm not claiming the 7-phase decomposition pattern is universal. I've fired it once at this scale; n=1. The pattern's generalizability is a claim I'd want more empirical anchors to defend.
+## What I am claiming
 
-I'm not claiming solo dev plus AI collaboration is faster than a senior-engineer team for this kind of refactor. This isn't a comparative study. It's a description of what one solo developer with multi-substrate AI orchestration plus a written pre-refactor design proposal produced over one working day.
+Phase decomposition discipline at this refactor scale enabled shipping invasive multi-lane architecture in one working day without any broken-main commits and with operator-side bug catches that fired between commits rather than accumulating downstream. The pre-BUILD investment that produced the seven-phase decomposition (covered in Post 41) compounded measurably at BUILD time. For projects whose architectural decisions cascade, this kind of phase decomposition plus visual-test cycle plus per-phase acceptance gates is faster overall than the more common "one big merge" alternative.
 
-I'm not claiming the bugs I caught with per-phase visual tests would have shipped to production. Some would have been caught later by automated tests or by integration testing; some by users. What I'm claiming is more specific: I avoided catching-cost compounding by catching the bowler-off-lane bug inside its own phase rather than three phases later.
+The discipline pattern is observable in three concrete places on the BUILD day. Each phase is reversibly small (any one commit could revert without losing the others); the visual test surfaces bugs at the smallest possible blast radius (the bowler-off-lane bug surfaced in the phase that introduced it, not three phases downstream); acceptance gates per phase prevent scope creep (each commit's scope was bounded by what its acceptance gate required, no more). The decomposition produced an environment where the speed wasn't a tradeoff against discipline; the discipline was the speed.
 
-What I am claiming: phase decomposition discipline at this refactor scale enabled shipping invasive multi-lane architecture in one working day without any broken-main commits and with operator-side bug catches that fired between commits rather than accumulating downstream. The pre-BUILD investment that produced the seven-phase decomposition (covered in Post 41) compounded measurably at BUILD time. For projects whose architectural decisions cascade, this kind of phase decomposition plus visual-test cycle plus per-phase acceptance gates is faster overall than the more common "one big merge" alternative.
+The standing empirical claim is one BUILD day. n=1 on the execution. The pre-BUILD discipline that produced it (Post 41) is also n=1 at this arc scale. Whether other operators running other invasive refactors under similar phase-decomposition plus visual-test discipline produce similar BUILD-time outcomes is the standing empirical extension I'd want to see; this post is descriptive of the one fire, not prescriptive across the class.
