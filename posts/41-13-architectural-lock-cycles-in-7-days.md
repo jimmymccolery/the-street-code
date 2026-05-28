@@ -4,7 +4,7 @@
 **Date:** 2026-05-27
 **Status:** Multi-session arc retrospective from a 7-day pre-BUILD design intensive; n=1, descriptive not prescriptive on the broader methodology claim
 
-*Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+*Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
 ---
 
@@ -100,14 +100,16 @@ Phase 6.2 is the next architectural cycle. The candidacy backlog includes worker
 
 ## What I'm not claiming
 
-I'm not claiming 13 cycles in 7 days is sustainable or healthy as an ongoing pace. This was an intensive arc-close window with a specific trigger (candidacy accumulation crossing a threshold) and a specific end state (the accumulation closed; the next arc opens later).
+- I'm not claiming 13 cycles in 7 days is sustainable or healthy as an ongoing pace. This was an intensive arc-close window with a specific trigger (candidacy accumulation crossing a threshold) and a specific end state (the accumulation closed; the next arc opens later).
+- I'm not claiming pre-BUILD design discipline always beats ship-fast for every refactor scope. Some refactors don't need this overhead. Pre-BUILD lock-in pays compounding interest specifically when architectural decisions cascade across downstream systems.
+- I'm not claiming Council-of-Four-architectural-deliberation-class methodology is novel. The methodology is a directional pattern with prior art in multi-perspective-review systems (peer review, judicial panels, design crit). What's specific to the AI variant is the cross-substrate triangulation discipline and the Madisonian-rule resolution applied to divergence.
+- I'm not claiming all 13 cycles produced equal-quality locks. Some Q-cycles were lighter than others; some required iteration-3 cycles to converge; the cumulative arc was the value, not any single cycle taken in isolation.
+- I'm not claiming solo dev plus AI collaboration is faster than a senior-engineer team for this kind of pre-BUILD design discipline. This isn't a comparative study. It's a description of what one solo developer with multi-substrate AI orchestration produced over seven days.
 
-I'm not claiming pre-BUILD design discipline always beats ship-fast for every refactor scope. Some refactors don't need this overhead. Pre-BUILD lock-in pays compounding interest specifically when architectural decisions cascade across downstream systems.
+## What I am claiming
 
-I'm not claiming Council-of-Four-architectural-deliberation-class methodology is novel. The methodology is a directional pattern with prior art in multi-perspective-review systems (peer review, judicial panels, design crit). What's specific to the AI variant is the cross-substrate triangulation discipline and the Madisonian-rule resolution applied to divergence.
+7 days of intensive pre-BUILD architectural lock discipline produced 40-commit Phase 6.1 BUILD execution in one day with zero broken-main commits plus operator-side bug catches between commits. The pre-BUILD investment compounded measurably at BUILD time. For projects whose architectural decisions cascade across downstream systems, this kind of pre-BUILD discipline pays the cascade cost up front and the BUILD execution catches the benefit.
 
-I'm not claiming all 13 cycles produced equal-quality locks. Some Q-cycles were lighter than others; some required iteration-3 cycles to converge; the cumulative arc was the value, not any single cycle taken in isolation.
+The counter-narrative is not "always design first" or "always avoid ship-fast." The counter-narrative is "for projects with cascading architectural decisions, pre-BUILD lock-in pays compounding interest at BUILD time, and the right time to pay it is before any source-code commit locks in a wrong-shaped decision that will need to be unwound." The discipline is not a substitute for ship-fast where ship-fast works; it is the right discipline for the project class where ship-fast doesn't.
 
-I'm not claiming solo dev plus AI collaboration is faster than a senior-engineer team for this kind of pre-BUILD design discipline. This isn't a comparative study. It's a description of what one solo developer with multi-substrate AI orchestration produced over seven days.
-
-What I am claiming: 7 days of intensive pre-BUILD architectural lock discipline produced 40-commit Phase 6.1 BUILD execution in one day with zero broken-main commits plus operator-side bug catches between commits. The pre-BUILD investment compounded measurably at BUILD time. For projects whose architectural decisions cascade across downstream systems, this kind of pre-BUILD discipline pays the cascade cost up front and the BUILD execution catches the benefit. Counter-narrative to "design as you go."
+The empirical record this post stands on is one 7-day arc closing one 13-cycle Phase 6.0 design intensive, producing one 40-commit Phase 6.1 BUILD day. n=1 on the arc. The pattern's broader generalization is the standing question; whether other operators running other project classes under similar pre-BUILD discipline produce similar BUILD-time compounding is the empirical extension I'd want to see.
