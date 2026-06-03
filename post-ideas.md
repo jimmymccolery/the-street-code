@@ -197,4 +197,124 @@
 
 ---
 
+## Idea 10 — Two-axis substrate-style preservation model at long-arc multi-substrate research (n=21+ within-substrate cross-decade reproductions across 7-decade scope)
+
+**Filed:** 2026-06-03 (Open Alley bowling-industry research arc close)
+**Status:** idea
+**Leverage:** HIGH (largest empirical foundation surfaced to date for substrate-behavior-prediction methodology; generalizes beyond Open Alley to any multi-substrate research workflow)
+
+**Empirical observation:** Open Alley chronological-mode research arc 2026-06-03 produced ~30+ substrate deployments across 7 decades (1950s-2020s) covering bowling-industry staffing/operations/culture. Within-substrate behavior across decades reproduces TWO independent axes:
+
+- **FRAMEWORK ADHERENCE axis** (prompt-driven vs substrate-intrinsic):
+  - **Grok = COMPOSITION pattern (n=8 PRIOR-template deployments)**: layers native Gang framework (Quarterback / Nerd / Hall Monitor / Paranoid Stoner / Synthesize) WITH operator's PRIOR brainstorming framework. Gang framework substrate-intrinsic at n=11 deployments INCLUDING NEW Pin Paradise §1-§9 prompt that didn't request it.
+  - **Gemini = SUBSTITUTION pattern (n=6 deployments)**: when prompt provides framework, Gemini substitutes operator framework for its native style. No layered composition.
+  - **Perplexity = SUBSTITUTION pattern (n=4 deployments)**: same substitution behavior as Gemini.
+- **CONTENT-EMPHASIS DIFFERENTIAL axis** (where each substrate goes deep when prompt is decade-agnostic):
+  - **Grok**: narrative-arc with Quarterback decomposition; Paranoid Stoner narrative-flattening warnings (n=9 reproduction across 1950s-2020s — every decade)
+  - **Gemini**: hardware/equipment intrinsic emphasis (USBC specs + equipment timelines + technical detail depth)
+  - **Perplexity**: marketing/economics intrinsic emphasis (pricing + revenue mix + corporate transactions)
+
+**Hypothesis:** Substrate-style preservation operates at TWO independent axes — framework-adherence (how substrate handles operator-imposed structure) and content-emphasis (what substrate goes deep on when structure is permissive). The two axes are observable separately and reproduce independently across decade-scope variations. This decomposition is more useful than monolithic "substrate-style" framings because it predicts substrate behavior under DIFFERENT prompt-engineering choices (provide framework vs leave open; specify content focus vs leave decade-agnostic).
+
+**Counterintuitive finding:** Grok's COMPOSITION pattern (layering frameworks) is substrate-intrinsic — even NEW Pin Paradise §1-§9 prompts that don't request Gang framework still elicit it. Gemini and Perplexity SUBSTITUTE rather than compose. This is the OPPOSITE of intuitive prediction (you'd expect Grok-as-most-capable substrate to follow prompt-given framework more strictly; in fact Grok is most-stylistically-stubborn).
+
+**Empirical foundation:** n=21 within-substrate cross-decade reproductions cumulative as of 2026-06-03 PLUS first-in-research-arc within-decade dual-deployment (1950s ORIGIN vs 1950s PRIOR Grok = same-decade replication confirmed FRAMEWORK ADHERENCE axis stable at same-decade scope, not just cross-decade). Methodology candidacy AR-3.4+ FULL CANONIZATION CANDIDACY material per Open Alley `polish_queue.md` Items 211 + 214 + 217 + 220.
+
+**Writing-readiness:** Substantial empirical foundation enables full methodology post. The two-axis decomposition is novel enough to be the post's load-bearing claim. Could include: (1) cross-substrate-prediction framework for prompt-engineering decisions, (2) when to use Grok-with-composition vs Gemini/Perplexity-with-substitution per research goal, (3) hardware/equipment vs marketing/economics emphasis as planning anchor for substrate routing. Length 2,000-2,800 words; substantial empirical evidence enables longer treatment. Cross-substrate-routing implications useful to anyone running multi-substrate workflows.
+
+**Cross-references:** Open Alley `polish_queue.md` Items 211 (n=9 Grok reproduction) + 214 (n=10 Grok reproduction) + 217 (n=11 Grok reproduction + within-decade dual-deployment) + 220 (corrected substrate counts post comprehensive scan); Open Alley `_archive/2026-06-03-grok-bowling-alley-staffing-{decade}-PRIOR-archive-notes.md` files (per-decade banking ledger); existing the-street-code posts 53-the-six-stage-ai-council + 54-when-five-ais-cant-agree + 56-eight-to-ten-dev-days + 61-when-cc-was-wrong-four-times sibling territory at multi-substrate-coordination surface.
+
+---
+
+## Idea 11 — Within-decade dual-deployment as substrate-style preservation validator (FIRST same-decade replication in research arc)
+
+**Filed:** 2026-06-03 (Open Alley bowling-industry research arc close)
+**Status:** idea
+**Leverage:** MEDIUM-HIGH (methodology refinement to Idea 10; distinguishes substrate-INTRINSIC vs prompt-RESPONSIVE properties via same-decade controlled comparison)
+
+**Empirical observation:** Open Alley 1950s round had Grok ORIGIN deployment (foundational methodology baseline 2026-06-03 morning) PLUS Grok PRIOR deployment (operator-discovered parallel brainstorming legacy report 2026-06-03 afternoon) — SAME substrate, SAME decade, DIFFERENT prompt-template scaffolding. First same-decade dual-deployment in the entire 7-decade research arc.
+
+**Findings from controlled comparison:**
+- **FRAMEWORK ADHERENCE axis confirmed stable at same-decade scope**: Both 1950s ORIGIN and 1950s PRIOR use Grok Gang framework substrate-intrinsic emphasis (all 5 roles + Verification Report + Evidence Audit + Premortem + Dissent Log + Confidence Calibration + Team Debrief). Framework adherence is SUBSTRATE-INTRINSIC, not artifact of cross-decade prompt-template variation.
+- **CONTENT-EMPHASIS DIFFERENTIAL is PROMPT-RESPONSIVE**: 1950s PRIOR adds DEEPER primary-source anchoring vs 1950s ORIGIN (1958 PAS Report 110 BPAA survey + Gary Helfrich Buffalo memoir + 54,318 league count + ABC growth 3.3× quantification + center count 6,600→11,000). Operator's PRIOR framework prompts elicited richer primary-source surfacing within Grok substrate — same substrate at same decade produces different empirical depth based on framework explicitness.
+
+**Hypothesis:** Within-decade dual-deployment provides the CONTROLLED-EXPERIMENT methodology for distinguishing substrate-intrinsic vs prompt-responsive properties. Cross-decade reproductions confirm pattern STABILITY but cannot isolate WHICH dimension is substrate-intrinsic vs prompt-driven (because both prompt-template and decade-content vary together). Same-substrate same-decade dual-deployment with DIFFERENT prompt-scaffolding isolates the prompt-dimension as the variable.
+
+**Counterintuitive framing:** Most multi-substrate methodology assumes single-deployment per substrate per scope. Within-substrate same-scope replication (same substrate twice at same content) is treated as redundant. But it's actually the cheapest way to controlled-experiment substrate behavior — different prompt scaffolding while holding everything else equal isolates which substrate properties are prompt-malleable.
+
+**Empirical foundation:** n=1 same-decade dual-deployment (1950s ORIGIN vs PRIOR Grok 2026-06-03). Pattern generalizes if reproduced at second decade scope (e.g., deploying Grok with two different prompt-templates at 1960s would test whether within-decade dual-deployment reliably distinguishes substrate-intrinsic vs prompt-responsive properties at other decade scopes).
+
+**Writing-readiness:** Clean empirical instance; novel methodology framing; useful for any multi-substrate research practitioner. Could write now with explicit "n=1 same-decade currently; future deployments validate the methodology" framing. Length 1,200-1,800 words. Antecedent posts: Idea 10 establishes the two-axis framework; this post operationalizes the within-decade dual-deployment as the experimental-control methodology FOR that framework. Either post can ship first (with reference to the other as forward-link).
+
+**Cross-references:** Open Alley `polish_queue.md` Item 217 (within-decade dual-deployment observation banking); Open Alley `_archive/2026-06-03-grok-bowling-alley-staffing-1950s-PRIOR-archive-notes.md` (sibling to 1950s ORIGIN archive same date); Idea 10 above (parent two-axis framework this idea operationalizes); existing the-street-code posts 11-what-cross-substrate-audit-surfaced + 19-when-the-audit-substrate-isnt-independent-enough sibling territory at substrate-isolation discipline.
+
+---
+
+## Idea 12 — Within-project-cross-directory search-completeness anti-pattern (matrix-scope sibling to cross-project audit-scope-breadth fire)
+
+**Filed:** 2026-06-03 (Open Alley comprehensive-scan operator-direct request)
+**Status:** idea
+**Leverage:** MEDIUM-HIGH (sibling shape to existing audit-scope-breadth memory; n=2 cumulative across same family at different scope axes; methodology generalizes to long-session matrix work for any Claude Code project)
+
+**Empirical observation:** Operator requested comprehensive matrix of Open Alley archived historical context. CC built initial matrix scoped to `_archive/` only (because recent session ingestions land there). Missed 5 source locations:
+
+1. `design-content/chronological-mode/` (entire dedicated decade-deck research directory with 1950s-deck/ + 1960s-deck/ + cross-decade-themes/ subdirectories)
+2. `_research/` (sibling to `_archive/`; contained 72KB Gemini DR pinboy-economics + Q19 deck candidates + Phase 8.x complementary research prompts + era-authenticity-references/)
+3. `design-content/reference-articles/` (oil patterns + pro-bowling reference)
+4. `design-content/design-posture.md` (CANONICAL Civil Rights cultural-sensitivity framework artifact — load-bearing for content-treatment decisions)
+5. Earlier same-session ingestion (Gemini 1960s staffing archive 2026-06-03 morning ~9:35 AM) lost during session-summarization compression — matrix incorrectly listed 1960s as "GAP" / "1 substrate" when actually 3 substrates at session start
+
+**5 missed source locations + n=2 decade-count understatement (1950s 1→2 substrates; 1960s 1→3 substrates) recovered via operator-direct catch ("I thought I had more in the 1950s, at least").**
+
+**Hypothesis:** When CC builds a matrix/inventory/overview spanning multiple sources within a single project, scoping search to ONLY the most-recently-active directory misses load-bearing pre-existing canonical-state. Anti-pattern shape: narrow-scope directory-search assumes "all relevant resources live in `_archive/`" because recent ingestions land there. The assumption is depth-1 (CC's model of where matrix-feedstock lives based on recent session activity); depth-0 verification is the actual filesystem state across multiple sibling resource directories.
+
+**Sibling family relationship:**
+- `feedback_audit_scope_breadth_find_not_ls.md` cross-PROJECT scope (Tab 14 Template Catalog 2026-05-24 fire) — narrow-scope `ls` within single project missed templates in sibling projects
+- THIS fire WITHIN-PROJECT cross-DIRECTORY scope (Open Alley matrix 2026-06-03) — narrow-scope `_archive/` only missed resources in sibling directories within same project
+- Same family root: scope-breadth-blindness when scanning resources for matrix/inventory work
+- Different scope axis: cross-PROJECT vs within-PROJECT-cross-DIRECTORY
+
+**Compounding factor (second-order failure mode):** Session-summarization compression can lose earlier-session ingestion records. CC may scan summarization snapshot rather than current canonical-state filesystem for matrix accuracy. Long-session matrix work has TWO failure modes stacked: (1) initial narrow-scope-directory search at matrix-building, (2) reliance on potentially-compressed summarization rather than filesystem-of-record.
+
+**Mitigation pattern:**
+- When operator asks for "comprehensive matrix" / "any other archived context" / "all" — MUST use `find . -type f` across project root, NOT directory-scoped `ls` or `find` rooted at single directory
+- When building matrix that touches multiple resource categories — MUST enumerate plausible directory locations + scan each
+- When session has been long enough for summarization compression — MUST scan current canonical-state artifacts (filesystem) not summarization snapshots
+- When reporting on matrix work, explicitly state which directories were scanned + flag any narrowing decisions
+
+**Empirical foundation:** n=1 within-project-cross-directory fire 2026-06-03 + n=1 cross-project fire 2026-05-26 (Tab 14 Template Catalog redesign). Combined family n=2 at different scope axes. Banking-class observation; not yet canonization-threshold but family pattern crystallizing across both scope axes.
+
+**Writing-readiness:** Sufficient empirical foundation for methodology post. Counterintuitive finding (same family pattern fires at multiple scope axes) makes for sharper voice work. Length 1,200-1,600 words. Could include: (1) the cross-project fire as prior precedent, (2) the within-project fire as the n=2 reproduction, (3) the second-order summarization-compression failure mode as load-bearing observation, (4) the unified mitigation discipline (`find . -type f` + enumerate plausible directories + explicit scan-scope reporting). Sibling to verification-chain posts (Posts 9 + 24-recursive-scope-gap) but applies discipline at matrix-completeness rather than verification-step level.
+
+**Cross-references:** memory `feedback_audit_scope_breadth_find_not_ls.md` EXTENDED 2026-06-03 with within-project-cross-directory sub-shape; Open Alley `polish_queue.md` Item 226 (methodology anti-pattern fire banking); master-setup commit `65ce684` (Tab 14 cross-project fire 2026-05-24); existing the-street-code Post 24-recursive-scope-gap-pattern + Post 9-when-verification-catches-itself sibling territory at scope-discipline surface.
+
+---
+
+## Idea 13 — Session-summarization-compression as second-order failure mode for matrix accuracy at long-session scope
+
+**Filed:** 2026-06-03 (Open Alley comprehensive-scan operator-direct request)
+**Status:** idea
+**Leverage:** MEDIUM (specific failure mode at long-session scope; methodology relevant to anyone using Claude Code or similar conversation-summarizing AI tools at multi-hour scope)
+
+**Empirical observation:** Open Alley session 2026-06-03 ingested ~10+ historical research archives across morning + afternoon arcs. Mid-session summarization compressed earlier ingestion records. When operator requested comprehensive matrix in afternoon, CC's matrix incorrectly listed 1960s as "GAP" / "1 substrate" — the 1960s Gemini DR staffing archive ingested earlier same session (2026-06-03 morning ~9:35 AM) was absent from compressed summarization. Matrix was built from summarization snapshot rather than current filesystem state.
+
+**Recovery:** Operator-direct request "comprehensive scan and search of my Open Alley project folder" forced CC to scan filesystem-of-record. 5 missed source locations + 1960s 3-substrate correction surfaced. Without operator-direct catch, ratification context for Direction A/E would have proceeded from WRONG substrate-count baseline.
+
+**Hypothesis:** Session-summarization compression introduces a SECOND-ORDER failure mode distinct from the FIRST-ORDER directory-scope failure mode (Idea 12 above). First-order: narrow-scope-directory search at matrix-building. Second-order: reliance on potentially-compressed summarization rather than filesystem-of-record. Both fire at long-session scope; both surface as matrix incompleteness; mitigation discipline is similar (scan filesystem-of-record not summarization).
+
+**Counterintuitive framing:** Summarization is usually treated as a CONTEXT-WINDOW-MANAGEMENT discipline (compress old context to fit budget). The matrix-accuracy implication is rarely discussed: summarization snapshots are point-in-time and become stale as session progresses; matrix work at long-session scope is one of the operations most likely to be misled by summarization staleness.
+
+**Empirical foundation:** n=1 explicit instance 2026-06-03 (Gemini 1960s staffing archive lost during summarization). Likely n=more reproductions across operator's long-session work but unbanked because operator-direct-catch is the recovery mechanism and instances without catches go unsurfaced.
+
+**Mitigation pattern:**
+- When operator asks for "comprehensive matrix" / "all" / etc. at long-session scope — MUST treat current filesystem as authority, not session summarization
+- When CC builds matrix at session-summarization-active scope — MUST explicitly note "scanned filesystem at <path>" rather than recalling from session memory
+- Long-session matrix-building discipline: `find . -type f` + read recent files directly, even if "I just looked at this" feeling exists
+
+**Writing-readiness:** Specific failure mode with clean empirical instance; methodology relevant to anyone working at multi-hour Claude Code session scope. Length 1,000-1,400 words. Sibling to Idea 12 (could be paired as two-post sequence: Idea 12 = first-order directory-scope failure + Idea 13 = second-order summarization-compression failure; both at matrix-building scope; both recover via filesystem-scan-not-summarization-snapshot discipline). Solo, mid-arc methodology placement.
+
+**Cross-references:** Open Alley `polish_queue.md` Item 226 (parent methodology anti-pattern fire banking); memory `feedback_audit_scope_breadth_find_not_ls.md` within-project-cross-directory sub-shape banking; Idea 12 above (sibling first-order failure mode); existing the-street-code Post 17-recovery-from-drift-as-framework-discipline + Post 24-recursive-scope-gap-pattern sibling territory at long-session scope-discipline surface.
+
+---
+
 *End of post-ideas queue. Move entries to `drafts/` when active writing begins; move to `posts/` with NN-prefix when ready for publication.*
