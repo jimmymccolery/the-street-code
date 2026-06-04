@@ -218,7 +218,21 @@
 
 **Counterintuitive finding:** Grok's COMPOSITION pattern (layering frameworks) is substrate-intrinsic — even NEW Pin Paradise §1-§9 prompts that don't request Gang framework still elicit it. Gemini and Perplexity SUBSTITUTE rather than compose. This is the OPPOSITE of intuitive prediction (you'd expect Grok-as-most-capable substrate to follow prompt-given framework more strictly; in fact Grok is most-stylistically-stubborn).
 
-**Empirical foundation:** n=21 within-substrate cross-decade reproductions cumulative as of 2026-06-03 PLUS first-in-research-arc within-decade dual-deployment (1950s ORIGIN vs 1950s PRIOR Grok = same-decade replication confirmed FRAMEWORK ADHERENCE axis stable at same-decade scope, not just cross-decade). Methodology candidacy AR-3.4+ FULL CANONIZATION CANDIDACY material per Open Alley `polish_queue.md` Items 211 + 214 + 217 + 220.
+**Empirical foundation (UPDATED 2026-06-03 evening post additional PRIOR-series ingestions):** **n=27+ within-substrate cross-decade reproductions** cumulative (Grok n=11 + Gemini n=8 + Perplexity n=8) PLUS **11+ within-decade dual-deployment data points** across 5 separate within-decade dual deployments (1950s Grok + 1950s Gemini + 1960s Perplexity + 1960s Gemini + 1970s Perplexity) + NEW vs PRIOR series at 1990s × 3 substrates + 2000s × 3 substrates. **Two-axis substrate-style preservation model REFINED through 3 methodology refinements** (Items 235 + 239 + 243 + 251 banking chain): the per-substrate axis-behavior matrix is the load-bearing finding, not a uniform 3-pattern spectrum. Methodology candidacy AR-3.4+ FULL CANONIZATION CANDIDACY material per Open Alley `polish_queue.md` Items 211 + 214 + 217 + 220 + 229 + 233 + 235 + 237 + 239 + 241 + 243 + 245 + 247 + 248 + 249 + 251 (substantially extended banking chain).
+
+**REFINED per-substrate axis-behavior matrix:**
+
+| Substrate | Framework-adherence axis | Content-emphasis axis | Empirical support |
+|---|---|---|---|
+| Grok | FIXED FULL COMPOSITION (n=11) | PROMPT-RESPONSIVE (within-decade dual-deployment evidence) | n=11 + 1 within-decade dual |
+| Gemini | FIXED COMPOSITION-LITE (n=8 CONFIRMED at within-decade dual + cross-decade) | (stable across deployments) | n=8 + 1 within-decade dual |
+| Perplexity | PROMPT-RESPONSIVE SPECTRUM with transition point (n=8; SUBSTITUTION 1950s + COMPOSITION-LITE n=3 reproductions 1960s/1970s/1980s) | (academic-citation density stable) | n=8 + 1 within-decade dual + 4 PRIOR-series sub-pattern reproductions |
+
+**Perplexity PRIOR-series sub-pattern (n=4 reproductions; n=3 consecutive COMPOSITION-LITE post-1950s transition):**
+- 1950s PRIOR = SUBSTITUTION-WITH-SELECTIVE-ADOPTION (single outlier)
+- 1960s PRIOR + 1970s PRIOR + 1980s PRIOR = COMPOSITION-LITE × 3 consecutive
+- Hypothesis A: PROMPT-RESPONSIVE framework-adherence is Perplexity-specific (NOT generalizable to Grok or Gemini per Items 243 + 251 refinement)
+- Operator's PRIOR brainstorming template likely STRENGTHENED between 1950s round and 1960s+ rounds; once strengthened, Perplexity adopts operator framework reliably
 
 **Writing-readiness:** Substantial empirical foundation enables full methodology post. The two-axis decomposition is novel enough to be the post's load-bearing claim. Could include: (1) cross-substrate-prediction framework for prompt-engineering decisions, (2) when to use Grok-with-composition vs Gemini/Perplexity-with-substitution per research goal, (3) hardware/equipment vs marketing/economics emphasis as planning anchor for substrate routing. Length 2,000-2,800 words; substantial empirical evidence enables longer treatment. Cross-substrate-routing implications useful to anyone running multi-substrate workflows.
 
