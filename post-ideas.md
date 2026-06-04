@@ -218,21 +218,27 @@
 
 **Counterintuitive finding:** Grok's COMPOSITION pattern (layering frameworks) is substrate-intrinsic — even NEW Pin Paradise §1-§9 prompts that don't request Gang framework still elicit it. Gemini and Perplexity SUBSTITUTE rather than compose. This is the OPPOSITE of intuitive prediction (you'd expect Grok-as-most-capable substrate to follow prompt-given framework more strictly; in fact Grok is most-stylistically-stubborn).
 
-**Empirical foundation (UPDATED 2026-06-03 evening post additional PRIOR-series ingestions):** **n=27+ within-substrate cross-decade reproductions** cumulative (Grok n=11 + Gemini n=8 + Perplexity n=8) PLUS **11+ within-decade dual-deployment data points** across 5 separate within-decade dual deployments (1950s Grok + 1950s Gemini + 1960s Perplexity + 1960s Gemini + 1970s Perplexity) + NEW vs PRIOR series at 1990s × 3 substrates + 2000s × 3 substrates. **Two-axis substrate-style preservation model REFINED through 3 methodology refinements** (Items 235 + 239 + 243 + 251 banking chain): the per-substrate axis-behavior matrix is the load-bearing finding, not a uniform 3-pattern spectrum. Methodology candidacy AR-3.4+ FULL CANONIZATION CANDIDACY material per Open Alley `polish_queue.md` Items 211 + 214 + 217 + 220 + 229 + 233 + 235 + 237 + 239 + 241 + 243 + 245 + 247 + 248 + 249 + 251 (substantially extended banking chain).
+**Empirical foundation (UPDATED 2026-06-03 late-evening post Items 253-272 ALT-class ingestions):** **n=32+ within-substrate cross-decade reproductions** cumulative (Grok n=13 + Gemini n=9 + Perplexity n=10) PLUS **12+ within-decade dual-deployment data points** across **9 separate within-decade dual deployments** (1950s Grok + 1950s Gemini + 1960s Perplexity + 1960s Gemini + 1970s Perplexity + 1970s Grok PRIOR-vs-ALT + 1960s Grok PRIOR-vs-ALT + 1980s Gemini combined-vs-standalone + 1960s Perplexity PRIOR-vs-ALT) + NEW vs PRIOR series at 1990s × 3 substrates + 2000s × 3 substrates. PLUS **4 ALT deployment-class cross-substrate reproductions** (Grok 1970s + Grok 1960s + Perplexity 1970s + Perplexity 1960s; Gemini ALT pending) — confirms NEW 4th deployment class (NEW + PRIOR + ORIGIN + ALT). **Two-axis substrate-style preservation model REFINED through 6 methodology refinements + 1 methodology observation** (Items 235 + 239 + 243 + 251 + 255 + 259 + 263 + 271 banking chain): the per-substrate axis-behavior matrix WITH DEPLOYMENT-INTENT DIMENSION is the load-bearing finding, not a uniform 3-pattern spectrum. Body-vs-epilogue structural distinction operative (per Item 263). Methodology candidacy AR-3.4+ FULL CANONIZATION CANDIDACY material per Open Alley `polish_queue.md` Items 211-272 (extended banking chain).
 
-**REFINED per-substrate axis-behavior matrix:**
+**REFINED per-substrate axis-behavior matrix (with deployment-intent dimension):**
 
-| Substrate | Framework-adherence axis | Content-emphasis axis | Empirical support |
-|---|---|---|---|
-| Grok | FIXED FULL COMPOSITION (n=11) | PROMPT-RESPONSIVE (within-decade dual-deployment evidence) | n=11 + 1 within-decade dual |
-| Gemini | FIXED COMPOSITION-LITE (n=8 CONFIRMED at within-decade dual + cross-decade) | (stable across deployments) | n=8 + 1 within-decade dual |
-| Perplexity | PROMPT-RESPONSIVE SPECTRUM with transition point (n=8; SUBSTITUTION 1950s + COMPOSITION-LITE n=3 reproductions 1960s/1970s/1980s) | (academic-citation density stable) | n=8 + 1 within-decade dual + 4 PRIOR-series sub-pattern reproductions |
+| Substrate | Independent research (NEW/PRIOR/ORIGIN) | ALT (META gap-fill) | Epistemic elements (FIXED) | Empirical support |
+|---|---|---|---|---|
+| Grok | FIXED FULL COMPOSITION + 14-role per-role + PROMPT-RESPONSIVE content (per Item 217) | META-body + Gang-epilogue HYBRID (Dissent Log + Confidence Calibration + Team Debrief with explicit role refs preserved) | Teacher's Pet evidence grading + Evidence Audit + Inferred Operational Context labels | n=13 + 2 within-decade dual + 2 within-Grok ALT reproductions |
+| Gemini | FIXED COMPOSITION-LITE (n=9 confirmed at within-decade dual + cross-decade) | TBD (Gemini ALT pending) | Sources/Methodology/Evidence Audit | n=9 + 1 within-decade dual |
+| Perplexity | PROMPT-RESPONSIVE SPECTRUM with transition point (n=10; SUBSTITUTION 1950s + COMPOSITION-LITE n=3 reproductions 1960s/1970s/1980s) | META-body + Perplexity-native epilogue (40+ inline citations + [^N] footnote refs + structured tables) | Evidence Strength rating + academic citation density | n=10 + 1 within-decade dual + 4 PRIOR-series + 2 within-Perplexity ALT reproductions |
 
 **Perplexity PRIOR-series sub-pattern (n=4 reproductions; n=3 consecutive COMPOSITION-LITE post-1950s transition):**
 - 1950s PRIOR = SUBSTITUTION-WITH-SELECTIVE-ADOPTION (single outlier)
 - 1960s PRIOR + 1970s PRIOR + 1980s PRIOR = COMPOSITION-LITE × 3 consecutive
 - Hypothesis A: PROMPT-RESPONSIVE framework-adherence is Perplexity-specific (NOT generalizable to Grok or Gemini per Items 243 + 251 refinement)
 - Operator's PRIOR brainstorming template likely STRENGTHENED between 1950s round and 1960s+ rounds; once strengthened, Perplexity adopts operator framework reliably
+
+**Body-vs-epilogue structural distinction (Item 263 refinement):**
+- Grok in ALT mode REPLACES body structure (META-gap-fill vs Gang-per-role) but PRESERVES epilogue (Dissent Log + Confidence Calibration + Team Debrief with explicit Quarterback/Nerd/Hall Monitor/Paranoid Stoner role references)
+- Perplexity in ALT mode similarly REPLACES body structure but PRESERVES native epilogue elements (citation density + footnote refs + structured tables)
+- Pattern: substrate-core epistemic ritual baked into closing sections regardless of body structure variation
+- AR-3.4+ canonization candidacy: substrate-style preservation operates at multiple structural levels (body + epilogue + epistemic elements + content emphasis) — refined 4-axis decomposition
 
 **Writing-readiness:** Substantial empirical foundation enables full methodology post. The two-axis decomposition is novel enough to be the post's load-bearing claim. Could include: (1) cross-substrate-prediction framework for prompt-engineering decisions, (2) when to use Grok-with-composition vs Gemini/Perplexity-with-substitution per research goal, (3) hardware/equipment vs marketing/economics emphasis as planning anchor for substrate routing. Length 2,000-2,800 words; substantial empirical evidence enables longer treatment. Cross-substrate-routing implications useful to anyone running multi-substrate workflows.
 
@@ -328,6 +334,41 @@
 **Writing-readiness:** Specific failure mode with clean empirical instance; methodology relevant to anyone working at multi-hour Claude Code session scope. Length 1,000-1,400 words. Sibling to Idea 12 (could be paired as two-post sequence: Idea 12 = first-order directory-scope failure + Idea 13 = second-order summarization-compression failure; both at matrix-building scope; both recover via filesystem-scan-not-summarization-snapshot discipline). Solo, mid-arc methodology placement.
 
 **Cross-references:** Open Alley `polish_queue.md` Item 226 (parent methodology anti-pattern fire banking); memory `feedback_audit_scope_breadth_find_not_ls.md` within-project-cross-directory sub-shape banking; Idea 12 above (sibling first-order failure mode); existing the-street-code Post 17-recovery-from-drift-as-framework-discipline + Post 24-recursive-scope-gap-pattern sibling territory at long-session scope-discipline surface.
+
+---
+
+## Idea 14 — ALT deployment class as 4th deployment class in multi-substrate research workflow (n=4 cross-substrate reproductions; META gap-fill mode generalizes across substrates)
+
+**Filed:** 2026-06-03 (Open Alley bowling-industry research arc — late-evening ALT-class deployments)
+**Status:** idea
+**Leverage:** HIGH (novel methodology observation; n=4 cross-substrate reproductions confirms generalization; orthogonal to two-axis substrate-style preservation model per Idea 10)
+
+**Empirical observation:** Open Alley research arc 2026-06-03 surfaced a NEW deployment class in multi-substrate research workflow. Prior 3 deployment classes identified: ORIGIN (foundational baseline) + NEW (fresh independent research per Pin Paradise §1-§9 prompt) + PRIOR (operator's parallel brainstorming round independent research). NEW 4th class identified: **ALT** (META gap-fill against multiple prior reports).
+
+**ALT class characteristics:**
+- Explicitly framed as "Complementary Research Report" in Executive Summary
+- Cross-reference to multiple prior reports (e.g., "the four existing 1960s bowling center reports")
+- META-structure organized around content categories (Quantitative + Roles + Gems + Demographic + Regional + Health/Safety) NOT per-role decomposition
+- Modest length (~10-15 pages) vs full per-role decomposition deployments (~80-page Perplexity NEW/PRIOR or 13-role Gemini PRIOR)
+- Targets identified gaps in prior coverage rather than independent fresh research
+- Preserves substrate-core epistemic elements (Grok = Teacher's Pet + Evidence Audit + Inferred Operational Context; Perplexity = inline citation density + [^N] footnote refs)
+
+**n=4 cross-substrate ALT reproductions:**
+| Substrate | 1970s ALT | 1960s ALT | Pattern stability |
+|---|---|---|---|
+| Grok | ✓ (META-body + Gang-epilogue hybrid) | ✓ (META-body + Gang-epilogue hybrid) | n=2 STABLE |
+| Perplexity | ✓ (META-body + Perplexity-native epilogue) | ✓ (META-body + Perplexity-native epilogue) | n=2 STABLE |
+| Gemini | (pending) | (pending) | TBD |
+
+**Hypothesis:** ALT deployment class is GENERALIZABLE 4th class for multi-substrate research workflow methodology. Operator-side strategy: deploy mix of independent (NEW/PRIOR/ORIGIN) + ALT modes to maximize coverage breadth AND synthesis depth without redundancy. ALT mode is efficient cross-substrate synthesis methodology — short reports cover gaps in larger prior reports.
+
+**Counterintuitive framing:** Most multi-substrate methodology discussions focus on substrate selection + prompt engineering for individual deployments. The ALT class observation reveals that deployment-INTENT (independent research vs gap-fill synthesis) is a distinct methodological dimension orthogonal to substrate selection. Same substrate at same decade scope produces DIFFERENT structural framework based on deployment intent — methodology refinement candidate per Items 255 + 263 banking.
+
+**Empirical foundation:** n=4 ALT deployments across 2 substrates × 2 decades (1970s + 1960s). Combined with 12+ within-decade dual-deployment data points from independent-research deployments per Idea 10, deployment-intent dimension is empirically grounded. Per-substrate ALT pattern stability confirmed within Grok (n=2) + Perplexity (n=2); Gemini ALT pending future deployment.
+
+**Writing-readiness:** Sufficient empirical foundation for methodology post. Novel framing (4th deployment class) + concrete worked examples (Grok 1970s/1960s ALT + Perplexity 1970s/1960s ALT all explicitly framed as "Complementary Research Reports") + counterintuitive deployment-intent dimension finding. Length 1,400-1,800 words. Sibling to Idea 10 (substrate-style preservation matrix) + Idea 11 (within-decade dual-deployment as substrate-style validator) — could ship as 3-post sequence on multi-substrate research workflow methodology refinements, or solo with forward-link to Ideas 10 + 11.
+
+**Cross-references:** Open Alley `polish_queue.md` Items 253 + 256 + 257 + 259 + 261 + 263 + 269 + 271 (ALT-class banking chain); Open Alley `_archive/2026-06-03-{substrate}-bowling-alley-staffing-{decade}-PRIOR-ALT-archive.{ext}` files (per-decade ALT archives); Idea 10 above (parent substrate-style preservation framework); Idea 11 above (within-decade dual-deployment methodology); Rule 11 canonical home for Sub-Rule extension at `~/Projects/master-setup/operational_discipline_rules.canonical.md`.
 
 ---
 
