@@ -375,7 +375,7 @@
 ## Idea 15 — Marcus Reed Protocol as cross-substrate discipline artifact: when a named anti-stereotype guardrail gets honored by some substrates and citation-fabricated by another in the same multi-round research arc
 
 **Filed:** 2026-06-05 (Open Alley NPC dynamic-evolution architecture 8-round research arc — Items 1190-1198)
-**Status:** idea
+**Status:** published 2026-06-05 as Post 70 (`70-marcus-reed-protocol-named-guardrail-honored-and-fabricated.md`)
 **Leverage:** HIGH (n=1 single-arc reproduction across 3 substrates with split behavior — honored by Grok R7 + Perplexity R8 dual-pass; fabricated-attribution by Gemini R6; novel framing for how named-protocol discipline interacts with substrate citation-pressure; cross-domain applicability beyond game design)
 
 **Empirical observation:** Open Alley NPC dynamic-evolution architecture 8-round arc (Items 1190-1198 2026-06-05) produced a uniquely rich cross-substrate behavior dataset for an operator-defined named protocol. The **Marcus Reed Protocol** originated operator-side as a Pin Paradise NPC anti-stereotype guardrail (Item 1134 NPC personality+backstory prompt arc 2026-06-04 late-night), got formalized into the canonical 9-section architecture spec at Item 1192 (Gemini R3 NPC architecture), then traveled across 5 subsequent substrate rounds with empirically distinct outcomes:
