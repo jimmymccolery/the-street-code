@@ -4,10 +4,37 @@
 
 **Convention:** When an entry becomes ready for drafting, move it (or its drafting workspace) to `drafts/`. When draft is ready for publication, move to `posts/` with sequential numbering per README naming convention.
 
-**Status field values:** `idea` (initial capture) / `drafting` (active writing in `drafts/`) / `published` (in `posts/` with NN-prefix) / `retired` (no longer worth pursuing) / `superseded` (absorbed by canonization or sibling post) / `absorbed` (merged into another idea) / `promoted_to_AR` (escalated to AR candidacy instead of standalone post)
+**Status field values:** `idea` (initial capture) / `drafting` (active writing in `drafts/`) / `published` (in `posts/` with NN-prefix) / `retired` (no longer worth pursuing) / `superseded` (absorbed by canonization or sibling post) / `absorbed` (merged into another idea) / `promoted_to_AR` (escalated to AR candidacy instead of standalone post) / `defer_until_V1_ship_2026-10-31` (Pin Paradise IP-protected scope; defer drafting until commercial product ships)
 
-**Meta-analysis pass log:**
-- **2026-06-06 meta-analysis:** All 33 ideas reviewed against 70 published posts + 18 canonized rules + 33 anti-patterns. Status mutations: Idea 15 → `published` (Post 70); Ideas 1, 5 → `retired` (stale n=1); Idea 7 → `absorbed` into Idea 10; Idea 2 → `superseded` by Rule 14; Idea 14 → `promoted_to_AR` (Rule 11 refinement-fold); Idea 12 → STILL `idea` with AP #33 + audit-scope-breadth sibling-territory framing added; Ideas 3 + 10 → foundation counts updated to current banking.
+## ⚠️ Disclosure-rule discipline pointer (consult BEFORE drafting any Pin-Paradise-adjacent post)
+
+**Active disclosure rule:** `~/Projects/substack/disclosure_rule.md` Approach 2 (soft disclosure) — operative since 2026-05-04; revisit date 2026-11-04 (aligns with Pin Paradise V1 ship target 2026-10-31).
+
+**Pin Paradise IP-protected scope (do NOT draft pre-ship without operator approval):**
+- Item #88 74-static + 14-rotation roster architecture + specific NPC names
+- Item #98 Multi-Purpose Tray V1 specifics (3-surface apparatus + 7 V1 locks + 27 failure modes + 7 canonical card classes including Equipment Alerts §3.7)
+- §39 Player Profile + Big Five OCEAN through diegetic refinement + Affinity-Based Friendship
+- The Alley Greets Everyone three-mode design principle
+- Marcus Reed META-ARCH gate 8 surfaces + Mitigations Field-1 hook implementation
+- §22.canonical-clarifications-7th-station-extension Zone 33 = oiler area = repair shop = Mechanic Shop formalization (Catch 3 (c) HYBRID FRAMING)
+- §21.4.G OilerMachineCatalog `machine_class × application_logic × era_unlock` derived view (Catch 2 (ii) MAP-ONTO-EXISTING)
+- §40 Phase 7.1e-b Council Architecture Lock body specifics
+- BUILD cycle 10 + 11 implementation scope
+- All calibration values + numeric anchors (per `feedback_pre_registered_numeric_answer_ratification_theater.md` discipline)
+- Specific UI assets + visual style (Okabe-Ito palette + Equipment Alerts `#A14828` + wrench-with-alert-triangle iconography)
+- Cross-product 4-product + 1-hardware-device ecosystem meta-architecture vision (Pin Paradise + RoomToLife + 90s Life Builder + The Living Room + hardware)
+
+**Safe-to-publish at full disclosure:**
+- Pure methodology research (substrate routing, discipline frameworks, multi-substrate Council methodology, etc.)
+- Bowling-industry historical research (1956 pinsetter transition, Kegel founding 1981, Volcker shock, etc.) — public domain facts
+- Generic software architecture patterns (composition-over-modification, atomic state machines, statistical-vs-physics resolution, etc.) — visible in many games
+- AI-discipline framework methodology (anti-pattern enforcement, Madisonian Gate, verify-against-canonical-files, etc.) — operator's marketing moat
+
+**Drafting decision rule:** If the post body would describe operator-specific Pin Paradise canonical state (mechanics + UI + content + balance + architecture), defer until V1 ship 2026-10-31 OR soft-disclosure reframe to directional language only. If the post body is pure methodology / historical research / generic patterns, full disclosure.
+
+## Meta-analysis pass log
+- **2026-06-06 meta-analysis (33-idea pass):** All 33 ideas reviewed against 70 published posts + 18 canonized rules + 33 anti-patterns. Status mutations: Idea 15 → `published` (Post 70); Ideas 1, 5 → `retired` (stale n=1); Idea 7 → `absorbed` into Idea 10; Idea 2 → `superseded` by Rule 14; Idea 14 → `promoted_to_AR` (Rule 11 refinement-fold); Idea 12 → STILL `idea` with AP #33 + audit-scope-breadth sibling-territory framing added; Ideas 3 + 10 → foundation counts updated to current banking.
+- **2026-06-06 IP-protection analysis (disclosure rule audit):** All 33 ideas + 70 published posts audited against Pin Paradise commercial IP-protection scope. Status mutations: Ideas 27, 29, 30 → `defer_until_V1_ship_2026-10-31` OR `soft-disclosure-reframe` per per-idea analysis (Ideas 27 + 29 strongly favor DEFER; Idea 30 viable as SOFT-DISCLOSURE REFRAME). Disclosure-rule discipline pointer added at file header; Pin Paradise IP-protected scope enumerated. Cross-references: `~/Projects/substack/disclosure_rule.md` v1.0 Approach 2 + memory `feedback_pin_paradise_disclosure_protected_scope.md`.
 
 ---
 
@@ -717,7 +744,7 @@ Substrate-self-flagging-stylistic-preference is **substrate-meta-awareness of ow
 ## Idea 27 — The "wrong axis" pattern: when cross-substrate proposals rediscover canonical boundaries but map them to the wrong dimension
 
 **Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 3 + 4 close)
-**Status:** idea
+**Status:** **defer_until_V1_ship_2026-10-31 OR soft-disclosure-reframe (2026-06-06 disclosure analysis)** — current draft includes Pin-Paradise-specific canonical schema names (OilerMachineCatalog `machine_class × application_logic × era_unlock` per §21.4.G; `wicking → pulse_modulated` transition). Per `~/Projects/substack/disclosure_rule.md` v1.0 Approach 2: this is operator-specific implementation, not methodology principle. Two paths: (a) DEFER until V1 ship 2026-10-31 then publish with specifics intact (post-ship disclosure rule revisit 2026-11-04 may unlock full disclosure); (b) SOFT-DISCLOSURE REFRAME — rewrite as "a multi-system game's canonical schema already encoded a load-bearing boundary on the wrong axis from where the substrates proposed it" with directional language only; loses some concrete payoff but keeps methodology insight. **Recommendation: DEFER until V1 ship** — the architectural payoff of MAP-ONTO-EXISTING discipline is the post's strongest framing and depends on the concrete schema details.
 **Leverage:** HIGH (n=2 cross-substrate independent reproduction same-Pulse; substantial architectural payoff; counterintuitive)
 
 **Empirical observation:** Both Pulse 7 substrates (Gemini DR + Perplexity DR) independently rediscovered the canonical `wicking → pulse_modulated` application_logic boundary in lane-oiler tech evolution. Both substrates proposed era-progressive oiler tier-trees (4-tier A vs 5-tier B with year-pinning divergence) treating the rediscovered boundary as a tier-number axis transition (T3→T4 for Substrate A; T3→T4 for Substrate B). Neither substrate referenced the canonical OilerMachineCatalog schema at `tycoon-design.md` §21.4.G L3720-3835 which ALREADY encodes the boundary on `application_logic: "wicking" | "pulse_modulated"` axis. CW Stage 3 Madisonian Gate Synthesis Catch 2 surfaced: "Both substrates rediscovered the canonical wicking-vs-pulse_modulated boundary as their 'mechanical-shim → pump' boundary but mapped to wrong axis (tier-number instead of application_logic)."
@@ -767,7 +794,7 @@ Substrate-self-flagging-stylistic-preference is **substrate-meta-awareness of ow
 ## Idea 29 — Same-canonical-place-different-names: refinement-fold trigger via cross-canonical-source name-counting
 
 **Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 3 Catch 3 close)
-**Status:** idea
+**Status:** **defer_until_V1_ship_2026-10-31 OR soft-disclosure-reframe (2026-06-06 disclosure analysis)** — current draft features the Pin-Paradise-specific Zone 33 = oiler area = repair shop = Mechanic Shop discovery + names from 4 distinct canonical sources (floor-plan-legend.xlsx + §22.7 4-zone lock body + §21.4.G OilerMachineCatalog placement + Phase 7.1e OJ-7.1e-2 (a) 7th-station extension). Per disclosure rule v1.0 Approach 2: 4-named-same-place table reveals specific Pin Paradise canonical state (Zone 33 mechanic shop spatial architecture). Two paths: (a) DEFER until V1 ship 2026-10-31 then publish with the dramatic 4-named table intact; (b) SOFT-DISCLOSURE REFRAME — abstract to "a multi-system game's canonical state revealed an entity under N names from N perspectives" without naming the entity or sources; loses dramatic worked-example punch but keeps refinement-fold-trigger methodology insight. **Recommendation: DEFER until V1 ship** — the 4-named table IS the post's strongest payoff; reframing weakens it substantially.
 **Leverage:** MEDIUM-HIGH (beautiful architectural insight + counterintuitive against "design-from-scratch" reflex; n=1 dramatic worked example)
 
 **Empirical observation:** Phase 7.1e Pulse 7 Stage 3 Madisonian Gate Synthesis Catch 3 surfaced that Zone 33 = oiler area = repair shop = Mechanic Shop are the same canonical place under 4 names from 4 different perspectives:
@@ -793,7 +820,7 @@ Both Pulse 7 substrates + CC's §0.17 freshness amendment treated Mechanic Shop 
 ## Idea 30 — Generic naming for cross-surface reusability: "Equipment Alerts" not "Mechanic Alerts" (anticipated-sibling-naming discipline)
 
 **Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 4 Catch 1 (c) close)
-**Status:** idea
+**Status:** **defer_until_V1_ship_2026-10-31 OR soft-disclosure-reframe (2026-06-06 disclosure analysis)** — current draft features Pin-Paradise-specific tray architecture (7th canonical card class "Equipment Alerts" at `architecture/multi-purpose-tray-v1-architecture-proposal.md` §3.7) + cross-station extension territory (mechanic-shop + kitchen + pro-shop). Per disclosure rule v1.0 Approach 2: specific 7th class addition + cross-station reuse vision reveals Pin Paradise canonical-state mutation. Two paths: (a) DEFER until V1 ship 2026-10-31; (b) SOFT-DISCLOSURE REFRAME — abstract to "anticipating cross-surface reusability when adding a new canonical class for one specific surface" without naming Equipment Alerts or back-of-house stations specifically. Reframing is more viable for THIS idea than 27/29 because the methodology insight (generic naming when anticipated siblings already exist) generalizes cleanly to any multi-system project. **Recommendation: SOFT-DISCLOSURE REFRAME viable if drafting before ship; DEFER if wanting concrete worked example.**
 **Leverage:** MEDIUM (tight pattern; n=1 + 2 anticipated reuse sites; useful counter-pattern to YAGNI-extreme)
 
 **Empirical observation:** Phase 7.1e Pulse 7 Stage 4 Catch 1 (c) HYBRID ruling 2026-06-06 added a new 7th canonical card class to the multi-purpose tray architecture. The class semantic is "back-of-house equipment broke while you weren't there" — which is Phase 7.1e mechanic-shop's specific need but also obviously applicable to Phase 7.1f Restaurant kitchen breakdowns + Phase 7.1g Pro-Shop equipment failures + future back-of-house station semantics. CC's amendment named the new class "Equipment Alerts" not "Mechanic Alerts" — generic naming anticipating future sibling stations.
