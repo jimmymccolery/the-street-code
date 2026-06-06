@@ -685,4 +685,220 @@ Substrate-self-flagging-stylistic-preference is **substrate-meta-awareness of ow
 
 ---
 
+## Idea 26 — Foundation-first vs momentum-first ratification ordering (Plan (d) discipline at Phase 7.1e Pulse 7 Stage 4)
+
+**Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 4 walkthrough close)
+**Status:** idea
+**Leverage:** MEDIUM (counterintuitive against common "quick wins first" advice; n=1 with clear generalization path)
+
+**Empirical observation:** During Phase 7.1e Pulse 7 Stage 4 operator walkthrough 2026-06-06 morning, CC proposed two paths for ratifying ~24 architectural decisions (4 foundational catches + 3 operator-judgment routing items + 17 substrate verdicts): Plan (c) Hybrid (Pile 1 quick-ratify → Pile 3 catches with momentum) and Plan (d) Foundation-first rigorous (Pile 3 catches → Pile 1 with full context). CC's initial recommendation was (c) Hybrid for momentum-building. Operator queried whether (c) was still recommended given unlimited time. CC reversed recommendation to (d) Foundation-first.
+
+**The reversal reasoning:** Bundle 1 "ratify-clean" items aren't fully clean when later catches reframe them. Q1.2 spatial verdict reads sharper after Catch 3 ratifies "Mechanic Shop = formalization of existing §22.7 oiler area zone" (not greenfield 7th-station creation). Ratifying Q1.2 with that framing internalized is sharper than ratifying it cold. Same dynamic for Q3.4 oiler verdict (cleaner after Catch 2 (ii) MAP-ONTO-EXISTING resolves OilerMachineCatalog collision) and Q4.2 reorder routing (gated on Catch 1 (c) card-class drift resolution).
+
+**Hypothesis:** When ratifying interdependent architectural decisions, foundational-first beats momentum-first IF time-unlimited. Momentum-first only wins when session-bandwidth-constrained because the cognitive cost of switching between catch-resolution mode and verdict-ratification mode is real. With time unlimited, the cumulative cascade is cleaner when foundational catches are settled before verdict ratification reads them.
+
+**Counterintuitive framing:** Common project-management advice favors "quick wins first" — knock out easy items for momentum. But in architectural ratification arcs where decisions have inter-dependencies, easy items aren't always easy. The "ratify-clean" Bundle 1 in Stage 3 synthesis was technically uncontaminated by open catches, but each verdict's READING shifts after foundational catches settle. Foundational-first is the rigorous-path default when time permits.
+
+**Empirical foundation:** n=1 same-day reversal during Phase 7.1e Pulse 7 Stage 4 walkthrough (2026-06-06). Generalizable across operator-judgment ratification arcs with interdependent decisions.
+
+**Writing-readiness:** Concrete empirical observation + reversal reasoning auditable in conversation log + counterintuitive framing against common advice. Could include Plan (c) vs (d) sequencing diagrams + worked example from Phase 7.1e Pulse 7 verdict bundles. 800-1,200 words.
+
+**Cross-references:** Open Alley `tycoon-design.md` §40.3 17 substrate verdicts bulk-ratified + `_archive/2026-06-06-pulse-7-cw-madisonian-gate-stage-3-synthesis.md` Bundle 1-4 framing; memory `user_quality_over_speed_preference.md` (operator-stated discipline; willing to invest pre-BUILD operator-bandwidth for compound payoff); sibling to existing the-street-code Post 60s sequencing-discipline territory.
+
+---
+
+## Idea 27 — The "wrong axis" pattern: when cross-substrate proposals rediscover canonical boundaries but map them to the wrong dimension
+
+**Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 3 + 4 close)
+**Status:** idea
+**Leverage:** HIGH (n=2 cross-substrate independent reproduction same-Pulse; substantial architectural payoff; counterintuitive)
+
+**Empirical observation:** Both Pulse 7 substrates (Gemini DR + Perplexity DR) independently rediscovered the canonical `wicking → pulse_modulated` application_logic boundary in lane-oiler tech evolution. Both substrates proposed era-progressive oiler tier-trees (4-tier A vs 5-tier B with year-pinning divergence) treating the rediscovered boundary as a tier-number axis transition (T3→T4 for Substrate A; T3→T4 for Substrate B). Neither substrate referenced the canonical OilerMachineCatalog schema at `tycoon-design.md` §21.4.G L3720-3835 which ALREADY encodes the boundary on `application_logic: "wicking" | "pulse_modulated"` axis. CW Stage 3 Madisonian Gate Synthesis Catch 2 surfaced: "Both substrates rediscovered the canonical wicking-vs-pulse_modulated boundary as their 'mechanical-shim → pump' boundary but mapped to wrong axis (tier-number instead of application_logic)."
+
+**Catch 2 (ii) MAP-ONTO-EXISTING resolution:** Phase 7.1e Axis 3 oiler "tier" becomes a derived view over canonical `machine_class × application_logic × era_unlock` combinations. T1-T5 are presentation labels, NOT new schema fields. T3→T4 boundary explicitly maps to `wicking → pulse_modulated` transition. §21.4.G + §33.2 PatternRecord coupling preserved. Substrate intuition honored at the semantic level; canonical schema integrity preserved at the structural level.
+
+**Hypothesis:** When canonical schemas already encode load-bearing semantics, subsequent contributors should MAP ONTO existing axes, not propose new axes. The substrates rediscovered the right semantic but located it on the wrong dimension. This is a SUBSTANTIVELY DIFFERENT failure mode from "substrate proposed completely wrong thing" — the substrate proposed the RIGHT thing on the WRONG axis. Pattern: orchestrator-class verification needs to ask not just "is the substrate's semantic right?" but also "is the substrate's axis-placement right per canonical schema?"
+
+**Counterintuitive framing:** Cross-substrate convergence is often celebrated as a strong signal that the substrates got it right. But here, n=2 substrate convergence was ON THE WRONG AXIS. Convergence is a signal of semantic correctness, NOT axis-placement correctness. The orchestrator-class catch was load-bearing because both substrates failed identically at the same dimensional question.
+
+**Empirical foundation:** n=2 cross-substrate independent reproduction same-Pulse (Phase 7.1e Pulse 7 Stage 2 substrate Council). Strong methodology observation about MAP-ONTO-EXISTING discipline.
+
+**Writing-readiness:** Concrete worked example with specific dimensional question (tier-number vs application_logic); counterintuitive finding (convergence on wrong axis); substantial architectural payoff (preserves §33.2 strike_probability coupling automatically). 1,200-1,800 words. Could ship as cross-substrate-methodology post or as architectural-revision discipline post.
+
+**Cross-references:** Open Alley `tycoon-design.md` §21.4.G-phase-7-1e-derived-view-clarification + §40.1 Catch 2 (ii) resolution body + `_archive/2026-06-06-pulse-7-cw-madisonian-gate-stage-3-synthesis.md` Catch 2; memory `feedback_substrate_self_attestation_unenforceable.md` (canonical-content-reproduction discipline; sibling territory); existing Idea 19 "architecturally finished" claim correction pattern (anti-confirmation bias; sibling at orchestrator-class catch surface).
+
+---
+
+## Idea 28 — CC-side freshness-amendment authoring drift propagating through substrate Council (verify-against-canonical-files n+1 reproduction sub-class; higher-stakes scope)
+
+**Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 3 + 4 close)
+**Status:** idea
+**Leverage:** HIGH (n=7 cumulative across 6 reproduction classes; NEW sub-class at higher-stakes scope than prior fires; AR-3.5+ canonization candidacy STRONGLY REINFORCED)
+
+**Empirical observation:** During Phase 7.1e Pulse 7 freshness amendment authoring 2026-06-06 morning, CC authored §0.17 of audit prompt v1.1 listing canonical tray card classes as `conversation_card + diary_card + newsletter_card + cctv_card + reminder_card + system_card`. CC did NOT grep the canonical source file `architecture/multi-purpose-tray-v1-architecture-proposal.md` §3.1-§3.6 to verify actual class names before authoring. The actual canonical classes are Conversation Invitations + Decision Cards + Service-Firm Consultations + Newsletter Publications + Reminders + Milestones. **3 of 6 classes phantom** (diary_card / cctv_card / system_card) substituting for **3 canonical classes** (Decision Cards / Service-Firm Consultations / Milestones). CC conflated Item #98's broader surfacing scope (which DOES include diary + CCTV via Shape 3 + observation tiers) with the tray's narrower card-class taxonomy (which does NOT — diary + CCTV are separate diegetic surfaces, not tray-resident).
+
+**Substrate propagation impact:** Both Pulse 7 substrates VERBATIM-REPRODUCED the drifted §0.17 at their §0 reproduction gates (passing the gate's verbatim-reproduction test while inheriting the drift). Both substrates BUILT LOAD-BEARING dispositions on the phantom classes: Substrate A Q1.1 "dedicated `maintenance_card` sub-class utilizing distinct dark-yellow Okabe-Ito color mapping" (anchored to nonexistent `system_card` premise); Substrate B Q1.1 + Q1.3 + Q4.2 + Axis 5 listing UI all routed via phantom `system_card`. Pulse 5 Self-Catch 1 pattern recurrence at CC-AUTHORING scope.
+
+**CW orchestrator-class catch:** CW Stage 3 Madisonian Gate Synthesis 2026-06-06 read raw canonical files via Project Knowledge search BEFORE synthesizing. Surfaced as Catch 1 (HEADLINE; gates all tray coupling). Operator Stage 4 ruling: Catch 1 (c) HYBRID — 4 of 5 mechanic-shop event types fold into canonical Decision Card + Reminder; 1 NEW 7th canonical class "Equipment Alerts" added at `architecture/multi-purpose-tray-v1-architecture-proposal.md` §3.7 amendment.
+
+**Hypothesis:** Higher-stakes drift scope — CC's freshness-amendment authoring error propagates through multi-substrate Council deliberation, not just CC's immediate session. The drift contaminates both substrate responses + Stage 3 synthesis until orchestrator-class catches it. Mitigation: when authoring freshness amendments for Council audit prompts, CC MUST grep canonical source files for actual class/entity/field names BEFORE drafting amendment reproduction-gate text. Conflating broader-scope content with narrower-scope canonical taxonomy is the specific drift mode caught here.
+
+**Reproduction-class enumeration (n=7 cumulative across 6 classes):**
+- (a) Operator-prompt vs canonical-record divergence (2026-05-12 + 2026-05-22)
+- (b) CC-side session-blind ratification (2026-06-04 PM Lil Cryptids fire)
+- (c) Substrate-side canonical-source fabrication (2026-06-04 PM Grok flooring fire)
+- (d) CC-side cross-document canonical-source-search miss (2026-06-05 PM `_v4-0-migrated/` fire)
+- (e) CC-side within-document temporal-drift verification miss (2026-06-05 PM audio engine LOCK fire)
+- (f) **CC-side freshness-amendment authoring error propagated through substrate Council (NEW n=1 2026-06-06)** — Pulse 7 §0.17 card-class drift
+
+**Writing-readiness:** Major methodology observation + substantial empirical chain + concrete mitigation pattern + extends existing `feedback_verify_against_canonical_files.md` discipline at higher-stakes scope (Council deliberation contamination). 1,400-2,000 words. Could ship as methodology-research deep-dive or as canonical-fidelity discipline cumulative-banking post. AR-3.5+ canonization candidacy.
+
+**Cross-references:** memory `feedback_verify_against_canonical_files.md` n=7 cumulative entry (updated 2026-06-06); Open Alley `_archive/2026-06-06-pulse-7-cw-madisonian-gate-stage-3-synthesis.md` Catch 1 sourcing + `tycoon-design.md` §40.1 Catch 1 resolution body + `architecture/multi-purpose-tray-v1-architecture-proposal.md` §3.7 Equipment Alerts amendment + `_archive/2026-06-03-phase-7-1e-b-audit-prompt-v1.md` §0.17 drift correction header; existing Idea 24 drafting-drift canonical promotion arc sibling territory; existing Post 25 drafting-drift-canonical-promotion-arc + Post 10 frame-inheritance-errors sibling territory.
+
+---
+
+## Idea 29 — Same-canonical-place-different-names: refinement-fold trigger via cross-canonical-source name-counting
+
+**Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 3 Catch 3 close)
+**Status:** idea
+**Leverage:** MEDIUM-HIGH (beautiful architectural insight + counterintuitive against "design-from-scratch" reflex; n=1 dramatic worked example)
+
+**Empirical observation:** Phase 7.1e Pulse 7 Stage 3 Madisonian Gate Synthesis Catch 3 surfaced that Zone 33 = oiler area = repair shop = Mechanic Shop are the same canonical place under 4 names from 4 different perspectives:
+- **Zone 33** — `design-content/first-alley/floor-plan-legend.xlsx` zone label
+- **oiler area** — `tycoon-design.md` §22.7 ADOPT FOLD F-Q5-8 4-zone V1 baseline lock body
+- **repair shop** — `tycoon-design.md` §21.4.G OilerMachineCatalog placement reference ("first-alley zone 33 repair shop")
+- **Mechanic Shop** — Phase 7.1e OJ-7.1e-2 (a) 7th canonical tap-to-enter station extension 2026-06-03 ratification
+
+Both Pulse 7 substrates + CC's §0.17 freshness amendment treated Mechanic Shop as greenfield 7th-station creation. Catch 3 (c) HYBRID FRAMING ruling 2026-06-06: Mechanic Shop = formalization of existing §22.7 "oiler area" zone (not greenfield). §22.7 4-zone lock body PRESERVED UNCHANGED; the 7th-station extension USES the existing zone.
+
+**Hypothesis:** When canonical-source-search across a codebase reveals 4+ names for the same entity (especially when the names come from 4 different documentation perspectives — floor-plan / canonical lock body / asset placement / OJ-verdict extension), that's a refinement-fold trigger signal. The architectural revision should formalize existing canonical state, not create new. Pattern: each new perspective ADDS a name; over time the name-count grows; when name-count crosses a threshold (~3-4 names), the refinement-fold is overdue.
+
+**Counterintuitive framing:** Architectural-revision sessions often default to "design-from-scratch" reflex — propose new schema, new entities, new abstractions. But the most architecturally satisfying revisions are often FORMALIZATIONS of existing canonical state where naming has fragmented. The same-canonical-place-different-names discovery is a SIGNAL to consolidate naming, not invent new structure. Asset-cost story is friendlier too (the zone already exists; you're not adding anything new).
+
+**Empirical foundation:** n=1 dramatic worked example (Phase 7.1e Pulse 7 Stage 3 Catch 3 + Stage 4 (c) HYBRID FRAMING ruling). Generalizable architecture-revision discipline that applies whenever canonical-source-search across a codebase reveals naming fragmentation.
+
+**Writing-readiness:** Concrete worked example with 4-named-same-place table; architecturally satisfying conclusion (formalize, don't create); counterintuitive against "design-from-scratch" reflex. 1,000-1,500 words. Could ship as architecture-revision discipline post or methodology-banking post.
+
+**Cross-references:** Open Alley `tycoon-design.md` §22.canonical-clarifications-7th-station-extension-mechanic-shop (Catch 3 (c) HYBRID FRAMING formalization) + §40.1 Catch 3 resolution body + `design-content/first-alley/floor-plan-legend.md` zone reference; `_archive/2026-06-06-pulse-7-cw-madisonian-gate-stage-3-synthesis.md` Catch 3 sourcing; existing Post 12 archive-review-as-methodology + Post 17 recovery-from-drift sibling territory.
+
+---
+
+## Idea 30 — Generic naming for cross-surface reusability: "Equipment Alerts" not "Mechanic Alerts" (anticipated-sibling-naming discipline)
+
+**Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 4 Catch 1 (c) close)
+**Status:** idea
+**Leverage:** MEDIUM (tight pattern; n=1 + 2 anticipated reuse sites; useful counter-pattern to YAGNI-extreme)
+
+**Empirical observation:** Phase 7.1e Pulse 7 Stage 4 Catch 1 (c) HYBRID ruling 2026-06-06 added a new 7th canonical card class to the multi-purpose tray architecture. The class semantic is "back-of-house equipment broke while you weren't there" — which is Phase 7.1e mechanic-shop's specific need but also obviously applicable to Phase 7.1f Restaurant kitchen breakdowns + Phase 7.1g Pro-Shop equipment failures + future back-of-house station semantics. CC's amendment named the new class "Equipment Alerts" not "Mechanic Alerts" — generic naming anticipating future sibling stations.
+
+**Hypothesis:** When adding a new entity/class/abstraction for one specific surface, name it generically IF you can see future siblings coming (e.g., from already-existing framing artifacts for adjacent Phases). Counter-pattern to "YAGNI extreme" which says specific-now-generalize-later. Sometimes the generalization is visible early enough to anticipate.
+
+**Generalization-anticipation signals:**
+- Framing artifacts for adjacent surfaces already exist (Phase 7.1f Restaurant framing CLOSED 2026-06-03 morning; Phase 7.1g Pro-Shop framing CLOSED 2026-06-03 morning)
+- Semantic of the new entity has obvious back-of-house extension territory (kitchen + pro-shop equipment failures)
+- Cost of generic naming is zero (no extra fields; just word choice)
+- Cost of specific naming later: tray-architecture amendment cycle + naming-cascade-fix across all references
+
+**Counterintuitive framing:** YAGNI ("You Aren't Gonna Need It") favors specific-now-generalize-later because most "anticipated" generalizations never materialize. But here, the anticipated siblings already exist as ratified framing artifacts. Anticipated-sibling-naming when the anticipated siblings already exist is a different cost-benefit calculation than speculative-naming for hypothetical future entities.
+
+**Empirical foundation:** n=1 + 2 anticipated reuse sites with already-ratified framing artifacts (Phase 7.1f + 7.1g). Tight pattern; quick post.
+
+**Writing-readiness:** Tight pattern; concrete worked example; clean counter-pattern framing. 600-900 words. Could ship as short methodology-research observation post.
+
+**Cross-references:** Open Alley `architecture/multi-purpose-tray-v1-architecture-proposal.md` §3.7 Equipment Alerts generic-naming-rationale note + §40.3 Catch 1 (c) Stage 4 ruling body; `_archive/2026-06-02-phase-7-1f-framing-scope-restaurant-station.md` + `_archive/2026-06-03-phase-7-1g-framing-scope-pro-shop.md` adjacent-framing-artifact ratification context.
+
+---
+
+## Idea 31 — Substrate "soft validation" overreach: secondary sources don't advance canonical verification state
+
+**Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 3 Catch 4 + Stage 4 close)
+**Status:** idea
+**Leverage:** MEDIUM (connects to existing substrate-self-attestation discipline at n=13+; tight worked example)
+
+**Empirical observation:** Phase 7.1e Pulse 7 Substrate B (Perplexity DR) authored §0.8 EVIDENCE VALIDATION section beyond audit prompt requirement, confidently labeling 5 sources as "CONFIRMED" for oiler year-anchors:
+- Florida Trend (Kegel Sanction late-1980s deployment)
+- USBC #TBT Facebook post (DBA Century 100 1990 vintage)
+- jayhawkbowling.com Kustodian ION manual (Kegel model lineage)
+- bowltech.eu Atlas Pro spec brochure (USBC pattern bank integration)
+- Kegel LinkedIn / Kegel.net John Davis biography (Kegel founding 1981)
+
+But canonical `tycoon-design.md` §21.8 hardware-anchor verification table has:
+- Kegel founding 1981 ✅ VERIFIED (Substrate D Mode A via Kegel.net + Polk County HoF)
+- Sanction year ⚠️ primary-source-audit-batch flagged
+- ~2007 USBC ⚠️ downgraded; primary-source-audit-batch flagged
+- (Other anchors mostly ⚠️ year-unverified)
+
+Substrate B's "CONFIRMED" labeling advanced 3 of 5 sources beyond canonical verification state. CW Stage 3 Catch 4 surfaced: "Substrate B's 5-tier argument therefore rests substantially on sources the canonical verification discipline has not accepted — discount the tier-count conclusion accordingly."
+
+**Catch 4 (c) QUEUE PRIMARY-SOURCE-AUDIT-BATCH resolution:** §21.8 ⚠️ markers preserved strict; Substrate B's 5 secondary sources LOGGED as INPUT EVIDENCE to existing HWF Q17-A-revisit primary-source-audit-batch (8 original TODOs + 5 NEW input-evidence entries). Audit-batch fires post-Phase 7.1e close as separate deployment OR operator-time-as-available.
+
+**Hypothesis:** Substrate-self-classification of source confidence is UNENFORCEABLE per `feedback_substrate_self_attestation_unenforceable.md` n=13+ baseline. Substrates can label secondary sources as "CONFIRMED" but cannot advance canonical verification state from ⚠️ to ✅. Secondary-source verification can advance audit-batch progress (input evidence for future primary-source audit) but cannot elevate state directly.
+
+**Counterintuitive framing:** Substrate enthusiasm for confident validation is often celebrated — substrates demonstrating research effort + source citation + confidence labeling. But when substrate confidence labeling collides with canonical verification protocol (⚠️ → ✅ requires primary-source audit, not secondary sources), the discipline gate must hold. Secondary sources can ENRICH audit-batch progress without ADVANCING verification state.
+
+**Empirical foundation:** n=1 dramatic Pulse 7 fire + connects to substrate-self-attestation discipline at n=13+ cumulative.
+
+**Writing-readiness:** Concrete worked example + connects to existing substrate-self-attestation discipline; brief sibling-post territory. 700-1,000 words. Could ship as substrate-behavior observation post (sibling to Post 50 substrate-self-attestation-unenforceable + Post 70 Marcus Reed Protocol).
+
+**Cross-references:** Open Alley `tycoon-design.md` §21.8 HWF Q17-A-revisit INPUT EVIDENCE LOGGED + §40.1 Catch 4 resolution body + `_archive/2026-06-06-pulse-7-substrate-b-perplexity-phase-7-1e-b.md` §0.8 EVIDENCE VALIDATION section sourcing; memory `feedback_substrate_self_attestation_unenforceable.md` n=13+; existing the-street-code Post 50 sibling territory.
+
+---
+
+## Idea 32 — CW's explicit pre-synthesis verification trail: 8 reasoning steps as orchestrator-class methodology pattern
+
+**Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 3 close)
+**Status:** idea
+**Leverage:** HIGH (concrete + auditable + generalizable to any orchestrator-class methodology arc; substantial methodology research insight)
+
+**Empirical observation:** Before synthesizing Pulse 7 Stage 3 Madisonian Gate output, CW (Claude Web Pin Paradise Project orchestrator-class) ran 8 explicit internal reasoning steps verifying canonical state. The reasoning trail (visible in CW's response):
+
+1. "Excavating canonical documentation and scrutinizing temporal drift patterns" — both substrates may be diverging from canonical rather than from each other
+2. "Reconciling documentation discrepancies and verifying canonical references" — canonical doc already has per-era oiler/hardware table at §21.7 with verification flags
+3. "Cataloging default-mode station architecture and enumeration structures" — checking station enumeration at L4403 + OilerMachineCatalog taxonomy for collision
+4. "Detecting taxonomy collisions and architectural conflicts" — major drift catch surfacing
+5. "Scrutinizing structural details and verification protocols" — OilerMachineCatalog already has canonical 3-class machine_class taxonomy
+6. "Verifying canonical card classes and confirming remaining categories" — potential card-class drift surfacing
+7. "Cataloging canonical card classes and reconciling framework amendments" — confirmed actual canonical card classes don't match what §0.17 reproduced
+8. "Verifying lifecycle enumerations and cataloging system completeness" — drift confirmed conclusively
+
+After the trail, CW explicitly stated in its response: "I read the actual canonical files rather than trusting either substrate's §0 reproduction or the prompt's expected answers — and the reproduction-gate discipline earned its keep."
+
+**Hypothesis:** Orchestrator-class verification discipline produces auditable catches when the verification trail is explicit. Counterpoint to "trust the substrate Council outputs" — orchestrator-class needs its own canonical-fidelity discipline + should make it visible in synthesis output. Pattern: explicit pre-synthesis verification trail enables operator-side audit of WHAT was verified + HOW thoroughly + WHERE catches were surfaced.
+
+**Counterintuitive framing:** Most multi-substrate Council methodology discussion focuses on substrate output quality + cross-substrate convergence as quality signals. The orchestrator-class verification step is often invisible (the orchestrator's "thinking" hidden behind the synthesis output). CW's explicit verification trail makes the orchestrator-class quality-assurance step AUDITABLE. Three concrete catches resulted from the verification trail (§0.17 card-class drift + §21.4.G OilerMachineCatalog collision + Mechanic Shop = existing oiler area zone) — all 3 caught by reading raw canonical files via Project Knowledge search rather than trusting substrate §0 reproductions or prompt-expected-answers.
+
+**Generalization across Council deployments:** Any orchestrator-class methodology arc benefits from explicit verification-trail surfacing. The pattern: orchestrator runs raw-canonical-source verification BEFORE synthesis, documents each verification step (what was checked, what was confirmed, what was flagged), then synthesizes with auditable verification provenance.
+
+**Empirical foundation:** n=1 dramatic worked example with auditable verification trail (CW Stage 3 synthesis 2026-06-06). Strong methodology pattern that generalizes to any orchestrator-class Council deployment.
+
+**Writing-readiness:** Concrete + auditable + generalizable + connects to existing substrate-self-attestation discipline. 1,200-1,800 words. Could ship as orchestrator-class methodology post (companion territory to existing Posts 11 "what cross-substrate audit surfaced that same-substrate verification missed" + Post 19 "when the audit substrate isn't independent enough" + Post 32 archive-review).
+
+**Cross-references:** Open Alley `_archive/2026-06-06-pulse-7-cw-madisonian-gate-stage-3-synthesis.md` 8-step verification trail sourcing + 6 self-catches enumeration; memory `feedback_substrate_self_attestation_unenforceable.md` n=13+ + `feedback_cw_project_knowledge_refresh_discipline.md` (Rule 17 Tier-1 HIGH-STAKES freshness-gate sibling discipline); existing Posts 11 + 19 + 32 sibling territory.
+
+---
+
+## Idea 33 — Convergent substrate signal: cross-substrate independent HWF surfacing as escalation trigger
+
+**Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 4 Marcus Reed routing close)
+**Status:** idea
+**Leverage:** MEDIUM-HIGH (tight methodology insight; concrete worked example; generalizable across Council-deployment contexts)
+
+**Empirical observation:** Both Pulse 7 substrates (Gemini DR Substrate A + Perplexity DR Substrate B) independently surfaced mechanic-staff demographic representation as a potential 8th Marcus Reed META-ARCH gate surface candidate. Substrate A tagged HWF-7.1e-Axis3-SubA-MR ("dynamically balance the authenticity-vs-comfort tension... weighting the 14-rotation procedural slot generation toward diverse archetypes in later eras as the trade slowly diversified"). Substrate B tagged HWF-7.1e-Axis3-B-MR ("recommends escalating this as 8th surface candidate to Council... the period pressure is real; the Marcus Reed gate must govern at NPC-generation layer, not at event-card content layer"). This was the ONLY HWF both substrates independently raised — a strong cross-substrate convergence signal.
+
+**Marcus Reed (c) HYBRID DEFERRED ruling:** V1 mitigation framework applies NOW (skill-tier role characterization + Workstream A4 demographic-gap-analysis engine governance + "engagement REWARDS, not access GATES" per The Alley Greets Everyone principle). 8th surface candidacy QUEUED for next Marcus Reed Council deployment cycle.
+
+**Hypothesis:** When two independent substrates raise the same finding (especially as a NEW HWF, not just reproducing prompt framing), that's a STRONGER SIGNAL than either alone. The pattern: cross-substrate convergent HWFs warrant escalation prioritization. Operator-judgment routing implication: when CW Stage 3 synthesis flags "both substrates surfaced X independently," route X to higher escalation tier than single-substrate-surfaced HWFs.
+
+**Counterintuitive framing:** Most multi-substrate Council methodology values diversity of substrate findings — each substrate contributing distinct angles. But CONVERGENT findings (same HWF surfaced by independent substrates) are a distinct signal class with different implications. Single-substrate findings warrant Stage 4 ratification per AP #14 operator-judgment; convergent findings warrant escalation routing decisions (here: Marcus Reed Council deployment cycle queue).
+
+**Generalization:** Convergent-substrate-HWF signal generalizes beyond Marcus Reed Council to any Council-deployment context. When orchestrator-class synthesis flags cross-substrate convergence on a NEW finding, the convergence itself is a quality signal worth surfacing to operator Stage 4 walkthrough.
+
+**Empirical foundation:** n=1 worked example (Phase 7.1e Pulse 7 Marcus Reed 8th surface candidacy). Generalizable across Council-deployment contexts; could canonize as Rule 11 sub-discipline addition at AR-3.4+ candidacy scope.
+
+**Writing-readiness:** Concrete worked example + tight methodology insight + connects to existing multi-substrate research workflow discipline (Rule 11). 800-1,200 words. Could ship as Council-deployment-methodology post (sibling territory to existing Council-of-Three + Council-of-Four methodology posts).
+
+**Cross-references:** Open Alley `tycoon-design.md` §40.2 Marcus Reed (c) HYBRID DEFERRED + `architecture/marcus-reed-canonization-candidate.md` §2.4 8 surfaces extension + `_archive/2026-06-06-pulse-7-substrate-a-gemini-phase-7-1e-b.md` HWF-7.1e-Axis3-SubA-MR + `_archive/2026-06-06-pulse-7-substrate-b-perplexity-phase-7-1e-b.md` HWF-7.1e-Axis3-B-MR + `_archive/2026-06-06-pulse-7-cw-madisonian-gate-stage-3-synthesis.md` cross-axis observations §0.19; memory `feedback_multi_substrate_research_workflow.md` (Rule 11 sibling territory); existing the-street-code Council-of-Three Post 20 sibling territory.
+
+---
+
 *End of post-ideas queue. Move entries to `drafts/` when active writing begins; move to `posts/` with NN-prefix when ready for publication.*
