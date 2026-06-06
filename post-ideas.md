@@ -4,14 +4,17 @@
 
 **Convention:** When an entry becomes ready for drafting, move it (or its drafting workspace) to `drafts/`. When draft is ready for publication, move to `posts/` with sequential numbering per README naming convention.
 
-**Status field values:** `idea` (initial capture) / `drafting` (active writing in `drafts/`) / `published` (in `posts/` with NN-prefix) / `retired` (no longer worth pursuing)
+**Status field values:** `idea` (initial capture) / `drafting` (active writing in `drafts/`) / `published` (in `posts/` with NN-prefix) / `retired` (no longer worth pursuing) / `superseded` (absorbed by canonization or sibling post) / `absorbed` (merged into another idea) / `promoted_to_AR` (escalated to AR candidacy instead of standalone post)
+
+**Meta-analysis pass log:**
+- **2026-06-06 meta-analysis:** All 33 ideas reviewed against 70 published posts + 18 canonized rules + 33 anti-patterns. Status mutations: Idea 15 → `published` (Post 70); Ideas 1, 5 → `retired` (stale n=1); Idea 7 → `absorbed` into Idea 10; Idea 2 → `superseded` by Rule 14; Idea 14 → `promoted_to_AR` (Rule 11 refinement-fold); Idea 12 → STILL `idea` with AP #33 + audit-scope-breadth sibling-territory framing added; Ideas 3 + 10 → foundation counts updated to current banking.
 
 ---
 
 ## Idea 1 — Rubric Scaffold 4 false-flag pattern: when output-format scaffolding introduces verification regression
 
 **Filed:** 2026-05-22 (Q11 close session)
-**Status:** idea
+**Status:** **retired (2026-06-06 meta-analysis: stale single-fire; n=1 unchanged for 2 weeks; no reproduction across 13+ subsequent architectural-lock cycles + multiple Council deployments. Banked as one-off observation; may resurface if specific Gemini + Rubric Scaffold 4 interaction reproduces)**
 **Leverage:** HIGH (most novel + immediately useful to multi-substrate-audit practitioners)
 
 **Empirical observation:** At Q11 close substrate audit, same Gemini substrate ran twice on identical audit target:
@@ -31,7 +34,7 @@
 ## Idea 2 — Madisonian rule as substantive discipline: anti-pattern #6 enforcement at cross-substrate audit verdict divergence
 
 **Filed:** 2026-05-22 (Q11 close session)
-**Status:** idea
+**Status:** **superseded (2026-06-06 meta-analysis: Rule 14 Madisonian Gate Verdict Classification Discipline — 6-Pattern Outcome Enumeration canonized at `operational_discipline_rules.canonical.md` v1.10 ratification. Discipline angle absorbed into Rule 14 canonical body. REFRAME option: post about the anti-pattern #6 → Rule 14 promotion arc itself — the methodology of discipline-becoming-rule. If not reframed, RETIRE.)**
 **Leverage:** HIGH (n=2 empirical reproduction; methodology generalizes beyond Open Alley)
 
 **Empirical pattern:** Q14 + Q11 architectural-lock closes BOTH produced maximum-scale cross-substrate verdict divergence (one substrate stricter requiring iteration cycle; one substrate softer ready-to-commit). Operator/orchestrator did NOT majority-vote (which would have produced wrong verdict at Q14 close given 1-strict vs 1-soft = no majority). Instead applied anti-pattern #6 silent-compliance prevention: adopted stricter-substrate reasoning-chain integrity over softer-substrate hand-waving.
@@ -44,10 +47,10 @@
 
 ---
 
-## Idea 3 — Substrate-style-differential pattern at n=6 cumulative: cross-substrate audit reliability in architectural-lock decisions
+## Idea 3 — Substrate-style-differential pattern at n=10+ cumulative: cross-substrate audit reliability in architectural-lock decisions
 
-**Filed:** 2026-05-22 (Q11 close session)
-**Status:** idea
+**Filed:** 2026-05-22 (Q11 close session); **foundation updated 2026-06-06 (meta-analysis) — n=10+ from original n=6 via cumulative extensions through Ideas 7 + 10 + 16 + 23 + Pulse 7 Idea 27 (wrong-axis convergent failure adds NEW reproduction class to substrate-style-differential observation surface)**
+**Status:** idea (ready to draft; foundation strengthened substantially since filing)
 **Leverage:** HIGH (substantial empirical foundation; serves as canonical methodology reference)
 
 **Empirical pattern at n=6 cumulative (Q1+Q2+Q3+Q9+Q14+Q11):**
@@ -84,8 +87,12 @@
 
 ## Idea 5 — Path C Q-audit-local symbol declaration pattern: scoped canonical-extension at format-flexible scope-limit
 
+**RETIRED 2026-06-06 meta-analysis:** stale; Path C scope-limit mechanic highly specific; no subsequent Path C surface activity in 2 weeks; small audience for the specific pattern. Banked as one-off observation; original entry below for historical context.
+
+**RETIRED — original entry preserved below:**
+
 **Filed:** 2026-05-22 (Q11 close session)
-**Status:** idea
+**Status:** retired (per meta-analysis header above)
 **Leverage:** MEDIUM (n=2 empirical foundation; methodology useful for any canonical-state extension work)
 
 **Empirical pattern:** Pattern for adding scoped symbols to architectural lock content without permanent canonical-lexicon extension. n=2 cumulative reproduction:
@@ -122,7 +129,7 @@
 ## Idea 7 — Intra-substrate-consistency variance at Gemini side: dual-run deployment empirical observation
 
 **Filed:** 2026-05-22 (Q11 close session)
-**Status:** idea
+**Status:** **absorbed (2026-06-06 meta-analysis: Ideas 10 (two-axis substrate-style preservation at n=38+) + 11 (within-decade dual-deployment validator) cover this surface at substantially expanded empirical foundation. Standalone post would be too narrow; finding should be referenced within Idea 10 or Idea 11 drafting as worked-example sub-section.)**
 **Leverage:** LOWER (n=2 cumulative across Q3 + Q11; novel surface but observationally lighter)
 
 **Empirical observation:** When dual-Gemini-run deployment fires (Q3 multi-alley state architecture audit + Q11 town-as-sim audit), the two RUNs produce DIFFERENT specific findings + DIFFERENT grade distributions but CONVERGE on the same verdict-shape. At Q11 specifically:
@@ -197,10 +204,10 @@
 
 ---
 
-## Idea 10 — Two-axis substrate-style preservation model at long-arc multi-substrate research (n=21+ within-substrate cross-decade reproductions across 7-decade scope)
+## Idea 10 — Two-axis substrate-style preservation model at long-arc multi-substrate research (n=38+ within-substrate cross-decade reproductions across 7-decade scope; updated 2026-06-06 meta-analysis)
 
-**Filed:** 2026-06-03 (Open Alley bowling-industry research arc close)
-**Status:** idea
+**Filed:** 2026-06-03 (Open Alley bowling-industry research arc close); **foundation updated 2026-06-06 meta-analysis: original filing n=21+ → current banking n=38+ via cumulative cross-decade reproductions through Items 285+290+294 banking chain (Grok n=15 + Gemini n=11 + Perplexity n=12 within-substrate cross-decade) + 14+ within-decade dual-deployment reproductions + 9 ALT-class cross-substrate reproductions + 4 within-Grok ALT + 4 within-Perplexity ALT (both TIED-STRONGEST 1950s-1980s) + 1 within-Gemini ALT + NEW substrate self-identification observation per Item 294 (Gemini Pro Deep Think Stage 1 META-acknowledged own AXIS-BEHAVIOR PROFILE pattern)**
+**Status:** idea (READY TO DRAFT; foundation strongest of any idea in queue)
 **Leverage:** HIGH (largest empirical foundation surfaced to date for substrate-behavior-prediction methodology; generalizes beyond Open Alley to any multi-substrate research workflow)
 
 **Empirical observation:** Open Alley chronological-mode research arc 2026-06-03 produced ~30+ substrate deployments across 7 decades (1950s-2020s) covering bowling-industry staffing/operations/culture. Within-substrate behavior across decades reproduces TWO independent axes:
@@ -273,7 +280,7 @@
 ## Idea 12 — Within-project-cross-directory search-completeness anti-pattern (matrix-scope sibling to cross-project audit-scope-breadth fire)
 
 **Filed:** 2026-06-03 (Open Alley comprehensive-scan operator-direct request)
-**Status:** idea
+**Status:** **idea (STILL VIABLE per 2026-06-06 meta-analysis; AP #33 Multi-Scope Canonical-State-Verification Failure canonized at `_anti_patterns.canonical.md` v1.16 → v1.17 covers TEMPORAL drift across canonical sources (cross-file + within-session + intra-file) but does NOT cover SEARCH-SCOPE matrix-completeness which is Idea 12's distinct surface. AP #33 sub-shape (b) is "canonical state was IN ONE PLACE but I read from a STALE COPY"; Idea 12 is "canonical state is SPREAD ACROSS MULTIPLE PLACES and I didn't search ALL of them." Sibling territory at memory `feedback_audit_scope_breadth_find_not_ls.md` cross-project scope. Idea 12 = within-project matrix-scope sibling — REFRAME drafting to explicitly distinguish from AP #33 + cross-project audit-scope-breadth memory; the differentiation IS the novel framing.)**
 **Leverage:** MEDIUM-HIGH (sibling shape to existing audit-scope-breadth memory; n=2 cumulative across same family at different scope axes; methodology generalizes to long-session matrix work for any Claude Code project)
 
 **Empirical observation:** Operator requested comprehensive matrix of Open Alley archived historical context. CC built initial matrix scoped to `_archive/` only (because recent session ingestions land there). Missed 5 source locations:
@@ -340,7 +347,7 @@
 ## Idea 14 — ALT deployment class as 4th deployment class in multi-substrate research workflow (n=4 cross-substrate reproductions; META gap-fill mode generalizes across substrates)
 
 **Filed:** 2026-06-03 (Open Alley bowling-industry research arc — late-evening ALT-class deployments)
-**Status:** idea
+**Status:** **promoted_to_AR (2026-06-06 meta-analysis: Rule 11 Multi-substrate Research Workflow Methodology canonized at `operational_discipline_rules.canonical.md` already enumerates Deep Research + Computer mode + ChatGPT mode classes. ALT class would be a Rule 11 refinement-fold AR candidacy (4th class addition) rather than standalone post. Recommend promote to AR-3.5+ deliberation queue rather than draft as post. If amendment lands at Rule 11 v1.x+1, write methodology-amendment-arc post about the canonization journey itself.)**
 **Leverage:** HIGH (novel methodology observation; n=4 cross-substrate reproductions confirms generalization; orthogonal to two-axis substrate-style preservation model per Idea 10)
 
 **Empirical observation:** Open Alley research arc 2026-06-03 surfaced a NEW deployment class in multi-substrate research workflow. Prior 3 deployment classes identified: ORIGIN (foundational baseline) + NEW (fresh independent research per Pin Paradise §1-§9 prompt) + PRIOR (operator's parallel brainstorming round independent research). NEW 4th class identified: **ALT** (META gap-fill against multiple prior reports).
