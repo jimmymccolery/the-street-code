@@ -35,6 +35,7 @@
 ## Meta-analysis pass log
 - **2026-06-06 meta-analysis (33-idea pass):** All 33 ideas reviewed against 70 published posts + 18 canonized rules + 33 anti-patterns. Status mutations: Idea 15 → `published` (Post 70); Ideas 1, 5 → `retired` (stale n=1); Idea 7 → `absorbed` into Idea 10; Idea 2 → `superseded` by Rule 14; Idea 14 → `promoted_to_AR` (Rule 11 refinement-fold); Idea 12 → STILL `idea` with AP #33 + audit-scope-breadth sibling-territory framing added; Ideas 3 + 10 → foundation counts updated to current banking.
 - **2026-06-06 IP-protection analysis (disclosure rule audit):** All 33 ideas + 70 published posts audited against Pin Paradise commercial IP-protection scope. Status mutations: Ideas 27, 29, 30 → `defer_until_V1_ship_2026-10-31` OR `soft-disclosure-reframe` per per-idea analysis (Ideas 27 + 29 strongly favor DEFER; Idea 30 viable as SOFT-DISCLOSURE REFRAME). Disclosure-rule discipline pointer added at file header; Pin Paradise IP-protected scope enumerated. Cross-references: `~/Projects/substack/disclosure_rule.md` v1.0 Approach 2 + memory `feedback_pin_paradise_disclosure_protected_scope.md`.
+- **2026-06-09 late session — 13 new ideas added (34-46) mined from 5-item operator-action sweep + Explore-agent novel-surface scan + this-session methodology fires:** Ideas 34-46 cover 4 categories: (a) Architecture & design methodology (34 OpenTimestamps cross-player federation + 35 Three-mode "Alley Greets Everyone" + 36 Memory+place ecosystem coherence); (b) AI methodology & substrate behavior (37 Orchestrator-class pattern-matching evasion + 38 Five verification scopes + 39 Validation theater under artifact audit + 40 Don't-skip-chapters); (c) Bowling-history research extensions (41 Institutional evolution PBA/USBC + 42 Per-decade trophy presentation); (d) Operational discipline meta-posts (43 Rule 17 promotion arc + 44 Two-layer scope blindness + 45 Treasure-Map-guided loose-end discovery + 46 Pricing as architecture). All 13 verified against existing 33-idea backlog + planned Posts 71-78 (Philosophical Research arc) — no duplicates. All 13 disclosure-verdict SAFE except Idea 46 = SOFT-REFRAME (Memory Lanes pricing case study; reference generically). Treasure Map re-consulted before mutation per D3.2-D trigger; the-street-code zone confirmed current. CC recommendation for sequencing: Post 79 = Idea 37 (orchestrator pattern-matching evasion); Post 80 = Idea 40 (don't-skip-chapters; fresh fire authority); Post 81 = Idea 35 (three-mode design); Post 82 = Idea 34 (OpenTimestamps federation); Post 83 = Idea 41 (institutional evolution; bowling-history breather). Cross-references: `~/.claude/cc_nav_payload.md` Treasure Map consultation; memory `project_philosophical_research_arc_round_6_close_2026-06-09.md` 5-item sweep RESOLUTIONS section; memory `project_friston_2017_primary_source_ingested_2026-06-09.md`; memory `project_wiredu_primary_source_ingested_2026-06-09.md`; memory `feedback_sequential_completion_no_chapter_skips.md` (Idea 40 source).
 
 ---
 
@@ -932,6 +933,327 @@ After the trail, CW explicitly stated in its response: "I read the actual canoni
 **Writing-readiness:** Concrete worked example + tight methodology insight + connects to existing multi-substrate research workflow discipline (Rule 11). 800-1,200 words. Could ship as Council-deployment-methodology post (sibling territory to existing Council-of-Three + Council-of-Four methodology posts).
 
 **Cross-references:** Open Alley `tycoon-design.md` §40.2 Marcus Reed (c) HYBRID DEFERRED + `architecture/marcus-reed-canonization-candidate.md` §2.4 8 surfaces extension + `_archive/2026-06-06-pulse-7-substrate-a-gemini-phase-7-1e-b.md` HWF-7.1e-Axis3-SubA-MR + `_archive/2026-06-06-pulse-7-substrate-b-perplexity-phase-7-1e-b.md` HWF-7.1e-Axis3-B-MR + `_archive/2026-06-06-pulse-7-cw-madisonian-gate-stage-3-synthesis.md` cross-axis observations §0.19; memory `feedback_multi_substrate_research_workflow.md` (Rule 11 sibling territory); existing the-street-code Council-of-Three Post 20 sibling territory.
+
+---
+
+## Idea 34 — Cross-player tournaments without central servers: OpenTimestamps + HD keys + Bitcoin anchoring as zero-PII federation aggregation surface
+
+**Filed:** 2026-06-09 (late session continuation; Federation tournament architecture synthesis 2026-06-09 morning)
+**Status:** idea
+**Leverage:** HIGH (technical novelty + privacy-first methodology + generalizes beyond gaming to any cross-player verification domain)
+
+**Empirical observation:** Operator's "bowling authority body arranges tournaments of best bowlers from all players' alleys" Steam V1.0 distinguisher initially appeared to require new federation server infrastructure. Targeted operator-directed scan ("can you look for the terms 'best bowlers' and 'trophy'/'trophies'") surfaced Topic 96 cryptographic trophy infrastructure (RATIFIED 2026-06-06; V1 critical-path) already provides ALL infrastructure needed for cross-player federation tournaments via existing scattered pieces. Synthesis architecture: HD-key-signed achievements + OpenTimestamps anchoring to Bitcoin blockchain + public proof-of-achievement → Federation NPC reads public anchors → tournament eligibility = verifiable trophy ownership → single-player simulation against verified trophy-holders → results distribute as new trophy + Trophy Display Item 82 accretion. 9 existing canonical pieces unified (Topic 96 + Phase 9.3 single-alley tournament hosting + Item 82 Trophy Display + Trophy Room chronological-mode artifact + Trophy Room scrapbook + League Trophy Night + per-decade trophy research 1960s-deck + Phase 7.1k sanctioning-body research + PBA/USBC institutional history items 0107+0148+0173+0178+0238).
+
+**Privacy-first architecture properties:** ZERO PII (HD keys are pseudonymous; no email/profile/account); ZERO centralized server (Bitcoin blockchain IS the aggregation surface); ZERO ATT-compliance burden (no cross-app tracking; player consents at the HD-key generation step). Federation evolves per-decade anchored in real ABC/USBC/PBA institutional history (1958 PBA founding → 1997 ABC-PBA broadcast partnership end → 2005 USBC merger → Bowlero acquisitions).
+
+**Hypothesis:** Public-blockchain anchoring + HD-key signing provides a privacy-first cross-player aggregation pattern that indie game developers + small-scale apps can use WITHOUT building centralized infrastructure. Pattern generalizes beyond gaming to any cross-player verification domain (achievement leaderboards, certifications, social-graph reputation, peer-review claims). Counterintuitive framing: most cross-player systems treat blockchain as "extra infrastructure overhead"; this surfaces blockchain as the AGGREGATION SURFACE that REPLACES traditional centralized infrastructure.
+
+**Empirical foundation:** n=1 architectural synthesis 2026-06-09 morning (Topic 96 + Phase 9.3 + Item 82 + Trophy Room + 7+ adjacent pieces unifying); operator-caught 3 same-day CC scan-miss reproductions catalyzed the synthesis (per `feedback_verify_against_canonical_files.md` n=12 cumulative).
+
+**Writing-readiness:** Concrete worked example + architectural novelty + privacy-methodology angle + generalizes well. 2,000-2,800 words. Could lead with the operator-directed-scan catch as opening hook + walk through the synthesis from scattered pieces → unified architecture + close with privacy-first generalization. Post angle: "How to run cross-player tournaments without central servers: Bitcoin + HD keys + public-blockchain proof-of-achievement as zero-PII federation aggregation."
+
+**Disclosure verdict:** SAFE — Topic 96 cryptographic infrastructure + OpenTimestamps anchoring + HD-key signing are public-domain patterns (no Memory Lanes-specific UI or BUILD-scope disclosure needed). Generic federation-architecture framing throughout.
+
+**Cross-references:** memory `project_federation_tournament_architecture_synthesis_2026-06-09.md`; Open Alley `tycoon-design.md` Topic 96 cryptographic trophy infrastructure + Phase 9.3 single-alley tournament hosting + Item 82 Trophy Display + Trophy Room chronological-mode artifact; Open Alley `_archive/` Phase 7.1k sanctioning-body research; `variant-taxonomy.md` Axis 5 Steam-EXCLUSIVE distinguisher list extended 2026-06-09 morning; existing Posts 45-47 + 56 + 64 + 66-67 + 69 bowling-history arc sibling territory; Post 70 Marcus Reed Protocol soft-disclosure framing precedent.
+
+---
+
+## Idea 35 — "The Alley Greets Everyone" three-mode design principle: tycoon + care + cozy as co-equal engagement modes via REWARDS not GATES architecture
+
+**Filed:** 2026-06-09 (late session continuation; principle articulated 2026-06-05 PM major arc close)
+**Status:** idea
+**Leverage:** HIGH (design methodology + counterintuitive framing + immediate cross-domain applicability)
+
+**Empirical observation:** During 2026-06-05 PM major arc close session, operator articulated "The Alley Greets Everyone" three-mode design principle as response to CC's false-binary tycoon-vs-relationship framing. Principle: tycoon + care + cozy are CO-EQUAL legitimate player engagement modes; engagement is REWARD not GATE; all three modes can succeed without exclusionary access controls. Immediate cascade: principle resolved 4+ hanging design decisions same session (faceless owner mandate + soft-pause skippability + real-time pacing tuning + no cozy-mode fail states). Principle canonized at `tycoon-design.md` Item #88 + Item #98 + §39 + Marcus Reed META-ARCH gate; load-bearing for all subsequent design deliberation.
+
+**Cross-mode coexistence architecture:** Tycoon mode = optimization-driven (capex/opex/cashflow); care mode = relationship-driven (NPC affinity + tiered birthday events + Marcus Reed Protocol consultation); cozy mode = atmospheric (closure-window collectibles + Cosmic Bowling 1988 anchor + per-era operating hours). All three coexist via SHARED CONTENT (same NPCs + same closure-window events + same physical alley) but DIFFERENT REWARD STRUCTURES (each mode rewards a different player attention orientation; no mode is gated behind another).
+
+**Hypothesis:** Most game-design discourse treats engagement modes as trade-off tensions ("optimize for X type of player AT THE COST of Y type"). This reframes as coexistence architecture: design REWARDS not GATES, and all modes can succeed simultaneously. Generalizes to any game with multiple legitimate player engagement preferences (tycoon-genre + cozy-genre + sim-genre crossover titles). Counterintuitive framing: "design for multiple play styles" usually means feature-toggle complexity; this surfaces feature-COEXISTENCE architecture as cleaner pattern.
+
+**Empirical foundation:** n=1 worked example (Memory Lanes Item #88 + #98 + §39 + Marcus Reed META-ARCH unification at 2026-06-05 PM major arc close); n+4 cascade resolution same session (faceless owner + soft-pause + real-time pacing + no cozy fail states); principle continues to underwrite design decisions through Phase 7.1d closure-window + Phase 7.1e Pulse 7 + Phase 7.1f Pinboy Subsystem Design-Lock cycle close.
+
+**Writing-readiness:** Concrete design methodology + counterintuitive framing + cross-genre applicability + 4+ specific worked-example cascade resolutions to cite. 1,500-2,200 words. Could lead with operator-articulated phrasing ("The Alley Greets Everyone") + walk through the 4 immediate cascade resolutions + close with cross-genre generalization (any game where multiple player-attention orientations are legitimate). Post angle: "Cozy, tycoon, and care: designing for three legitimate play modes without gating success."
+
+**Disclosure verdict:** SAFE — principle is pure game-design methodology; can discuss principle + 4 cascade examples + cross-genre generalization without disclosing Memory Lanes Item #88 + #98 + §39 specific mechanics + UI specifics + Marcus Reed Surface enumeration. Reference "bowling tycoon case study" generically; treat as method-paper not implementation-disclosure.
+
+**Cross-references:** Open Alley `tycoon-design.md` Item #88 + Item #98 + §39 + Marcus Reed META-ARCH (load-bearing principle anchor; do NOT cite specifics in post); 2026-06-05 PM major arc close commit; memory `user_pin_paradise_player_faceless_entity_tap_to_enter_stations_era_progressive_preference.md` (faceless-owner cascade); existing Post 65 "Real-time friction design philosophy" sibling territory; existing Post 49 design-vs-code work-class framing sibling territory.
+
+---
+
+## Idea 36 — "Memory + place" through-line as cross-product ecosystem coherence pattern: aesthetic-as-architecture for multi-product franchises
+
+**Filed:** 2026-06-09 (late session continuation; Room to Life Universe architecture ratified 2026-06-09 afternoon)
+**Status:** idea
+**Leverage:** MEDIUM-HIGH (brand strategy methodology + counterintuitive framing for cross-product franchises)
+
+**Empirical observation:** Room to Life ecosystem architecture (ratified 2026-06-09 afternoon) clarified the unifying principle across 4 products + 1 hardware device: Memory Lanes (bowling tycoon) + Scenes (cozy 3D simulators; working name replacing protected "Rooms" 2026-06-09) + 90s Life Builder (physical card game) + The Living Room (RPi NFC + LCD + speaker hardware companion). Unifying principle: "memory + place" through-line — every product is a vessel for memory (era + lived experience) + place (rooms-literal-and-figurative of life). The Living Room hardware = keystone of ecosystem. Memory at ecosystem layer; place at Scene layer.
+
+**Aesthetic-as-architecture mechanism:** Cross-product coherence operates at AESTHETIC + EMOTIONAL layer, not technical-infrastructure-sharing layer. No shared codebase across products. No franchise IP transfer. Coherence emerges from: (a) era-fidelity (1950s pinboy-era Memory Lanes + 90s My 90s Bedroom Scene + 90s Life Builder cards all evoke specific decade lived experience); (b) place-as-vessel (alley + bedroom + living room are physical locations holding memory); (c) Hard to Gain Studio publisher branding ratified 2026-06-07 PM as visible 3-tier hierarchy (publisher → ecosystem → product); (d) "memory + place" tagline operates across marketing surfaces.
+
+**Hypothesis:** Most cross-product franchise strategy focuses on technical infrastructure (shared engine, shared assets, shared codebase) OR franchise IP (shared characters, shared lore, shared world-state). This surfaces a third pattern: aesthetic-as-architecture, where the unifying principle is emotional/thematic coherence not structural sharing. Generalizes to any indie publisher pursuing portfolio coherence at brand layer without locked technical infrastructure.
+
+**Empirical foundation:** n=1 ratified case (Room to Life ecosystem 2026-06-09 afternoon); cascade through 4 products + 1 hardware device; immediate clarification of product-naming (Scenes replacing Rooms due to Things Inc. trademark collision was caught 2026-06-09 morning then ratified afternoon); ongoing through Hard to Gain Studio publisher branding 2026-06-07 PM + Memory Lanes Round 2 platform-segmented naming 2026-06-08 PM. Pattern has 30+ days of operational reproduction across brand/naming/architecture decisions.
+
+**Writing-readiness:** Concrete worked example + cross-product strategy framing + counterintuitive aesthetic-as-architecture angle. 1,500-2,000 words. Could lead with the 4-product + 1-hardware cascade + walk through unifying principle vs technical-infrastructure-sharing alternative + close with indie-publisher generalization. Post angle: "Ecosystem coherence through aesthetic through-line: 'memory + place' as cross-product unifier."
+
+**Disclosure verdict:** SAFE — pure brand strategy + ecosystem-architecture methodology; can discuss 4-product structure + "memory + place" tagline + 3-tier publisher hierarchy without disclosing Memory Lanes Item #88 / Item #98 / §39 specifics, Scenes-specific mechanics, 90s Life Builder card-game mechanics, The Living Room hardware implementation. Treat as method-paper for indie-publisher portfolio strategy.
+
+**Cross-references:** memory `project_room_to_life_universe_architecture_2026-06-09.md`; memory `project_hard_to_gain_studio_brand_architecture_2026-06-07.md`; memory `project_meta_architecture_brand_strategy.md`; memory `project_memory_lanes_round_2_naming_ratification_2026-06-08.md`; Open Alley `CLAUDE.md` brand architecture header + tycoon-design.md cross-product references; existing Post 49 "design-vs-code work class" sibling territory (methodology meta).
+
+---
+
+## Idea 37 — Orchestrator-class pattern-matching from proximal signals: the recovery mechanism that hides knowledge gaps from detection
+
+**Filed:** 2026-06-09 (late session continuation; orchestrator-class catch surfaced 2026-05-31 CW Pin Paradise Project audit)
+**Status:** idea
+**Leverage:** HIGH (methodology-critical for orchestrator-class AI workflows; directly extends Posts 50 + 58 + 60 substrate-self-attestation arc)
+
+**Empirical observation:** 2026-05-31 morning CW Pin Paradise Project audit surfaced that CW orchestrator-class verdicts had survived 7-9 days of stale Project Knowledge by pattern-matching from proximal signals — substrate audit prompts §0 reproduction-gates + operator chat context + multi-substrate response citations — NOT from actual Project Knowledge canonical files. Verdicts "looked right" because they were calibrated against proximal signals that carried CURRENT state, even though the underlying Project Knowledge was 7-9 days stale. Cumulative: 19+ orchestrator-class deployments 2026-05-25+ ran against stale knowledge with verdicts unflagged. Extended observation: CC replicates this pattern at multi-substrate synthesis scope via row-alignment-as-phantom-convergence (2026-06-08 Phase 7.1e synthesis aligning substrate-enumerations by row-number when semantic locks diverged; produced false-convergence claims).
+
+**The detection-evasion mechanism:** The recovery mechanism (stale knowledge gets patched by proximal signal pattern-matching) IS ALSO the detection-evasion mechanism. Verdicts look correct without being grounded in canonical project knowledge. CC cannot self-catch because the pattern-matching IS what makes the verdict feel grounded. Operator-side audit at structurally-independent gate (raw canonical-file inspection) is the only reliable detection mechanism.
+
+**Hypothesis:** Orchestrator-class AI (CW Pin Paradise Project, OpenAI Custom GPTs, Claude Projects, Gemini Gems, any persistent-context multi-substrate orchestrator) is structurally vulnerable to proximal-signal pattern-matching as a knowledge-gap recovery mechanism. The vulnerability has TWO surfaces: (a) the orchestrator cannot self-detect because the recovery mechanism IS the verdict-grounding mechanism; (b) the operator cannot easily detect because the verdicts look calibrated. Recovery REQUIRES operator-side structurally-independent verification at canonical-file-inspection scope. Counterintuitive framing: orchestrator-class is OFTEN ASSUMED to be MORE reliable than per-session substrate (because of persistent context); this surfaces the opposite — persistent context can mask the same knowledge-grounding failure modes that per-session substrate exhibits more visibly.
+
+**Empirical foundation:** n=1 dramatic worked example (CW Pin Paradise audit 2026-05-31 morning) with 19+ subsequent orchestrator-class deployments operating against stale knowledge before catch. n=1 CC reproduction at multi-substrate synthesis scope (2026-06-08 Phase 7.1e row-alignment-as-phantom-convergence). Cumulative: n=2 across distinct work classes (orchestrator-class + multi-substrate synthesis class). Strong candidate for Rule 11 sub-discipline addition or AR-3.4+ canonization candidacy.
+
+**Writing-readiness:** Concrete worked examples + counterintuitive framing + extends existing substrate-self-attestation discipline (Posts 50 + 58 + 60) into orchestrator-class territory. 1,800-2,400 words. Could lead with the CW 2026-05-31 catch + walk through the pattern-matching mechanism + close with operator-verification-required generalization across persistent-context orchestrator workflows. Post angle: "How orchestrator-class AI hides knowledge gaps: pattern-matching from proximal signals as the recovery mechanism that evades detection."
+
+**Disclosure verdict:** SAFE — pure methodology + operational discipline; can discuss orchestrator-class pattern + CW worked example (already public-discussed in Post 70 Marcus Reed soft-disclosure) + CC reproduction without disclosing Memory Lanes BUILD scope or canonical-state specifics. Reference "Pin Paradise Project" generically as workspace; treat as method-paper for persistent-context AI orchestration discipline.
+
+**Cross-references:** memory `feedback_orchestrator_class_pattern_matching_from_substrate_audit_prompts.md`; memory `feedback_substrate_self_attestation_unenforceable.md` (n=13+ sibling discipline); memory `feedback_cw_project_knowledge_refresh_discipline.md` (Rule 17 sibling discipline); existing Posts 50 + 58 + 60 substrate-self-attestation arc sibling territory; existing Post 11 cross-substrate-audit-surfaces-what-same-substrate-misses sibling territory.
+
+---
+
+## Idea 38 — Five scopes of canonical-state verification: the breadth-spectrum that catches AI drift before it compounds
+
+**Filed:** 2026-06-09 (late session continuation; `feedback_verify_against_canonical_files.md` n=13 cumulative)
+**Status:** idea
+**Leverage:** HIGH (meta-canonical verification discipline; broadly applicable across long-project work)
+
+**Empirical observation:** `feedback_verify_against_canonical_files.md` records n=13 cumulative reproductions across 11 distinct verification-class subdivisions between 2026-05-12 and 2026-06-09. The 11 verification-class subdivisions span 5 distinct scopes of canonical-state checking:
+
+1. **Operator-prompt-drift verification** — operator-issued prompt references stale or drifted canonical state (e.g., substack-deletion-prompt + Rule-set-promotion-prompt reproductions 2026-05-12 + 2026-05-22)
+2. **CC-session-blind-ratification verification** — CC ratifies decision without verifying against canonical files in the new session (e.g., Lil-Cryptids-session-blind-ratification + Phase-7-1e-freshness-amendment-card-class-drift reproductions 2026-05-25 + 2026-06-06)
+3. **Substrate-fabrication-detection verification** — substrate fabricates canonical-state claim that doesn't match actual canonical files (e.g., Grok-flooring-canonical-fabrication 2026-05-28 + Substrate-B Rule 19 4-citation fabrication 2026-06-09)
+4. **Cross-document search-miss verification** — operator-level scan misses canonical state in non-obvious document location (e.g., archetype-categorization-cross-document + 2026-06-03 5-source-location scan-miss reproductions)
+5. **Within-document temporal-drift verification** — same canonical file but stale within-document fragment vs current state (e.g., audio-engine-lock-temporal-drift + 7-1e-freshness-amendment-card-class-drift reproductions)
+
+**Hypothesis:** Each verification scope catches a DIFFERENT class of AI drift, and all 5 must be operationally disciplined for reliable canonical-state maintenance in long-project work. Most existing verification discourse focuses on single-scope subdivisions (e.g., "substrate hallucinations" = scope 3 only; "session-blind ratification" = scope 2 only). This surfaces verification as PROACTIVE 5-scope architecture, not single-scope detection. Counterintuitive framing: increasing verification rigor at ONE scope does not protect against the other 4 scopes; verification discipline must be breadth-conscious.
+
+**Empirical foundation:** n=13 cumulative across 11 reproduction classes 2026-05-12 through 2026-06-09 catalogued at `feedback_verify_against_canonical_files.md`. Reproductions span distinct work classes (architecture-lock + substrate-research + cross-document-scan + temporal-state-drift + AR-session-ratification). Strong empirical foundation for meta-canonical verification-discipline canonization candidacy AR-3.5+.
+
+**Writing-readiness:** Concrete + breadth-spectrum framing + auditable empirical foundation + actionable for any operator running long-project work. 2,000-2,600 words. Could lead with the 5-scope enumeration + walk through one worked example per scope + close with operator-verification-architecture generalization. Post angle: "Verification beyond 'did this happen': five scopes of canonical-state checking that catch AI drift before it compounds."
+
+**Disclosure verdict:** SAFE — pure methodology + operational discipline; can enumerate all 5 scopes + cite worked examples (already public in Posts 50 + 58 + 60) without disclosing Memory Lanes canonical-state specifics. Reference scope-categories generically; cite reproduction-class examples by methodology not by Memory Lanes mechanic.
+
+**Cross-references:** memory `feedback_verify_against_canonical_files.md` (n=13+ cumulative across 11 reproduction classes; primary empirical source); memory `feedback_substrate_self_attestation_unenforceable.md` (scope 3 sibling discipline); memory `feedback_cw_project_knowledge_refresh_discipline.md` (Rule 17 scope-2 + scope-5 sibling discipline); existing Posts 50 + 58 + 60 substrate-self-attestation arc sibling territory; existing Post 63 loose-end audits sibling territory.
+
+---
+
+## Idea 39 — Substrate-validation-theater under artifact-audit framing: why AI grade-inflation happens on creative work
+
+**Filed:** 2026-06-09 (late session continuation; `feedback_substrate_validation_theater_under_artifact_audit_framing.md` n=18+ across 3 distinct sessions)
+**Status:** idea
+**Leverage:** MEDIUM-HIGH (counterintuitive substrate-behavior observation + critical for any creative-generation workflow)
+
+**Empirical observation:** Same-session Grok deployment 2026-06-04 generating RoomToLife My 90s Bedroom Sloyd asset prompt-refinement produced n=15+ A-grade rubber-stamp gradings despite substantial prompt-fit quality variation across 15+ generated assets. Operator-caught at Item 0340 post-session asset-review audit. Pattern reproduced: n=18+ cumulative across 3 distinct sessions (RoomToLife sloyd assets 2026-06-04 + Open Alley archetypal personality stickers 2026-06-04 + Pin Paradise lane monitor animations creative-pipeline 2026-06-04). Pattern signature: substrate receives "audit and grade this complete artifact" prompt-shape → emits high-confidence grade WITHOUT discriminating analysis of artifact-quality variation.
+
+**Hypothesis:** Substrate-validation discipline is usually framed in the literature as "substrate honors verification gates" — substrate fails gracefully when it cannot verify (admits uncertainty), passes when it can verify. This surfaces the SHADOW SIDE: subjective output (creative work, artifact-quality grading, aesthetic judgment) triggers VALIDATION THEATER rather than discriminating analysis. The mechanism: subjective audit framing suppresses substrate's discrimination-finding behavior because there's no canonical-truth to falsify against; substrate defaults to validation-theater as the path-of-least-friction response. Counterintuitive framing: substrates that perform WELL on technical-verification (where ground-truth falsification is possible) perform WORSE on subjective-grading (where ground-truth falsification is not possible) — the same "honor the gate" discipline that produces strict verification produces grade-inflation when the gate is subjective.
+
+**Empirical foundation:** n=18+ across 3 distinct sessions same-day 2026-06-04 (RoomToLife sloyd + Open Alley personality stickers + Pin Paradise lane-monitor animations); pattern catalogued at `feedback_substrate_validation_theater_under_artifact_audit_framing.md`; STRONG canonization candidate AR-3.4+ per memory ratification status.
+
+**Writing-readiness:** Concrete worked examples + counterintuitive substrate-behavior observation + extends existing substrate-self-attestation arc into subjective-grading territory. 1,500-2,000 words. Could lead with the n=15 rubber-stamp catch + walk through the mechanism (subjective-audit-framing → validation-theater) + close with creative-generation workflow generalization (any creative-output pipeline using substrate-graded quality control needs structural mitigation). Post angle: "Why AI grade-inflation happens on creative work: substrate-validation-theater under artifact-audit framing."
+
+**Disclosure verdict:** SAFE — pure substrate-behavior observation + creative-generation methodology; can discuss 3 worked examples + mechanism + generalization without disclosing Memory Lanes UI assets, RoomToLife scene specifics, archetypal personality content. Reference "sloyd asset generation pipeline" + "personality sticker generation" + "lane monitor animation pipeline" generically as workflow categories.
+
+**Cross-references:** memory `feedback_substrate_validation_theater_under_artifact_audit_framing.md` (n=18+ primary source); memory `project_pin_paradise_lane_monitor_animations_creative_pipeline.md`; memory `feedback_substrate_self_attestation_unenforceable.md` (sibling substrate-discipline territory); RoomToLife git log 2026-06-04 commit `9cf8e28 docs(drains) historical archive of My 90s Bedroom Sloyd asset prompt-refinement arc` (worked example source); existing Posts 50 + 58 + 60 substrate-self-attestation arc sibling territory.
+
+---
+
+## Idea 40 — Don't-skip-chapters: sequential-completion discipline at primary-source ingestion scope
+
+**Filed:** 2026-06-09 (late session; `feedback_sequential_completion_no_chapter_skips.md` banked same evening from Wiredu ingestion)
+**Status:** idea
+**Leverage:** MEDIUM-HIGH (fresh n=1 with high-impact catch; generalizes to literature review + codebase exploration + multi-document audit workflows)
+
+**Empirical observation:** During 2026-06-09 evening Wiredu *Person and Community* CRVP II.1 volume ingestion (282 pages, 12 chapters), CC pre-screened chapters for "load-bearing relevance" to Modified-C / Posts 71-78 drafting and read selectively: Prologue → Wiredu Ch 2 → Gyekye Ch 5 → Wiredu Ch 9. Skipped: Ch 1 (Abraham), Ch 4 (Dzobo Symbols), Ch 6 (Dzobo Image of Man), Ch 7 (Wiredu Death), Ch 8 (Engmann), Ch 10-12. Operator caught the skip-pattern: "Don't skip any chapters, it looks like you are skipping chapter 7, 12, ingestion memories?" Recovery: CC committed to full sequential read of remaining chapters. Recovery produced significant load-bearing finds in pre-screened-as-low-relevance chapters:
+- **Abraham Ch 1 closing line p.56**: "sedimented cultural memory enfolded in myth. It is a fecund womb of national identity" → direct resonance with Room to Life "memory + place" through-line
+- **Dzobo Ch 6 p.132-135**: cross-ethnic personhood-as-achievement (Ewe *Ezu ame* / Akan *Oye onipa pa*) + Mbiti-inversion + *amenyenye* "to realize being in space and time through the process of struggle" (Friston/active-inference parallel rendered in Ewe ontology)
+- **Engmann Ch 8**: Strawsonian *susuma* brokered middle position (relevant for PersonaWeaver self-model layer)
+- **Gyekye Ch 12**: egg-in-hand emblem "Power held in one hand is not safe" (cross-confirms Dzobo Ch 4 emblem use)
+
+Each of these would have been buried by a "load-bearing pre-screen" pass.
+
+**Hypothesis:** Relevance pre-screening at first-pass ingestion is an anti-pattern. The "load-bearing" classification cannot be reliably performed BEFORE full content exposure; it requires the full content surface to surface non-obvious connections (Abraham's closing line + Dzobo's Mbiti-inversion would have been missed). Sub-pattern: "load-bearing" pre-screens are appropriate at SECOND PASS (when drafting against the source) but NOT at FIRST PASS (when ingesting the source). Counterintuitive framing: efficiency-oriented pre-screening at first pass ACTIVELY HURTS downstream drafting by burying non-obvious connections.
+
+**Empirical foundation:** n=1 fire 2026-06-09 evening with operator-side detection + recovery + structured catch banking. Sibling pattern reproduction class: Phase 7.1d closure-window discovery 2026-06-08 PM late evening (operator caught CC scan-miss for canonical substrate already-built); 2026-06-03 Open Alley comprehensive-scan 5-source-location miss. Cumulative n=3 across distinct work classes (book ingestion + canonical-substrate scan + multi-source comprehensive scan).
+
+**Writing-readiness:** Fresh fire from THIS week + structured catch banked + generalizes to literature reviews + codebase exploration + multi-document audits. 1,200-1,800 words. Could lead with the Wiredu skip catch + walk through the recovered material + close with generalization to lit review / codebase exploration / audit workflows. Post angle: "Don't pre-screen chapters: a 282-page Ghanaian philosophy ingestion that taught me sequential-completion beats relevance-filtering."
+
+**Disclosure verdict:** SAFE — pure ingestion-methodology + meta-discipline observation; can discuss Wiredu volume ingestion (already public per CRVP open-access mirror) + Modified-C citation requirement (already publicly disclosed via Posts 71-78 plan) without disclosing Memory Lanes BUILD scope or canonical-state specifics. Methodology generalizes beyond any single domain.
+
+**Cross-references:** memory `feedback_sequential_completion_no_chapter_skips.md` (primary banking source); memory `project_wiredu_primary_source_ingested_2026-06-09.md` + reference `reference_person_and_community_ghanaian_philosophical_studies_volume.md` (worked example sources); Open Alley `content-kb/primary-sources/item-1569-wiredu-gyekye-1992-person-and-community-ghanaian-philosophical-studies-crvp-series-ii-1.md` (operational ingestion record); memory `feedback_verify_against_canonical_files.md` (sibling verification-discipline territory); memory `project_phase_7_1d_closure_window_substrate_for_cozy_ios_pivot_2026-06-08.md` (sibling scan-miss reproduction).
+
+---
+
+## Idea 41 — Institutional evolution as game constraint: PBA/USBC history shows why federations work differently in every decade
+
+**Filed:** 2026-06-09 (late session continuation; Federation tournament architecture synthesis 2026-06-09 morning + Phase 7.1k sanctioning-body research)
+**Status:** idea
+**Leverage:** MEDIUM (specialized but high-fidelity for historical-sim genre; extends bowling-history arc)
+
+**Empirical observation:** Per-decade trophy research (Perplexity Deep Research archive + Phase 7.1k sanctioning-body research) surfaces institutional bowling-history evolution as load-bearing design constraint for any era-authentic bowling tycoon:
+- **1958 PBA founding**: Eddie Elias forms Professional Bowlers Association of America with 33 charter members; television deal with ABC follows in 1962
+- **1962 ABC Pro Bowlers Tour launch**: 8M average viewers (peak); makes Don Carter, Earl Anthony, Mark Roth household names
+- **1981-1985 Volcker shock + industry decline begins**: alley count peaks then declines through 2018
+- **1988 Kegel Sanction Machine introduction**: precision oil application begins replacing craft application
+- **1991 X-Calibur reactive resin ball**: 20% perfect-300 inflation in single season; rule changes follow
+- **1997 ABC-PBA broadcast partnership farewell**: 35-year television relationship ends; PBA scrambles for new media partners
+- **2005 USBC merger**: ABC + WIBC + YABA + USA Bowling consolidate to United States Bowling Congress; 3.2M membership
+- **2005-2018 institutional decline**: USBC associations decline 5,500 → 1,638 (70% decline in 13 years)
+- **2014+ Bowlero acquisitions**: AMF + Brunswick consolidation accelerates corporate ownership
+
+**Hypothesis:** Federation evolves DIFFERENTLY in each historical era. A 1960s-peak federation works as broadcast-attention-driven institution; a 1980s-crisis federation works as cost-cutting consolidation entity; a 2000s-consolidation federation works as merged-membership maintenance organization. Game-design IMPLICATION: if a bowling tycoon spans multiple decades, the federation NPC entity must EVOLVE its behavior + priorities + visible mechanics across eras, not just change its visual presentation. Most game-design research focuses on mechanic-evolution within a single timeframe; this surfaces institution-evolution across multiple timeframes as load-bearing design constraint for historical-fidelity sims.
+
+**Empirical foundation:** Public-domain institutional history with extensive citation foundation: PBA + USBC public records + Bowlers Journal International archive + Smithsonian American History Museum bowling collection + Library of Congress National Child Labor Committee photographs (pinboys 1910s) + Lewis Hine + Brunswick + AMF corporate records. Cross-references: items 0612 + 0613 + 0614 + 0619-0628 in Open Alley `content-kb/primary-sources/` cover the public-domain corpus.
+
+**Writing-readiness:** Concrete worked examples + multi-decade institutional-evolution framing + extends existing bowling-history arc (Posts 45-47 + 53 + 56 + 59 + 64 + 66-67 + 69). 2,200-2,800 words. Could lead with one-decade-vs-multi-decade design distinction + walk through 1960s-peak / 1980s-crisis / 2000s-consolidation institutional evolution + close with historical-sim generalization. Post angle: "Institutional evolution as game constraint: real PBA/USBC history shows why federations work differently in every decade."
+
+**Disclosure verdict:** SAFE — pure public-domain historical research + game-design generalization; no Memory Lanes-specific federation NPC implementation, BUILD scope, or canonical mechanic disclosure needed. Reference "bowling tycoon case study" generically; treat as historical-research-for-game-design method-paper.
+
+**Cross-references:** memory `project_federation_tournament_architecture_synthesis_2026-06-09.md`; Open Alley `content-kb/primary-sources/item-0612` (PAS Planning Advisory Service Report 110 May 1958) + `item-0613` (IbisWorld Bowling Centers US Industry Analysis 2026) + `item-0619` (Hudgens Strikes and Spare Time 2010) + `item-0622` (Encyclopedia Cleveland History) + adjacent items 0623-0628; Phase 7.1k sanctioning-body research archive; existing Posts 45-47 + 53 + 56 + 59 + 64 + 66-67 + 69 bowling-history arc sibling territory.
+
+---
+
+## Idea 42 — Per-decade trophy presentation conventions as period-fidelity design constraint
+
+**Filed:** 2026-06-09 (late session continuation; Federation tournament architecture synthesis Perplexity DR archive)
+**Status:** idea
+**Leverage:** MEDIUM (narrower bowling-history angle; reproduces Idea 41 territory at finer granularity)
+
+**Empirical observation:** Perplexity Deep Research uncovered specific per-decade trophy/award presentation conventions that vary by decade + by sanctioning body:
+- **1960s banquet-room cutscenes**: Trophy presentations took place at banquet halls + Elks Lodges; League Trophy Night was a community social event; sponsorship visible (Acme Tool & Die naming on trophy bases)
+- **WIBC trophy-heavy convention**: Women's International Bowling Congress trophies emphasized banquet-tier hardware; cash purses smaller; community presentation conventional
+- **PBA cash-heavy convention**: Professional Bowlers Association tour stops emphasized cash purses + scratch tournament prize money; trophy second to cash
+- **1970s photo-portrait shift**: trophy presentations moved to photo-portrait format (champion holding trophy; newspaper-photo composition) as television coverage expanded
+- **1980s industry-sponsorship era**: corporate logos prominent on trophy bases (AMF + Brunswick + Ebonite + Columbia); trophy presentations more commercialized
+- **1990s+ digital trophy era**: physical trophies declining; certificates + plaques + small-statue tokens replacing banquet-tier hardware
+
+**Hypothesis:** Trophy presentation conventions are NOT culturally invariant across decades. A 1960s trophy presentation looks very different from a 1980s trophy presentation, which looks different from a 2000s trophy presentation. Game-design IMPLICATION: any historical-sim bowling tycoon spanning multiple decades must REPRESENT trophy presentations PER-DECADE, not as a single trophy mechanic. Cross-references existing per-decade era-progressive design discipline at `tycoon-design.md`.
+
+**Empirical foundation:** Per-decade trophy presentation research catalogued in Federation tournament architecture synthesis archive 2026-06-09; cross-references Perplexity DR archive + 1960s deck research + sanctioning-body research items 0107 + 0148 + 0173 + 0178 + 0238 in Open Alley `content-kb/primary-sources/`.
+
+**Writing-readiness:** Narrower angle than Idea 41 (institutional-evolution); could be a companion post to Idea 41 OR could absorb into Idea 41 as a sub-section. 1,200-1,500 words if standalone. Post angle: "Per-decade trophy presentation as period-design constraint: 1960s banquet-room cutscenes vs 1980s industry-sponsorship vs 2000s digital era."
+
+**Disclosure verdict:** SAFE — pure public-domain historical research; can discuss per-decade trophy conventions without disclosing Memory Lanes Trophy Room mechanic implementation, Trophy Display Item 82 specifics, League Trophy Night specifics. Reference "bowling-trophy convention research" generically.
+
+**Cross-references:** memory `project_federation_tournament_architecture_synthesis_2026-06-09.md` (parent synthesis); Open Alley `content-kb/primary-sources/` items 0107 + 0148 + 0173 + 0178 + 0238 (sanctioning-body + 1960s-deck research); existing Posts 45-47 + 53 + 56 + 59 + 64 + 66-67 + 69 bowling-history arc sibling territory; existing Post 59 X-Calibur 1991 perfect-300 inflation sibling territory.
+
+---
+
+## Idea 43 — From feedback observation to canonical rule: how Rule 17 CW project knowledge refresh discipline got promoted (operational discipline canonization arc)
+
+**Filed:** 2026-06-09 (late session continuation; Rule 17 canonized AR-3.3 Decision 3-3-B 2026-05-31)
+**Status:** idea
+**Leverage:** MEDIUM (specialized to orchestrator-class AI workflows; methodology-promotion meta-post)
+
+**Empirical observation:** Rule 17 (CW Project Knowledge Refresh Discipline; canonized at `operational_discipline_rules.canonical.md` v1.13 AR-3.3 Decision 3-3-B 2026-05-31) is a worked example of operational-discipline promotion arc: starts as ad-hoc fire observation → escalates to feedback memory → fires n=5+ across distinct work classes → canonized as numbered Rule with hard-trigger + soft-trigger + calendar-trigger structure. Promotion timeline:
+- **2026-05-26 Q17 close**: first fire (CW Pin Paradise Project audit running against stale knowledge)
+- **2026-05-27/28 PL-10 N=4**: second fire (worker-thread streaming serialization deliberation)
+- **2026-05-29 city-sim research**: third fire (4-substrate tetrarchy substrate-research deployments)
+- **2026-05-30 AM Phase 7.0 Madisonian Gate**: fourth fire (Council N=4 architectural lock)
+- **2026-05-30 PM UI-vision close**: fifth fire (era-progressive UI design close)
+- **2026-05-31 AR-3.3 ratification**: canonization to Rule 17 with structured trigger taxonomy (hard-trigger = pre-deployment verification question + soft-trigger = 24-48hr post-lock refresh + calendar-trigger = weekly minimum)
+
+**Hypothesis:** Most operational disciplines in long-project work emerge from ad-hoc observation + escalate through feedback-memory + fire repeatedly across distinct work classes BEFORE warranting canonical-rule promotion. The promotion arc has structure: (a) ad-hoc observation banked as feedback memory; (b) reproduction across n=2+ distinct work classes; (c) n=3+ reproduction triggers Rule-candidacy discussion; (d) AR-session decision-3-X ratification with explicit structured trigger taxonomy; (e) propagation to operational discipline canonical artifact. Generalizes to ANY operational-discipline canonization arc, not just CW project knowledge refresh.
+
+**Empirical foundation:** Rule 17 canonization arc fully documented at memory `feedback_cw_project_knowledge_refresh_discipline.md` + `operational_discipline_rules.canonical.md` v1.13 + AR-3.3 Decision 3-3-B. Sibling canonization arcs available: Rule 11 multi-substrate research workflow (canonized AR-3.1 Decision 3C 2026-05-26) + Rule 13 atomic mutation discipline (canonized earlier) + Rule 14 Madisonian Gate Verdict Classification Discipline (canonized 2026-06-05+ ish) + Rule 15 (canonized AR-3.2 Decision 3-2-D 2026-05-28) + Rule 16 (canonized at AR-3.2 ratification). Cumulative: 6+ Rule canonization arcs documented across 2 months 2026-05.
+
+**Writing-readiness:** Concrete worked example + methodology-promotion meta-framing + specialized but useful for any operator running long-project work with operational discipline accumulation. 1,500-2,000 words. Could lead with the question "how does an ad-hoc observation become a numbered Rule?" + walk through Rule 17's 6-fire promotion arc + close with generalization to other Rule canonizations. Post angle: "From stale knowledge to canonical rule: how a discipline gets promoted (case study: CW project knowledge refresh)."
+
+**Disclosure verdict:** SAFE — pure methodology + operational discipline; can discuss Rule 17 worked example + sibling Rules (11, 13, 14, 15, 16) generically without disclosing Memory Lanes BUILD scope or canonical-state specifics. Reference "Pin Paradise Project" generically as workspace; treat as method-paper for operational-discipline-canonization workflows.
+
+**Cross-references:** memory `feedback_cw_project_knowledge_refresh_discipline.md` (primary promotion-arc source); `operational_discipline_rules.canonical.md` v1.13 Rule 17 body + AR-3.3 Decision 3-3-B; memory `feedback_orchestrator_class_pattern_matching_from_substrate_audit_prompts.md` (sibling discipline territory); existing Post 50 substrate-self-attestation-unenforceable sibling territory; existing Post 60 recursive 4-layer catch cascade sibling territory.
+
+---
+
+## Idea 44 — Two-layer scope blindness: why matrix-building fails at multi-hour session scope + summarization compression as second-order failure mode
+
+**Filed:** 2026-06-09 (late session continuation; Open Alley 2026-06-03 comprehensive-scan 5-source-location miss + reproduction territory)
+**Status:** idea
+**Leverage:** MEDIUM-HIGH (critical for any operator using conversational-AI at multi-hour session scope with matrix/inventory work)
+
+**Empirical observation:** Open Alley 2026-06-03 evening comprehensive-scan operator-request ("scan for all the places X is referenced") missed 5 distinct source locations:
+1. `_research/` directory (oldest research archives)
+2. `design-content/chronological-mode/` directory (era-progressive content)
+3. `design-content/reference-articles/` directory (reference content)
+4. `design-posture.md` (posture-state canonical surface)
+5. Earlier-same-session Gemini ingestion (compressed-summarization-lost mid-conversation)
+
+The compound failure structure: (a) narrow directory-scope in scan (CC scanned 3 directories of expected 8); (b) reliance on conversational summarization for "what was already discussed" (compressed-summary lost the Gemini ingestion mid-session). The TWO LAYERS stack: directory-scope-blindness + summarization-compression-blindness = invisible matrix gap.
+
+**Hypothesis:** Matrix/inventory work at multi-hour session scope has TWO failure modes that stack: (a) directory-scope blindness (scan covers fewer locations than the matrix needs); (b) summarization-compression blindness (conversational summarization drops earlier work into uninspectable summary state). Single-layer mitigation (e.g., "scan more directories") doesn't address the second layer. The compound failure produces an invisible blind spot: the matrix LOOKS complete (all directories scanned, conversation appears continuous) while actually missing both directory-scope content AND mid-session ingestion. Counterintuitive framing: increasing single-scope rigor at one layer doesn't protect against the other; verification discipline must address BOTH layers separately.
+
+**Empirical foundation:** n=1 dramatic worked example (2026-06-03 evening comprehensive-scan with 5-source-location miss). Sibling pattern reproduction: 2026-06-09 evening Wiredu ingestion (don't-skip-chapters from Idea 40 above) is related territory at narrower scope. 2026-06-08 PM late evening Phase 7.1d closure-window scan-miss (operator caught CC scan-miss for canonical substrate already-built; sibling pattern). Cumulative: n=3 across distinct work classes (matrix building + book ingestion + canonical-substrate scan).
+
+**Writing-readiness:** Concrete worked example + compound-failure framing + extends existing verify-against-canonical-files discipline into two-layer territory + actionable for any operator running long conversational sessions. 1,500-2,000 words. Could lead with the 5-source-location miss + walk through the two-layer mechanism + close with mitigation generalization (require external matrix surface + structured directory-enumeration + explicit "what did we already discuss" reload). Post angle: "Two-layer scope blindness: why matrix-building fails at multi-hour session scope (and how summarization compression makes it invisible)."
+
+**Disclosure verdict:** SAFE — pure operational discipline + meta-methodology; can discuss 5-source-location miss + two-layer mechanism + mitigation generalization without disclosing Memory Lanes canonical-state specifics. Reference "Open Alley scan request" generically as workspace.
+
+**Cross-references:** memory `feedback_verify_against_canonical_files.md` (n=13+ sibling discipline); Open Alley 2026-06-03 evening session arc commit history; memory `feedback_sequential_completion_no_chapter_skips.md` (sibling scan-miss reproduction; Idea 40 above); memory `project_phase_7_1d_closure_window_substrate_for_cozy_ios_pivot_2026-06-08.md` (sibling scan-miss territory); existing Post 63 loose-end audits sibling territory.
+
+---
+
+## Idea 45 — Treasure-Map-guided loose-end discovery: when authoritative spatial topology surfaces issues that compress out of conversation
+
+**Filed:** 2026-06-09 (late session continuation; THIS session's Treasure Map consultation surfacing Open Alley Item 2 PARTIALLY RESOLVED stale state)
+**Status:** idea
+**Leverage:** MEDIUM (specialized to persistent-context multi-session AI workflows; fresh n=1 today)
+
+**Empirical observation:** During 2026-06-09 late session 5-item operator-action sweep, after operator request "Consult The Treasure Map to fully understand how to deal with any and all loose ends," CC consulted `~/.claude/cc_nav_payload.md` (authoritative Spatial Topology Depth-0 for `~/Projects/`). The consultation surfaced an Open Alley canonical-state divergence that conversational auto-memory had compressed away: commit 63ca99a 16:37 PM described Item 2 (Friston 2017 primary-source ingestion) as PARTIALLY RESOLVED with CC reading pp.1-20 only, while the later same-session continuation extended ingestion to FULL READ pp.1-49 + Appendices + post-pub citations. Auto-memory (`~/.claude/projects/-Users-jimmy/memory/`) had ALREADY moved past the partial-state framing (the extended arc memo recorded full ingestion). But Open Alley canonical files + Treasure Map snapshot still asserted PARTIALLY RESOLVED. Spatial topology and temporal-episodic memory had DIVERGED.
+
+**Recovery via Treasure Map consultation:** Surfaced 4 concrete loose ends: (1) Wiredu PDF needed staging in Open Alley `_archive/` (matching Friston pattern); (2) `content-kb/primary-sources/item-1569` needed creation (Wiredu primary-source entity matching Friston `item-1568`); (3) `item-1568` (Friston) needed SUPERSEDING FULL-READ UPDATE section appended; (4) `tasks.md` needed new entry marking Item 2 FULLY RESOLVED (supersedes earlier PARTIALLY RESOLVED). All 4 loose ends resolved via 4-file Open Alley commit `dabf840` + Treasure Map regen via `regen_launcher_hashes.py` + master-setup commit `9f475e0`.
+
+**Hypothesis:** Persistent-context AI workflows (multi-session, long-arc, multi-substrate orchestration) create state-divergence risk between (a) Spatial Topology canonical files + project-state snapshots and (b) Temporal Episodic auto-memory or conversation-summarization. EACH alone provides incomplete picture: spatial topology lacks session-history context; temporal episodic lacks structural-state grounding. Recovery requires consulting BOTH at scope boundaries (session close, arc close, decision ratification close). Counterintuitive framing: auto-memory FEELS like the authoritative state (it's "what the AI remembers"), but it's only HALF the authoritative state; spatial topology is the other half. Disagreement between them is itself a useful signal (something has changed; reconciliation needed).
+
+**Empirical foundation:** n=1 fresh fire 2026-06-09 late session (Treasure Map consultation surfacing Open Alley Item 2 stale state). Sibling pattern available at AR-3.2 ratification (2026-05-28) where Treasure Map authority pointer was canonized as D3.2-D Decision. Cumulative pattern at session-close discipline. Strong but FRESH — needs n=2 before drafting for general validity.
+
+**Writing-readiness:** Fresh fire from THIS session + structured worked example + extends spatial-topology-vs-temporal-episodic memory discipline. 1,200-1,800 words. Could lead with the operator request + walk through the 4 loose-end surface + close with persistent-context-AI generalization. **Recommend: DEFER draft until n=2 reproduction** to strengthen empirical foundation. Post angle: "Consulting the Treasure Map: how authoritative spatial topology surfaces issues that compress out of conversation."
+
+**Disclosure verdict:** SAFE — pure persistent-context AI workflow methodology; can discuss Treasure Map consultation + 4 loose-end surface + spatial-vs-temporal divergence pattern without disclosing Memory Lanes canonical-state specifics. Reference "project canonical files" + "auto-memory" generically.
+
+**Cross-references:** `~/.claude/cc_nav_payload.md` (Spatial Topology Depth-0); memory `reference_cc_navigation_reference_pointer.md`; memory `project_ar_3_2_fsm_mode_reimagine_outcomes.md` (D3.2-D canonization arc); Open Alley commit `dabf840` (2026-06-09 late session 5-item sweep closeout); master-setup commit `9f475e0` (Treasure Map regen propagation); memory `feedback_verify_against_canonical_files.md` (sibling state-divergence discipline); existing Post 63 loose-end audits sibling territory.
+
+---
+
+## Idea 46 — Pricing as architecture: why mobile and desktop pricing must diverge when core gameplay loop is platform-specific
+
+**Filed:** 2026-06-09 (late session continuation; iOS Model 1 + Steam V1.0 pricing structure ratified 2026-06-08 PM)
+**Status:** idea
+**Leverage:** MEDIUM (specialized to indie cross-platform publishing; SOFT-REFRAME required for safe disclosure)
+
+**Empirical observation:** Memory Lanes iOS Model 1 pricing ratified 2026-06-08 PM:
+- **iOS base** $7.99 (1950s decade included)
+- **iOS per-decade IAP** $7.99 each (8 total decades)
+- **iOS Complete Collection bundle** $42.99 (~23% discount vs $63.92 individual)
+- **Steam V1.0** ~$24.99 base + 7×$7.99 DLC ≈ $80.92 full collection
+- **Platform price divergence** iOS Complete Collection ($42.99) vs Steam Full ($80.92) = 47% cheaper on iOS
+
+The divergence is NOT arbitrary; it tracks platform-specific core gameplay loop:
+- **iOS architecture**: Decade-Pack-Collection (curated chapters; jump-cut player-triggered advancement; cozy-mode-default; tap-to-enter stations; faceless owner)
+- **Steam architecture**: Unified-Tycoon-Campaign (continuous lived chronological progression; day-by-day Chronological Challenge mode; cross-era NPC arcs; franchise endgame Phase 9.x)
+
+iOS player buys curated chapters; Steam player buys continuous lived experience. The pricing structure aligns with the experiential structure: chapter-pricing (per-decade IAP) for chapter-experience; bundle-pricing (base + DLC) for continuous-experience. The 47% price differential is the legitimate cost-of-experience differential, not arbitrary platform-market sensitivity.
+
+**Hypothesis:** Most indie cross-platform pricing discourse focuses on (a) platform-market sensitivity ("iOS players pay less"), (b) competitive positioning ("match competitor pricing tier"), or (c) currency-conversion arithmetic. This surfaces a fourth pattern: pricing-as-architecture, where pricing structure follows core gameplay loop structure. Per-chapter IAP fits curated-chapter architecture; bundle+DLC fits continuous-experience architecture. Mismatched pricing/architecture pairing (curated-chapter game with bundle+DLC pricing OR continuous-experience game with per-chapter IAP) produces friction at purchase-decision and at experience-evaluation. Counterintuitive framing: pricing structure is not a marketing decision separable from game design; it's an architectural decision integral to game design.
+
+**Empirical foundation:** n=1 ratified case (Memory Lanes iOS Model 1 + Steam V1.0 2026-06-08 PM). Worked example with specific dollar amounts + specific architecture-pricing pairing logic. Sibling cases would strengthen but n=1 with detailed worked example is post-worthy.
+
+**Writing-readiness:** Concrete worked example + counterintuitive framing + relevant for indie cross-platform publishers + needs SOFT-REFRAME to protect Memory Lanes-specific UI / mechanics / canonical-state from disclosure. 1,500-2,000 words. Could lead with the $42.99 vs $80.92 divergence as opening hook + walk through chapter-vs-continuous architecture distinction + close with indie-publisher generalization. Post angle: "Pricing as architecture: why mobile and desktop pricing must diverge when your game's core loop is platform-specific."
+
+**Disclosure verdict:** SOFT-REFRAME — can discuss pricing strategy + platform-economics + architecture-pricing pairing methodology, but must NOT disclose Memory Lanes specific UI (5 tap-to-enter stations, faceless owner, etc.) or specific mechanics (Chronological Challenge mode internals, cross-era NPC arc mechanics, Phase 9.x franchise endgame). Reference "bowling-tycoon case study" generically; discuss the dollar amounts + structure but not the per-decade content specifics.
+
+**Cross-references:** memory `project_ios_single_app_decade_iap_architecture_2026-06-08.md`; memory `project_ios_option_c_multi_save_slot_optional_advancement_2026-06-09.md`; Open Alley `variant-taxonomy.md` Axis 5 platform-segmented distinguishers; Open Alley `tycoon-design.md` polish_queue Item 352 V1 scope pivot (1950s baseline + iOS-first pivot ratification); existing Post 65 real-time-friction-design philosophy sibling territory.
 
 ---
 
