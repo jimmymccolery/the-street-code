@@ -92,6 +92,8 @@ The economics again. Reading time is cheaper than reading-miss cost when the mis
 
 - I'm not claiming the cost-benefit calculation always favors sequential coverage. There are reading tasks where the downstream cost of missing connections is low and the reading time is genuinely expensive. The discipline applies to the regime where downstream cost dominates, which is most of the work I do but is not all the work everyone does.
 
+## What I am claiming
+
 What I am claiming is that relevance pre-screens at first-pass ingestion of unfamiliar content for downstream synthesis work are an anti-pattern. The pre-screen looks cheap and reliable; the pre-screen fails for the cases where the pre-screen could most have helped; the failure is silent because the proxy is confident about its classifications. Sequential coverage is the recovery mechanism. The cost is bounded reading time. The benefit is the cross-content connections that selective ingestion would bury.
 
 A 282-page volume took several hours to read sequentially. The drafting project the read was supporting now has three load-bearing finds that the pre-screen would have buried. The trade was worth it. The trade is usually worth it. The pre-screen is more often a temptation than a discipline.

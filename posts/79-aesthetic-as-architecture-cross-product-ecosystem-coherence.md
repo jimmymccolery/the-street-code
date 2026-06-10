@@ -2,13 +2,13 @@
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-09
-**Status:** Brand-strategy principle articulated and ratified across roughly thirty days of operational reproduction; principle has underwritten ten-plus brand and architecture decisions during that period; n=1 ratified case with sustained cascade reuse
+**Status:** Brand-strategy principle articulated and ratified across recent weeks of operational reproduction; principle has underwritten ten-plus brand and architecture decisions during that period; n=1 ratified case with sustained cascade reuse
 
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
 ---
 
-I am building a portfolio of related but distinct products. Five products in total, plus a hardware companion, all under a single publisher. The portfolio includes a tycoon simulation, a set of cozy 3D-environment simulators, a physical card game, and a hardware companion device. The products do not share a codebase. They do not share an engine. They do not share a character roster or a continuous world-state. They are not a franchise in the conventional sense.
+I am building a portfolio of related but distinct products. Four entries in total under a single publisher: a tycoon simulation, a set of cozy 3D-environment simulators, a physical card game, and a hardware companion device. The products do not share a codebase. They do not share an engine. They do not share a character roster or a continuous world-state. They are not a franchise in the conventional sense.
 
 What they do share is harder to name. There is an emotional through-line that runs across all of them. The products are all about a specific orientation toward time and place: about the felt experience of being somewhere specific in a specific period of someone's life, and about the artifacts of memory that period left behind. The tycoon sim is set in a bowling alley across multiple decades. The cozy simulators are set in spaces (a bedroom from a specific era, a public room with a specific cultural moment baked into it). The card game is about constructing the felt texture of a particular decade. The hardware companion sits in the player's actual living room as a physical artifact of the portfolio's emotional register.
 
@@ -95,6 +95,8 @@ The cross-domain implication is that indie publishers should treat aesthetic dis
 - I'm not claiming this finding is novel in brand strategy literature. Aesthetic-level coherence is well-studied in branding theory across multiple decades, and the specific framing of through-line discipline shows up in design-system literature, voice-and-tone literature, and editorial-style literature across multiple domains. The contribution is the specific empirical mapping for indie portfolio strategy and the demonstration that aesthetic-level coherence can carry the operational weight that infrastructure-sharing and IP-continuity carry in larger studios.
 
 - I'm not claiming aesthetic discipline is easy to maintain. The discipline requires sustained operator attention and resists measurement in ways infrastructure-engineering and IP-continuity do not. The discipline's value comes from preventing drift, and drift prevention is hard to demonstrate as value until after the drift has been prevented. Indie publishers operating the discipline have to commit to it without immediate measurable validation; the validation arrives over time as the portfolio's coherence accumulates.
+
+## What I am claiming
 
 What I am claiming is that the conventional cross-product coherence options (technical infrastructure sharing; franchise IP continuity) are not the only viable patterns, and that aesthetic-level coherence operationalized through explicit through-line discipline is a third pattern that fits indie publishers' resource constraints. The pattern does work; the work is operator-side discipline rather than infrastructure investment; the discipline is bounded and the discipline produces portfolio coherence that audiences feel directly because audiences experience the products at the aesthetic level the discipline maintains.
 

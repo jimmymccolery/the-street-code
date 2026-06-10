@@ -104,6 +104,8 @@ The discipline framework I run treats each of the five scopes as a first-class v
 
 - I'm not claiming the scopes I enumerated are the only structurally distinct verification classes that exist. The five scopes are the ones I have observed across thirteen reproductions; other operators working in different domains will surface additional scopes that match their drift classes. The pattern is what generalizes; the specific scopes are project-dependent.
 
+## What I am claiming
+
 What I am claiming is that verification is plural and breadth-conscious in a way the single-scope framing hides. Each of the five scopes I have observed catches a different drift class with a different verification operation. Single-scope rigor at any of the five does not protect against the other four. The operator's verification architecture has to address all five (or however many the operator has observed) as first-class verification classes, each with its own operation, each scheduled on a basis the substrate cannot influence.
 
 Thirteen reproductions across eleven classes is enough empirical foundation to land the pattern. The pattern's value comes from the breadth-consciousness it imposes on verification discipline. Single-source verification was the framing I was operating under when the first reproductions started arriving; the framing was wrong in a way that took thirteen fires to surface. The discipline I run now is breadth-conscious, scope-labeled, and operationally specific about which verification operation runs against which drift class. That discipline is what catches the drift the single-source framing was missing.

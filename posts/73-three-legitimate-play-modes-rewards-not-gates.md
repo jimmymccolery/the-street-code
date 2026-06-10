@@ -84,6 +84,8 @@ The reward-not-gate principle is a specific instance of a more general design di
 
 - I'm not claiming the framing is hard to recognize. The framing is hard to recognize in your own design thinking because the binary framing is genre-inherited and inherits before you notice it. The recognition came for me when an assistant was framing every decision as a binary trade-off and I noticed the frame was doing work I did not endorse. The recognition was external before it was internal; I needed the framing to be applied to my decisions out loud before I could recognize it as a frame I had been operating inside.
 
+## What I am claiming
+
 What I am claiming is that the binary framing is doing more work than designers usually notice, and the third option is more accessible than the binary framing suggests. The principle (reward-not-gate, multiple orientations as first-class) is a specific instance of a general design discipline that applies anywhere multiple legitimate orientations want the same content surface. The cost is design effort. The payoff is a playable surface that does not require the user to commit to an orientation before the surface becomes reachable.
 
 A tycoon player and a cozy player playing the same game on the same alley with the same NPCs and the same calendar are not playing different games. They are playing the same game from different orientations. The design that lets that be true is the design that does not gate the alley behind any single orientation. The alley greets everyone.

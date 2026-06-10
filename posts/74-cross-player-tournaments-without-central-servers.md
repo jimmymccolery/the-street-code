@@ -100,6 +100,8 @@ Second, I run the operator-directed scan against the canonical record before des
 
 - I'm not claiming the cost-benefit calculation always favors the blockchain solution. The central-server solution is cheaper to implement initially and gives the operator more control over the feature evolution. The blockchain solution costs more upfront and constrains future feature evolution to what the public-claim-verification shape can express. The trade is favorable when the operational cost of running central infrastructure (and the durability concerns of vendor lock-in) outweighs the implementation cost of the blockchain primitives. The trade-off depends on the project's lifecycle horizon.
 
+## What I am claiming
+
 What I am claiming is that the central-server assumption is more contingent than the genre treats it. A specific class of cross-player verification features can be implemented with public-domain blockchain primitives in a way that eliminates central-server operational cost, eliminates PII collection at the architecture layer, and produces achievements that outlast the vendor. The implementation is real work; the architecture is durable; the trade is worth considering for indie projects with finite operational capacity and an interest in shipping features that survive the operator's involvement.
 
 The operator-side blind spot that hid this architecture from me for months was the assumption that cross-player aggregation requires a central party. The architecture rejects that assumption. The Bitcoin blockchain is the central party in the sense that everyone reads from it; the Bitcoin blockchain is not the central party in the sense that no one controls it. The distinction is what makes this architecture possible.
