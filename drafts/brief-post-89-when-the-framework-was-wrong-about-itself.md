@@ -26,7 +26,6 @@ The discipline this post publishes is: **multi-substrate verification (Rule 11) 
    - Footnote 4 about Episodic-vs-Narrative not form-finding
    - Form-finding at approx p. 441
    - Friston 2017 Appendix F pp. 42-43 = naive/sophisticated (F-14 RESOLVED RETRACTION)
-   - DC1 emotion variable: split valence + arousal + stress (not collapsed)
    - Attachment Theory promoted over HEXACO for encoding modulation
    - Wiredu HEXACO H mapping DROPPED option (c)
    - Wiredu universalist CORROBORATED via Ch 9 p. 193 (F-17 — reverses F-13)
