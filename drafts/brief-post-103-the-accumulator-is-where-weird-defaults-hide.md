@@ -1,13 +1,13 @@
-# Drafting brief — Post 104 "The Accumulator Is Where WEIRD Defaults Hide"
+# Drafting brief — Post 103 "The Accumulator Is Where WEIRD Defaults Hide"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design.
-**Target slot:** Post 104 — CLOSER of the Posts 100-104 cross-cultural sequence (and CLOSER of the entire Posts 89-104 arc). Per R5 design: uses Henrich, Crenshaw, and Cross to justify identity/context tags in the accumulator architecture.
+**Target slot:** Post 103 — CLOSER of the Posts 99-103 cross-cultural sequence (and CLOSER of the entire Posts 89-103 arc). Per R5 design: uses Henrich, Crenshaw, and Cross to justify identity/context tags in the accumulator architecture.
 **Scope verdict:** HIGHEST cross-cultural exposure of the sequence. Full 5-element disclosure discipline mandatory. Particularly load-bearing for V1 architecture commitments (SCHEMA-PLACEHOLDER for identity/context tags per R5 + R6 ratification + Cross/Crenshaw V1 scope-down).
 **Length target:** 4000-5500 words (longest post in the sequence; closes the arc).
 
 ## Thesis
 
-The Layer 3 accumulator (valence + arousal + stress per DC1 split) integrates a procedural character's affective history into a present-anchored state. If the accumulator's calibration assumes a single demographic default — implicitly, a WEIRD (Western, Educated, Industrialized, Rich, Democratic) sample per Henrich, Heine & Norenzayan 2010 — then characters of other demographic profiles will accumulate affect against a calibration that doesn't fit. The framework's response: store CULTURAL-CONTEXT TAGS + INTERSECTIONAL TAGS as METADATA in the accumulator schema, so the WEIRD calibration is a DEFAULT for known-WEIRD-context, not an ASSUMPTION for all characters. The tags themselves don't operationalize Cross-Nigrescence-staged-identity-development (iOS V1 SCHEMA-PLACEHOLDER per Cross/Crenshaw V1 scope-down); they reserve schema space for future operationalization while preventing the WEIRD-default from being a hidden assumption. Post 104 explains the WEIRD critique, walks through how the accumulator's calibration would silently encode cultural bias without tags, specs the schema-placeholder solution, and acknowledges the limits of what tags alone solve.
+The Layer 3 accumulator (valence + arousal + stress per DC1 split) integrates a procedural character's affective history into a present-anchored state. If the accumulator's calibration assumes a single demographic default — implicitly, a WEIRD (Western, Educated, Industrialized, Rich, Democratic) sample per Henrich, Heine & Norenzayan 2010 — then characters of other demographic profiles will accumulate affect against a calibration that doesn't fit. The framework's response: store CULTURAL-CONTEXT TAGS + INTERSECTIONAL TAGS as METADATA in the accumulator schema, so the WEIRD calibration is a DEFAULT for known-WEIRD-context, not an ASSUMPTION for all characters. The tags themselves don't operationalize Cross-Nigrescence-staged-identity-development (iOS V1 SCHEMA-PLACEHOLDER per Cross/Crenshaw V1 scope-down); they reserve schema space for future operationalization while preventing the WEIRD-default from being a hidden assumption. Post 103 explains the WEIRD critique, walks through how the accumulator's calibration would silently encode cultural bias without tags, specs the schema-placeholder solution, and acknowledges the limits of what tags alone solve.
 
 ## Sections (outline)
 
@@ -23,8 +23,8 @@ The Layer 3 accumulator (valence + arousal + stress per DC1 split) integrates a 
    - The accumulator dimensions (valence + arousal + stress) themselves were validated on WEIRD samples first
 
 4. **How the WEIRD default silently encodes cultural bias.** Walk through 3-4 examples:
-   - **Accumulator decay rate (0.995/game-hour anchor per Post 94):** validated on WEIRD-sample forgetting-curve literature; cross-cultural variation exists but isn't reflected in single calibration
-   - **Sentiment-override formation (Gottman 2002):** US married-couple sample (per Post 92 caveat); pair-sentiment dynamics may differ across cultural contexts; framework's single calibration silently assumes WEIRD-default
+   - **Accumulator decay rate (0.995/game-hour anchor per Post 93):** validated on WEIRD-sample forgetting-curve literature; cross-cultural variation exists but isn't reflected in single calibration
+   - **Sentiment-override formation (Gottman 2002):** US married-couple sample (per Post 91 caveat); pair-sentiment dynamics may differ across cultural contexts; framework's single calibration silently assumes WEIRD-default
    - **Attachment style distributions (Fraley et al. 2000 ECR-R):** WEIRD-sample validation; cross-cultural attachment distributions DIFFER (Mikulincer & Shaver 2016 reviews); single calibration silently assumes WEIRD-default
    - **HEXACO H exploitation tendencies (Hilbig + Zettler):** WEIRD-sample validation; cross-cultural cooperation literature is more diverse; single calibration silently assumes WEIRD-default
 
@@ -59,19 +59,19 @@ The Layer 3 accumulator (valence + arousal + stress per DC1 split) integrates a 
    - Marcus Reed Surface 8 is the framework's audit gate for representational-stakes content (per Item 0334 + canonical META-ARCH 8-surface gate)
    - The accumulator schema-placeholders interact with Surface 8: ANY V1 surfacing of the placeholder fields (UI display; behavior branching; observation channel) requires Surface 8 re-review
    - Path A operator ratification 2026-06-10 PM elevated sophisticated-inference + structural-only self-reflection to V1 critical-path; Marcus Reed Surface 8 re-review for this NEW mechanic is a Path A prerequisite (substrate-triangulation cycle pending)
-   - Post 104 documents the schema-placeholder commitment + flags the Surface 8 audit dependency
+   - Post 103 documents the schema-placeholder commitment + flags the Surface 8 audit dependency
 
-10. **The cross-cultural sequence retrospective.** Post 104 closes the Posts 100-104 sequence:
-    - Post 100: 5-element disclosure discipline establishes the framework's cross-cultural-engagement commitment
-    - Post 101: category error explains why procedural moral tests are not trait dimensions
-    - Post 102: communal accountability mechanic specs what Wireduan accountability would cost (Steam V1.0 candidate)
-    - Post 103: intra-African dispute disclosure prevents canonicalizing any single view
-    - Post 104: WEIRD-defaults at accumulator + schema-placeholder solution + Cross/Crenshaw V1 scope-down
+10. **The cross-cultural sequence retrospective.** Post 103 closes the Posts 99-103 sequence:
+    - Post 99: 5-element disclosure discipline establishes the framework's cross-cultural-engagement commitment
+    - Post 100: category error explains why procedural moral tests are not trait dimensions
+    - Post 101: communal accountability mechanic specs what Wireduan accountability would cost (Steam V1.0 candidate)
+    - Post 102: intra-African dispute disclosure prevents canonicalizing any single view
+    - Post 103: WEIRD-defaults at accumulator + schema-placeholder solution + Cross/Crenshaw V1 scope-down
     - The sequence aim: solo indie developer engages with cross-cultural source traditions respectfully + with structural-borrowing-only commitment + with explicit retraction condition
 
 11. **The retraction-condition reaffirmation.** Across all 5 cross-cultural posts (100-104), the framework's commitment: 14-day response timeline to credible critique; primary-text-defensibility judgment standard; partial retraction acceptable if technical content stands independently.
 
-12. **Closing humility paragraph (5-element discipline).** Standard close + acknowledgment that closing the Posts 89-104 arc with WEIRD-defaults is intentional — the framework's commitment to NOT defaulting is the operator's ongoing discipline, not a solved problem.
+12. **Closing humility paragraph (5-element discipline).** Standard close + acknowledgment that closing the Posts 89-103 arc with WEIRD-defaults is intentional — the framework's commitment to NOT defaulting is the operator's ongoing discipline, not a solved problem.
 
 ## Key citations
 
@@ -85,8 +85,8 @@ The Layer 3 accumulator (valence + arousal + stress per DC1 split) integrates a 
 
 ## Cross-links
 
-- LINKS BACK TO: Post 89 (retraction table — schema-placeholders are added commitments) + Post 90 (DC1 accumulator dimensions are where calibration lives) + Post 91 (attachment WEIRD-validation) + Post 92 (sentiment override WEIRD-validation) + Posts 100-103 (cross-cultural sequence buildup)
-- LINKS FORWARD TO: Posts 89-104 arc closes here; future posts (Posts 105+) handle Round 9 outcomes + Marcus Reed Surface 8 re-review for sophisticated-inference + Steam V1.0 prep
+- LINKS BACK TO: Post 89 (retraction table — schema-placeholders are added commitments) + Post 90 (attachment WEIRD-validation) + Post 91 (sentiment override WEIRD-validation) + Posts 99-102 (cross-cultural sequence buildup)
+- LINKS FORWARD TO: Posts 89-103 arc closes here; future posts (Posts 105+) handle Round 9 outcomes + Marcus Reed Surface 8 re-review for sophisticated-inference + Steam V1.0 prep
 - IMPLEMENTATION TIE: Round 9 generative-model formalization Q5 cross-cultural fidelity check explicitly references this post's schema-placeholder commitments
 
 ## Drafting prerequisites

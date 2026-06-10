@@ -1,13 +1,13 @@
-# Drafting brief — Post 103 "No Single 'African View': Menkiti, Wiredu, Gyekye"
+# Drafting brief — Post 102 "No Single 'African View': Menkiti, Wiredu, Gyekye"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design + Round 8 R4 F-17 reframing.
-**Target slot:** Post 103 within Posts 100-104 cross-cultural sequence. Per R5 design: prevents canonicalization of any single "African view" and documents intra-African philosophical disagreement.
+**Target slot:** Post 102 within Posts 99-103 cross-cultural sequence. Per R5 design: prevents canonicalization of any single "African view" and documents intra-African philosophical disagreement.
 **Scope verdict:** HIGH cross-cultural exposure. Full 5-element disclosure discipline (humility brackets; primary-text-only citation; retraction condition). Particularly sensitive because the post addresses intra-tradition philosophical dispute requiring respectful engagement with all parties.
 **Length target:** 3500-5000 words.
 
 ## Thesis
 
-Modified-C-bis's structural-borrowing from Wiredu's reading of Akan personhood-as-achievement is a borrowing from ONE philosopher's reading of his tradition. Within Akan philosophy itself, Wiredu's view is contested. Gyekye (Wiredu's co-editor of *Person and Community* 1992) defends a Kant-grounded counter-position: personhood is birth-conferred + relational-context-enhanced, NOT achievement-graded. Menkiti (Nigerian; Igbo background, not Akan) takes the achievement-graded view that Wiredu defends, but from a different cultural starting point. The SEP entry on Akan personhood gives Gyekye's counter-position equal weight; the Wiredu-Menkiti agreement on achievement is one philosophical position among multiple. Post 103 documents this intra-African disagreement explicitly so the framework + readers + future critics know the field is plural. The post is a feature of the discipline (Post 100's 5-element commitment), not an embarrassment — disclosing intra-tradition dispute is the difference between scholarship and appropriation.
+Modified-C-bis's structural-borrowing from Wiredu's reading of Akan personhood-as-achievement is a borrowing from ONE philosopher's reading of his tradition. Within Akan philosophy itself, Wiredu's view is contested. Gyekye (Wiredu's co-editor of *Person and Community* 1992) defends a Kant-grounded counter-position: personhood is birth-conferred + relational-context-enhanced, NOT achievement-graded. Menkiti (Nigerian; Igbo background, not Akan) takes the achievement-graded view that Wiredu defends, but from a different cultural starting point. The SEP entry on Akan personhood gives Gyekye's counter-position equal weight; the Wiredu-Menkiti agreement on achievement is one philosophical position among multiple. Post 102 documents this intra-African disagreement explicitly so the framework + readers + future critics know the field is plural. The post is a feature of the discipline (Post 99's 5-element commitment), not an embarrassment — disclosing intra-tradition dispute is the difference between scholarship and appropriation.
 
 ## Sections (outline)
 
@@ -68,8 +68,8 @@ Modified-C-bis's structural-borrowing from Wiredu's reading of Akan personhood-a
 
 ## Cross-links
 
-- LINKS BACK TO: Post 84 (Modified-C-bis Wiredu philosophical grounding; correction footnote applied for intra-African disclosure) + Post 93 (Wiredu DROP self-correction) + Post 101 (category error)
-- LINKS FORWARD TO: Post 104 (WEIRD-defaults at accumulator — the pluralism of African philosophy is one instance of the broader cross-cultural pluralism the WEIRD critique names)
+- LINKS BACK TO: Post 84 (Modified-C-bis Wiredu philosophical grounding; correction footnote applied for intra-African disclosure) + Post 92 (Wiredu DROP self-correction) + Post 100 (category error)
+- LINKS FORWARD TO: Post 103 (WEIRD-defaults at accumulator — the pluralism of African philosophy is one instance of the broader cross-cultural pluralism the WEIRD critique names)
 - LIVE REFERENCE: SEP Akan philosophy entry (verify URL active at drafting time)
 
 ## Drafting prerequisites

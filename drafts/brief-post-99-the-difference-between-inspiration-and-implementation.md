@@ -1,13 +1,13 @@
-# Drafting brief — Post 100 "The Difference Between Inspiration and Implementation"
+# Drafting brief — Post 99 "The Difference Between Inspiration and Implementation"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design + Round 8 R4 §9 ratification.
-**Target slot:** Post 100 — LEAD POST of the Posts 100-104 cross-cultural sequence. Per R5 design + R6 dependency fix #2: self-correction LEADS the block (not trails it). Per R6: "publishing the WEIRD-defaults and intersectional discussion before the self-correction reads as theory-first; leading with the honest 'we tried this mapping and dropped it' self-correction earns the rest."
-**Scope verdict:** SAFE-METHODOLOGICALLY but **HIGHEST cross-cultural exposure of the entire Posts 89-104 sequence**. Full 5-element disclosure discipline mandatory. Primary-text-only citation. Humility brackets. Retraction condition.
+**Target slot:** Post 99 — LEAD POST of the Posts 99-103 cross-cultural sequence. Per R5 design + R6 dependency fix #2: self-correction LEADS the block (not trails it). Per R6: "publishing the WEIRD-defaults and intersectional discussion before the self-correction reads as theory-first; leading with the honest 'we tried this mapping and dropped it' self-correction earns the rest."
+**Scope verdict:** SAFE-METHODOLOGICALLY but **HIGHEST cross-cultural exposure of the entire Posts 89-103 sequence**. Full 5-element disclosure discipline mandatory. Primary-text-only citation. Humility brackets. Retraction condition.
 **Length target:** 3500-5000 words (estimated; R5 didn't specify; longer than typical due to discipline-establishment role).
 
 ## Thesis
 
-The Posts 100-104 cross-cultural sequence opens by establishing the operator's disclosure discipline before any cross-cultural content lands. Post 100 IS that disclosure discipline. The 5-element framework (acknowledgment language; primary-text-only citation; no clinical-vocabulary in code identifiers; humility brackets; retraction condition with 14-day response timeline) is the framework's commitment to how it engages with cross-cultural source traditions. The post explains the discipline + names the source-tradition borrowings + commits to the retraction condition publicly so that knowledgeable critics have a clear standard to evaluate the framework against. Crucially, Post 100 leads the cross-cultural block per Round 7 R6's dependency fix #2: lead with the self-correction (Post 101 Wiredu category error; Post 103 Menkiti-Gyekye intra-African disclosure; Post 104 WEIRD-defaults at accumulator) AFTER establishing the discipline that frames why the self-corrections matter.
+The Posts 99-103 cross-cultural sequence opens by establishing the operator's disclosure discipline before any cross-cultural content lands. Post 99 IS that disclosure discipline. The 5-element framework (acknowledgment language; primary-text-only citation; no clinical-vocabulary in code identifiers; humility brackets; retraction condition with 14-day response timeline) is the framework's commitment to how it engages with cross-cultural source traditions. The post explains the discipline + names the source-tradition borrowings + commits to the retraction condition publicly so that knowledgeable critics have a clear standard to evaluate the framework against. Crucially, Post 99 leads the cross-cultural block per Round 7 R6's dependency fix #2: lead with the self-correction (Post 100 Wiredu category error; Post 102 Menkiti-Gyekye intra-African disclosure; Post 103 WEIRD-defaults at accumulator) AFTER establishing the discipline that frames why the self-corrections matter.
 
 ## Sections (outline)
 
@@ -47,15 +47,15 @@ The Posts 100-104 cross-cultural sequence opens by establishing the operator's d
 6. **What the framework does NOT do.**
    - Does NOT operationalize Cross-Nigrescence as a procedural-character stage progression mechanic in iOS V1
    - Does NOT operationalize Crenshaw intersectionality through quantitative crossing of demographic variables
-   - Does NOT implement Wiredu's sympathetic-impartiality as a HEXACO H trait coordinate (DROPPED per Post 93)
+   - Does NOT implement Wiredu's sympathetic-impartiality as a HEXACO H trait coordinate (DROPPED per Post 92)
    - Does NOT cite secondary sources or substrate paraphrases as the citation chain for cross-cultural claims
    - Does NOT present any cross-cultural reading as "the [tradition] view" — always "[scholar]'s reading"
 
 7. **The cross-cultural sequence ahead.**
-   - Post 101: Why Wiredu Cannot Be a Trait Slider (category-error post)
-   - Post 102: What Communal Accountability Would Require in Code (Steam V1.0 candidate not V1)
-   - Post 103: No Single "African View": Menkiti, Wiredu, Gyekye (intra-African dispute disclosure)
-   - Post 104: The Accumulator Is Where WEIRD Defaults Hide (Henrich + Crenshaw + Cross application to architecture)
+   - Post 100: Why Wiredu Cannot Be a Trait Slider (category-error post)
+   - Post 101: What Communal Accountability Would Require in Code (Steam V1.0 candidate not V1)
+   - Post 102: No Single "African View": Menkiti, Wiredu, Gyekye (intra-African dispute disclosure)
+   - Post 103: The Accumulator Is Where WEIRD Defaults Hide (Henrich + Crenshaw + Cross application to architecture)
 
 8. **The retraction-condition commitment.** Operator publicly commits to the 14-day response timeline + the primary-text-defensibility judgment standard. Lists communication channels for critics to use (GitHub issues on the-street-code repo; direct email; X/Twitter for amplification).
 
@@ -78,14 +78,14 @@ The Posts 100-104 cross-cultural sequence opens by establishing the operator's d
 
 ## Cross-links
 
-- LINKS BACK TO: Post 84 (Modified-C-bis Wiredu philosophical inspiration; correction footnote applied) + Post 93 (Wiredu mapping DROP self-correction)
-- LINKS FORWARD TO: Posts 101 + 102 + 103 + 104 (the cross-cultural sequence depends on Post 100's discipline lock)
+- LINKS BACK TO: Post 84 (Modified-C-bis Wiredu philosophical inspiration; correction footnote applied) + Post 92 (Wiredu mapping DROP self-correction)
+- LINKS FORWARD TO: Posts 100 + 102 + 103 + 104 (the cross-cultural sequence depends on Post 99's discipline lock)
 - LIVE REFERENCE: `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` for citation chain
 
 ## Drafting prerequisites
 
 - Operator-side primary-text reads of Wiredu Ch 9 + Cross 1991 + Crenshaw 1989/1991 + Henrich 2010 (combined ~15-25h; the cross-cultural sequence prereq totaling 30-50h)
-- Post 100 draft cannot publish until ALL prereqs read; this is the discipline lock
+- Post 99 draft cannot publish until ALL prereqs read; this is the discipline lock
 - Bilge 2013 abstract + key passages (~30 min)
 
 ## Hour estimate

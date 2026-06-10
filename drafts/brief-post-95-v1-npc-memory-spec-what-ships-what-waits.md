@@ -1,13 +1,13 @@
-# Drafting brief — Post 96 "V1 NPC Memory Spec: What Ships, What Waits"
+# Drafting brief — Post 95 "V1 NPC Memory Spec: What Ships, What Waits"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design.
-**Target slot:** Post 96 — CLOSER of the Posts 89-96 retraction/correction block. Per R5 design: converts the research arc into a ship-ready architecture spec; links back to all prior R4/R7 posts.
+**Target slot:** Post 95 — CLOSER of the Posts 89-95 retraction/correction block. Per R5 design: converts the research arc into a ship-ready architecture spec; links back to all prior R4/R7 posts.
 **Scope verdict:** SAFE methodology + spec-level technical content; **OPERATOR JUDGMENT on whether to ship full V1 spec details vs abstracted META-level**. Recommend META-level: discuss architectural categories + V1-vs-post-V1 sequencing without enumerating Memory Lanes protected implementation specifics.
 **Length target:** 3500-5000 words per R5 design.
 
 ## Thesis
 
-After eight rounds of research, twelve+ citation corrections, two reversals of canonical state against primary text, the addition of a NEW Modification (6) + Modification Amendment (Round 8 Revision), and an operator-direct PATH A ratification of sophisticated active inference + structural-only self-reflection into V1 critical-path: it's time to write down what actually ships. Post 96 is the V1 spec post — what's locked, what's banked Phase-8.x → V1 critical-path under Path A, what's deferred Steam V1.0, what's deferred future. The post closes the Posts 89-96 retraction/correction block by converting the discipline-and-corrections arc into a single shippable architecture spec that the framework + the BUILD-side developer (operator) commit to.
+After eight rounds of research, twelve+ citation corrections, two reversals of canonical state against primary text, the addition of a NEW Modification (6) + Modification Amendment (Round 8 Revision), and an operator-direct PATH A ratification of sophisticated active inference + structural-only self-reflection into V1 critical-path: it's time to write down what actually ships. Post 95 is the V1 spec post — what's locked, what's banked Phase-8.x → V1 critical-path under Path A, what's deferred Steam V1.0, what's deferred future. The post closes the Posts 89-95 retraction/correction block by converting the discipline-and-corrections arc into a single shippable architecture spec that the framework + the BUILD-side developer (operator) commit to.
 
 ## Sections (outline)
 
@@ -25,8 +25,8 @@ After eight rounds of research, twelve+ citation corrections, two reversals of c
    - **3 retraction-condition triggers:** state-space self-variable + phenomenal-claim leakage + bridge over-extension
 
 3. **What ships sequentially vs in parallel:**
-   - **First (audit layer):** State-space content audit + Amnesia re-init test + Markov-blanket isolation. Establish the audit-layer apparatus before runtime decisions depend on sophisticated inference (per Post 95 audit-first sequencing).
-   - **Second (cached policies):** Naive active inference scoring at runtime; cached policies for predictable per-frame budget; sophisticated inference at consolidation boundaries (per Post 99 hybrid path).
+   - **First (audit layer):** State-space content audit + Amnesia re-init test + Markov-blanket isolation. Establish the audit-layer apparatus before runtime decisions depend on sophisticated inference (per Post 94 audit-first sequencing).
+   - **Second (cached policies):** Naive active inference scoring at runtime; cached policies for predictable per-frame budget; sophisticated inference at consolidation boundaries (per Post 98 hybrid path).
    - **Third (sophisticated runtime promotion):** After empirical evidence from audit layer that cached policies don't suffice for V1 game-feel, promote sophisticated active inference to runtime use. V1.x or V1 final-polish phase depending on Round 9 outcomes.
 
 4. **What waits Phase-8.x → V1 critical-path under Path A:** (sophisticated inference + structural-only self-reflection is no longer Phase-8.x banked under Path A; this section now discusses what REMAINS Phase-8.x)
@@ -42,13 +42,13 @@ After eight rounds of research, twelve+ citation corrections, two reversals of c
    - Per-decade content vault structure (Phase 8.0)
    - Era-gated decor + technology tree (Phase 8.1)
 
-6. **The corrected citation chain.** All citations in `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` (R8 R4 cascade applied 2026-06-10 PM). Post 96 links to the citations file as the canonical-state-of-truth + does not re-enumerate.
+6. **The corrected citation chain.** All citations in `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` (R8 R4 cascade applied 2026-06-10 PM). Post 95 links to the citations file as the canonical-state-of-truth + does not re-enumerate.
 
 7. **Cross-cultural disclosure discipline at ship.**
-   - 5-element discipline per Post 100 (lead of cross-cultural sequence): acknowledgment language; primary-text-only citation; no clinical-vocabulary in code identifiers; humility paragraphs; retraction condition + 14-day response timeline
+   - 5-element discipline per Post 99 (lead of cross-cultural sequence): acknowledgment language; primary-text-only citation; no clinical-vocabulary in code identifiers; humility paragraphs; retraction condition + 14-day response timeline
    - Wiredu cited for striving-not-introspection structure (Ch 9 p. 200) NOT for cross-cultural breadth (F-17 reframing; universalist by his own text)
-   - Menkiti-Gyekye intra-African disclosure (Post 103)
-   - WEIRD-defaults discussion at the accumulator level (Post 104)
+   - Menkiti-Gyekye intra-African disclosure (Post 102)
+   - WEIRD-defaults discussion at the accumulator level (Post 103)
 
 8. **The retraction-condition canonical statement.** Three triggers locked at R8 R4 §5:
    - Trigger 1: state-space self-variable (Amnesia test fails)
@@ -74,14 +74,14 @@ After eight rounds of research, twelve+ citation corrections, two reversals of c
 
 ## Cross-links
 
-- LINKS BACK TO: Posts 81-88 (Modified-C-bis framework arc) + Posts 89-95 (each correction's implementation consequence)
-- LINKS FORWARD TO: Posts 97-99 (hybrid path implementation analysis) + Posts 100-104 (cross-cultural disclosure discipline)
-- META-INDEX: Post 96 is the cross-reference hub for the V1 architecture spec
+- LINKS BACK TO: Posts 81-88 (Modified-C-bis framework arc) + Posts 89-94 (each correction's implementation consequence)
+- LINKS FORWARD TO: Posts 96-98 (hybrid path implementation analysis) + Posts 99-103 (cross-cultural disclosure discipline)
+- META-INDEX: Post 95 is the cross-reference hub for the V1 architecture spec
 
 ## Drafting prerequisites
 
 - All R8 R4 cascade applied to canonical files (DONE 2026-06-10 PM)
-- All Posts 89-95 brief content available (DONE 2026-06-10 PM)
+- All Posts 89-94 brief content available (DONE 2026-06-10 PM)
 - Operator-side decision on whether to publish META-level vs full-implementation-detail (per disclosure rule v1.0 protected-scope discipline)
 
 ## Hour estimate

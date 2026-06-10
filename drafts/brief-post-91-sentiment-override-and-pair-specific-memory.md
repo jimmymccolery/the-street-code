@@ -1,13 +1,13 @@
-# Drafting brief — Post 92 "Sentiment Override and Pair-Specific Memory"
+# Drafting brief — Post 91 "Sentiment Override and Pair-Specific Memory"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design.
-**Target slot:** Post 92 within Posts 89-96 retraction block. Per R5 design: bridge from literature to games using bowling-alley tipping scenario + commercial-precedent comparison.
+**Target slot:** Post 91 within Posts 89-95 retraction block. Per R5 design: bridge from literature to games using bowling-alley tipping scenario + commercial-precedent comparison.
 **Scope verdict:** SAFE — methodology + open-academic citations + commercial-precedent discussion at META-rule level. No Memory Lanes protected-scope details (e.g., does NOT name specific NPC roster + does NOT enumerate pair-history accumulator weights).
 **Length target:** 3500-5000 words per R5 design.
 
 ## Thesis
 
-The pair-specific relational history mechanism in Modified-C-bis has a canonical psychological-literature anchor that Round 1 (Gemini DR) surfaced and the framework adopted: Gottman's **sentiment override** (Hawkins, Carrère & Gottman 2002 *Journal of Marriage and Family* 64(1):193-201). Sentiment override formalizes what was already intuitively obvious: pair-relational behavior is biased by an accumulated cumulative-affective sentiment toward the partner, not just by the current interaction's content. Once a positive sentiment-override regime engages, partners interpret ambiguous behavior charitably; once a negative regime engages, the same behavior is interpreted as confirmation of partner bad-intent. Post 92 walks through how this maps to game NPCs with the bowling-alley tipping scenario as the worked example + compares the framework's pair-history mechanic against the commercial precedents (Sims 4 Sentiments, RimWorld opinions, CK3 memories, Dwarf Fortress emotional memory tiers).
+The pair-specific relational history mechanism in Modified-C-bis has a canonical psychological-literature anchor that Round 1 (Gemini DR) surfaced and the framework adopted: Gottman's **sentiment override** (Hawkins, Carrère & Gottman 2002 *Journal of Marriage and Family* 64(1):193-201). Sentiment override formalizes what was already intuitively obvious: pair-relational behavior is biased by an accumulated cumulative-affective sentiment toward the partner, not just by the current interaction's content. Once a positive sentiment-override regime engages, partners interpret ambiguous behavior charitably; once a negative regime engages, the same behavior is interpreted as confirmation of partner bad-intent. Post 91 walks through how this maps to game NPCs with the bowling-alley tipping scenario as the worked example + compares the framework's pair-history mechanic against the commercial precedents (Sims 4 Sentiments, RimWorld opinions, CK3 memories, Dwarf Fortress emotional memory tiers).
 
 ## Sections (outline)
 
@@ -26,7 +26,7 @@ The pair-specific relational history mechanism in Modified-C-bis has a canonical
    - Updates with each interaction event using a decay-toward-current + drift-from-history formula
    - Biases event-interpretation in pair-history-accumulator (positive sentiment → over-encode positive-tagged events; negative sentiment → over-encode threat-tagged events)
    - Cap on number of active pair-sentiments per character (Sims 4 cap of 4 sentiments per Sim-pair is the commercial precedent; framework adopts 3-5 active sentiments per ordered pair per R5 design)
-   - Older sentiments either decay, merge into summaries, or promote to core pair events (consolidation per Post 94)
+   - Older sentiments either decay, merge into summaries, or promote to core pair events (consolidation per Post 93)
 
 5. **Commercial precedent comparison.** Compare 4-5 systems honestly:
    - **Sims 4 Sentiments** (EA update notes November 2020 + The Sims Wiki): shared memorable experiences form sentiments; one-sided possible; max 4 active per Sim-pair; weakest-sentiment replacement. Closest commercial precedent for pair-specific affective memory at consumer scale.
@@ -39,14 +39,14 @@ The pair-specific relational history mechanism in Modified-C-bis has a canonical
    - Emotion-conditioned encoding (precedent absence)
    - Retrieval-time affect modulation (precedent absence at the same depth)
    - Active-inference-inspired decision scoring under position-(a) discipline (precedent absence)
-   - The combination, NOT any individual component, is the novelty claim per R5 "novel in combination, not in components" honesty (anchor for Posts 97-99 hybrid path)
+   - The combination, NOT any individual component, is the novelty claim per R5 "novel in combination, not in components" honesty (anchor for Posts 96-98 hybrid path)
 
 7. **What Modified-C-bis does NOT do better than the commercial precedents.**
    - Production engineering — Sims/RimWorld/CK3/DF all ship at consumer scale; Modified-C-bis is a research framework spec, not yet production-tested
    - UI surfacing — the player-facing rendering of relationships is a separate problem the framework does not solve
    - Modding extensibility — Modified-C-bis is operator-internal; the commercial precedents have mod scenes
 
-8. **Cross-cultural caveat for pair-sentiment.** Sentiment override empirical anchor is WEIRD-sample-derived; Hawkins-Carrère-Gottman 2002 is U.S. married-couple sample. For multi-decade multi-cultural NPC populations, the framework should NOT assume the same sentiment-override dynamics hold universally without cultural-context tags. Posts 100-104 cross-cultural sequence covers the broader handling.
+8. **Cross-cultural caveat for pair-sentiment.** Sentiment override empirical anchor is WEIRD-sample-derived; Hawkins-Carrère-Gottman 2002 is U.S. married-couple sample. For multi-decade multi-cultural NPC populations, the framework should NOT assume the same sentiment-override dynamics hold universally without cultural-context tags. Posts 99-103 cross-cultural sequence covers the broader handling.
 
 9. **Closing.** The framework's pair-specific memory architecture is grounded in canonical psychological literature (Gottman) + commercial-precedent-validated (Sims) + extended (multi-decade + emotion-conditioned). Honest scope: novel in combination, not in components.
 
@@ -61,8 +61,8 @@ The pair-specific relational history mechanism in Modified-C-bis has a canonical
 
 ## Cross-links
 
-- LINKS BACK TO: Post 89 (retraction table — pair-history is added commitment) + Post 90 (DC1 split — sentiment scalar is one dimension) + Post 91 (attachment style modulates pair-encoding)
-- LINKS FORWARD TO: Posts 97-99 hybrid path (commercial-precedent honesty) + Post 100 (cross-cultural framing)
+- LINKS BACK TO: Post 89 (retraction table — pair-history is added commitment) + Post 90 (attachment style modulates pair-encoding)
+- LINKS FORWARD TO: Posts 96-98 hybrid path (commercial-precedent honesty) + Post 99 (cross-cultural framing)
 - IMPLEMENTATION TIE: Round 9 generative-model formalization (Q3 belief-update + Q4 EFE decomposition references pair-history scalars)
 
 ## Drafting prerequisites

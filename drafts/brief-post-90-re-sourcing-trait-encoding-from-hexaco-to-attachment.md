@@ -1,13 +1,13 @@
-# Drafting brief — Post 91 "Re-Sourcing Trait Encoding from HEXACO to Attachment"
+# Drafting brief — Post 90 "Re-Sourcing Trait Encoding from HEXACO to Attachment"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design.
-**Target slot:** Post 91 within Posts 89-96 retraction block. Per R5 design: makes the attachment correction legible to game developers.
+**Target slot:** Post 90 within Posts 89-95 retraction block. Per R5 design: makes the attachment correction legible to game developers.
 **Scope verdict:** SAFE — methodology + open-academic citations. No protected scope.
 **Length target:** 3000-4500 words per R5 design.
 
 ## Thesis
 
-Modified-C-bis's first-pass V1 specification used HEXACO honesty-humility (H) as the trait dimension driving relational-encoding modulation. Round 7 surfaced a correction: HEXACO H is the right trait for cooperation/exploitation tendencies (its empirical strength per Hilbig & Zettler 2009 + Thielmann & Hilbig 2015) but the WRONG trait for relational-encoding bias. The correct trait source for relational encoding is **attachment style** per Fraley, Waller & Brennan 2000 (ECR-R). Specifically: attachment avoidance maps to LOWER relational encoding (the agent encodes relational events less richly); attachment anxiety maps to suspicious-or-false-positive relational appraisal (the agent over-encodes threat-relevant relational signals). Post 91 walks through this re-sourcing in a way that's legible to game developers without requiring deep psychometric background.
+Modified-C-bis's first-pass V1 specification used HEXACO honesty-humility (H) as the trait dimension driving relational-encoding modulation. Round 7 surfaced a correction: HEXACO H is the right trait for cooperation/exploitation tendencies (its empirical strength per Hilbig & Zettler 2009 + Thielmann & Hilbig 2015) but the WRONG trait for relational-encoding bias. The correct trait source for relational encoding is **attachment style** per Fraley, Waller & Brennan 2000 (ECR-R). Specifically: attachment avoidance maps to LOWER relational encoding (the agent encodes relational events less richly); attachment anxiety maps to suspicious-or-false-positive relational appraisal (the agent over-encodes threat-relevant relational signals). Post 90 walks through this re-sourcing in a way that's legible to game developers without requiring deep psychometric background.
 
 ## Sections (outline)
 
@@ -41,7 +41,7 @@ Modified-C-bis's first-pass V1 specification used HEXACO honesty-humility (H) as
 
 8. **V1 implementation cost.** Schema change — attachment style is a 2-dimensional latent + ECR-R 18-item answers can seed each character. Encoding filter adds attachment-modulator. ~16-28 hours BUILD-side per R5 ratification candidate table.
 
-9. **Cross-cultural caveat.** ECR-R is WEIRD-sample-derived (Henrich et al. 2010 *BBS* 33(2-3):61-83 critique). Cross-cultural validity has been studied (Mikulincer & Shaver 2016) but the WEIRD-defaults problem applies. Posts 100-104 cross-cultural sequence covers the broader handling. For Post 91: cite the caveat; flag that attachment-style application across cultural contexts requires the operator's WEIRD-defaults discipline.
+9. **Cross-cultural caveat.** ECR-R is WEIRD-sample-derived (Henrich et al. 2010 *BBS* 33(2-3):61-83 critique). Cross-cultural validity has been studied (Mikulincer & Shaver 2016) but the WEIRD-defaults problem applies. Posts 99-103 cross-cultural sequence covers the broader handling. For Post 90: cite the caveat; flag that attachment-style application across cultural contexts requires the operator's WEIRD-defaults discipline.
 
 10. **Closing.** "HEXACO is excellent at what it measures. Attachment is excellent at what IT measures. The framework was using HEXACO for both because HEXACO was the trait the operator knew best. The literature is unambiguous; the re-sourcing is the right move." Honest about the why.
 
@@ -59,8 +59,8 @@ Modified-C-bis's first-pass V1 specification used HEXACO honesty-humility (H) as
 
 ## Cross-links
 
-- LINKS BACK TO: Post 89 (retraction table includes HEXACO → attachment re-source), Post 90 (DC1 split)
-- LINKS FORWARD TO: Post 92 (sentiment override + pair-specific memory), Post 102 (communal accountability in cross-cultural sequence)
+- LINKS BACK TO: Post 89 (retraction table includes HEXACO → attachment re-source)
+- LINKS FORWARD TO: Post 91 (sentiment override + pair-specific memory), Post 101 (communal accountability in cross-cultural sequence)
 - IMPLEMENTATION TIE: Round 9 generative-model formalization (Q1 trait state-space + Q3 belief-update filter)
 
 ## Drafting prerequisites

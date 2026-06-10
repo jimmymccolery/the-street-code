@@ -1,13 +1,13 @@
 # Drafting brief — Post 89 "When the Framework Was Wrong About Itself"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design (item-1581) + Round 8 R4 ratification.
-**Target slot:** Post 89 — LEAD POST of the Posts 89-96 retraction/correction block. Per R5 design + R6 ratification, Post 89 sets the controlled landing zone for all R4-2 + R7 + R8 findings + corrections.
+**Target slot:** Post 89 — LEAD POST of the Posts 89-95 retraction/correction block. Per R5 design + R6 ratification, Post 89 sets the controlled landing zone for all R4-2 + R7 + R8 findings + corrections.
 **Scope verdict (per disclosure rule v1.0):** SAFE — pure methodology + open-academic primary-text citations. No Memory Lanes protected scope. Methodology-disclosure post.
 **Length target:** 2500-3500 words per R5 design.
 
 ## Thesis
 
-This framework changed because the citations got better. Modified-C-bis went through eight rounds of multi-substrate research between mid-May and mid-June 2026. Every round produced corrections that improved the framework's grounding. Some corrections were small (wrong venue, wrong page number, over-included author). Some were structural (collapsed emotion variable; wrong trait source for encoding; uncorroborated universalist claim that was later corroborated; canonical record carrying stale wrong flags). All of them mattered because each one changed implementation, not just bibliography. Post 89 leads the retraction block by being honest about what changed and why. The post that follows (Posts 90-96) each take one correction and walk through the implementation consequence.
+This framework changed because the citations got better. Modified-C-bis went through eight rounds of multi-substrate research between mid-May and mid-June 2026. Every round produced corrections that improved the framework's grounding. Some corrections were small (wrong venue, wrong page number, over-included author). Some were structural (collapsed emotion variable; wrong trait source for encoding; uncorroborated universalist claim that was later corroborated; canonical record carrying stale wrong flags). All of them mattered because each one changed implementation, not just bibliography. Post 89 leads the retraction block by being honest about what changed and why. The post that follows (Posts 90-95) each take one correction and walk through the implementation consequence.
 
 The discipline this post publishes is: **multi-substrate verification (Rule 11) is necessary but not sufficient; primary-text grounding catches what substrate paraphrase chains miss; canonical records carry stale flags that periodic primary-text re-reads must check.**
 
@@ -63,8 +63,8 @@ The discipline this post publishes is: **multi-substrate verification (Rule 11) 
 ## Cross-links
 
 - LINKS BACK TO: Posts 81-88 (the Modified-C-bis framework arc with R7 + R8 R4 correction footnotes applied)
-- LINKS FORWARD TO: Posts 90-96 (individual correction posts; each takes one correction and walks through the implementation consequence; Post 93 covers the Wiredu mapping drop + F-14 + F-17 fold)
-- META-INDEX: master retraction table reused/referenced in Posts 90-96
+- LINKS FORWARD TO: Posts 90-95 (individual correction posts; each takes one correction and walks through the implementation consequence; Post 92 covers the Wiredu mapping drop + F-14 + F-17 fold)
+- META-INDEX: master retraction table reused/referenced in Posts 90-95
 
 ## Drafting prerequisites
 

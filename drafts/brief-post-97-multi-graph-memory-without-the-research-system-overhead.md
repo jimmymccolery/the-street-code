@@ -1,13 +1,13 @@
-# Drafting brief — Post 98 "Multi-Graph Memory Without the Research-System Overhead"
+# Drafting brief — Post 97 "Multi-Graph Memory Without the Research-System Overhead"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design.
-**Target slot:** Post 98 within Posts 97-99 hybrid-path block. Per R5 design: MAGMA justifies separating semantic, temporal, causal, and entity views; V1 implements typed indexes + pair summaries rather than full research-system overhead.
+**Target slot:** Post 97 within Posts 96-98 hybrid-path block. Per R5 design: MAGMA justifies separating semantic, temporal, causal, and entity views; V1 implements typed indexes + pair summaries rather than full research-system overhead.
 **Scope verdict:** SAFE — methodology + MAGMA + commercial-precedent META-level discussion. No protected scope.
 **Length target:** 3000-4500 words.
 
 ## Thesis
 
-MAGMA (arXiv:2601.03236; 2026 research paper on multi-graph agent memory architectures) provides the conceptual justification for separating procedural-character memory into multiple typed views: semantic memory (what concepts mean), temporal memory (sequence of events), causal memory (why-it-happened links), and entity memory (who-was-involved relationships). The research-system overhead of fully separate graph databases per view is unaffordable for indie-budget V1. Modified-C-bis adopts the MAGMA TYPING DECOMPOSITION as architectural guidance while implementing the actual storage as TYPED INDEXES over the three-layer memory architecture (Layer 1 raw + Layer 2 encoded + Layer 3 accumulator) + PAIR SUMMARIES at consolidation boundaries. Post 98 explains the MAGMA grounding + the V1 typed-index implementation that captures MAGMA's separability benefits without MAGMA's storage overhead.
+MAGMA (arXiv:2601.03236; 2026 research paper on multi-graph agent memory architectures) provides the conceptual justification for separating procedural-character memory into multiple typed views: semantic memory (what concepts mean), temporal memory (sequence of events), causal memory (why-it-happened links), and entity memory (who-was-involved relationships). The research-system overhead of fully separate graph databases per view is unaffordable for indie-budget V1. Modified-C-bis adopts the MAGMA TYPING DECOMPOSITION as architectural guidance while implementing the actual storage as TYPED INDEXES over the three-layer memory architecture (Layer 1 raw + Layer 2 encoded + Layer 3 accumulator) + PAIR SUMMARIES at consolidation boundaries. Post 97 explains the MAGMA grounding + the V1 typed-index implementation that captures MAGMA's separability benefits without MAGMA's storage overhead.
 
 ## Sections (outline)
 
@@ -40,15 +40,15 @@ MAGMA (arXiv:2601.03236; 2026 research paper on multi-graph agent memory archite
    - Storage cost: O(N events × ~80 bytes pointer overhead per event) — affordable
 
 5. **Pair summaries at consolidation boundaries.**
-   - At yearly consolidation pass (per Post 94), entity-index entries that have accumulated > N events get summarized into pair-summary entries
+   - At yearly consolidation pass (per Post 93), entity-index entries that have accumulated > N events get summarized into pair-summary entries
    - Pair summary = compressed representation of accumulated pair history; bounded size; deterministic compression algorithm
    - Original events still in memory store; pair summary is the FAST-RETRIEVAL form for runtime use
-   - Sims 4 Sentiments + RimWorld opinions are the commercial precedent for this pair-summary-as-runtime-access pattern (per Post 92)
+   - Sims 4 Sentiments + RimWorld opinions are the commercial precedent for this pair-summary-as-runtime-access pattern (per Post 91)
 
 6. **Walk through a retrieval scenario.** Pinboy needs to decide whether to be deferential to incoming bowler A:
    - Entity-index lookup: get (A, pinboy) pair summary in O(1)
    - Pair summary returns: accumulated sentiment scalar + last-3-events tagged + trait-relevant flags
-   - Sentiment scalar + traits feed into active-inference decision-scoring (per Post 95 audit-vs-runtime sequencing)
+   - Sentiment scalar + traits feed into active-inference decision-scoring (per Post 94 audit-vs-runtime sequencing)
    - Pinboy decision rendered without touching the bulk memory store
    - Compare to: naive retrieve-all-events-then-decide = O(N) per decision = breaks per-frame budget
 
@@ -69,13 +69,13 @@ MAGMA (arXiv:2601.03236; 2026 research paper on multi-graph agent memory archite
 ## Key citations
 
 - **MAGMA (Multi-Graph Agent Memory Architecture):** arXiv:2601.03236 (2026). [Note: R5 surfaced this citation; R2 should primary-text-verify when reading the paper directly. Mark as `[PRIMARY-TEXT-PENDING — R2 verify]` until verified.]
-- **Sims 4 Sentiments commercial precedent** (cross-referenced from Post 92).
-- **Park 2023 Generative Agents** (cross-referenced from Post 97).
+- **Sims 4 Sentiments commercial precedent** (cross-referenced from Post 91).
+- **Park 2023 Generative Agents** (cross-referenced from Post 96).
 
 ## Cross-links
 
-- LINKS BACK TO: Post 92 (sentiment override + pair-specific memory; pair summaries are the MAGMA-entity-view adaptation) + Post 94 (consolidation pass triggers pair summary writes)
-- LINKS FORWARD TO: Post 99 (cached policies + slow consolidation; multi-graph memory supports the cached-policy lookup pattern)
+- LINKS BACK TO: Post 91 (sentiment override + pair-specific memory; pair summaries are the MAGMA-entity-view adaptation) + Post 93 (consolidation pass triggers pair summary writes)
+- LINKS FORWARD TO: Post 98 (cached policies + slow consolidation; multi-graph memory supports the cached-policy lookup pattern)
 - IMPLEMENTATION TIE: Round 9 Q3 belief-update + Q4 EFE decomposition reference typed-index retrieval pattern
 
 ## Drafting prerequisites

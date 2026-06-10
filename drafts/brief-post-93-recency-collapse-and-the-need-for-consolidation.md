@@ -1,7 +1,7 @@
-# Drafting brief — Post 94 "Recency Collapse and the Need for Consolidation"
+# Drafting brief — Post 93 "Recency Collapse and the Need for Consolidation"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design.
-**Target slot:** Post 94 within Posts 89-96 retraction block. Per R5 design: justifies tiered storage via 0.995/game-hour decay anchor; links to hybrid path posts 97-99.
+**Target slot:** Post 93 within Posts 89-95 retraction block. Per R5 design: justifies tiered storage via 0.995/game-hour decay anchor; links to hybrid path posts 97-99.
 **Scope verdict:** SAFE — methodology + open-academic citations + technical analysis. No Memory Lanes protected scope (no NPC-roster naming, no save-format internals).
 **Length target:** 3000-4000 words per R5 design.
 
@@ -13,7 +13,7 @@ Naive memory architectures for procedural characters operating over multi-decade
 
 Modified-C-bis adopts a **tiered consolidation** model: raw events live in Layer 1 with bounded recency window; consolidation pass (yearly per CW R6 ratification 2026-06-10) promotes key events to Layer 2 encoded-and-reconstructed perspective; everyday events decay via 0.995/game-hour anchor. The 0.995 decay anchor is the load-bearing technical commitment that makes the architecture computationally tractable at multi-decade scale.
 
-Post 94 explains the recency-collapse problem + the consolidation solution + the 0.995 anchor + why this links to the hybrid-path posts (97-99) that handle the runtime-cost trade-offs.
+Post 93 explains the recency-collapse problem + the consolidation solution + the 0.995 anchor + why this links to the hybrid-path posts (97-99) that handle the runtime-cost trade-offs.
 
 ## Sections (outline)
 
@@ -47,11 +47,11 @@ Post 94 explains the recency-collapse problem + the consolidation solution + the
    - **Core events (promote to Layer 2):** affective spike events (high-arousal moments); pair-history-significant events (large sentiment shift); trait-modulated-significant events (e.g., for high-anxious-attachment characters, perceived-threat events); first-occurrence events ("the time the player first introduced themselves")
    - **Everyday events (decay):** routine interactions (regular tipping, regular ordering, regular small talk); events that don't shift any axis of (valence, arousal, stress, pair-sentiment) by threshold
 
-7. **Why this links to the hybrid path (Posts 97-99).** Tiered consolidation is necessary but not sufficient for V1 performance:
+7. **Why this links to the hybrid path (Posts 96-98).** Tiered consolidation is necessary but not sufficient for V1 performance:
    - Naive active inference scoring even on consolidated layers may still be too slow at 88 NPCs
-   - Need cached policies + slow consolidation (Post 99 hybrid path: Project Zomboid offscreen storylet pattern)
-   - Multi-graph memory (Post 98: MAGMA-style typed indexes) for fast retrieval within tiered storage
-   - LLM-backed observation/reflection (Post 97: Park 2023 Generative Agents) only at consolidation-trigger boundaries, not per-interaction
+   - Need cached policies + slow consolidation (Post 98 hybrid path: Project Zomboid offscreen storylet pattern)
+   - Multi-graph memory (Post 97: MAGMA-style typed indexes) for fast retrieval within tiered storage
+   - LLM-backed observation/reflection (Post 96: Park 2023 Generative Agents) only at consolidation-trigger boundaries, not per-interaction
 
 8. **V1 implementation cost.** Schema: tiered storage + yearly-pass scheduler. ~20-36 hours BUILD-side per R5 ratification candidate table.
 
@@ -66,13 +66,13 @@ Post 94 explains the recency-collapse problem + the consolidation solution + the
 
 - **Ebbinghaus, H. (1885).** *Über das Gedächtnis: Untersuchungen zur experimentellen Psychologie*. (Forgetting-curve canonical anchor; secondary citation only — modern reanalyses preferred.)
 - **Murre, J. M. J., & Dros, J. (2015).** Replication and analysis of Ebbinghaus' forgetting curve. *PLOS ONE* 10(7):e0120644. (Modern forgetting-curve reanalysis.)
-- **Eich, E. (1995).** Searching for mood dependent memory. (Mood-congruent retrieval anchor; ties to Post 92.)
+- **Eich, E. (1995).** Searching for mood dependent memory. (Mood-congruent retrieval anchor; ties to Post 91.)
 - **Sleep-dependent consolidation:** Walker 2017 *Why We Sleep* or Stickgold & Walker 2013 review.
 
 ## Cross-links
 
-- LINKS BACK TO: Post 90 (DC1 split — accumulator dimensions are what decay) + Post 92 (sentiment override + pair-history accumulation)
-- LINKS FORWARD TO: Posts 97 + 98 + 99 (hybrid path technical sequence — consolidation is necessary but not sufficient; need cached policies + multi-graph memory + LLM-at-consolidation-boundary)
+- LINKS BACK TO: Post 91 (sentiment override + pair-history accumulation)
+- LINKS FORWARD TO: Posts 96 + 98 + 99 (hybrid path technical sequence — consolidation is necessary but not sufficient; need cached policies + multi-graph memory + LLM-at-consolidation-boundary)
 - IMPLEMENTATION TIE: Round 9 generative-model formalization (Q3 belief-update + consolidation-phase filter)
 
 ## Drafting prerequisites

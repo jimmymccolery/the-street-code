@@ -1,13 +1,13 @@
-# Drafting brief — Post 99 "Cached Policies and Slow Consolidation"
+# Drafting brief — Post 98 "Cached Policies and Slow Consolidation"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design.
-**Target slot:** Post 99 — CLOSER of the Posts 97-99 hybrid-path block. Per R5 design: Project Zomboid offscreen storylet architecture + visible-behavior separation = production analogy for cheap runtime + slow simulation layers.
+**Target slot:** Post 98 — CLOSER of the Posts 96-98 hybrid-path block. Per R5 design: Project Zomboid offscreen storylet architecture + visible-behavior separation = production analogy for cheap runtime + slow simulation layers.
 **Scope verdict:** SAFE — methodology + commercial-precedent META-level discussion. No protected scope.
 **Length target:** 3000-4500 words.
 
 ## Thesis
 
-Project Zomboid's offscreen storylet architecture (Indie Stone blog 2022 "the zuckerverse") demonstrated a production-ready pattern for procedural-character behavior at multi-decade scale: cheap CACHED POLICIES drive per-frame visible behavior; slow OFFSCREEN STORYLET SIMULATION runs at lower cadence (typically once per game-day or game-week) to update the deeper state that cached policies depend on. Modified-C-bis adopts this two-tier pattern. Cached policies (decision rules baked from sophisticated active inference at yearly consolidation boundaries) drive per-frame NPC behavior at iOS V1 framerate budgets. Slow consolidation (yearly per Post 94) updates the cached policies based on the year's accumulated experience. Post 99 closes the hybrid-path block by tying together: cached policies (cheap runtime) + multi-graph memory (Post 98 typed indexes) + Park 2023 backbone (Post 97 three-process decomposition) + audit-first sequencing (Post 95).
+Project Zomboid's offscreen storylet architecture (Indie Stone blog 2022 "the zuckerverse") demonstrated a production-ready pattern for procedural-character behavior at multi-decade scale: cheap CACHED POLICIES drive per-frame visible behavior; slow OFFSCREEN STORYLET SIMULATION runs at lower cadence (typically once per game-day or game-week) to update the deeper state that cached policies depend on. Modified-C-bis adopts this two-tier pattern. Cached policies (decision rules baked from sophisticated active inference at yearly consolidation boundaries) drive per-frame NPC behavior at iOS V1 framerate budgets. Slow consolidation (yearly per Post 93) updates the cached policies based on the year's accumulated experience. Post 98 closes the hybrid-path block by tying together: cached policies (cheap runtime) + multi-graph memory (Post 97 typed indexes) + Park 2023 backbone (Post 96 three-process decomposition) + audit-first sequencing (Post 94).
 
 ## Sections (outline)
 
@@ -21,9 +21,9 @@ Project Zomboid's offscreen storylet architecture (Indie Stone blog 2022 "the zu
 
 3. **The two-tier pattern formalized for Modified-C-bis.**
    - **Tier 1 (runtime; cheap; per-frame):** cached active-inference policies + sentiment-override lookups + trait-modulated heuristics. NPCs visible to player respond at ~30fps target without LLM calls or deep policy search.
-   - **Tier 2 (consolidation; slow; per-game-year):** sophisticated active inference (under Path A operator ratification 2026-06-10 PM) evaluates the past year's accumulated experience; updates cached policies for the upcoming game-year; runs at consolidation-pass boundary (per Post 94)
-   - **Audit-layer use of sophisticated inference (per Post 95):** runs at Tier 2 cadence; verifies cached policies still align with framework's structural-only-position-(a) discipline
-   - **Cross-references:** Park 2023 three-process decomposition (Post 97) handled at Tier 2; multi-graph memory typed indexes (Post 98) at Tier 1 + Tier 2
+   - **Tier 2 (consolidation; slow; per-game-year):** sophisticated active inference (under Path A operator ratification 2026-06-10 PM) evaluates the past year's accumulated experience; updates cached policies for the upcoming game-year; runs at consolidation-pass boundary (per Post 93)
+   - **Audit-layer use of sophisticated inference (per Post 94):** runs at Tier 2 cadence; verifies cached policies still align with framework's structural-only-position-(a) discipline
+   - **Cross-references:** Park 2023 three-process decomposition (Post 96) handled at Tier 2; multi-graph memory typed indexes (Post 97) at Tier 1 + Tier 2
 
 4. **Per-frame computational budget walkthrough.**
    - iOS V1 framerate target: 30 fps (33ms per frame)
@@ -42,7 +42,7 @@ Project Zomboid's offscreen storylet architecture (Indie Stone blog 2022 "the zu
    - Quality trade-off: cached policies are static within a game-year; characters won't surprise the player mid-year. Acceptable for cozy sim; would be a problem for combat-driven gameplay.
 
 7. **Audit-layer integration with cached policies.**
-   - At consolidation-pass boundary, sophisticated active inference runs in audit-layer mode (per Post 95)
+   - At consolidation-pass boundary, sophisticated active inference runs in audit-layer mode (per Post 94)
    - Audit verifies: does the cached policy align with position-(a)-compatible EFE-minimization under updated state? does any cached policy now require sophisticated-inference-style metacognitive recursion that the cached form doesn't support?
    - Failed audit → cached policy regenerated with sophisticated-inference apparatus; characters whose cached policies needed updating get fresh policies starting next game-year
    - Audit logs: operator can review which cached policies needed regeneration as a debugging + quality-monitoring channel
@@ -59,13 +59,13 @@ Project Zomboid's offscreen storylet architecture (Indie Stone blog 2022 "the zu
 ## Key citations
 
 - **Project Zomboid Indie Stone blog 2022 "the zuckerverse":** https://projectzomboid.com/blog/news/2022/03/the-zuckerverse/ (commercial-precedent reference; verify URL still active at drafting time).
-- **Park 2023 Generative Agents** (cross-referenced from Post 97).
-- **MAGMA arXiv:2601.03236** (cross-referenced from Post 98).
+- **Park 2023 Generative Agents** (cross-referenced from Post 96).
+- **MAGMA arXiv:2601.03236** (cross-referenced from Post 97).
 
 ## Cross-links
 
-- LINKS BACK TO: Post 95 (audit-first sequencing) + Post 94 (consolidation pass) + Posts 97-98 (Park 2023 + MAGMA backbones)
-- LINKS FORWARD TO: Post 96 retroactively (V1 spec includes hybrid-path commitments)
+- LINKS BACK TO: Post 94 (audit-first sequencing) + Post 93 (consolidation pass) + Posts 96-97 (Park 2023 + MAGMA backbones)
+- LINKS FORWARD TO: Post 95 retroactively (V1 spec includes hybrid-path commitments)
 - IMPLEMENTATION TIE: Round 9 Q4 EFE decomposition specifies the audit-layer vs runtime-layer apparatus + the per-frame budget constraint
 
 ## Drafting prerequisites

@@ -14,8 +14,8 @@ The "two same-day six-round arcs" framing predates Round 7. As of 2026-06-10 PM,
 
 **Drafting action options:**
 - (a) Reframe Post 88 to cover FOUR same-arc rounds: R1-R3 same-day + R4 next morning + R7 closing-round + R8 closing-round. The same-day cycle close cadence is becoming a methodology pattern worth documenting.
-- (b) Re-slot to Post 96 as closing retrospective of the full Posts 89-104 sequence.
-- (c) Fold the methodological self-correction angle (F-14 + F-17 "canonical record was wrong against primary text" stories) into Post 93 as recommended by CW R4 Section 9.
+- (b) Re-slot to Post 95 as closing retrospective of the full Posts 89-103 sequence.
+- (c) Fold the methodological self-correction angle (F-14 + F-17 "canonical record was wrong against primary text" stories) into Post 92 as recommended by CW R4 Section 9.
 
 **Sharpened methodology lessons across Round 7 + Round 8:**
 - Rule 19 substrate-self-attestation unenforceable: n=5 cumulative (R7: R3 + R4-1 + R4-2 + R5; R8: R2 made primary-text error under explicit attestation)
