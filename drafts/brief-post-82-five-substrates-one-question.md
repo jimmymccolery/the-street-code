@@ -4,6 +4,10 @@
 **Target slot:** Post 82 (methodology meta).
 **Scope verdict (per closure memo):** SAFE per soft-disclosure rule — multi-substrate methodology meta; soft-disclose specific substrate-routing decisions per Approach 2.
 
+## Round 7 framing note
+
+If this post references Modified-C-bis ratification, treat Round 6 ratification as the inflection AND note that Round 7 (closed 2026-06-10) reopened 4 FLAG corrections (F-8 + F-9 + F-12 + F-13). The methodology lesson sharpens: substrate-self-attestation is unenforceable (Rule 19 n=4 same-round in Round 7 alone — R3 + R4-1 + R4-2 + R5). "Longer + more confident substrate output ≠ more authoritative" is the sharpened claim. Citation chain for any anchor mentioned in the post must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`.
+
 ## Thesis
 
 A single substrate's strengths are also its blind spots. A multi-substrate research arc that names each substrate's contribution differential — academic-citation rigor (Gemini Deep Research), citation verification (Perplexity Deep Research), generative novel-surfacing (Grok DeeperSearch), primary-text agentic browsing (Perplexity Computer + Opus), operationalization-depth agentic browsing (Perplexity Computer + ChatGPT) — and then orchestrates the cross-substrate verdicts through a sixth synthesizer (Claude Web Madisonian Gate) produces verdicts that no single substrate could produce. The two same-day arcs that closed 2026-06-09 are the working example.

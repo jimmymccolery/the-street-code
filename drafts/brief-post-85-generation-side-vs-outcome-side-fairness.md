@@ -4,6 +4,10 @@
 **Target slot:** Post 85 (PersonaWeaver / Marcus Reed Protocol layers).
 **Scope verdict (per closure memo):** SAFE if Marcus Reed described generically as "outcome-distribution audit" without naming Surface 8 enumeration or §39 specifics. Protected-scope strict.
 
+## Round 7 framing note
+
+PersonaWeaver paper framing is character expressiveness + dramatic tension addressing assistant alignment biases — NOT a fairness safeguard or bias-mitigation safety mechanism. The words "fairness" and "marginalized" do NOT appear in the paper. PersonaWeaver operates at the GENERATION/EXPRESSIVENESS layer; the outcome-distribution audit operates at the POST-GENERATION DISTRIBUTION layer; they are independent interventions at different layers, NOT two halves of one intervention. Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` Modification 3 anchor section.
+
 ## Thesis
 
 Fairness in procedural-character generation operates at two distinct layers that are often conflated. PersonaWeaver (Qraitem, Saenko, Plummer 2026) addresses GENERATION-SIDE bias by disentangling world-building from behavioral-building — producing characters with dramatic tension and behavioral diversity. The paper makes no fairness claim; the words "fairness" and "marginalized" do not appear in it. The Marcus Reed Protocol is an OPERATOR-NOVEL OUTCOME-SIDE intervention: a post-generation distribution audit that checks whether the population the system actually produces meets fairness criteria. The two interventions operate at different layers, and conflating them weakens both.
