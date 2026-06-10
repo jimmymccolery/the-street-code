@@ -4,9 +4,13 @@
 **Target slot:** Post 85 (PersonaWeaver / Marcus Reed Protocol layers).
 **Scope verdict (per closure memo):** SAFE if Marcus Reed described generically as "outcome-distribution audit" without naming Surface 8 enumeration or §39 specifics. Protected-scope strict.
 
-## Round 7 framing note
+## Round 7 + Round 8 framing notes
 
-PersonaWeaver paper framing is character expressiveness + dramatic tension addressing assistant alignment biases — NOT a fairness safeguard or bias-mitigation safety mechanism. The words "fairness" and "marginalized" do NOT appear in the paper. PersonaWeaver operates at the GENERATION/EXPRESSIVENESS layer; the outcome-distribution audit operates at the POST-GENERATION DISTRIBUTION layer; they are independent interventions at different layers, NOT two halves of one intervention. Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` Modification 3 anchor section.
+**Round 7 (UNCHANGED):** PersonaWeaver paper framing is character expressiveness + dramatic tension addressing assistant alignment biases — NOT a fairness safeguard. PersonaWeaver operates at the GENERATION/EXPRESSIVENESS layer; outcome-distribution audit operates at the POST-GENERATION DISTRIBUTION layer; independent interventions at different layers.
+
+**Round 8 R4 addition:** if Post 85 invokes Metzinger SMT for self-modeling discussion, **Metzinger is CONTRAST-ONLY citation** per FLAG F-16 (2026-06-10 PM). Metzinger's phenomenal claim is constitutive not detachable. Self-model machinery routes through Friston 2018 Markov-blanket framing only.
+
+Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` Modification 3 anchor section + (if Metzinger invoked) the F-16 CONTRAST-ONLY discipline.
 
 ## Thesis
 

@@ -4,11 +4,15 @@
 **Target slot:** Post 83 (Bayesian-inversion framing for the operator-novel cryptographic-puzzle contribution).
 **Scope verdict (per closure memo):** SAFE if structure-only — discuss Bayesian inversion CONCEPT; do NOT name cryptographic-puzzle internals or Item #98 specifics. Protected-scope strict.
 
-## Round 7 correction-footnote requirement (FLAG F-8)
+## Round 8 R4 correction-footnote requirement (FLAGs F-14 + F-15 + F-18)
 
-Per CW R6 closing-round (2026-06-10): if this post invokes naive-vs-sophisticated active-inference framing for the Bayesian-inversion thesis, **the sophisticated-inference citation MUST default to Friston 2021 NOT Friston 2017 Appendix F**. The 2017 Appendix-F attribution is UNCORROBORATED; the formal distinction is canonically in Friston 2021 *Neural Computation* 33(3):713-763.
+Per CW R4 Round 8 closing-round (item-1587, 2026-06-10 PM): **FLAG F-8 RESOLVED.** Friston 2017 Appendix F (pp. 42-43) contains the naive/sophisticated distinction. Both Friston 2017 App. F + Friston 2021 are valid co-citations.
 
-**Drafting action:** cite Friston 2021 for any sophisticated-inference framing; cite Friston 2017 only for the broader POMDP active-inference machinery. Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` Modification 1 anchor section.
+**FLAG F-15 (NEW):** naive/sophisticated axis is recursive metacognition (NOT temporal horizon depth). Post 83 should be careful to keep these axes orthogonal: sophisticated inference can have shallow or deep horizon; the discriminator is recursive belief-about-belief.
+
+**FLAG F-18 (NEW):** if Post 83 discusses position-(a) boundary for the Bayesian-inversion thesis, the boundary is **state-space content** (no cross-era self-identity variable) NOT temporal extent. Horizon depth is secondary defense-in-depth, not the boundary.
+
+**Drafting action (updated):** cite Friston 2017 Appendix F + Friston 2021 as co-citations. Keep naive/sophisticated/horizon axes orthogonal. Position-(a) boundary framing must use state-space-content language not temporal-extent language. Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`.
 
 ## Thesis
 

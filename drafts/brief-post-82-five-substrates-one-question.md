@@ -4,9 +4,19 @@
 **Target slot:** Post 82 (methodology meta).
 **Scope verdict (per closure memo):** SAFE per soft-disclosure rule — multi-substrate methodology meta; soft-disclose specific substrate-routing decisions per Approach 2.
 
-## Round 7 framing note
+## Round 8 R4 framing note
 
-If this post references Modified-C-bis ratification, treat Round 6 ratification as the inflection AND note that Round 7 (closed 2026-06-10) reopened 4 FLAG corrections (F-8 + F-9 + F-12 + F-13). The methodology lesson sharpens: substrate-self-attestation is unenforceable (Rule 19 n=4 same-round in Round 7 alone — R3 + R4-1 + R4-2 + R5). "Longer + more confident substrate output ≠ more authoritative" is the sharpened claim. Citation chain for any anchor mentioned in the post must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`.
+Modified-C-bis ratification timeline:
+- Round 6 (2026-06-09): initial Modified-C-bis 6-mod ratification
+- Round 7 (2026-06-10 AM): reopened 4 FLAG corrections (F-8 + F-9 + F-12 + F-13); Modification 6 Amendment added (position-(a) discipline)
+- Round 8 (2026-06-10 PM): position (a) RATIFIED WITH REVISIONS; 5 new FLAGs (F-14 confirms F-8 RESOLVED; F-15 naive/sophisticated/horizon disambiguation; F-16 Metzinger contrast-only; F-17 RETRACTS F-13 Wiredu universalist CORROBORATED from primary text; F-18 boundary discriminator fix); Path B recommended for iOS V1.
+
+**Methodology lesson sharpens further at Round 8:**
+- Rule 19 substrate-self-attestation n=5 cumulative across Rounds 7 + 8 (R3 + R4-1 + R4-2 + R5 in R7; R2 in R8 — R2 made primary-text error under explicit attestation; caught by R4)
+- Two orchestrator-class catches at Round 8 (F-15 + F-17) that majority-vote across R1+R1'+R2+R3 would have missed
+- "Longer + more confident substrate output ≠ more authoritative" sharpens to "even when 3-of-4 substrates converge, orchestrator-class re-read of primary text can reverse the verdict" (F-17 specifically)
+
+Citation chain for any anchor mentioned in the post must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`.
 
 ## Thesis
 
