@@ -4,13 +4,26 @@
 **Target slot:** Post 88 (OPTIONAL post-ship retrospective; methodology meta).
 **Scope verdict (per closure memo):** SAFE — methodology retrospective + arc structure meta. No protected scope.
 
-## Round 7 retrospective update — Round 7 ALSO closed (2026-06-10)
+## Round 7 + Round 8 retrospective update (2026-06-10 PM)
 
-The "two same-day six-round arcs" framing predates Round 7. As of 2026-06-10, a THIRD same-arc cycle CLOSED via item-1582 CW R6 Madisonian Gate Synthesis: Round 7 (NPC memory + interaction architecture operationalization) closed with 4 new FLAG catches (F-8 + F-9 + F-12 + F-13), both DRAFT architectures RATIFIED with revisions, Modification 6 wording REWRITTEN per CW R6 §4.4, and a LEAN-for-iOS / Production-for-Steam-V1.0 V1 budget commitment.
+The "two same-day six-round arcs" framing predates Round 7. As of 2026-06-10 PM, **TWO additional same-arc cycles have CLOSED same-day:**
 
-**Drafting action:** Post 88 retrospective should EITHER (a) be reframed to cover three same-arc rounds (R1-R3 same-day; R4 next morning; R7 closing-round) rather than just "two same-day six-round arcs" OR (b) be re-slotted to Post 96 as the closing retrospective of the full Posts 89-104 sequence covering the entire R7 arc + sharpened-methodology-lesson "longer + more confident ≠ more authoritative" + Rule 19 n=4 same-round substrate-self-attestation track record.
+- **Round 7 (closed 2026-06-10 AM):** item-1582 CW R6 Madisonian Gate Synthesis. NPC memory + interaction architecture operationalization. 4 new FLAG catches (F-8 + F-9 + F-12 + F-13); both DRAFT architectures RATIFIED with revisions; Modification 6 wording REWRITTEN per CW R6 §4.4; LEAN-for-iOS / Production-for-Steam-V1.0 V1 budget commitment.
 
-**Citation chain** for any framework-touching content in this post must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`.
+- **Round 8 (closed 2026-06-10 PM):** item-1587 CW R4 Madisonian Gate Synthesis. Philosophy-of-mind position-(a) verification. 5 new FLAG catches (F-14 + F-15 + F-16 + F-17 + F-18); position (a) RATIFIED WITH REVISIONS; F-13 RETRACTED (Wiredu universalist CORROBORATED from primary text — R2 Round 8 wrong; R4-2 prior arc right); Modification 6 Amendment Round 8 Revision (boundary discriminator = state-space content NOT temporal extent); Path B recommended for iOS V1 ship 2026-10-31.
+
+**Drafting action options:**
+- (a) Reframe Post 88 to cover FOUR same-arc rounds: R1-R3 same-day + R4 next morning + R7 closing-round + R8 closing-round. The same-day cycle close cadence is becoming a methodology pattern worth documenting.
+- (b) Re-slot to Post 96 as closing retrospective of the full Posts 89-104 sequence.
+- (c) Fold the methodological self-correction angle (F-14 + F-17 "canonical record was wrong against primary text" stories) into Post 93 as recommended by CW R4 Section 9.
+
+**Sharpened methodology lessons across Round 7 + Round 8:**
+- Rule 19 substrate-self-attestation unenforceable: n=5 cumulative (R7: R3 + R4-1 + R4-2 + R5; R8: R2 made primary-text error under explicit attestation)
+- "Longer + more confident substrate output ≠ more authoritative" reinforced
+- "Even when 3-of-4 substrates converge, orchestrator-class re-read of primary text can reverse the verdict" (F-17 specifically: R2 reading missed Wiredu Ch 9 p. 193 chapter opening that R4-2 + CW R4 caught)
+- Two orchestrator-class catches at Round 8 (F-15 + F-17) that majority-vote across R1+R1'+R2+R3 would have missed
+
+**Citation chain** for any framework-touching content in this post must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` (updated 2026-06-10 PM with R8 R4 cascade).
 
 ## Thesis
 

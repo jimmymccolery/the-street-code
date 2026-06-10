@@ -4,13 +4,19 @@
 **Target slot:** Post 81 (lead philosophical post; T-4 months to ship).
 **Scope verdict (per closure memo):** SAFE — pure methodology + public-domain academic philosophy (Friston / Colombo & Wright). No Memory Lanes protected scope.
 
-## Round 7 correction-footnote requirement (FLAG F-8)
+## Round 8 R4 correction-footnote requirement (FLAGs F-14 + F-15)
 
-Per CW R6 closing-round (2026-06-10): the prior "§4.4 and §5" attribution for Friston 2017's metatheoretical disclaimer is PENDING operator-side primary-text confirmation. R4-2's paraphrase "Appendix F" is UNCORROBORATED. CW R6 surfaces probable paper conflation — the naive-vs-sophisticated FORMAL distinction is canonically the SEPARATE Friston 2021 paper (*Neural Computation* 33(3):713-763), NOT Friston 2017.
+Per CW R4 Round 8 closing-round (item-1587, 2026-06-10 PM): **FLAG F-8 RESOLVED.** Friston 2017 Appendix F "Sophisticated Schemes" (pp. 42-43) DOES contain the naive/sophisticated active inference distinction. R2 (item-1585) and R4 (item-1587) both verified directly via primary-text reads. Prior-arc "UNCORROBORATED / probable paper conflation" status is RETRACTED.
 
-**Drafting action:** before this post drafts, re-read Friston 2017 §3-5 to confirm or refute the metatheoretical-disclaimer section attribution. If found in 2017, cite the actual section number. If NOT found in 2017, restructure the thesis to lean on Friston 2021's explicit naive/sophisticated framing OR cite Colombo & Wright 2021 §4.1 directly (FEP "defines a class of process models" — this DOES satisfy the falsifiability critique by epistemic-pluralism move).
+**Drafting action (updated):** Post 81 can cite Friston 2017 Appendix F (pp. 42-43) directly for the naive/sophisticated distinction, paired with Friston 2021 *Neural Computation* 33(3):713-763 as the full formal treatment. Metatheoretical disclaimer language lives at §4.4 (Summary, p. 34) + §5 (Conclusion, pp. 36-37) — the process-theory move that satisfies the Bowers-Davis falsifiability critique.
 
-**Citation chain** for this post must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` Modification 1 anchor section.
+**FLAG F-15 disambiguation:** the naive vs sophisticated axis is recursive metacognition (NOT temporal depth). Post 81 should NOT conflate "sophisticated active inference" with "deep-temporal" — they are orthogonal. V1 uses naive for cost reasons, NOT because sophistication implies Diachronicity.
+
+**Original Round 7 correction-footnote requirement (preserved for audit trail; SUPERSEDED by R4 RESOLUTION):**
+
+~~Per CW R6 closing-round (2026-06-10): the prior "§4.4 and §5" attribution for Friston 2017's metatheoretical disclaimer is PENDING operator-side primary-text confirmation. R4-2's paraphrase "Appendix F" is UNCORROBORATED.~~ **RESOLVED 2026-06-10 PM via Round 8 R2 + R4.** Friston 2017 Appendix F real; both Friston 2017 + Friston 2021 valid co-citations.
+
+**Citation chain** for this post must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` Modification 1 anchor section (updated 2026-06-10 PM with F-8 RESOLVED + F-15 disambiguation).
 
 ## Thesis
 

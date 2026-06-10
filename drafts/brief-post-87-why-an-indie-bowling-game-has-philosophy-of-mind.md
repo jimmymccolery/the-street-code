@@ -4,9 +4,16 @@
 **Target slot:** Post 87 (OPTIONAL launch-adjacent; ~T-2 to T-3 weeks; disclosure rule may shift closer to ship).
 **Scope verdict (per closure memo):** TIMING-DEPENDENT — launch-adjacent; the soft-disclosure rule (revisit date 2026-11-04) may shift closer to ship, opening more of the implementation scope for public discussion. Operator judgment.
 
-## Round 7 correction-footnote requirements (FLAGs F-8, F-9)
+## Round 8 R4 correction-footnote requirements (FLAGs F-14 + F-15 + F-18 + F-9)
 
-Per CW R6 closing-round (2026-06-10): if this post references Friston active-inference framing or Strawson Episodic Self, the F-8 (Friston paper-conflation; sophisticated-inference defaults to Friston 2021) and F-9 (Strawson p.430 NOT p.429; two-level split is between NPC self-experience and observer-level player-perceived narrative, NOT licensed by Strawson) corrections apply. Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`.
+Per CW R4 Round 8 closing-round (item-1587, 2026-06-10 PM):
+
+- **FLAG F-14:** Friston 2017 Appendix F (pp. 42-43) contains naive/sophisticated distinction. F-8 RESOLVED. Both Friston 2017 + Friston 2021 valid co-citations.
+- **FLAG F-15:** naive/sophisticated/horizon are THREE orthogonal axes. Don't conflate.
+- **FLAG F-18:** position-(a) boundary is state-space content (no cross-era self-identity variable) NOT temporal extent.
+- **FLAG F-9 (Strawson p. 430 NOT p. 429; UNCHANGED):** R3 verified p. 430 quote directly.
+
+Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` (updated 2026-06-10 PM).
 
 ## Thesis
 

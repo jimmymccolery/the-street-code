@@ -4,9 +4,15 @@
 **Target slot:** Post 86 (pre-registration content + Marlene Kowalski → Character A/B framing per Item 3 closure).
 **Scope verdict (per closure memo):** OPERATOR-JUDGMENT RESOLVED via abstract Character A/B framing per Item 3 ratification — convert all NPC-specific references to abstract framing for the post; preserve specifics for post-V1-ship reframe after 2026-11-04 disclosure-rule revisit.
 
-## Round 7 framing note
+## Round 8 R4 framing note
 
-The Modification 4 "preliminary anchor" framing is REINFORCED by Round 7's FLAG corrections (F-8 + F-9 + F-12 + F-13): substrate-paraphrase citation chains caught probable Friston paper conflation, wrong Strawson page number, incorrect Wiredu mapping row, and uncorroborated Wiredu-universalism. These are not failures of the empirical-pilot plan; they are failures of the substrate-paraphrase citation chain. Pre-registration discipline + primary-text grounding are the operator's mechanism for not letting either failure mode bleed into the framework's published claims. Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`.
+The Modification 4 "preliminary anchor" framing is REINFORCED by Round 7 + Round 8's FLAG corrections. Specifically:
+
+**Round 7 catches (F-6 + F-8 + F-9 + F-12 + F-13):** substrate-paraphrase citation chains caught probable Friston paper conflation, wrong Strawson page number, incorrect Wiredu mapping row, and (provisionally) uncorroborated Wiredu-universalism.
+
+**Round 8 catches (F-14 + F-15 + F-16 + F-17 + F-18):** F-8 RESOLVED (Friston 2017 Appendix F IS real); naive/sophisticated/horizon disambiguation (F-15); Metzinger contrast-only (F-16); **F-17 REVERSES F-13 — Wiredu universalist CORROBORATED from primary text** (R4-2 prior arc was right; R2 Round 8 wrong; majority-vote would have stayed with R2); boundary discriminator fixed (F-18 — state-space content NOT temporal extent).
+
+The Round 8 R4 catches reinforce the Post 86 thesis: even multi-substrate cross-verification can propagate primary-text reading errors when substrates reach majority agreement on a misreading. The pre-registration discipline + orchestrator-class primary-text re-reads are the operator's mechanism for catching these. Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` (updated 2026-06-10 PM with F-8 RESOLVED + F-13 RETRACTED + F-15/F-16/F-18 catches).
 
 ## Thesis
 

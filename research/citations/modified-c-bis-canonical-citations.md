@@ -12,7 +12,7 @@
 When drafting a the-street-code post that invokes the Modified-C-bis framework or any of its anchor citations, this file is the authoritative pre-flight citation reference. Specifically:
 
 1. **For Modification numbers** referenced in posts (Modifications 1-6 of Modified-C-bis), the relevant anchor citations are under the matching section below.
-2. **For correction-footnotes** required on Posts 81-88 (drafted before Round 7 closed): the four FLAG catches (F-6 + F-8 + F-9 + F-12 + F-13) are documented in their respective anchor sections below. Each post that cites the affected anchor must carry a brief correction-footnote referring to this file.
+2. **For correction-footnotes** required on Posts 81-88 (drafted before Round 7 closed): the FLAG catches from Round 7 (F-6 + F-8 + F-9 + F-12 + F-13) PLUS Round 8 R4 catches (F-14 confirmation + F-15 naive/sophisticated/horizon disambiguation + F-16 Metzinger contrast-only + F-17 Wiredu universalist RETRACTION of F-13 + F-18 state-space-content boundary) are documented in their respective anchor sections below. Each post that cites the affected anchor must carry a brief correction-footnote referring to this file.
 3. **For Posts 89-104** drafting going forward: this file is the citation grounding. Substrate paraphrases of the sources here are NOT acceptable as the citation chain for any load-bearing cross-cultural claim.
 4. **For framework-paper drafting** (the eventual JCS submission): this file supersedes any prior-arc citation that contradicts an entry here.
 
@@ -27,8 +27,8 @@ When drafting a the-street-code post that invokes the Modified-C-bis framework o
 ### Citation discipline
 
 - **Cite as process theory, NOT as the Free Energy Principle metaphysics.** Friston himself disclaims the principle's prescriptive force in this paper.
-- **PENDING-PRIMARY-TEXT (FLAG F-8):** the specific section that contains the metatheoretical disclaimer is under operator-side primary-text confirmation. Prior arc framings ("§4.4 + §5" and R4-2 paraphrase "Appendix F") are BOTH UNCORROBORATED. Round 7 CW R6 surfaced probable paper conflation: the naive-vs-sophisticated formal distinction is canonically the SEPARATE Friston 2021 paper, NOT Friston 2017.
-- **Default disposition:** sophisticated-inference citation defaults to Friston 2021 until 2017 primary-text re-read confirms or refutes the F-8 finding.
+- **FLAG F-8 RESOLVED 2026-06-10 PM via Round 8 R2 + R4 independent primary-text reads.** Friston 2017 Appendix F "Sophisticated Schemes" (pp. 42-43) DOES contain the naive vs sophisticated active inference distinction. Direct quote (Appendix F, p. 43): *"Clearly, this scheme is computationally more involved than the naive scheme and calls on recursive variational updating. This means that sophisticated agents are metacognitive in some sense because they perform belief updating (based on fictive outcomes) to optimize their belief updating."* Prior-arc "UNCORROBORATED / probable conflation" status is RETRACTED. Both Friston 2017 Appendix F (first formal introduction) AND Friston 2021 (full treatment) are valid co-citations.
+- **Round 8 R4 F-15 disambiguation:** the naive/sophisticated axis is recursive metacognition (NOT temporal horizon depth). Three orthogonal axes: inference-scheme (naive/sophisticated) + temporal horizon + Episodic/Diachronic self-experience. V1 uses naive for cost reasons, NOT because sophistication implies Diachronicity.
 
 ### Companion citations
 
@@ -66,8 +66,8 @@ When drafting a the-street-code post that invokes the Modified-C-bis framework o
 
 - **Metzinger, T. (2003).** ***Being No One: The Self-Model Theory of Subjectivity***. MIT Press.
 - **Metzinger, T. (2007).** Self-models. ***Scholarpedia*** 2(10):4174.
-- **Metzinger, T. (2008).** Empirical perspectives from the self-model theory of subjectivity.
-- Operator-side reading required if Metzinger self-model transparency/opacity becomes load-bearing.
+- **CONTRAST-ONLY discipline per Round 8 R4 FLAG F-16 (2026-06-10 PM):** Metzinger SMT is cited ONLY to name the position the framework explicitly does NOT occupy (position b — phenomenal consciousness constructed from self-models). Metzinger's phenomenal claim is **constitutive** of SMT, **not** detachable. The framework cannot cite Metzinger for self-model machinery and disclaim the phenomenal conclusion — that is incoherent, not just risky.
+- **Machinery routes through Friston 2018 ("Am I Self-Conscious?" *Frontiers in Psychology* 9:579; doi:10.3389/fpsyg.2018.00579) Markov-blanket framing ONLY.** Friston explicitly distinguishes structural-self-model from phenomenal consciousness at author level.
 
 ---
 
@@ -171,7 +171,7 @@ All empirical anchors carry preliminary-status caveat.
 - NO Akan vocabulary in code identifiers; structural logic only.
 - **Wiredu died 2022-01-06; no email contact possible. Primary texts only.**
 - **FLAG F-12:** Wiredu mapping row REMOVED from the three-layer memory cross-reference table (R5 mapped Wiredu personhood-as-achievement to the consolidation-phase filter; this was incorrect attribution — Wiredu speaks to social ontology + achievement framing, not memory architecture).
-- **FLAG F-13:** Wiredu UNIVERSALIST finding (whether Wiredu's framework generalizes beyond Akan-Ghanaian setting) is UNCORROBORATED in current research — rests on R4-2 alone. Treat as PENDING until additional primary-text grounding (Wiredu Ch 9 + Dzobo Ch 6 close-read).
+- **~~FLAG F-13:~~ RETRACTED 2026-06-10 PM via Round 8 R4 (item-1587) F-17 reversal.** Wiredu UNIVERSALIST finding CORROBORATED from primary text re-read of Wiredu Ch 9. Specifically: **Ch 9 p. 193 chapter opening:** *"Morality in the strictest sense is universal to human culture… essential to all human culture."* + **Ch 9 p. 199:** sympathetic impartiality *"is the first principle of all morals"* and *"the logical basis of the golden rule"* — explicitly cross-cultural by Wiredu's own text. R4-2 from prior arc was RIGHT. R2 from Round 8 was WRONG (read pp. 199-205 but missed p. 193 chapter opening). **Citation discipline shift:** cite Wiredu for the *striving-not-introspection structure* (p. 200, in the text) NOT for *cross-cultural breadth* (since Wiredu himself frames the structure as universalist by his own text; citing him as cross-cultural-anchor is itself a mild misattribution).
 
 ### Secondary literature
 
