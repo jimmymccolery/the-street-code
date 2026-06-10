@@ -939,7 +939,7 @@ After the trail, CW explicitly stated in its response: "I read the actual canoni
 ## Idea 34 — Cross-player tournaments without central servers: OpenTimestamps + HD keys + Bitcoin anchoring as zero-PII federation aggregation surface
 
 **Filed:** 2026-06-09 (late session continuation; Federation tournament architecture synthesis 2026-06-09 morning)
-**Status:** idea
+**Status:** **published (Post 74; 2026-06-09 late session draft + same-day push)**
 **Leverage:** HIGH (technical novelty + privacy-first methodology + generalizes beyond gaming to any cross-player verification domain)
 
 **Empirical observation:** Operator's "bowling authority body arranges tournaments of best bowlers from all players' alleys" Steam V1.0 distinguisher initially appeared to require new federation server infrastructure. Targeted operator-directed scan ("can you look for the terms 'best bowlers' and 'trophy'/'trophies'") surfaced Topic 96 cryptographic trophy infrastructure (RATIFIED 2026-06-06; V1 critical-path) already provides ALL infrastructure needed for cross-player federation tournaments via existing scattered pieces. Synthesis architecture: HD-key-signed achievements + OpenTimestamps anchoring to Bitcoin blockchain + public proof-of-achievement → Federation NPC reads public anchors → tournament eligibility = verifiable trophy ownership → single-player simulation against verified trophy-holders → results distribute as new trophy + Trophy Display Item 82 accretion. 9 existing canonical pieces unified (Topic 96 + Phase 9.3 single-alley tournament hosting + Item 82 Trophy Display + Trophy Room chronological-mode artifact + Trophy Room scrapbook + League Trophy Night + per-decade trophy research 1960s-deck + Phase 7.1k sanctioning-body research + PBA/USBC institutional history items 0107+0148+0173+0178+0238).
@@ -961,7 +961,7 @@ After the trail, CW explicitly stated in its response: "I read the actual canoni
 ## Idea 35 — "The Alley Greets Everyone" three-mode design principle: tycoon + care + cozy as co-equal engagement modes via REWARDS not GATES architecture
 
 **Filed:** 2026-06-09 (late session continuation; principle articulated 2026-06-05 PM major arc close)
-**Status:** idea
+**Status:** **published (Post 73; 2026-06-09 late session draft + same-day push)**
 **Leverage:** HIGH (design methodology + counterintuitive framing + immediate cross-domain applicability)
 
 **Empirical observation:** During 2026-06-05 PM major arc close session, operator articulated "The Alley Greets Everyone" three-mode design principle as response to CC's false-binary tycoon-vs-relationship framing. Principle: tycoon + care + cozy are CO-EQUAL legitimate player engagement modes; engagement is REWARD not GATE; all three modes can succeed without exclusionary access controls. Immediate cascade: principle resolved 4+ hanging design decisions same session (faceless owner mandate + soft-pause skippability + real-time pacing tuning + no cozy-mode fail states). Principle canonized at `tycoon-design.md` Item #88 + Item #98 + §39 + Marcus Reed META-ARCH gate; load-bearing for all subsequent design deliberation.
@@ -1005,7 +1005,7 @@ After the trail, CW explicitly stated in its response: "I read the actual canoni
 ## Idea 37 — Orchestrator-class pattern-matching from proximal signals: the recovery mechanism that hides knowledge gaps from detection
 
 **Filed:** 2026-06-09 (late session continuation; orchestrator-class catch surfaced 2026-05-31 CW Pin Paradise Project audit)
-**Status:** idea
+**Status:** **published (Post 71; 2026-06-09 late session draft + same-day push)**
 **Leverage:** HIGH (methodology-critical for orchestrator-class AI workflows; directly extends Posts 50 + 58 + 60 substrate-self-attestation arc)
 
 **Empirical observation:** 2026-05-31 morning CW Pin Paradise Project audit surfaced that CW orchestrator-class verdicts had survived 7-9 days of stale Project Knowledge by pattern-matching from proximal signals — substrate audit prompts §0 reproduction-gates + operator chat context + multi-substrate response citations — NOT from actual Project Knowledge canonical files. Verdicts "looked right" because they were calibrated against proximal signals that carried CURRENT state, even though the underlying Project Knowledge was 7-9 days stale. Cumulative: 19+ orchestrator-class deployments 2026-05-25+ ran against stale knowledge with verdicts unflagged. Extended observation: CC replicates this pattern at multi-substrate synthesis scope via row-alignment-as-phantom-convergence (2026-06-08 Phase 7.1e synthesis aligning substrate-enumerations by row-number when semantic locks diverged; produced false-convergence claims).
@@ -1073,7 +1073,7 @@ After the trail, CW explicitly stated in its response: "I read the actual canoni
 ## Idea 40 — Don't-skip-chapters: sequential-completion discipline at primary-source ingestion scope
 
 **Filed:** 2026-06-09 (late session; `feedback_sequential_completion_no_chapter_skips.md` banked same evening from Wiredu ingestion)
-**Status:** idea
+**Status:** **published (Post 72; 2026-06-09 late session draft + same-day push)**
 **Leverage:** MEDIUM-HIGH (fresh n=1 with high-impact catch; generalizes to literature review + codebase exploration + multi-document audit workflows)
 
 **Empirical observation:** During 2026-06-09 evening Wiredu *Person and Community* CRVP II.1 volume ingestion (282 pages, 12 chapters), CC pre-screened chapters for "load-bearing relevance" to Modified-C / Posts 71-78 drafting and read selectively: Prologue → Wiredu Ch 2 → Gyekye Ch 5 → Wiredu Ch 9. Skipped: Ch 1 (Abraham), Ch 4 (Dzobo Symbols), Ch 6 (Dzobo Image of Man), Ch 7 (Wiredu Death), Ch 8 (Engmann), Ch 10-12. Operator caught the skip-pattern: "Don't skip any chapters, it looks like you are skipping chapter 7, 12, ingestion memories?" Recovery: CC committed to full sequential read of remaining chapters. Recovery produced significant load-bearing finds in pre-screened-as-low-relevance chapters:
@@ -1099,7 +1099,7 @@ Each of these would have been buried by a "load-bearing pre-screen" pass.
 ## Idea 41 — Institutional evolution as game constraint: PBA/USBC history shows why federations work differently in every decade
 
 **Filed:** 2026-06-09 (late session continuation; Federation tournament architecture synthesis 2026-06-09 morning + Phase 7.1k sanctioning-body research)
-**Status:** idea
+**Status:** **published (Post 75; 2026-06-09 late session draft + same-day push)**
 **Leverage:** MEDIUM (specialized but high-fidelity for historical-sim genre; extends bowling-history arc)
 
 **Empirical observation:** Per-decade trophy research (Perplexity Deep Research archive + Phase 7.1k sanctioning-body research) surfaces institutional bowling-history evolution as load-bearing design constraint for any era-authentic bowling tycoon:
