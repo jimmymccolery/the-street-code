@@ -1,13 +1,13 @@
-# Drafting brief — Post 97 "Generative Agents Are the Backbone, Not the Runtime"
+# Drafting brief — Post 96 "Generative Agents Are the Backbone, Not the Runtime"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design.
-**Target slot:** Post 97 — opens the Posts 97-99 hybrid-path block. Per R5 design: Park 2023 supplies observation/reflection/planning machinery; direct LLM scaling not viable for 88 NPCs over decades.
+**Target slot:** Post 96 — opens the Posts 96-98 hybrid-path block. Per R5 design: Park 2023 supplies observation/reflection/planning machinery; direct LLM scaling not viable for 88 NPCs over decades.
 **Scope verdict:** SAFE — methodology + open-academic + commercial-precedent META-level discussion. No Memory Lanes protected scope.
 **Length target:** 3000-4500 words.
 
 ## Thesis
 
-Park et al. 2023 "Generative Agents" (arXiv:2304.03442) is the canonical recent precedent for procedural-character architectures that use LLM machinery for observation, reflection, and planning. Modified-C-bis adopts the Park 2023 architecture's THREE-PROCESS DECOMPOSITION (observe → reflect → plan) as conceptual backbone but does NOT adopt direct-LLM scaling as runtime. The arithmetic: 88 NPCs × ~10 decisions per game-minute × continuous play sessions = LLM compute cost that breaks indie-budget reasoning. Park 2023's published evaluation ran 25 agents in a confined scenario; scaling to 88 NPCs across 30 game-years requires architectural surgery that subsequent posts (98 multi-graph memory, 99 cached policies) cover. Post 97 explains the Park 2023 grounding + the scaling-constraint that forces the hybrid path.
+Park et al. 2023 "Generative Agents" (arXiv:2304.03442) is the canonical recent precedent for procedural-character architectures that use LLM machinery for observation, reflection, and planning. Modified-C-bis adopts the Park 2023 architecture's THREE-PROCESS DECOMPOSITION (observe → reflect → plan) as conceptual backbone but does NOT adopt direct-LLM scaling as runtime. The arithmetic: 88 NPCs × ~10 decisions per game-minute × continuous play sessions = LLM compute cost that breaks indie-budget reasoning. Park 2023's published evaluation ran 25 agents in a confined scenario; scaling to 88 NPCs across 30 game-years requires architectural surgery that subsequent posts (98 multi-graph memory, 99 cached policies) cover. Post 96 explains the Park 2023 grounding + the scaling-constraint that forces the hybrid path.
 
 ## Sections (outline)
 
@@ -36,8 +36,8 @@ Park et al. 2023 "Generative Agents" (arXiv:2304.03442) is the canonical recent 
 
 5. **The architectural surgery the framework adopts.** Park 2023 backbone + Modified-C-bis runtime substitutions:
    - Observe layer: cached/sampled events + Markov-blanket isolation (NPC reads only its own perceptual window, not player-side narrative)
-   - Reflect layer: yearly consolidation pass (Post 94) drives Layer 2 promotion; LLM can drive consolidation summaries IF computationally affordable at yearly cadence (much rarer than per-decision)
-   - Plan layer: cached active-inference policies (Post 99 hybrid path) at runtime; sophisticated-inference EFE evaluation at consolidation boundaries (audit layer; Post 95)
+   - Reflect layer: yearly consolidation pass (Post 93) drives Layer 2 promotion; LLM can drive consolidation summaries IF computationally affordable at yearly cadence (much rarer than per-decision)
+   - Plan layer: cached active-inference policies (Post 98 hybrid path) at runtime; sophisticated-inference EFE evaluation at consolidation boundaries (audit layer; Post 94)
 
 6. **What this gets right vs what Park 2023 leaves open.**
    - Park 2023 doesn't address multi-decade NPC arcs (paper evaluation is single-session)
@@ -61,7 +61,7 @@ Park et al. 2023 "Generative Agents" (arXiv:2304.03442) is the canonical recent 
    - The COMBINATION (multi-decade + emotion-conditioned + pair-specific + active-inference-grounded + cross-cultural-disciplined) is what's novel
    - This honesty is the framework's commercial-precedent post bridge
 
-9. **V1 implementation cost.** Adopting Park 2023 backbone in Modified-C-bis is structural design choice (no direct code cost). The implementation-side cost is in the runtime substitutions (Posts 98 + 99 specify).
+9. **V1 implementation cost.** Adopting Park 2023 backbone in Modified-C-bis is structural design choice (no direct code cost). The implementation-side cost is in the runtime substitutions (Posts 97 + 99 specify).
 
 10. **Closing.** "Park 2023 showed me what was possible. The arithmetic showed me what was actually shippable. The hybrid path is the synthesis."
 
@@ -72,8 +72,8 @@ Park et al. 2023 "Generative Agents" (arXiv:2304.03442) is the canonical recent 
 
 ## Cross-links
 
-- LINKS BACK TO: Post 92 (commercial precedent comparison includes Park 2023 in agent-architecture lineage)
-- LINKS FORWARD TO: Post 98 (multi-graph memory; MAGMA-style typed indexes for V1) + Post 99 (cached policies; Project Zomboid offscreen storylet pattern)
+- LINKS BACK TO: Post 91 (commercial precedent comparison includes Park 2023 in agent-architecture lineage)
+- LINKS FORWARD TO: Post 97 (multi-graph memory; MAGMA-style typed indexes for V1) + Post 98 (cached policies; Project Zomboid offscreen storylet pattern)
 - IMPLEMENTATION TIE: Round 9 Q4 EFE decomposition + Q3 belief-update integrate Park 2023 three-process at the formalization layer
 
 ## Drafting prerequisites

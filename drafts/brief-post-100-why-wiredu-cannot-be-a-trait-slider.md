@@ -1,13 +1,13 @@
-# Drafting brief — Post 101 "Why Wiredu Cannot Be a Trait Slider"
+# Drafting brief — Post 100 "Why Wiredu Cannot Be a Trait Slider"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design.
-**Target slot:** Post 101 within Posts 100-104 cross-cultural sequence. Per R5 design: explains category error (procedural moral test ≠ personality trait dimension).
+**Target slot:** Post 100 within Posts 99-103 cross-cultural sequence. Per R5 design: explains category error (procedural moral test ≠ personality trait dimension).
 **Scope verdict:** SAFE-METHODOLOGICALLY but HIGH cross-cultural exposure. Full 5-element disclosure discipline mandatory (humility brackets; primary-text-only citation; retraction condition).
 **Length target:** 3500-5000 words.
 
 ## Thesis
 
-Wiredu's sympathetic impartiality (Ch 9 *Person and Community* 1992 p. 199) is a procedural moral test: imaginative role-reversal as a constraint on action. The test asks, "would you accept this outcome if your position were reversed?" HEXACO honesty-humility (Ashton & Lee 2009) is an individual-difference trait dimension measuring exploitation-vs-cooperation tendencies. Mapping a procedural test onto a trait coordinate conflates levels of analysis. A high-H NPC is not "more sympathetically impartial" in Wiredu's sense; it is statistically less exploitative. These are different objects. Post 101 walks through this category error in depth + extends the lesson beyond Wiredu specifically: procedural ethical tests across multiple traditions (Kantian universalizability; Rawlsian original position; Confucian role ethics; Ubuntu communal accountability) are NOT trait coordinates. Treating them as trait coordinates is a category error that the cross-cultural philosophy literature has named (Bilge 2013 ornamental deployment) + a class of mistake game designers should avoid.
+Wiredu's sympathetic impartiality (Ch 9 *Person and Community* 1992 p. 199) is a procedural moral test: imaginative role-reversal as a constraint on action. The test asks, "would you accept this outcome if your position were reversed?" HEXACO honesty-humility (Ashton & Lee 2009) is an individual-difference trait dimension measuring exploitation-vs-cooperation tendencies. Mapping a procedural test onto a trait coordinate conflates levels of analysis. A high-H NPC is not "more sympathetically impartial" in Wiredu's sense; it is statistically less exploitative. These are different objects. Post 100 walks through this category error in depth + extends the lesson beyond Wiredu specifically: procedural ethical tests across multiple traditions (Kantian universalizability; Rawlsian original position; Confucian role ethics; Ubuntu communal accountability) are NOT trait coordinates. Treating them as trait coordinates is a category error that the cross-cultural philosophy literature has named (Bilge 2013 ornamental deployment) + a class of mistake game designers should avoid.
 
 ## Sections (outline)
 
@@ -49,7 +49,7 @@ Wiredu's sympathetic impartiality (Ch 9 *Person and Community* 1992 p. 199) is a
 8. **What does work for cross-cultural philosophical grounding.**
    - Treat the procedural test as INSPIRATION at the framework + research-paper layer
    - Treat the implementation as its own design problem with its own trait sources (HEXACO H for cooperation/exploitation is empirically defensible per its own validation literature; not because Wiredu)
-   - Be explicit about the inspiration-vs-implementation distinction (Post 100's 5-element discipline)
+   - Be explicit about the inspiration-vs-implementation distinction (Post 99's 5-element discipline)
    - Cite primary sources directly + carry humility brackets
 
 9. **What this means for Modified-C-bis V1.**
@@ -70,8 +70,8 @@ Wiredu's sympathetic impartiality (Ch 9 *Person and Community* 1992 p. 199) is a
 
 ## Cross-links
 
-- LINKS BACK TO: Post 84 (Modified-C-bis personhood-as-achievement philosophical inspiration) + Post 93 (Wiredu mapping DROP self-correction) + Post 100 (5-element disclosure discipline)
-- LINKS FORWARD TO: Post 102 (what communal accountability WOULD require in code — Steam V1.0 candidate) + Post 103 (intra-African dispute disclosure)
+- LINKS BACK TO: Post 84 (Modified-C-bis personhood-as-achievement philosophical inspiration) + Post 92 (Wiredu mapping DROP self-correction) + Post 99 (5-element disclosure discipline)
+- LINKS FORWARD TO: Post 101 (what communal accountability WOULD require in code — Steam V1.0 candidate) + Post 102 (intra-African dispute disclosure)
 - IMPLEMENTATION TIE: V1 generosity mechanic uses HEXACO + attachment + Gottman; Wiredu philosophical layer at framework only
 
 ## Drafting prerequisites

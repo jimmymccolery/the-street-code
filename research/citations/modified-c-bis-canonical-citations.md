@@ -13,7 +13,7 @@ When drafting a the-street-code post that invokes the Modified-C-bis framework o
 
 1. **For Modification numbers** referenced in posts (Modifications 1-6 of Modified-C-bis), the relevant anchor citations are under the matching section below.
 2. **For correction-footnotes** required on Posts 81-88 (drafted before Round 7 closed): the FLAG catches from Round 7 (F-6 + F-8 + F-9 + F-12 + F-13) PLUS Round 8 R4 catches (F-14 confirmation + F-15 naive/sophisticated/horizon disambiguation + F-16 Metzinger contrast-only + F-17 Wiredu universalist RETRACTION of F-13 + F-18 state-space-content boundary) are documented in their respective anchor sections below. Each post that cites the affected anchor must carry a brief correction-footnote referring to this file.
-3. **For Posts 89-104** drafting going forward: this file is the citation grounding. Substrate paraphrases of the sources here are NOT acceptable as the citation chain for any load-bearing cross-cultural claim.
+3. **For Posts 89-103** drafting going forward: this file is the citation grounding. Substrate paraphrases of the sources here are NOT acceptable as the citation chain for any load-bearing cross-cultural claim.
 4. **For framework-paper drafting** (the eventual JCS submission): this file supersedes any prior-arc citation that contradicts an entry here.
 
 ---

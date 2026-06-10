@@ -1,13 +1,13 @@
-# Drafting brief — Post 102 "What Communal Accountability Would Require in Code"
+# Drafting brief — Post 101 "What Communal Accountability Would Require in Code"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design.
-**Target slot:** Post 102 within Posts 100-104 cross-cultural sequence. Per R5 design: shows the generosity ledger + community accountability mechanics that Option (a) from R7 R6 Section 3 would have required.
+**Target slot:** Post 101 within Posts 99-103 cross-cultural sequence. Per R5 design: shows the generosity ledger + community accountability mechanics that Option (a) from R7 R6 Section 3 would have required.
 **Scope verdict:** SAFE-METHODOLOGICALLY but HIGH cross-cultural exposure. Full 5-element disclosure discipline (humility brackets; primary-text-only citation; retraction condition).
 **Length target:** 3500-5000 words.
 
 ## Thesis
 
-The Wiredu mapping was dropped from V1 mechanics (Post 93; Posts 101) because the procedural-test → trait-slider mapping is a category error. But the more interesting question is: WHAT WOULD IT TAKE to actually implement Wireduan communal accountability in code? Post 102 specs out the Option (a) build (from R7 R6 Section 3): a generosity ledger that tracks accumulated relational obligations + a community accountability mechanic that surfaces obligations when characters interact + decision-scoring that consults obligations alongside individual preferences. Cost estimate: 8-18 hours design + 25-70 hours code. Why this is a Steam V1.0 candidate (~Oct 2027) not iOS V1: the mechanic is genuinely Wireduan rather than ornamental; it adds real game-design complexity (player interactions become consequence-laden in a way that goes beyond reputation); and the 1950s pinboy V1 baseline doesn't require it (Wiredu's universal first principle of morals can stay at the framework-paper layer for V1). Post 102 is a "what would it actually cost" post for the cross-cultural community.
+The Wiredu mapping was dropped from V1 mechanics (Post 92; Posts 100) because the procedural-test → trait-slider mapping is a category error. But the more interesting question is: WHAT WOULD IT TAKE to actually implement Wireduan communal accountability in code? Post 101 specs out the Option (a) build (from R7 R6 Section 3): a generosity ledger that tracks accumulated relational obligations + a community accountability mechanic that surfaces obligations when characters interact + decision-scoring that consults obligations alongside individual preferences. Cost estimate: 8-18 hours design + 25-70 hours code. Why this is a Steam V1.0 candidate (~Oct 2027) not iOS V1: the mechanic is genuinely Wireduan rather than ornamental; it adds real game-design complexity (player interactions become consequence-laden in a way that goes beyond reputation); and the 1950s pinboy V1 baseline doesn't require it (Wiredu's universal first principle of morals can stay at the framework-paper layer for V1). Post 101 is a "what would it actually cost" post for the cross-cultural community.
 
 ## Sections (outline)
 
@@ -18,15 +18,15 @@ The Wiredu mapping was dropped from V1 mechanics (Post 93; Posts 101) because th
 3. **What Option (a) from R7 R6 Section 3 was.** Recap:
    - Option (a): retain Wiredu as load-bearing AND build a real communal-accountability mechanic
    - Option (b): decouple HEXACO H from Wiredu philosophical grounding (banned per R7 R6: would discard defensible philosophical framing)
-   - Option (c): DROP the Wiredu mapping as load-bearing V1 mechanics; retain only as philosophical framing in Post 84 + framework paper + self-correction post (Post 93). **OPERATOR CHOICE.**
-   - Cost: Option (a) was 8-18h design + 25-70h code = 33-88 total hours. Path A operator ratification 2026-06-10 PM ("most comprehensive solution") makes Option (a) reconsider-able for Steam V1.0 + 143-day-runway accommodates re-add candidacy for V1 if operator decides — but Post 102 documents what it would COST, not what's been re-ratified.
+   - Option (c): DROP the Wiredu mapping as load-bearing V1 mechanics; retain only as philosophical framing in Post 84 + framework paper + self-correction post (Post 92). **OPERATOR CHOICE.**
+   - Cost: Option (a) was 8-18h design + 25-70h code = 33-88 total hours. Path A operator ratification 2026-06-10 PM ("most comprehensive solution") makes Option (a) reconsider-able for Steam V1.0 + 143-day-runway accommodates re-add candidacy for V1 if operator decides — but Post 101 documents what it would COST, not what's been re-ratified.
 
 4. **The generosity-ledger mechanic.** Spec walkthrough:
    - Each character maintains an outgoing-ledger + incoming-ledger
    - Outgoing-ledger: events where this character gave generosity to another character
    - Incoming-ledger: events where this character received generosity from another character
    - Ledger entries are tagged with: pair (giver, receiver), event-time, generosity-type (tip, favor, defense, time, attention), magnitude
-   - Ledgers persist via Layer 2 consolidation pass (per Post 94) + entity-index typed-index lookup (per Post 98)
+   - Ledgers persist via Layer 2 consolidation pass (per Post 93) + entity-index typed-index lookup (per Post 97)
 
 5. **The community-accountability mechanic.** Spec walkthrough:
    - At decision-scoring time, an active-inference evaluation reads the character's outgoing-ledger + incoming-ledger
@@ -51,8 +51,8 @@ The Wiredu mapping was dropped from V1 mechanics (Post 93; Posts 101) because th
 8. **Honest scope: what this spec doesn't solve.**
    - Doesn't solve cross-cultural breadth — the Wiredu-derived ledger mechanic respects Wiredu's framework but doesn't automatically respect other communal-ethics traditions (Confucian role ethics; Ubuntu; etc.)
    - Doesn't solve performance scaling — adding ledger lookups per decision increases per-frame budget
-   - Doesn't replace cached-policies + slow-consolidation pattern (Post 99) — the ledger mechanic is an additional input to cached-policy regeneration at consolidation boundaries
-   - Doesn't substitute for Cross/Crenshaw V1 SCHEMA-PLACEHOLDER discipline (Post 100's cross-cultural sequence is multi-traditional; no one mechanic addresses all)
+   - Doesn't replace cached-policies + slow-consolidation pattern (Post 98) — the ledger mechanic is an additional input to cached-policy regeneration at consolidation boundaries
+   - Doesn't substitute for Cross/Crenshaw V1 SCHEMA-PLACEHOLDER discipline (Post 99's cross-cultural sequence is multi-traditional; no one mechanic addresses all)
 
 9. **What this post is + what it is NOT.**
    - IS: a what-would-it-cost post for the cross-cultural-philosophy + game-design community
@@ -71,8 +71,8 @@ The Wiredu mapping was dropped from V1 mechanics (Post 93; Posts 101) because th
 
 ## Cross-links
 
-- LINKS BACK TO: Post 100 (5-element discipline) + Post 101 (why Wiredu cannot be a trait slider — sets up "but what if you actually wanted to operationalize it") + Post 93 (Wiredu DROP self-correction with comprehensive context)
-- LINKS FORWARD TO: Post 103 (intra-African dispute disclosure — communal accountability is contested within Akan philosophy) + Post 104 (WEIRD-defaults — communal accountability mechanic requires cultural-context tags)
+- LINKS BACK TO: Post 99 (5-element discipline) + Post 100 (why Wiredu cannot be a trait slider — sets up "but what if you actually wanted to operationalize it") + Post 92 (Wiredu DROP self-correction with comprehensive context)
+- LINKS FORWARD TO: Post 102 (intra-African dispute disclosure — communal accountability is contested within Akan philosophy) + Post 103 (WEIRD-defaults — communal accountability mechanic requires cultural-context tags)
 - IMPLEMENTATION TIE: Round 9 Q4 EFE decomposition could integrate communal-accountability adjustment; conditional on operator Steam V1.0 scope decision
 
 ## Drafting prerequisites

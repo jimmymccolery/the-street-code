@@ -1,13 +1,13 @@
-# Drafting brief — Post 93 "The Wiredu Mapping That Does Not Survive Implementation"
+# Drafting brief — Post 92 "The Wiredu Mapping That Does Not Survive Implementation"
 
-**Status:** Brief only; not yet drafted. Brief drafted 2026-06-10 PM consolidating R5 Post 93 design + R4 Section 9 F-14 + F-17 self-correction fold. SUPERSEDES brief-post-93-when-the-canonical-record-was-wrong-against-primary-text.md (which was the earlier methodology-only framing; this one folds in R5's Wiredu-mapping-DROP content).
-**Target slot:** Post 93 within Posts 89-96 retraction/self-correction block. R5 reserved this slot for the Wiredu-mapping-DROP self-correction. R8 R4 §9 added F-14 + F-17 fold here.
+**Status:** Brief only; not yet drafted. Brief drafted 2026-06-10 PM consolidating R5 Post 92 design + R4 Section 9 F-14 + F-17 self-correction fold. SUPERSEDES brief-post-93-when-the-canonical-record-was-wrong-against-primary-text.md (which was the earlier methodology-only framing; this one folds in R5's Wiredu-mapping-DROP content).
+**Target slot:** Post 92 within Posts 89-95 retraction/self-correction block. R5 reserved this slot for the Wiredu-mapping-DROP self-correction. R8 R4 §9 added F-14 + F-17 fold here.
 **Scope verdict (per disclosure rule v1.0):** SAFE — pure methodology + open-academic primary-text citations + cross-cultural disclosure discipline. No Memory Lanes protected scope. **HIGH cross-cultural exposure** — full 5-element disclosure discipline (humility brackets; primary-text-only citation; no universal-template usage; retraction condition; post-publication response within 14 days).
 **Length target:** 4000-5500 words per R5 design.
 
 ## Thesis
 
-Modified-C-bis explored using Wiredu's sympathetic-impartiality framing as a philosophical grounding for the HEXACO-H trait dimension in V1 NPC generosity mechanics. Three rounds of philosophical research surfaced enough problems with this mapping that the framework dropped it as load-bearing V1 mechanics: a category error (Wiredu's procedural moral test is not a personality trait), an ornamental-deployment risk (Bilge 2013: borrowing prestige without substance is worse than no mapping), and — initially — an uncorroborated universalist framing claim. The universalist question reversed itself in Round 8 when an orchestrator-class primary-text re-read of Wiredu Ch 9 confirmed the universalist framing IS in the text after all. The mapping still doesn't survive (category error + ornamental risk are independent of universalist status). But the F-17 reversal exposed a second meta-pattern: the framework's own canonical record had been carrying stale wrong flags. Post 93 covers both: the Wiredu mapping drop AND the meta-lesson about canonical-record drift caught by orchestrator-class primary-text re-reads.
+Modified-C-bis explored using Wiredu's sympathetic-impartiality framing as a philosophical grounding for the HEXACO-H trait dimension in V1 NPC generosity mechanics. Three rounds of philosophical research surfaced enough problems with this mapping that the framework dropped it as load-bearing V1 mechanics: a category error (Wiredu's procedural moral test is not a personality trait), an ornamental-deployment risk (Bilge 2013: borrowing prestige without substance is worse than no mapping), and — initially — an uncorroborated universalist framing claim. The universalist question reversed itself in Round 8 when an orchestrator-class primary-text re-read of Wiredu Ch 9 confirmed the universalist framing IS in the text after all. The mapping still doesn't survive (category error + ornamental risk are independent of universalist status). But the F-17 reversal exposed a second meta-pattern: the framework's own canonical record had been carrying stale wrong flags. Post 92 covers both: the Wiredu mapping drop AND the meta-lesson about canonical-record drift caught by orchestrator-class primary-text re-reads.
 
 The methodology lesson, sharper than "use multiple substrates": **even with cross-substrate convergence, primary-text re-reads at different reading-depths can reverse canonical state**. The discipline that catches this is the discipline this post publishes openly.
 
@@ -29,9 +29,9 @@ The methodology lesson, sharper than "use multiple substrates": **even with cros
 
 8. **The shared methodology lesson.** Multi-substrate verification (Rule 11) is necessary but not sufficient. Cross-substrate convergence ≠ proof. Orchestrator-class primary-text re-reads at different reading-depths are the discipline that catches what cross-substrate majority-vote misses. The framework's canonical record was wrong in two separate places, in the same week, on the same shape of error.
 
-9. **What survives in Modified-C-bis after the drop.** Wiredu's personhood-as-achievement philosophical framing stays in Post 84 + the framework paper — as philosophical inspiration, NOT operationalized as a trait or generosity mechanic in V1. Modification 5 attribution discipline applies: "Wiredu's reading," not "the Akan view." Menkiti-Gyekye intra-African disclosure (next post: Post 103).
+9. **What survives in Modified-C-bis after the drop.** Wiredu's personhood-as-achievement philosophical framing stays in Post 84 + the framework paper — as philosophical inspiration, NOT operationalized as a trait or generosity mechanic in V1. Modification 5 attribution discipline applies: "Wiredu's reading," not "the Akan view." Menkiti-Gyekye intra-African disclosure (next post: Post 102).
 
-10. **What this changes for procedural-character design more broadly.** Cross-cultural philosophical anchors are legitimate philosophical inspiration. They should NOT be operationalized as trait-coordinates without doing the operationalization work properly. The 5-element disclosure discipline (Post 100) is the framework's commitment.
+10. **What this changes for procedural-character design more broadly.** Cross-cultural philosophical anchors are legitimate philosophical inspiration. They should NOT be operationalized as trait-coordinates without doing the operationalization work properly. The 5-element disclosure discipline (Post 99) is the framework's commitment.
 
 11. **Closing humility paragraph.** Solo indie operator; explored a cross-cultural mapping; found it didn't work; dropped it; documented the why honestly; the framework is stronger because it is less grandiose. The discipline that caught the methodology errors is published openly so the next operator doing similar work can learn from it.
 
@@ -52,7 +52,7 @@ The methodology lesson, sharper than "use multiple substrates": **even with cros
 
 ## Round 8 R4 §9 origin
 
-Per item-1587 Section 9: "fold F-14 + F-17 self-correction into Post 93 already-reserved slot." R5 reserved Post 93 for Wiredu-mapping-DROP. R4 extended to include the meta-methodology pattern (F-14 + F-17 share the canonical-record-drift shape with F-13 → F-17 reversal at the Wiredu universalist axis). Both stories belong together because they share the methodology lesson + the chronology (same Round 8 close).
+Per item-1587 Section 9: "fold F-14 + F-17 self-correction into Post 92 already-reserved slot." R5 reserved Post 92 for Wiredu-mapping-DROP. R4 extended to include the meta-methodology pattern (F-14 + F-17 share the canonical-record-drift shape with F-13 → F-17 reversal at the Wiredu universalist axis). Both stories belong together because they share the methodology lesson + the chronology (same Round 8 close).
 
 ## Hour estimate
 

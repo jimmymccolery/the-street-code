@@ -1,13 +1,13 @@
-# Drafting brief — Post 95 "Why Active Inference Belongs in the Audit Layer First"
+# Drafting brief — Post 94 "Why Active Inference Belongs in the Audit Layer First"
 
 **Status:** Brief only; not yet drafted. NEW brief 2026-06-10 PM per Round 7 R5 design.
-**Target slot:** Post 95 within Posts 89-96 retraction block. Per R5 design: explains tractability risk + prototype-first sequencing.
+**Target slot:** Post 94 within Posts 89-95 retraction block. Per R5 design: explains tractability risk + prototype-first sequencing.
 **Scope verdict:** SAFE — methodology + Friston-active-inference citations + implementation analysis. No protected scope.
 **Length target:** 3000-4500 words per R5 design.
 
 ## Thesis
 
-Active inference is the mathematical apparatus Modified-C-bis uses to ground its NPC decision-making mechanism. Round 7 R5 surfaced a sharpened operationalization recommendation: even under Path A operator ratification (sophisticated active inference promoted to V1; Round 8 ratification 2026-06-10 PM), the safest sequencing is **active inference in the AUDIT layer first, runtime layer second**. The audit-layer use analyzes NPC decisions after-the-fact using the active-inference apparatus to detect whether decisions match the framework's structural-only-position-(a) discipline. The runtime-layer use drives the NPC's actual decisions during play. The audit layer can ship at lower computational cost (offline analysis; per-decision rather than per-frame); the runtime layer requires the 4-audit mandatory test surface + horizon-bound + state-space-content discipline operative in real-time. Post 95 explains why prototype-first sequencing is the right risk discipline + how the framework operationalizes "audit first" vs "runtime first."
+Active inference is the mathematical apparatus Modified-C-bis uses to ground its NPC decision-making mechanism. Round 7 R5 surfaced a sharpened operationalization recommendation: even under Path A operator ratification (sophisticated active inference promoted to V1; Round 8 ratification 2026-06-10 PM), the safest sequencing is **active inference in the AUDIT layer first, runtime layer second**. The audit-layer use analyzes NPC decisions after-the-fact using the active-inference apparatus to detect whether decisions match the framework's structural-only-position-(a) discipline. The runtime-layer use drives the NPC's actual decisions during play. The audit layer can ship at lower computational cost (offline analysis; per-decision rather than per-frame); the runtime layer requires the 4-audit mandatory test surface + horizon-bound + state-space-content discipline operative in real-time. Post 94 explains why prototype-first sequencing is the right risk discipline + how the framework operationalizes "audit first" vs "runtime first."
 
 ## Sections (outline)
 
@@ -23,7 +23,7 @@ Active inference is the mathematical apparatus Modified-C-bis uses to ground its
 
 4. **The audit-layer use of active inference.** Define it clearly:
    - NPCs make decisions via cached/heuristic policies during runtime (cheap; predictable per-frame budget)
-   - At consolidation boundaries (yearly pass per Post 94) OR at developer-triggered audit points, run active-inference apparatus offline to evaluate whether the NPC's cached-policy choices align with the position-(a)-compatible EFE-minimization the framework's discipline commits to
+   - At consolidation boundaries (yearly pass per Post 93) OR at developer-triggered audit points, run active-inference apparatus offline to evaluate whether the NPC's cached-policy choices align with the position-(a)-compatible EFE-minimization the framework's discipline commits to
    - Flag deviations for designer review (a regular bowler suddenly tipping outside expected pair-sentiment trajectory; might indicate cached-policy stale)
    - This is the use case where active inference earns its theoretical complexity by being a CHECK rather than a DRIVER
 
@@ -31,7 +31,7 @@ Active inference is the mathematical apparatus Modified-C-bis uses to ground its
    - Audit layer can ship with fewer operational risks (offline; no per-frame cost; failures don't crash gameplay)
    - Provides empirical data on whether NPCs actually need sophisticated-inference scoring at all (maybe cached policies suffice for the V1 1950s baseline)
    - Buys time for the 4-audit mandatory test surface to mature before sophisticated inference is in the player-facing path
-   - Lets the operator publish posts about active inference (Posts 89-104) without claiming runtime-deployed sophisticated inference until empirically warranted
+   - Lets the operator publish posts about active inference (Posts 89-103) without claiming runtime-deployed sophisticated inference until empirically warranted
 
 6. **The Path A operator ratification context.** Operator ratified Path A 2026-06-10 PM ("most comprehensive solution"). Path A promotes sophisticated active inference + structural-only self-reflection to V1 critical-path. The audit-first sequencing is compatible with Path A: it sequences the IMPLEMENTATION, not the RATIFICATION. Sophisticated inference is still committed to V1 (per Path A); audit-first means it lands in the audit layer V1.0 + earns its way to runtime promotion in V1.x based on test data.
 
@@ -41,14 +41,14 @@ Active inference is the mathematical apparatus Modified-C-bis uses to ground its
    - Markov-Blanket Isolation Test: NPC recursive belief-updating doesn't read player-side narrative state
    - Horizon Bound τ ≤ 3 (SECONDARY): defense-in-depth, not boundary itself
 
-   These four audits are themselves audit-layer apparatus. Running them is exactly the audit-layer use case Post 95 advocates for.
+   These four audits are themselves audit-layer apparatus. Running them is exactly the audit-layer use case Post 94 advocates for.
 
 8. **Honest scope: what audit-first doesn't solve.**
    - It doesn't solve the "is sophisticated inference even necessary for V1 game-feel" question (empirically open until tested)
    - It doesn't solve the marketing-copy discipline (Trigger 2 phenomenal-claim-leakage risk applies regardless of audit-vs-runtime)
    - It doesn't reduce the cross-cultural disclosure exposure (still 5-element discipline applies)
 
-9. **Round 9 generative-model formalization arc connection.** Post 95 closes by noting Round 9 (NPC generative-model formalization; trigger satisfied 2026-06-10 PM; V1-BUILD-blocking under Path A) will spec the audit-layer + runtime-layer pairing concretely. The audit-first sequencing recommendation is operational-discipline-level; the formalization arc translates it to math.
+9. **Round 9 generative-model formalization arc connection.** Post 94 closes by noting Round 9 (NPC generative-model formalization; trigger satisfied 2026-06-10 PM; V1-BUILD-blocking under Path A) will spec the audit-layer + runtime-layer pairing concretely. The audit-first sequencing recommendation is operational-discipline-level; the formalization arc translates it to math.
 
 10. **Closing.** Active inference is too theoretically powerful to ship as runtime by default. Audit-first earns the runtime promotion empirically. Honest sequencing > tempting moves.
 
@@ -62,7 +62,7 @@ Active inference is the mathematical apparatus Modified-C-bis uses to ground its
 ## Cross-links
 
 - LINKS BACK TO: Post 89 (retraction table — "no naive active-inference runtime" was one of the V1 corrections)
-- LINKS FORWARD TO: Post 96 (V1 NPC memory spec includes audit-vs-runtime sequencing) + Posts 97-99 (hybrid path includes cached-policies + slow-consolidation = audit-first compatible)
+- LINKS FORWARD TO: Post 95 (V1 NPC memory spec includes audit-vs-runtime sequencing) + Posts 96-98 (hybrid path includes cached-policies + slow-consolidation = audit-first compatible)
 - IMPLEMENTATION TIE: Round 9 formalization arc Q4 EFE decomposition specifies audit-vs-runtime apparatus
 
 ## Drafting prerequisites
