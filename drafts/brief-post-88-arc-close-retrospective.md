@@ -4,6 +4,14 @@
 **Target slot:** Post 88 (OPTIONAL post-ship retrospective; methodology meta).
 **Scope verdict (per closure memo):** SAFE — methodology retrospective + arc structure meta. No protected scope.
 
+## Round 7 retrospective update — Round 7 ALSO closed (2026-06-10)
+
+The "two same-day six-round arcs" framing predates Round 7. As of 2026-06-10, a THIRD same-arc cycle CLOSED via item-1582 CW R6 Madisonian Gate Synthesis: Round 7 (NPC memory + interaction architecture operationalization) closed with 4 new FLAG catches (F-8 + F-9 + F-12 + F-13), both DRAFT architectures RATIFIED with revisions, Modification 6 wording REWRITTEN per CW R6 §4.4, and a LEAN-for-iOS / Production-for-Steam-V1.0 V1 budget commitment.
+
+**Drafting action:** Post 88 retrospective should EITHER (a) be reframed to cover three same-arc rounds (R1-R3 same-day; R4 next morning; R7 closing-round) rather than just "two same-day six-round arcs" OR (b) be re-slotted to Post 96 as the closing retrospective of the full Posts 89-104 sequence covering the entire R7 arc + sharpened-methodology-lesson "longer + more confident ≠ more authoritative" + Rule 19 n=4 same-round substrate-self-attestation track record.
+
+**Citation chain** for any framework-touching content in this post must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`.
+
 ## Thesis
 
 The Philosophical Foundations research arc closed twice on 2026-06-09. The first closure ratified Modified-C; the second (later that day, after a grounding/gap-fill arc deployed against the first) ratified Modified-C-bis with six modifications + a new two-level axis split + a present-state-anchored terminology correction. The retrospective documents what made it possible to close two six-round arcs in one day instead of two-to-three weeks: substrate-style differentiation per Rule 11; orchestrator-class adjudication via Madisonian Gate synthesis; canonical-record verification discipline. The arc is also the working example for several methodology posts (Posts 71, 77, 82) that documented the same disciplines in their absence.

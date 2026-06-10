@@ -4,6 +4,10 @@
 **Target slot:** Post 86 (pre-registration content + Marlene Kowalski → Character A/B framing per Item 3 closure).
 **Scope verdict (per closure memo):** OPERATOR-JUDGMENT RESOLVED via abstract Character A/B framing per Item 3 ratification — convert all NPC-specific references to abstract framing for the post; preserve specifics for post-V1-ship reframe after 2026-11-04 disclosure-rule revisit.
 
+## Round 7 framing note
+
+The Modification 4 "preliminary anchor" framing is REINFORCED by Round 7's FLAG corrections (F-8 + F-9 + F-12 + F-13): substrate-paraphrase citation chains caught probable Friston paper conflation, wrong Strawson page number, incorrect Wiredu mapping row, and uncorroborated Wiredu-universalism. These are not failures of the empirical-pilot plan; they are failures of the substrate-paraphrase citation chain. Pre-registration discipline + primary-text grounding are the operator's mechanism for not letting either failure mode bleed into the framework's published claims. Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`.
+
 ## Thesis
 
 The hardest part of running a framework as an indie developer is being honest about the empirical gap. Modified-C-bis is a design theory — it is informed by literature, ratified through multi-substrate adjudication, and grounded in primary-source reads — but it has not been validated by an empirical pilot in the field setting. This post documents what HAS NOT been measured, what the pre-registered pilot is designed to measure, and what claims the framework explicitly does NOT make. Pre-registration is the discipline that converts "we think this works" into "here's the test we will run and the conditions under which we will say it doesn't."

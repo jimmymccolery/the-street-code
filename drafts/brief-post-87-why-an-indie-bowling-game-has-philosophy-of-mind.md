@@ -4,6 +4,10 @@
 **Target slot:** Post 87 (OPTIONAL launch-adjacent; ~T-2 to T-3 weeks; disclosure rule may shift closer to ship).
 **Scope verdict (per closure memo):** TIMING-DEPENDENT — launch-adjacent; the soft-disclosure rule (revisit date 2026-11-04) may shift closer to ship, opening more of the implementation scope for public discussion. Operator judgment.
 
+## Round 7 correction-footnote requirements (FLAGs F-8, F-9)
+
+Per CW R6 closing-round (2026-06-10): if this post references Friston active-inference framing or Strawson Episodic Self, the F-8 (Friston paper-conflation; sophisticated-inference defaults to Friston 2021) and F-9 (Strawson p.430 NOT p.429; two-level split is between NPC self-experience and observer-level player-perceived narrative, NOT licensed by Strawson) corrections apply. Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`.
+
 ## Thesis
 
 Most indie games are not framework-grounded in philosophy of mind. The decision to ground Memory Lanes' NPCs in an active-inference + relational-personhood + two-level-axis framework was made for a specific design reason: when players form attachments to procedural characters, the depth of those attachments depends on whether the characters feel like people. The philosophy-of-mind framework was the way I tried to make the design treat them like people. This post explains the reasoning at a launch-adjacent moment when the product itself is the example.

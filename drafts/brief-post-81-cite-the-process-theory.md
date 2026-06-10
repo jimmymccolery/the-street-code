@@ -4,6 +4,14 @@
 **Target slot:** Post 81 (lead philosophical post; T-4 months to ship).
 **Scope verdict (per closure memo):** SAFE — pure methodology + public-domain academic philosophy (Friston / Colombo & Wright). No Memory Lanes protected scope.
 
+## Round 7 correction-footnote requirement (FLAG F-8)
+
+Per CW R6 closing-round (2026-06-10): the prior "§4.4 and §5" attribution for Friston 2017's metatheoretical disclaimer is PENDING operator-side primary-text confirmation. R4-2's paraphrase "Appendix F" is UNCORROBORATED. CW R6 surfaces probable paper conflation — the naive-vs-sophisticated FORMAL distinction is canonically the SEPARATE Friston 2021 paper (*Neural Computation* 33(3):713-763), NOT Friston 2017.
+
+**Drafting action:** before this post drafts, re-read Friston 2017 §3-5 to confirm or refute the metatheoretical-disclaimer section attribution. If found in 2017, cite the actual section number. If NOT found in 2017, restructure the thesis to lean on Friston 2021's explicit naive/sophisticated framing OR cite Colombo & Wright 2021 §4.1 directly (FEP "defines a class of process models" — this DOES satisfy the falsifiability critique by epistemic-pluralism move).
+
+**Citation chain** for this post must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` Modification 1 anchor section.
+
 ## Thesis
 
 The Free Energy Principle (FEP) has been criticized as untestable metaphysics. The Friston 2017 active-inference paper itself disclaims the principle's prescriptive force in §4.4 and §5. The framework Modified-C-bis adopts cites the process theory — the mathematical machinery of POMDP active inference — and explicitly does not adopt the principle's metaphysical commitments. This sidesteps the Colombo & Wright 2021 falsifiability critique by accepting its premise (the FEP-as-principle is not falsifiable) and routing around it (the process theory IS empirically tractable).

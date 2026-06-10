@@ -1,8 +1,26 @@
 # Drafting brief — Post 84 "Personhood as Achievement"
 
-**Status:** Brief only; not yet drafted. Per CW R6 Tier 5 item 19.
+**Status:** Brief only; not yet drafted. Per CW R6 Tier 5 item 19. **HIGHEST R6 correction-footnote density of all Posts 81-88.**
 **Target slot:** Post 84 (highest cross-cultural-appropriation risk; only after operator-side primary-text-grounded review).
 **Scope verdict (per closure memo):** SAFE METHODOLOGICALLY but HIGHEST appropriation risk per §I discipline. Operator MUST verify Wiredu primary-text defense (DONE; see `architecture/wiredu-moral-danger-primary-text-defense-2026-06-09.md`) before drafting.
+
+## Round 7 correction-footnote requirements (FLAGs F-12, F-13, F-9)
+
+Per CW R6 closing-round (2026-06-10) — this post carries THREE FLAG corrections:
+
+- **FLAG F-12 (Wiredu mapping excised):** Do NOT map Wiredu personhood-as-achievement to the consolidation-phase filter in the three-layer memory architecture. The R5 mapping row was INCORRECT attribution. Wiredu speaks to social ontology + achievement framing, NOT memory architecture. Post 84 framing must reflect this excision.
+- **FLAG F-13 (UNCORROBORATED universalism):** the claim that Wiredu's framework generalizes beyond Akan-Ghanaian setting rests on R4-2 alone. Treat as PENDING. Do NOT extend Wiredu's framework to universal NPC-personhood claims; keep the post's claims scoped to "Wiredu's reading of Akan personhood" + "Dzobo's cross-ethnic Ewe confirmation" (which IS in the primary text).
+- **FLAG F-9 (Strawson p.430 NOT p.429):** if this post bridges to Strawson Episodic axis, cite p. 430 NOT p. 429. The prior "Strawson licenses the two-level split" attribution is WRONG. The split is between NPC self-experience layer and observer-level player-perceived narrative layer, NOT between Strawson's Episodic and Diachronic.
+
+### Menkiti-Gyekye intra-African dispute (NEW disclosure framing per CW R6)
+
+Surface the Menkiti vs. Gyekye intra-African philosophical dispute in the opening humility paragraph. The graduation framing is Wiredu's reading; Gyekye holds a Kant-grounded counter-position that gives the moral-status axis equal philosophical weight. Do NOT present "the Akan view" — present "Wiredu's reading" with Gyekye's counter-position acknowledged.
+
+### Wiredu HEXACO H mapping DROPPED (Section 3 option c)
+
+Per CW R6 Section 3 option (c): the HEXACO H + Wiredu sympathetic-impartiality mapping is DROPPED from V1 code. Wiredu mapping is documentation-only (8-18h) NOT implemented mechanic (was 33-88h code). Post 84 must reflect this: do NOT frame Wiredu/HEXACO H as an operationalized mechanic. Frame Wiredu as a philosophical anchor that informed structural thinking; HEXACO H stays in code for the generosity layer with Western honesty-humility framing only.
+
+**Citation chain** for this post must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` Modification 5 anchor section + Modification 6 Strawson section.
 
 ## Thesis
 

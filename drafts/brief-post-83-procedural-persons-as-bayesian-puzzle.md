@@ -4,6 +4,12 @@
 **Target slot:** Post 83 (Bayesian-inversion framing for the operator-novel cryptographic-puzzle contribution).
 **Scope verdict (per closure memo):** SAFE if structure-only — discuss Bayesian inversion CONCEPT; do NOT name cryptographic-puzzle internals or Item #98 specifics. Protected-scope strict.
 
+## Round 7 correction-footnote requirement (FLAG F-8)
+
+Per CW R6 closing-round (2026-06-10): if this post invokes naive-vs-sophisticated active-inference framing for the Bayesian-inversion thesis, **the sophisticated-inference citation MUST default to Friston 2021 NOT Friston 2017 Appendix F**. The 2017 Appendix-F attribution is UNCORROBORATED; the formal distinction is canonically in Friston 2021 *Neural Computation* 33(3):713-763.
+
+**Drafting action:** cite Friston 2021 for any sophisticated-inference framing; cite Friston 2017 only for the broader POMDP active-inference machinery. Citation chain must match `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` Modification 1 anchor section.
+
 ## Thesis
 
 When you sketch the structure of a procedural NPC that solves a puzzle about itself, the natural framing is that the NPC and the player are both inferring — but at different layers, with different priors, and from different sides of an information asymmetry. Modified-C-bis frames this as second-order Bayesian model inversion: the player infers about the NPC; the NPC infers about its own world; the structure binds them while keeping the inference layers computationally separate. The cryptographic puzzle is the operator's design-theoretic instantiation of that second-order inversion.
