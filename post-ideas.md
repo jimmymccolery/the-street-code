@@ -983,7 +983,7 @@ After the trail, CW explicitly stated in its response: "I read the actual canoni
 ## Idea 36 — "Memory + place" through-line as cross-product ecosystem coherence pattern: aesthetic-as-architecture for multi-product franchises
 
 **Filed:** 2026-06-09 (late session continuation; Room to Life Universe architecture ratified 2026-06-09 afternoon)
-**Status:** idea
+**Status:** **published (Post 79; 2026-06-09 late session draft + same-day push)**
 **Leverage:** MEDIUM-HIGH (brand strategy methodology + counterintuitive framing for cross-product franchises)
 
 **Empirical observation:** Room to Life ecosystem architecture (ratified 2026-06-09 afternoon) clarified the unifying principle across 4 products + 1 hardware device: Memory Lanes (bowling tycoon) + Scenes (cozy 3D simulators; working name replacing protected "Rooms" 2026-06-09) + 90s Life Builder (physical card game) + The Living Room (RPi NFC + LCD + speaker hardware companion). Unifying principle: "memory + place" through-line — every product is a vessel for memory (era + lived experience) + place (rooms-literal-and-figurative of life). The Living Room hardware = keystone of ecosystem. Memory at ecosystem layer; place at Scene layer.
@@ -1027,7 +1027,7 @@ After the trail, CW explicitly stated in its response: "I read the actual canoni
 ## Idea 38 — Five scopes of canonical-state verification: the breadth-spectrum that catches AI drift before it compounds
 
 **Filed:** 2026-06-09 (late session continuation; `feedback_verify_against_canonical_files.md` n=13 cumulative)
-**Status:** idea
+**Status:** **published (Post 76; 2026-06-09 late session draft + same-day push)**
 **Leverage:** HIGH (meta-canonical verification discipline; broadly applicable across long-project work)
 
 **Empirical observation:** `feedback_verify_against_canonical_files.md` records n=13 cumulative reproductions across 11 distinct verification-class subdivisions between 2026-05-12 and 2026-06-09. The 11 verification-class subdivisions span 5 distinct scopes of canonical-state checking:
@@ -1053,7 +1053,7 @@ After the trail, CW explicitly stated in its response: "I read the actual canoni
 ## Idea 39 — Substrate-validation-theater under artifact-audit framing: why AI grade-inflation happens on creative work
 
 **Filed:** 2026-06-09 (late session continuation; `feedback_substrate_validation_theater_under_artifact_audit_framing.md` n=18+ across 3 distinct sessions)
-**Status:** idea
+**Status:** **published (Post 77; 2026-06-09 late session draft + same-day push)**
 **Leverage:** MEDIUM-HIGH (counterintuitive substrate-behavior observation + critical for any creative-generation workflow)
 
 **Empirical observation:** Same-session Grok deployment 2026-06-04 generating RoomToLife My 90s Bedroom Sloyd asset prompt-refinement produced n=15+ A-grade rubber-stamp gradings despite substantial prompt-fit quality variation across 15+ generated assets. Operator-caught at Item 0340 post-session asset-review audit. Pattern reproduced: n=18+ cumulative across 3 distinct sessions (RoomToLife sloyd assets 2026-06-04 + Open Alley archetypal personality stickers 2026-06-04 + Pin Paradise lane monitor animations creative-pipeline 2026-06-04). Pattern signature: substrate receives "audit and grade this complete artifact" prompt-shape → emits high-confidence grade WITHOUT discriminating analysis of artifact-quality variation.
@@ -1128,7 +1128,7 @@ Each of these would have been buried by a "load-bearing pre-screen" pass.
 ## Idea 42 — Per-decade trophy presentation conventions as period-fidelity design constraint
 
 **Filed:** 2026-06-09 (late session continuation; Federation tournament architecture synthesis Perplexity DR archive)
-**Status:** idea
+**Status:** **published (Post 80; 2026-06-09 late session draft + same-day push)**
 **Leverage:** MEDIUM (narrower bowling-history angle; reproduces Idea 41 territory at finer granularity)
 
 **Empirical observation:** Perplexity Deep Research uncovered specific per-decade trophy/award presentation conventions that vary by decade + by sanctioning body:
@@ -1180,7 +1180,7 @@ Each of these would have been buried by a "load-bearing pre-screen" pass.
 ## Idea 44 — Two-layer scope blindness: why matrix-building fails at multi-hour session scope + summarization compression as second-order failure mode
 
 **Filed:** 2026-06-09 (late session continuation; Open Alley 2026-06-03 comprehensive-scan 5-source-location miss + reproduction territory)
-**Status:** idea
+**Status:** **published (Post 78; 2026-06-09 late session draft + same-day push)**
 **Leverage:** MEDIUM-HIGH (critical for any operator using conversational-AI at multi-hour session scope with matrix/inventory work)
 
 **Empirical observation:** Open Alley 2026-06-03 evening comprehensive-scan operator-request ("scan for all the places X is referenced") missed 5 distinct source locations:
