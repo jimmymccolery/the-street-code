@@ -54,7 +54,7 @@ The institutional shift in this era is from consolidation-of-decline to merged-s
 
 A bowling tycoon set in the 2000s or 2010s should reflect a federation NPC in this mode. The federation is merged; the federation is managing decline; the federation's interactions with the player's alley are about maintaining the relationship rather than growing it. The federation does not have the broadcast leverage it had in the 1960s, does not have the professionalization push it had in the 1950s, and does not have the equipment-standards defensive position it had in the 1980s. The federation is in maintenance mode.
 
-The Bowlero acquisitions that begin around 2014 fit this era. Bowlero acquires AMF, then Brunswick's bowling-alley operations, then a string of smaller operators. The corporate consolidation moves under the federation's feet; the federation's relationship to corporate ownership is different from its relationship to independent-operator alleys. The federation's institutional work in this era includes navigating the corporate-ownership shift while keeping the sanctioned-league market connected to the corporate alley footprint.
+The corporate consolidation that grows across the 2010s and 2020s fits this era. The 2013 Bowlmor and AMF merger forms Bowlmor AMF, which renames to Bowlero in 2017 and then acquires Brunswick's bowling-alley operations in 2020 alongside a string of smaller operators. The corporate consolidation moves under the federation's feet; the federation's relationship to corporate ownership is different from its relationship to independent-operator alleys. The federation's institutional work in this era includes navigating the corporate-ownership shift while keeping the sanctioned-league market connected to the corporate alley footprint.
 
 ## The structural lesson
 
@@ -93,6 +93,8 @@ The pattern also has a research implication. Designers building multi-decade his
 - I'm not claiming the institutional history I summarized is comprehensive about every sanctioning body. The PBA, ABC, WIBC, and USBC are the largest institutional players and the ones with the most public records. There are smaller sanctioning bodies (regional and ethnic-community leagues, masters' associations, senior leagues) whose history is less well-documented and which a more fine-grained simulation would also have to represent.
 
 - I'm not claiming this finding is novel in sports-history scholarship. Bowling-institutional history has been written about by industry historians, sports sociologists, and the institutions themselves. The contribution is the specific empirical mapping from institutional history to game-design implication, and the demonstration that multi-decade historical-fidelity simulation requires institutional research alongside the equipment-and-aesthetic research that simulation design conventionally focuses on.
+
+## What I am claiming
 
 What I am claiming is that the institutional layer is doing more design work than designers usually credit, and the institutional history is doing the work whether the designer notices it or not. A federation NPC that behaves constantly across eras is making an implicit claim that the federation institutions were constant across eras. That claim is false; the institutions evolved through professionalization, broadcast peak, defensive consolidation, and merged survival across the seven decades I sketched. A simulation that wants to engage with the historical reality has to engage with the institutional evolution.
 

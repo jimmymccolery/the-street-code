@@ -104,6 +104,8 @@ The AI-assistance-specific observation is that summarization compression is more
 
 - I'm not claiming the empirical foundation is strong. Three reproductions across distinct work classes is enough to surface the pattern, not enough to claim it as canonical. Further reproductions across additional work classes will strengthen or refine the structural framing.
 
+## What I am claiming
+
 What I am claiming is that compound failure modes are operationally harder than single-layer failures and that AI-assisted multi-hour session work is exposed to a specific two-layer compound (directory-scope blindness plus summarization-compression blindness) that single-layer mitigation does not catch. The cost is not the missed scan; the cost is the working-period spent against incomplete primary results. The mitigation has to address both layers separately because the layers reinforce each other's invisibility.
 
 The hour-long working-period that triggered this post is bounded; the cost was a few re-done downstream artifacts after the gap surfaced. The bound exists because I caught the gap; if the gap had persisted into the next session, the cost would have compounded further. Catching compound failures requires verification discipline that explicitly addresses each layer; the discipline's value comes from preventing the working-period from extending past the point where the cost becomes hard to recover from.

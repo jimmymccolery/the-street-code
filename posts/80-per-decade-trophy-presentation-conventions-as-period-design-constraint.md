@@ -118,6 +118,8 @@ The pattern is also visible in historical-fiction writing, period-piece film pro
 
 - I'm not claiming this finding is novel in sports-history scholarship. Trophy and recognition conventions have been studied by sports historians, material-culture researchers, and the institutions themselves. The contribution is the specific empirical mapping from trophy-presentation history to game-design implication, and the demonstration that the cosmetic-variation default in simulation design is hiding the structural-variation reality that the historical record contains.
 
+## What I am claiming
+
 What I am claiming is that trophy presentation in a multi-decade simulation is a period-design constraint, not a cosmetic concern, and that engaging with the constraint requires era-conditional variation in the trophy mechanic's structure rather than era-cosmetic variation in the trophy's visual presentation. The constraint is real because the historical conventions were real. A simulation that wants to feel like the decades it represents has to model the decades' actual recognition conventions, not just decorate a single template with era-appropriate visual flourishes.
 
 A 1962 trophy on a 1962 bowler's shelf and a 2015 certificate in a 2015 bowler's filing cabinet are not the same recognition with different decoration. They are different recognition forms from different institutional eras with different social meanings and different physical properties. Modeling them as different forms is what makes the simulation engage with the history. Modeling them as the same form with decoration is what makes the simulation feel like a contemporary product wearing era-skin.

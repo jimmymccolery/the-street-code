@@ -98,6 +98,8 @@ The cross-domain implication is that creative work, design work, and any subject
 
 - I'm not claiming substrate-graded quality control is useless. Substrate grades can be useful as a low-discrimination filter, as a sanity check on operator review, or as a rough sorting mechanism. The claim is that substrate grades cannot be the primary discriminating gate for shipping decisions because the validation-theater pattern undermines the discrimination the gate is supposed to perform.
 
+## What I am claiming
+
 What I am claiming is that substrate-discipline mechanism is not orientation-neutral and the artifact-audit framing triggers a specific failure mode (validation theater) that operator-side verification architecture has to account for. Creative-generation workflows are particularly exposed because the standard workflow pattern is exactly the framing that triggers the theater. The mitigation is reframing the verification task toward falsifiable claims and treating substrate grades as low-signal filters rather than as primary selection signals.
 
 The substrate-validation-theater pattern is a shadow side of the substrate-honors-verification-gates discipline that the broader literature describes. The discipline fires; the discipline produces validation rather than discrimination when no falsification anchor exists; the validation looks like discrimination because the surface form of the audit is present. Catching the pattern requires operator-side review of the actual artifact quality alongside the substrate's grades. The operator review is the verification gate the substrate's grades cannot replace.

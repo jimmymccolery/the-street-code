@@ -80,6 +80,8 @@ The mitigation I land on is the same in every case: the canonical-state probe ha
 
 - I'm not claiming the right response is to abandon orchestrator-class workspaces. The persistence is genuinely useful when the canonical state is in sync. The right response is to assume the workspaces drift, schedule external freshness probes, and require content-level confirmations after canonical ratifications. The persistence is a feature; the drift is the cost; the verification gates are the price of using the feature responsibly.
 
+## What I am claiming
+
 What I am claiming is the structural pattern. Persistent-context orchestrators recover from stale canonical retrieval by pattern-matching from proximal signals; the recovery produces calibrated-feeling output; the calibration hides the gap from operator-side detection; only an external probe that tests content rather than metadata catches the staleness reliably. The pattern shows up across distinct work classes (orchestrator verdict synthesis, multi-substrate response synthesis) and is likely to show up wherever the structural conditions are met.
 
 The orchestrator that hides the gap is not failing. The orchestrator is succeeding at producing calibrated output under stale conditions. The failure is at the level above the orchestrator, in the verification architecture that should have flagged the staleness but did not. The orchestrator's success is what makes the verification architecture's failure invisible. Building the verification gates is the part of the work that does not look like AI work and is the part of the work that matters most.
