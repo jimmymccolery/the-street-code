@@ -58,7 +58,7 @@ After eight rounds of research, twelve+ citation corrections, two reversals of c
 
 9. **Honest scope: what V1 doesn't include.**
    - Full empirical validation of the architecture (Modification 4: design theory + pre-registered pilot, NOT validated)
-   - Hesp 2021 primary-text full read by operator (H-S8 PENDING; affects citation discipline + R2 verification of affective bridge)
+   - Hesp 2021 primary-text full read (H-S8 CLOSED 2026-06-10 PM via CC direct + Perplexity DR triangulation; 5 F-flags G2-RATIFIED F-NEW-1/2/3/4/5: synthetic-rat-not-human + §5.6-emotive-AI + Layer-3-misattribution + Hesp-Forthcoming-missing + §5.6-qualified-phenomenal-claim)
    - Cross + Crenshaw + Savin-Williams primary-text reads (era-progressive paper drafting prereqs; not V1-blocking)
    - Marcus Reed Surface 8 re-review cycle for sophisticated-inference mechanic (Path A prerequisite #6; pending)
    - Friston 2021 *Sophisticated Inference* full read (Path A prerequisite #3; pending)

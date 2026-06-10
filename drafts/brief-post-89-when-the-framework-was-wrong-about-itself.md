@@ -69,7 +69,7 @@ The discipline this post publishes is: **multi-substrate verification (Rule 11) 
 ## Drafting prerequisites
 
 - Final canonical citations file at `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md` (current; R8 R4 cascade applied)
-- Each correction in the table verified against primary text or explicitly flagged [VERIFICATION-LEVEL] (Hesp 2021 + others still PENDING operator-side reads)
+- Each correction in the table verified against primary text or explicitly flagged [VERIFICATION-LEVEL] (Hesp 2021 READ 2026-06-10 PM via CC direct + Perplexity DR triangulation, 5 F-flags G2-RATIFIED F-NEW-1/2/3/4/5; other operator-side reads still PENDING)
 
 ## Hour estimate
 
