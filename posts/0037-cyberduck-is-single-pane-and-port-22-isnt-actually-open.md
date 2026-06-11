@@ -14,7 +14,7 @@ In May 2026 I shipped a personal satire site (sueyourkid.com) to production on P
 
 This post captures those five lessons. The aim is the same one PHASE_2_LESSONS.md (the in-project notes file these are drawn from) opens with: for the next person, future-me included, who does a Porkbun-class static-site deploy. If you're doing one and you read this first, you should save a few hours.
 
-The lessons live at two scopes. Lessons 1, 2, 4, and 5 generalized across multiple Porkbun static sites I've shipped and now live in a shared canonical file (`~/Projects/sites-common/DEPLOYMENT.md`); each per-site project references that shared file rather than re-stating them. Lesson 3 stayed project-specific to the sueyourkid deploy because the Google Search Console submission only fires once per site. [Post 14](014-when-to-build-cross-project-shared-infrastructure.md) covers when the cross-project-shared-infrastructure pattern earns its keep; that pattern is what makes lessons 1, 2, 4, and 5 portable across sites.
+The lessons live at two scopes. Lessons 1, 2, 4, and 5 generalized across multiple Porkbun static sites I've shipped and now live in a shared canonical file (`~/Projects/sites-common/DEPLOYMENT.md`); each per-site project references that shared file rather than re-stating them. Lesson 3 stayed project-specific to the sueyourkid deploy because the Google Search Console submission only fires once per site. [Post 14](0014-when-to-build-cross-project-shared-infrastructure.md) covers when the cross-project-shared-infrastructure pattern earns its keep; that pattern is what makes lessons 1, 2, 4, and 5 portable across sites.
 
 The five lessons in shipping order.
 

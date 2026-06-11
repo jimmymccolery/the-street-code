@@ -2,7 +2,7 @@
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-10
-**Status:** Substrate-behavior research; n=1 worked example from a Pulse 7 architectural-lock close cycle where a substrate authored an evidence-validation section beyond the audit prompt's requirement and labeled secondary sources as "CONFIRMED" though the framework's canonical verification table still flagged the corresponding anchors as primary-source-audit pending; extends the substrate-self-attestation discipline ([Post 50](050-canonical-content-reproduction-substrate-self-attestation.md)) at secondary-source-classification scope
+**Status:** Substrate-behavior research; n=1 worked example from a Pulse 7 architectural-lock close cycle where a substrate authored an evidence-validation section beyond the audit prompt's requirement and labeled secondary sources as "CONFIRMED" though the framework's canonical verification table still flagged the corresponding anchors as primary-source-audit pending; extends the substrate-self-attestation discipline ([Post 50](0050-canonical-content-reproduction-substrate-self-attestation.md)) at secondary-source-classification scope
 
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
