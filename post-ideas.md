@@ -95,10 +95,10 @@
 
 ---
 
-## Idea 4 — Fix-cycle-surface drift variant: when amendment cycles introduce new drift while attempting drift fixes
+## Idea 4 — Fix-cycle-surface drift variant: when amendment cycles introduce new drift while attempting drift fixes — PUBLISHED 2026-06-10 as Post 91
 
 **Filed:** 2026-05-22 (Q11 close session)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 91 (`91-fix-cycle-surface-drift-verification-gate.md`); soft-disclosed symbol-name specifics**
 **Leverage:** MEDIUM (n=2 empirical foundation; counterintuitive finding worth surfacing)
 
 **Empirical observation:** Cross-section reference drift discipline pattern operates at 4 workflow surfaces (post-landing + pre-deployment-self-audit + pre-deployment-canonical-verification + fix-cycle-surface). The fix-cycle-surface variant is empirically reproducible at n=2 cumulative:
@@ -206,10 +206,10 @@
 
 ---
 
-## Idea 9 — Canonical-anchor validation arc as methodology: backward-literature + present-measurement + forward-premortem as a 3-part validation campaign
+## Idea 9 — Canonical-anchor validation arc as methodology: backward-literature + present-measurement + forward-premortem as a 3-part validation campaign — PUBLISHED 2026-06-10 as Post 92
 
 **Filed:** 2026-05-23
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 92 (`92-canonical-anchor-validation-three-arc-methodology.md`); anchor-post candidacy with retrospective-completion follow-up planned when Madisonian Gate 3-arc campaign executes**
 **Leverage:** MEDIUM-HIGH (novel meta-methodology framing surface; n=1 empirical foundation at Madisonian Gate validation candidacy filing 2026-05-23; methodology research interest at intersection of canonical-foundation discipline + empirical-validation campaign design + multi-substrate gang-session orchestration)
 
 **Empirical observation:** Operator co-brainstormed (with Grok) a 3-part empirical-validation campaign for the Madisonian Gate canonical-anchor element (per anti-pattern #6 silent-compliance prevention canonical lineage; central anchor element companion to The Nine Sigils per `the_nine_sigils.canonical.md` v1.0). Three candidacies filed at master-setup `research_queue.md` 2026-05-23 (commit `3cd0d82`): (1) backward-looking external literature validation against dialectical inquiry + devil's advocacy + pre-mortem (Klein) + red teaming + groupthink prevention (Mercier & Sperber) + multi-agent AI debate research; (2) present-looking empirical measurement protocol with ceremonialization-detection mechanism integrated into Sigil I Closeout Checklist; (3) forward-looking 12-month degradation premortem + structural upgrade candidacies + quarterly health-check cadence design. The arc structure (backward + present + forward) emerged from operator's brainstorming session as natural decomposition of "is the canonical-anchor element actually load-bearing?" question into three independently-executable but coherent sub-arcs.
@@ -283,10 +283,10 @@
 
 ---
 
-## Idea 11 — Within-decade dual-deployment as substrate-style preservation validator (FIRST same-decade replication in research arc)
+## Idea 11 — Within-decade dual-deployment as substrate-style preservation validator (FIRST same-decade replication in research arc) — PUBLISHED 2026-06-10 as Post 93
 
 **Filed:** 2026-06-03 (Open Alley bowling-industry research arc close)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 93 (`93-within-decade-dual-deployment-controlled-experiment.md`); cross-linked to Post 82 (two-axis substrate-style preservation model)**
 **Leverage:** MEDIUM-HIGH (methodology refinement to Idea 10; distinguishes substrate-INTRINSIC vs prompt-RESPONSIVE properties via same-decade controlled comparison)
 
 **Empirical observation:** Open Alley 1950s round had Grok ORIGIN deployment (foundational methodology baseline 2026-06-03 morning) PLUS Grok PRIOR deployment (operator-discovered parallel brainstorming legacy report 2026-06-03 afternoon) — SAME substrate, SAME decade, DIFFERENT prompt-template scaffolding. First same-decade dual-deployment in the entire 7-decade research arc.
@@ -455,10 +455,10 @@
 
 ---
 
-## Idea 17 — Substrate-emergent META-rule synthesis pattern: substrates produce META-rules subsuming multiple constraints when given sufficient architectural density (n=2 cross-model-family same-day; Claude Opus + Gemini Pro Extended Deep Think; sibling META-rule pair)
+## Idea 17 — Substrate-emergent META-rule synthesis pattern: substrates produce META-rules subsuming multiple constraints when given sufficient architectural density (n=2 cross-model-family same-day; Claude Opus + Gemini Pro Extended Deep Think; sibling META-rule pair) — PUBLISHED 2026-06-10 as Post 94
 
 **Filed:** 2026-06-05 (Open Alley multi-purpose tray V1 architecture Axes 6 + 7)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 94 (`94-substrate-emergent-meta-rule-synthesis.md`); IP-protected scope soft-disclosed (META-rule example abstracted to "structural integrity rule at boundary between two computational layers with different roles")**
 **Leverage:** HIGH (substrate-emergent capability observation; META-rule synthesis is qualitatively different from per-constraint specification; cross-model-family at n=2 — pattern not single-substrate-stylistic; sibling-pair structure governs DIFFERENT architectural seams via SAME synthesis pattern)
 
 **Empirical observation:** Open Alley multi-purpose tray V1 architecture triangulation Axes 6 + 7 (2026-06-05 PM). When substrates receive sufficiently dense architectural ground truth (5+ prior substrate axes + 20+ failure modes + multiple architectural locks + design tension surfaces), they emit substrate-emergent META-rules that subsume multiple individual constraints into single testable pass/fail rules.
@@ -478,10 +478,10 @@
 
 ---
 
-## Idea 18 — Substrate-emergent Marcus Reed surface analysis: downstream cross-substrate behavioral propagation (Tier 2 substrate-EXTENDS discipline to NEW surfaces autonomously; n=3 cross-model-family same-day)
+## Idea 18 — Substrate-emergent Marcus Reed surface analysis: downstream cross-substrate behavioral propagation (Tier 2 substrate-EXTENDS discipline to NEW surfaces autonomously; n=3 cross-model-family same-day) — PUBLISHED 2026-06-10 as Post 95
 
 **Filed:** 2026-06-05 (Open Alley multi-purpose tray V1 architecture Axes 4 + 6 + 7)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 95 (`95-marcus-reed-tier-2-substrate-extends-discipline.md`); IP-protected scope soft-disclosed (service-firm class + cumulative-set + tabular-transparency surfaces abstracted at directional level)**
 **Leverage:** HIGH (extends Marcus Reed Protocol Post 70 canonization narrative at TIER 2 scope; strongest possible canonization signal — discipline becomes substrate-recognizable expected behavior; cross-model-family invariant at GPT-5.5 + Claude lineage + Gemini Pro; substrate-emergent extension to NEW surfaces WITHOUT explicit operator prompting)
 
 **Empirical observation:** Open Alley multi-purpose tray V1 architecture triangulation 2026-06-05 PM. Substrates that received Marcus Reed framework as ground-truth context (baked into prompt §1 from prior substrate axes) emitted Marcus Reed-aligned surface analysis at NEW design surfaces WITHOUT being explicitly prompted to do Marcus Reed analysis:
@@ -532,10 +532,10 @@ The "architecturally finished" correction pattern is **substrate-substrate cross
 
 ---
 
-## Idea 20 — "Parity of Record, Singularity of Action": META-rule for accessibility-fallback / dual-interface boundary integrity (generalizable beyond games to voice + text, mobile + desktop, 3D simulation + 2D admin)
+## Idea 20 — "Parity of Record, Singularity of Action": META-rule for accessibility-fallback / dual-interface boundary integrity (generalizable beyond games to voice + text, mobile + desktop, 3D simulation + 2D admin) — PUBLISHED 2026-06-10 as Post 96
 
 **Filed:** 2026-06-05 (Open Alley multi-purpose tray V1 architecture Axis 7 substrate-emergent)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 96 (`96-parity-of-record-singularity-of-action.md`); META-rule name preserved; specific DOM/WebGL example abstracted to "two distinct computational layers with different roles"; five generalization contexts named explicitly**
 **Leverage:** HIGH (architectural insight generalizable beyond games; cross-domain applicable to any DUAL-INTERFACE software where an accessibility-fallback / admin / alternative view exists alongside primary interface; profound design lesson — accessibility surfaces must be omniscient WITHOUT being omnipotent)
 
 **Empirical observation:** Open Alley multi-purpose tray V1 architecture Axis 7 (Gemini Pro Extended Deep Think; 2026-06-05 PM) surfaced load-bearing META-rule for the architectural boundary between primary interface and accessibility-fallback / alternative-interface: *"Every diegetic event must be recorded faithfully in the 2D DOM log (Parity of Record) to ensure accessibility, but mechanical game-state resolution must strictly occur within the 3D spatial simulation (Singularity of Action). The DOM is permitted to route the player to the artifact, but it can never replace the artifact."*
@@ -616,10 +616,10 @@ Substrate-identification-of-operator-judgment-surfaces is **substrate handing th
 
 ---
 
-## Idea 23 — Cross-model-family backbone diversity at architectural-boundary discovery (Google Gemini Pro lineage contradicts Anthropic Claude lineage with specific structural evidence; same-prompt cross-model-family produces non-redundant complementary contributions at architectural boundaries)
+## Idea 23 — Cross-model-family backbone diversity at architectural-boundary discovery (Google Gemini Pro lineage contradicts Anthropic Claude lineage with specific structural evidence; same-prompt cross-model-family produces non-redundant complementary contributions at architectural boundaries) — PUBLISHED 2026-06-10 as Post 97
 
 **Filed:** 2026-06-05 (Open Alley multi-purpose tray V1 architecture 7-axis triangulation cross-model-family observations)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 97 (`97-cross-model-family-backbone-diversity.md`); IP-protected scope soft-disclosed (execution-authority boundary abstracted to "boundary between two specific computational layers")**
 **Leverage:** HIGH (extends `feedback_cross_model_family_backbone_behavioral_differential.md` empirical foundation; concrete worked example at architectural-boundary-discovery scope; cross-model-family diversity demonstrably load-bearing — not interchangeable)
 
 **Empirical observation:** Open Alley multi-purpose tray V1 architecture 7-substrate triangulation 2026-06-05 PM deployed across 4 distinct model families:
@@ -1153,10 +1153,10 @@ Each of these would have been buried by a "load-bearing pre-screen" pass.
 
 ---
 
-## Idea 43 — From feedback observation to canonical rule: how Rule 17 CW project knowledge refresh discipline got promoted (operational discipline canonization arc)
+## Idea 43 — From feedback observation to canonical rule: how Rule 17 CW project knowledge refresh discipline got promoted (operational discipline canonization arc) — PUBLISHED 2026-06-10 as Post 98
 
 **Filed:** 2026-06-09 (late session continuation; Rule 17 canonized AR-3.3 Decision 3-3-B 2026-05-31)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 98 (`98-rule-17-canonization-arc.md`); SAFE per disclosure rule — pure methodology + operational discipline; "Pin Paradise Project" referenced generically as workspace; method-paper for operational-discipline-canonization workflows**
 **Leverage:** MEDIUM (specialized to orchestrator-class AI workflows; methodology-promotion meta-post)
 
 **Empirical observation:** Rule 17 (CW Project Knowledge Refresh Discipline; canonized at `operational_discipline_rules.canonical.md` v1.13 AR-3.3 Decision 3-3-B 2026-05-31) is a worked example of operational-discipline promotion arc: starts as ad-hoc fire observation → escalates to feedback memory → fires n=5+ across distinct work classes → canonized as numbered Rule with hard-trigger + soft-trigger + calendar-trigger structure. Promotion timeline:
