@@ -8,7 +8,7 @@
 
 ---
 
-In [an earlier post in this series](06-what-auditing-the-audit-taught-me-about-substrate-routing.md) I described running into a substrate-class limit on prompt-language enforcement and redesigning my audit framework around the literature's recommended pattern: structural verification outside the LLM's generation step. The redesign was a directional move based on lit-review reasoning. I committed to it without having tested it.
+In [an earlier post in this series](006-what-auditing-the-audit-taught-me-about-substrate-routing.md) I described running into a substrate-class limit on prompt-language enforcement and redesigning my audit framework around the literature's recommended pattern: structural verification outside the LLM's generation step. The redesign was a directional move based on lit-review reasoning. I committed to it without having tested it.
 
 Two validation cycles have now run. This post reports what happened in both.
 
@@ -84,4 +84,4 @@ That's two data points. The architecture worked in both. Whether it generalizes 
 
 ---
 
-*Update note (2026-05-07): Since this post was drafted on 2026-05-04, Post 11 (authored 2026-05-06, two days after this post) revisits the Cycle 2 verification record. The questionable item this post characterizes as "a workflow-ordering observation rather than an architecture defect" became substantively load-bearing under cross-substrate audit reconstruction work. The full reconstruction sits at [Post 11](11-what-cross-substrate-audit-surfaced-that-same-substrate-verification-missed.md); that post documents what the QUESTIONABLE meant once the canonical record advanced past this post's authoring moment. The original characterization is preserved as-written from the drafting moment; this update note acknowledges the later escalation.*
+*Update note (2026-05-07): Since this post was drafted on 2026-05-04, Post 11 (authored 2026-05-06, two days after this post) revisits the Cycle 2 verification record. The questionable item this post characterizes as "a workflow-ordering observation rather than an architecture defect" became substantively load-bearing under cross-substrate audit reconstruction work. The full reconstruction sits at [Post 11](011-what-cross-substrate-audit-surfaced-that-same-substrate-verification-missed.md); that post documents what the QUESTIONABLE meant once the canonical record advanced past this post's authoring moment. The original characterization is preserved as-written from the drafting moment; this update note acknowledges the later escalation.*

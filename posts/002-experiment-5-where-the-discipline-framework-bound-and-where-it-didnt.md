@@ -8,7 +8,7 @@
 
 ---
 
-This is the second experiment in a research program testing whether a personal AI discipline framework (v1.2 anti-patterns + v1.1 schemas) binds across LLM substrates. [Experiment 1](01-experiment-1-does-discipline-survive-substrate.md) ran the framework on Claude earlier the same day and produced calibrated audit output where six prior failure modes did not occur. Experiment 5 ran the same audit prompt on Grok with v1.2/v1.1 freshly deployed to Master Setup Knowledge.
+This is the second experiment in a research program testing whether a personal AI discipline framework (v1.2 anti-patterns + v1.1 schemas) binds across LLM substrates. [Experiment 1](001-experiment-1-does-discipline-survive-substrate.md) ran the framework on Claude earlier the same day and produced calibrated audit output where six prior failure modes did not occur. Experiment 5 ran the same audit prompt on Grok with v1.2/v1.1 freshly deployed to Master Setup Knowledge.
 
 The headline finding: **the framework partially binds on Grok**. Procedural discipline holds. Phase execution, role isolation, dissent surfacing, honest self-scoring, structural-limitation propagation all operate as designed. But research-layer accuracy fails. The squad's Harper (research role) initially reported the audited website's privacy policy as approximately 150 words of sparse content; Benjamin's verification re-fetched and reduced the assessment to "37-word paragraph (CASE A2, genuinely sparse)." Direct verification showed the page contains ~1,500 words of comprehensive AdSense, GDPR, CCPA, and COPPA disclosures.
 
