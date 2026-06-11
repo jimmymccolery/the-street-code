@@ -2,7 +2,7 @@
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-10
-**Status:** Substrate-behavior + design philosophy observation; n=2 same-arc cross-substrate cumulative observation where two substrates from different model lineages identified the same operator-judgment surface in an architectural design cycle, with the second substrate naming the exact design pixel where the tension cannot be architecturally resolved; extends [Post 65's Real-Time Friction Design Philosophy](65-real-time-friction-design-philosophy.md) at design-philosophy scope
+**Status:** Substrate-behavior + design philosophy observation; n=2 same-arc cross-substrate cumulative observation where two substrates from different model lineages identified the same operator-judgment surface in an architectural design cycle, with the second substrate naming the exact design pixel where the tension cannot be architecturally resolved; extends [Post 65's Real-Time Friction Design Philosophy](065-real-time-friction-design-philosophy.md) at design-philosophy scope
 
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 

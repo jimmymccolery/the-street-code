@@ -1,6 +1,6 @@
 # Drafting brief — Post 87 (OPTIONAL) "Why an Indie Bowling Game Has a Philosophy of Mind"
 
-**SUPERSEDED 2026-06-10:** Published as **Post 81** (`81-why-an-indie-bowling-game-has-philosophy-of-mind.md`) under impact-ranked top-10 ordering rather than brief-slot ordering. Brief preserved as historical planning artifact. Note: published at T-4.7 months not T-2 to T-3 weeks; soft-disclosure abstract framing retained.
+**SUPERSEDED 2026-06-10:** Published as **Post 81** (`081-why-an-indie-bowling-game-has-philosophy-of-mind.md`) under impact-ranked top-10 ordering rather than brief-slot ordering. Brief preserved as historical planning artifact. Note: published at T-4.7 months not T-2 to T-3 weeks; soft-disclosure abstract framing retained.
 
 **Status:** Brief only; not yet drafted. Per CW R6 Tier 5 item 19.
 **Target slot:** Post 87 (OPTIONAL launch-adjacent; ~T-2 to T-3 weeks; disclosure rule may shift closer to ship).

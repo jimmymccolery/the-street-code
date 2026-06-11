@@ -2,7 +2,7 @@
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-10
-**Status:** Substrate-behavior + design pattern observation; substrate-emergent catch of a CUMULATIVE-set demographic coding failure mode that per-element review systematically misses; concrete content-pipeline-level mitigation proposal; extends [Post 70's Marcus Reed Protocol](70-marcus-reed-protocol-named-guardrail-honored-and-fabricated.md) and [Post 100's structural mitigation pattern](100-self-delivery-as-marcus-reed-structural-mitigation.md) at distribution-layer scope
+**Status:** Substrate-behavior + design pattern observation; substrate-emergent catch of a CUMULATIVE-set demographic coding failure mode that per-element review systematically misses; concrete content-pipeline-level mitigation proposal; extends [Post 70's Marcus Reed Protocol](070-marcus-reed-protocol-named-guardrail-honored-and-fabricated.md) and [Post 100's structural mitigation pattern](100-self-delivery-as-marcus-reed-structural-mitigation.md) at distribution-layer scope
 
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 

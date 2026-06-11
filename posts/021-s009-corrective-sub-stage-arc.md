@@ -12,7 +12,7 @@ S009 was an architecture-revision session that closed cleanly. It deployed Topic
 
 It wasn't done. The session arc ended up running three corrective sub-stages plus a follow-up cleanup pass before canonical state actually settled, and the corrective work surfaced empirical material rich enough to canonize a discipline pattern: corrective sub-stage as a class of recovery, not as a one-shot exception when something specific goes wrong. This post documents the arc as it actually closed, names the discipline pattern, and surfaces what the discipline costs and what it buys at the level the arc demonstrates.
 
-The Council of Three third-leg fallibility lesson (covered in [Post 20](20-council-of-three-third-leg-fallibility.md)) is one input to the corrective sub-stage arc and one output from it; this post references that lesson where the empirical record requires but does not re-derive it.
+The Council of Three third-leg fallibility lesson (covered in [Post 20](020-council-of-three-third-leg-fallibility.md)) is one input to the corrective sub-stage arc and one output from it; this post references that lesson where the empirical record requires but does not re-derive it.
 
 ## The pattern named
 
@@ -46,7 +46,7 @@ Corrective sub-stage 2 ran as Step 11: eight atomic update categories (A-H) acro
 
 Round 2 of Council of Three audit (Gemini Audit A re-run on post-Step-11 stable state) surfaced 3 FAIL findings. Two were real drift the Step 11 mutations hadn't reached: the Beatles model uniformity dimension still had a missing canonical clause carried forward, and the article-stacking discipline still had .docx Troubleshooting table sites that the prior compound-modifier sweep hadn't reached. The third was a false positive: Gemini flagged Squad → Gang historical residual claims, but every cited site was a rename-narrative citation, which the canonical article-stacking discipline canonical sub-pattern explicitly preserves. Step 12 ran as the cleanup pass: three update categories landing the Path A persona-section alignment (insert "Captures the *New Kid* synthesis function inline" clause into 5 persona-section files) plus .docx Troubleshooting fixes plus the Audit A Dim 2 false-positive classification.
 
-Round 3 of Council of Three audit (Gemini Audit A re-run round 2 on post-Step-12 stable state) surfaced 4 FAIL findings, all of which the diagnostic verified as substantively false: the file mutations Gemini claimed weren't applied were present in source files; the staged audit copies were byte-identical to source. That round produced no further corrective work and got canonized as the third-leg fallibility lesson (the subject of [Post 20](20-council-of-three-third-leg-fallibility.md)).
+Round 3 of Council of Three audit (Gemini Audit A re-run round 2 on post-Step-12 stable state) surfaced 4 FAIL findings, all of which the diagnostic verified as substantively false: the file mutations Gemini claimed weren't applied were present in source files; the staged audit copies were byte-identical to source. That round produced no further corrective work and got canonized as the third-leg fallibility lesson (the subject of [Post 20](020-council-of-three-third-leg-fallibility.md)).
 
 The arc closed when canonical state stopped changing under audit pressure. Three corrective sub-stages plus one cleanup pass plus three Council of Three audit rounds.
 
