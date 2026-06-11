@@ -563,10 +563,10 @@ The pattern: accessibility-fallback / alternative view must achieve PARITY OF RE
 
 ---
 
-## Idea 21 — Cumulative-set demographic coding catch (catalog-level Marcus Reed; individual elements clean / set ships broken; mitigation must be content-pipeline policy not element-level)
+## Idea 21 — Cumulative-set demographic coding catch (catalog-level Marcus Reed; individual elements clean / set ships broken; mitigation must be content-pipeline policy not element-level) — PUBLISHED 2026-06-10 as Post 101
 
 **Filed:** 2026-06-05 (Open Alley multi-purpose tray V1 architecture Axis 6 Claude Web substrate-emergent)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 101 (`101-cumulative-set-demographic-coding.md`); IP-protected scope soft-disclosed (catalog rituals abstracted to generic "ritual catalog" or "role set"); pairs with Post 100 (self-delivery structural mitigation) as distribution-layer + structural-layer dual Marcus Reed extension**
 **Leverage:** MEDIUM-HIGH (specific design failure mode generalizable to any role-generation / persona-creation system; substrate-emergent identification; concrete content-pipeline policy mitigation; extends Marcus Reed narrative at cumulative-set scope)
 
 **Empirical observation:** Open Alley multi-purpose tray V1 architecture Axis 6 (Claude Web; 2026-06-05 PM). Substrate caught a CUMULATIVE design failure mode that individual-element review would miss: *"No single ritual encodes gender hierarchy, but the catalog has a CUMULATIVE trap: if board-tending (newsletter), record-keeping, and any staff-delivery default to the same demographic, the set reads as secretarial-labor coding even though each ritual is clean."* Substrate proposed CONTENT-PIPELINE-LEVEL mitigation: *"This needs an enforcement rule at the NPC-generation layer, not the ritual layer: no role is demographically locked. That's a content-pipeline policy and I'd push the operator to ratify it explicitly — it's the kind of thing that passes every per-ritual review and still ships broken."*
@@ -588,10 +588,10 @@ The pattern: accessibility-fallback / alternative view must achieve PARITY OF RE
 
 ---
 
-## Idea 22 — Substrates can name design tensions architecture cannot solve (cozy-tone bottom-line trap pattern; substrate-emergent identification of operator-side judgment surfaces; the architecture holds the line, the copy is where it breaks)
+## Idea 22 — Substrates can name design tensions architecture cannot solve (cozy-tone bottom-line trap pattern; substrate-emergent identification of operator-side judgment surfaces; the architecture holds the line, the copy is where it breaks) — PUBLISHED 2026-06-10 as Post 103
 
 **Filed:** 2026-06-05 (Open Alley multi-purpose tray V1 architecture Axes 5 + 6 substrate-emergent)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 103 (`103-substrates-name-design-tensions-architecture-cannot-solve.md`); cozy-tone / yellow-modifier specifics abstracted to "temporal-proximity yellow-accent modifier" + "fabric-of-experience concern"; cross-link to Post 65 Real-Time Friction Design Philosophy**
 **Leverage:** MEDIUM-HIGH (substrate-behavior observation at design-philosophy scope; concrete worked example of substrate identifying operator-side judgment surface AND naming exact design pixel where tone can break; design philosophy framing adjacent to Post 65 Real-Time Friction)
 
 **Empirical observation:** Open Alley multi-purpose tray V1 architecture triangulation Axes 5 + 6 (2026-06-05 PM) produced 2-substrate cumulative observation of substrates identifying design tensions that are NOT solvable by architecture.
@@ -655,10 +655,10 @@ Cross-model-family backbone diversity at boundary-discovery is **cross-lineage-t
 
 ---
 
-## Idea 24 — Self-delivery / self-origination as Marcus Reed structural mitigation (architectural structure can encode anti-bias mitigation more durably than content policy; bulk of delivery events route through person who wants the thing, not a runner)
+## Idea 24 — Self-delivery / self-origination as Marcus Reed structural mitigation (architectural structure can encode anti-bias mitigation more durably than content policy; bulk of delivery events route through person who wants the thing, not a runner) — PUBLISHED 2026-06-10 as Post 100
 
 **Filed:** 2026-06-05 (Open Alley multi-purpose tray V1 architecture Axis 6 Claude Web substrate-emergent)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 100 (`100-self-delivery-as-marcus-reed-structural-mitigation.md`); IP-protected scope soft-disclosed (5 specific rituals abstracted to generic role categories); pairs with Post 101 (cumulative-set distribution catch) as structural-layer + distribution-layer dual Marcus Reed extension**
 **Leverage:** HIGH (generalizable architectural-mitigation pattern for any role-generation system; substrate-emergent design pattern; cleaner Marcus Reed mitigation than content-policy alone; extends Marcus Reed narrative at structural-mitigation scope)
 
 **Empirical observation:** Open Alley multi-purpose tray V1 architecture Axis 6 (Claude Web; 2026-06-05 PM). Substrate designed all 5 NPC-tray delivery rituals as **SELF-DELIVERY or SELF-ORIGINATION** patterns:
@@ -722,10 +722,10 @@ Substrate-self-flagging-stylistic-preference is **substrate-meta-awareness of ow
 
 ---
 
-## Idea 26 — Foundation-first vs momentum-first ratification ordering (Plan (d) discipline at Phase 7.1e Pulse 7 Stage 4)
+## Idea 26 — Foundation-first vs momentum-first ratification ordering (Plan (d) discipline at Phase 7.1e Pulse 7 Stage 4) — PUBLISHED 2026-06-10 as Post 104
 
 **Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 4 walkthrough close)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 104 (`104-foundation-first-vs-momentum-first-ratification.md`); SAFE per disclosure rule — pure operational discipline; specific catches abstracted to generic foundational-vs-downstream framing**
 **Leverage:** MEDIUM (counterintuitive against common "quick wins first" advice; n=1 with clear generalization path)
 
 **Empirical observation:** During Phase 7.1e Pulse 7 Stage 4 operator walkthrough 2026-06-06 morning, CC proposed two paths for ratifying ~24 architectural decisions (4 foundational catches + 3 operator-judgment routing items + 17 substrate verdicts): Plan (c) Hybrid (Pile 1 quick-ratify → Pile 3 catches with momentum) and Plan (d) Foundation-first rigorous (Pile 3 catches → Pile 1 with full context). CC's initial recommendation was (c) Hybrid for momentum-building. Operator queried whether (c) was still recommended given unlimited time. CC reversed recommendation to (d) Foundation-first.
@@ -846,10 +846,10 @@ Both Pulse 7 substrates + CC's §0.17 freshness amendment treated Mechanic Shop 
 
 ---
 
-## Idea 31 — Substrate "soft validation" overreach: secondary sources don't advance canonical verification state
+## Idea 31 — Substrate "soft validation" overreach: secondary sources don't advance canonical verification state — PUBLISHED 2026-06-10 as Post 99
 
 **Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 3 Catch 4 + Stage 4 close)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 99 (`99-substrate-soft-validation-overreach.md`); IP-protected scope soft-disclosed (5 secondary sources abstracted to generic "secondary sources for year-anchors"); cross-link to Post 50 substrate-self-attestation**
 **Leverage:** MEDIUM (connects to existing substrate-self-attestation discipline at n=13+; tight worked example)
 
 **Empirical observation:** Phase 7.1e Pulse 7 Substrate B (Perplexity DR) authored §0.8 EVIDENCE VALIDATION section beyond audit prompt requirement, confidently labeling 5 sources as "CONFIRMED" for oiler year-anchors:
@@ -914,10 +914,10 @@ After the trail, CW explicitly stated in its response: "I read the actual canoni
 
 ---
 
-## Idea 33 — Convergent substrate signal: cross-substrate independent HWF surfacing as escalation trigger
+## Idea 33 — Convergent substrate signal: cross-substrate independent HWF surfacing as escalation trigger — PUBLISHED 2026-06-10 as Post 102
 
 **Filed:** 2026-06-06 (Phase 7.1e Pulse 7 Stage 4 Marcus Reed routing close)
-**Status:** idea
+**Status:** **published 2026-06-10 as Post 102 (`102-convergent-substrate-signal-as-escalation-trigger.md`); IP-protected scope soft-disclosed (Marcus Reed 8th surface specifics abstracted to "specific surface-class candidacy for existing protocol's surface enumeration"); candidate Rule 11 sub-discipline addition at future AR**
 **Leverage:** MEDIUM-HIGH (tight methodology insight; concrete worked example; generalizable across Council-deployment contexts)
 
 **Empirical observation:** Both Pulse 7 substrates (Gemini DR Substrate A + Perplexity DR Substrate B) independently surfaced mechanic-staff demographic representation as a potential 8th Marcus Reed META-ARCH gate surface candidate. Substrate A tagged HWF-7.1e-Axis3-SubA-MR ("dynamically balance the authenticity-vs-comfort tension... weighting the 14-rotation procedural slot generation toward diverse archetypes in later eras as the trade slowly diversified"). Substrate B tagged HWF-7.1e-Axis3-B-MR ("recommends escalating this as 8th surface candidate to Council... the period pressure is real; the Marcus Reed gate must govern at NPC-generation layer, not at event-card content layer"). This was the ONLY HWF both substrates independently raised — a strong cross-substrate convergence signal.
