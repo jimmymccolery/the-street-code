@@ -1,5 +1,7 @@
 # Drafting brief — Post 82 "Five Substrates One Question"
 
+**SUPERSEDED 2026-06-10:** Published as **Post 90** (`90-five-substrates-one-question.md`) under impact-ranked top-10 ordering rather than brief-slot ordering. Brief preserved as historical planning artifact.
+
 **Status:** Brief only; not yet drafted. Per CW R6 Tier 5 item 19.
 **Target slot:** Post 82 (methodology meta).
 **Scope verdict (per closure memo):** SAFE per soft-disclosure rule — multi-substrate methodology meta; soft-disclose specific substrate-routing decisions per Approach 2.

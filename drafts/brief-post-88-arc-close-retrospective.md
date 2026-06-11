@@ -1,5 +1,7 @@
 # Drafting brief — Post 88 (OPTIONAL) "Arc Close: What Two Same-Day Six-Round Arcs Closed in One Day"
 
+**SUPERSEDED 2026-06-10:** Published as **Post 87** (`87-arc-close-retrospective.md`) under impact-ranked top-10 ordering rather than brief-slot ordering. Brief preserved as historical planning artifact. Note: title reframed to "Arc Close Retrospective: Four Same-Arc Rounds" reflecting Round 7 + Round 8 expansions; original brief covered 2 cycles, published post covers 4 rounds.
+
 **Status:** Brief only; not yet drafted. Per CW R6 Tier 5 item 19.
 **Target slot:** Post 88 (OPTIONAL post-ship retrospective; methodology meta).
 **Scope verdict (per closure memo):** SAFE — methodology retrospective + arc structure meta. No protected scope.
