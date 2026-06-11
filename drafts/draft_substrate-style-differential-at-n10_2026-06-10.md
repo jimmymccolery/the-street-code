@@ -14,7 +14,7 @@ The architectural-lock cycles in question are points in a design-document workfl
 
 ## What the n=10+ count actually counts
 
-The reproduction count is across seven architectural-lock cycles plus three subsidiary observations. The cycles I am counting are: an early multi-alley state architecture audit, an early statistical-simulation-bowling-without-physics audit, an architectural-lock cycle on a specific worker-thread serialization decision, a chronological-mode research arc close, two architectural-lock cycles on town-as-sim architecture (one structured and one gap-fill), a Phase 7.1 cycle close, and a recent Pulse 7 within-cycle observation that surfaced a new reproduction class which I will describe specifically later in the post.
+The reproduction count is across seven architectural-lock cycles plus the Pulse 7 wrong-axis convergent-failure observation. The cycles I am counting are: an early multi-alley state architecture audit, an early statistical-simulation-bowling-without-physics audit, an architectural-lock cycle on a specific worker-thread serialization decision, a chronological-mode research arc close, two architectural-lock cycles on town-as-sim architecture (one structured and one gap-fill), a Phase 7.1 cycle close, and a recent Pulse 7 within-cycle observation that surfaced a new reproduction class which I will describe specifically later in the post.
 
 In each cycle the pattern reproduced. The pattern is not "one substrate is uniformly better than another"; the pattern is "different substrates produce different verdict shapes, and the cross-substrate set produces aggregate signal that no single substrate produces." Specifically, the pattern reproduced two characteristic differential shapes that I observed across all seven cycles.
 
@@ -76,7 +76,7 @@ I am not claiming the substrate-style differential pattern is the only useful fr
 
 ## What I am claiming
 
-The substrate-style differential pattern at architectural-lock close cycles is real, reproducible, and structurally specific. Across seven cycles plus three subsidiary observations, the pattern produces complementary depth-and-coverage contributions that no single substrate produces. Majority vote across substrate verdicts is the wrong synthesis rule for maximum-divergence cycles. The strict-over-soft discipline at the orchestrator-class synthesis layer is what closes the cycles correctly.
+The substrate-style differential pattern at architectural-lock close cycles is real, reproducible, and structurally specific. Across seven cycles plus the Pulse 7 wrong-axis convergent-failure observation, the pattern produces complementary depth-and-coverage contributions that no single substrate produces. Majority vote across substrate verdicts is the wrong synthesis rule for maximum-divergence cycles. The strict-over-soft discipline at the orchestrator-class synthesis layer is what closes the cycles correctly.
 
 If you are running cross-substrate verification on architectural decisions that will commit to canonical state downstream, the depth-and-coverage shape is what the verification chain needs to capture. Single-axis verification (one substrate as audit; another substrate as confirmation) leaves the other axis on the table. Cross-axis verification (one substrate for depth; another substrate for coverage; orchestrator-class adjudication for synthesis) is what produces aggregate signal the closing-round verdict can stand on. The role assignments are explicit; the substrate-identity is secondary to the role assignment.
 
