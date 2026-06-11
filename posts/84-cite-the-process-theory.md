@@ -66,8 +66,6 @@ The constraints matter because design work needs constraints that the underlying
 
 This affordance is what makes the process theory citation matter for game design specifically. Game design needs computational architectures that support constraint at the design layer without producing incoherent behavior at the runtime layer; the process theory delivers this because the update is parameterized rather than hard-coded. The framework's V1 deployment uses the parameterization to constrain NPCs to behavior whose state-space content excludes cross-era self-identity variables (the Modification 6 boundary discriminator per the Round 8 F-18 catch); later forms of the framework may relax the constraint for specific NPC roles where cross-era self-identity is design-relevant.
 
-## What this costs the framework
-
 ## What I am not claiming
 
 I am not claiming the Free Energy Principle is invalid as metaphysics. The principle's broadest reading has structural problems the literature has identified; the broadest reading also has defenders who have responded to the critiques in substantive ways. The principle's metaphysical status is a live philosophy-of-science debate that I am not adjudicating in this post. The post adjudicates only the framework's decision to cite the process theory rather than the principle, which is a narrower decision than ruling on the principle's metaphysical merits.
