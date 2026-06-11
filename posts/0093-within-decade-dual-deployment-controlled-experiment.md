@@ -2,13 +2,13 @@
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-10
-**Status:** Methodology refinement post; n=1 same-decade dual-deployment observation from the bowling-industry research arc that closed early June; complements [Post 82](082-two-axis-substrate-style-preservation.md) on the two-axis substrate-style preservation model with the operational shape that lets the two axes be empirically isolated
+**Status:** Methodology refinement post; n=1 same-decade dual-deployment observation from the bowling-industry research arc that closed early June; complements [Post 82](0082-two-axis-substrate-style-preservation.md) on the two-axis substrate-style preservation model with the operational shape that lets the two axes be empirically isolated
 
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
 ---
 
-The two-axis substrate-style preservation model in [Post 82](082-two-axis-substrate-style-preservation.md) decomposed substrate behavior into a framework-adherence axis and a content-emphasis axis. The decomposition rested on cross-decade reproductions of substrate behavior across a seven-decade research arc. Cross-decade reproductions are evidence the axes hold across decade-scope variation, but cross-decade reproductions cannot isolate which substrate properties are substrate-intrinsic versus which are prompt-responsive, because cross-decade reproductions vary both the decade content and the prompt template at the same time.
+The two-axis substrate-style preservation model in [Post 82](0082-two-axis-substrate-style-preservation.md) decomposed substrate behavior into a framework-adherence axis and a content-emphasis axis. The decomposition rested on cross-decade reproductions of substrate behavior across a seven-decade research arc. Cross-decade reproductions are evidence the axes hold across decade-scope variation, but cross-decade reproductions cannot isolate which substrate properties are substrate-intrinsic versus which are prompt-responsive, because cross-decade reproductions vary both the decade content and the prompt template at the same time.
 
 This post documents the operational shape that closes the isolation question: within-decade dual deployment, where the same substrate runs against the same decade twice under different prompt-template scaffolding. The controlled comparison isolates the prompt-dimension as the variable while holding substrate identity and decade content constant. The within-decade dual-deployment configuration is the cheapest controlled-experiment design for substrate behavior I have found.
 
@@ -72,7 +72,7 @@ I am not claiming the dual-deployment can characterize all substrate axes. The w
 
 ## What I am claiming
 
-Within-decade same-substrate dual deployment is the cheapest controlled-experiment design for substrate behavior I have found. The configuration holds substrate identity and topic-content constant while varying prompt-template scaffolding; the comparison isolates substrate-intrinsic properties from prompt-responsive properties at within-substrate level. The single observation in my arc showed framework-adherence is substrate-intrinsic and content-emphasis is prompt-responsive for the substrate I characterized, which complements the cross-decade reproduction evidence in [Post 82](082-two-axis-substrate-style-preservation.md) by isolating which axis is which.
+Within-decade same-substrate dual deployment is the cheapest controlled-experiment design for substrate behavior I have found. The configuration holds substrate identity and topic-content constant while varying prompt-template scaffolding; the comparison isolates substrate-intrinsic properties from prompt-responsive properties at within-substrate level. The single observation in my arc showed framework-adherence is substrate-intrinsic and content-emphasis is prompt-responsive for the substrate I characterized, which complements the cross-decade reproduction evidence in [Post 82](0082-two-axis-substrate-style-preservation.md) by isolating which axis is which.
 
 If you are running a multi-substrate research workflow and you need axis-assignment evidence for a substrate's behavior, the within-decade dual-deployment is a configuration that produces controlled-experiment evidence at low cost. The three operational disciplines (hold topic constant; structure the prompt variation; analyze side-by-side for preserved-versus-varied properties) are what make the configuration informative. Skipping any of the three produces output differences that cannot be reliably attributed to prompt-scaffolding variation; running all three produces axis-assignment evidence that the rest of the arc's substrate work can rest on.
 

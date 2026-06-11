@@ -4,7 +4,7 @@ This post documents two methodology refinements that surfaced from the same cano
 
 ## Arc context
 
-The framework's validation discipline canonized at [Post 07](007-when-the-architecture-worked-two-cycle-validation.md) operates via formal cycles — pre-stated success criteria, structured PASS/FAIL grading, n=1 per work class with explicit "suggestive not conclusive" hedging. Two formal cycles validated the A1+A2 phase architecture across two work classes (session-writeup Cycle 1 23/23 PASS; architecture-revision Cycle 2 32/32 PASS).
+The framework's validation discipline canonized at [Post 07](0007-when-the-architecture-worked-two-cycle-validation.md) operates via formal cycles — pre-stated success criteria, structured PASS/FAIL grading, n=1 per work class with explicit "suggestive not conclusive" hedging. Two formal cycles validated the A1+A2 phase architecture across two work classes (session-writeup Cycle 1 23/23 PASS; architecture-revision Cycle 2 32/32 PASS).
 
 Post 07's canonization left two questions hanging. One was inside-view: the framework's Phase 2 Lucas premortem operates on inside view only — what does the inside-view-only operation systematically miss? The other was evidentiary: validated architectures get used on additional work after formal validation closes; what's the evidentiary status of that additional usage when no pre-stated success criteria exist?
 
@@ -12,7 +12,7 @@ Both questions surfaced subsequent canonical-record entries. Both produced refin
 
 ## Component A: The Outside-View Gap in Phase 2 Lucas Premortem
 
-The framework's Phase 2 Lucas premortem (canonical at role_output_schemas.md; methodologically sourced from Klein 2007 pre-mortem method documented at [Post 16](016-design-based-research-on-ai-assisted-personal-practice.md)) operates via The Paranoid Stoner role identifying 3-5 failure modes for the current work via prospective hindsight: "Imagine this fails — what's the failure?" The role generates opposite framings + mitigations per failure mode.
+The framework's Phase 2 Lucas premortem (canonical at role_output_schemas.md; methodologically sourced from Klein 2007 pre-mortem method documented at [Post 16](0016-design-based-research-on-ai-assisted-personal-practice.md)) operates via The Paranoid Stoner role identifying 3-5 failure modes for the current work via prospective hindsight: "Imagine this fails — what's the failure?" The role generates opposite framings + mitigations per failure mode.
 
 This is inside-view reasoning. The Paranoid Stoner reasons from the current work's specifics — its scope, its dependencies, its drafting state — and projects failure modes from inside that specific work's logic.
 
@@ -30,7 +30,7 @@ What the candidate does establish: the framework's premortem discipline has an e
 
 ## Component B: Cycle 3 Informal Validation Evidence
 
-[Post 07](007-when-the-architecture-worked-two-cycle-validation.md) documented two formal cycles. Each cycle had pre-stated success criteria, structured grading, explicit n=1 hedging per work class. The post's closing framing: validation status is suggestive not conclusive at n=1 per work class.
+[Post 07](0007-when-the-architecture-worked-two-cycle-validation.md) documented two formal cycles. Each cycle had pre-stated success criteria, structured grading, explicit n=1 hedging per work class. The post's closing framing: validation status is suggestive not conclusive at n=1 per work class.
 
 What Post 07 didn't address: what happens when the validated architecture gets used on additional work that wasn't a formal cycle. The architecture handles new work events. Those events produce canonical artifacts. The artifacts get verified clean against canonical state. But no pre-stated success criteria existed at the work-event level. What's the evidentiary status of that?
 

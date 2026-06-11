@@ -30,7 +30,7 @@ The operator decision basis is recorded at `lessons-learned.md` line 1505. The s
 
 What makes minority-position selection structurally distinct is the operator-side empirical reasoning load. When the operator selects against Council majority, the canonization decision record carries the burden of articulating why majority reading was set aside — what canonical-state evidence the operator weighted differently, what structural reasoning the majority did not produce, what cascade implications informed the selection. The reasoning becomes part of the canonical record at decision-entry scope and at deployment-package scope.
 
-[Post 25](025-drafting-drift-canonical-promotion-arc.md) documents the pre-canonization empirical record for Decision 1A — drafting-drift's path from single-fire to multi-fire-met across the 2026-05-06 to 2026-05-07 session window.
+[Post 25](0025-drafting-drift-canonical-promotion-arc.md) documents the pre-canonization empirical record for Decision 1A — drafting-drift's path from single-fire to multi-fire-met across the 2026-05-06 to 2026-05-07 session window.
 
 ## Pattern 2: Unanimous on path, split on file strategy (Decision 1B)
 
@@ -42,7 +42,7 @@ Pattern 2 splits the canonization decision into two layers. The principal decisi
 
 The operator decision basis at the file-strategy split is recorded at `lessons-learned.md` line 1548: first-class canonical artifacts deserve the `.canonical.md` filename convention (matching `_anti_patterns.canonical.md`) for discoverability, and the dated artifact preserves historical empirical foundation cleanly when separated from current canonical state. The majority framing (Claude + Gemini) read canonical promotion as a structural transition warranting filename-level signaling; the minority framing (Grok) read canonical promotion as a renaming/restatusing event that could happen within the existing dated file. The operator weighted the structural-transition framing on the basis that future canonical artifact additions at the same category level would benefit from the explicit convention.
 
-[Post 26](026-operational-discipline-rules-canonical-artifact.md) documents the five rules and the canonization outcome — what got canonized and what it positions the artifact relative to in the broader canonical record.
+[Post 26](0026-operational-discipline-rules-canonical-artifact.md) documents the five rules and the canonization outcome — what got canonized and what it positions the artifact relative to in the broader canonical record.
 
 ## Pattern 3: Unanimous with same per-element split (Decision 1C)
 
@@ -58,13 +58,13 @@ The operator decision applied the unanimous Council reading at path level and th
 
 Per `research_queue.md` Topic 35 line 1376: "Pattern 3 is structurally diagnostic: same per-element split across substrates suggests substrate-class-independent empirical signal rather than substrate-stylistic-priming artifact."
 
-The Council of Three architecture decision at `master-setup/council_of_three_architecture_decision_2026-05-07.md` rests on substrate-class-distance as the criterion for verification independence. Topic 22 in `research_queue.md` tracks substrate-stylistic-priming as the outstanding empirical concern: substrate convergence may be an artifact of shared prior context rather than evidence of independent verification. [Post 19](019-when-the-audit-substrate-isnt-independent-enough.md) treats the substrate-stylistic-priming pattern in depth.
+The Council of Three architecture decision at `master-setup/council_of_three_architecture_decision_2026-05-07.md` rests on substrate-class-distance as the criterion for verification independence. Topic 22 in `research_queue.md` tracks substrate-stylistic-priming as the outstanding empirical concern: substrate convergence may be an artifact of shared prior context rather than evidence of independent verification. [Post 19](0019-when-the-audit-substrate-isnt-independent-enough.md) treats the substrate-stylistic-priming pattern in depth.
 
 When three substrate classes produce the same per-element split independently — same five archetypes ratified, same one archetype held back — the convergence at granular element level is harder to explain via substrate-stylistic-priming than convergence at decision-path level alone. Decision-path convergence can plausibly emerge from shared prior context shaping how each substrate frames the question. Per-element split convergence requires each substrate to evaluate each element against canonical-state evidence and produce the same evaluation independently. The granularity makes the convergence less likely to be an artifact of priming and more likely to reflect a substrate-class-independent empirical signal in the canonical record itself.
 
 Per `research_queue.md` Topic 35 line 1390: "pattern 3 (unanimous-with-same-split) may be empirical falsification evidence against substrate-stylistic-priming explanation when same per-element split appears across substrate classes." The claim is bounded — Pattern 3 is one observation within one arc; cross-arc replication is unverified. The pattern set is preliminary at n=3 within single arc per the Topic 35 Status framing at line 1415. But the diagnostic potential is what makes Pattern 3 structurally interesting: it supplies empirical evidence stream relevant to the Topic 22 outstanding question at a granular level the other patterns do not.
 
-[Post 20](020-council-of-three-third-leg-fallibility.md) treats the broader Council-of-Three architecture rationale where the substrate-class-distance question lives. The third-leg-fallibility framing covers what happens when substrate-class-distance fails; Pattern 3 is evidence of what substrate-class-distance produces when it operates as designed.
+[Post 20](0020-council-of-three-third-leg-fallibility.md) treats the broader Council-of-Three architecture rationale where the substrate-class-distance question lives. The third-leg-fallibility framing covers what happens when substrate-class-distance fails; Pattern 3 is evidence of what substrate-class-distance produces when it operates as designed.
 
 ## Operator-judgment scaffolding per pattern
 

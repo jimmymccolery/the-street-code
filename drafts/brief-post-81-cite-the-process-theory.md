@@ -1,6 +1,6 @@
 # Drafting brief — Post 81 "Cite the Process Theory Not the Principle"
 
-**SUPERSEDED 2026-06-10:** Published as **Post 84** (`084-cite-the-process-theory.md`) under impact-ranked top-10 ordering rather than brief-slot ordering. Brief preserved as historical planning artifact.
+**SUPERSEDED 2026-06-10:** Published as **Post 84** (`0084-cite-the-process-theory.md`) under impact-ranked top-10 ordering rather than brief-slot ordering. Brief preserved as historical planning artifact.
 
 **Status:** Brief only; not yet drafted. Per CW R6 Tier 5 item 19.
 **Target slot:** Post 81 (lead philosophical post; T-4 months to ship).
