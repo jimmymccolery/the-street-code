@@ -2,7 +2,7 @@
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-10
-**Status:** Methodology lead post for the Modified-C-bis Posts 81-88 sequence; cites Friston 2017 Appendix F directly per Round 8 R2 + R4 primary-text verification; F-8 RESOLVED; F-15 disambiguation noted; the framework move discussed here is a single architectural decision among six that the deeper posts in the sequence carry separately
+**Status:** Methodology lead post for the Modified-C-bis philosophical sequence; cites Friston 2017 Appendix F directly per Round 8 R2 + R4 primary-text verification; F-8 RESOLVED; F-15 disambiguation noted; the framework move discussed here is a single architectural decision among six; the deeper posts on the other modifications are in draft form and will publish in subsequent slots
 
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
