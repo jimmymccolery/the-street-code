@@ -1,14 +1,15 @@
-# Canon-vs-Brief Boundary — Recommendation
+# Canon-vs-Post Boundary — Recommendation
 
-**Filed:** 2026-06-29
-**Scope:** Where canonical NPC-philosophy + architecture lives, and how publication briefs in `drafts/` should reference it.
+**Filed:** 2026-06-29 (original; covering 22 unshipped briefs)
+**Refreshed:** 2026-06-30 (post-shipping; reframed to cover 19 shipped posts at 0110-0128)
+**Scope:** Where canonical NPC-philosophy + architecture lives, and how shipped posts that translate canon should reference it.
 **Companion to:** `drafts/INDEX.md`
 
 ---
 
 ## The problem
 
-The 22 publication briefs in `drafts/` (see INDEX.md) embed substantive architectural commitments inside each post-shaped artifact:
+The 19 shipped philosophical-content posts at the-street-code/posts/0110-0128 each translate substantive architectural commitments from the framework's procedural-character architecture (working name Modified-C-bis) into reader-facing prose. The commitments include:
 
 - Three-layer memory architecture + DC1 valence/arousal/stress split
 - HEXACO for cooperation/exploitation + attachment for relational encoding
@@ -19,16 +20,16 @@ The 22 publication briefs in `drafts/` (see INDEX.md) embed substantive architec
 - 5-element cross-cultural disclosure discipline
 - WEIRD-defaults schema placeholders + Cross/Crenshaw V1 scope-down
 
-These are **load-bearing for Memory Lanes + Room To Life + future management sims + future city sims**. If they only live inside drafting briefs, two failure modes follow:
+These are **load-bearing for Memory Lanes + Room To Life + future management sims + future city sims**. If they only live inside the shipped posts (publication artifacts), two failure modes follow:
 
-1. **Drift between briefs:** brief-post-90 says one thing about attachment encoding; brief-post-95 says something subtly different; the V1 implementation diverges from both. No single source of truth.
-2. **Drift between products:** Memory Lanes implements one version; a future sim implements a slightly different version because the canon was scattered across briefs that no one re-read.
+1. **Drift between posts:** post 0115 says one thing about attachment encoding; post 0120 says something subtly different; the V1 implementation diverges from both. No single source of truth.
+2. **Drift between products:** Memory Lanes implements one version; a future sim implements a slightly different version because the canon was scattered across blog posts that no one re-read.
 
-A brief is meant to source ONE blog post. A canon doc is meant to be referenced by N posts + N products. Different artifacts; different lifecycle.
+A blog post is meant to translate canon for a reader. A canon doc is meant to be referenced by N posts + N products. Different artifacts; different lifecycle.
 
 ---
 
-## What canon currently looks like (empirical state, 2026-06-29)
+## What canon currently looks like (empirical state, 2026-06-30)
 
 **The de facto canon today lives in `~/Projects/Open Alley/architecture/`:**
 
@@ -54,13 +55,13 @@ A brief is meant to source ONE blog post. A canon doc is meant to be referenced 
 
 Reasoning:
 - The work is already there. Migrating mid-arc costs days and creates risk (broken cross-refs in active code).
-- Briefs already reference Open Alley paths. The pattern works.
+- The 19 shipped posts already reference Open Alley paths internally. The pattern works.
 - Memory Lanes V1 ships from Open Alley; the canon being co-located with the ship target is correct for V1.
 - Migration cost > migration benefit until you start a SECOND product that needs to share the canon.
 
 **Cross-link discipline to formalize:**
-1. Every publication brief in `drafts/` cites the relevant Open Alley canonical file by path at the top of the brief's "Key citations" section
-2. Every Open Alley canonical file lists the publication briefs that translate it (so drift in canon flags affected briefs)
+1. Each shipped post at the-street-code/posts/0110-0128 references the relevant Open Alley canonical file by name in the post body where the architectural commitment is documented
+2. Every Open Alley canonical file lists the shipped posts that translate it (so drift in canon flags affected posts)
 3. Room To Life code comments continue to reference Open Alley canonical paths (already the case)
 4. `the-street-code/research/citations/modified-c-bis-canonical-citations.md` stays as the cross-product citation index (already serves this role)
 
@@ -82,36 +83,40 @@ This makes Room To Life the ecosystem-canonical-home that Open Alley's build-cyc
 Once Room To Life is the ecosystem canonical home:
 - New management sims spec by reading Room To Life canonical files
 - City sims that need NPC philosophy reference the same canon
-- Publication briefs in the-street-code continue translating canon → public posts
-- Room To Life canon evolves with each product's empirical contact; canon updates trigger affected-brief re-verification
+- Future blog posts at the-street-code continue translating canon → public posts
+- Room To Life canon evolves with each product's empirical contact; canon updates trigger affected-post re-verification
 
 ---
 
 ## Smallest concrete first step (today, no migration)
 
-**Action 1: Add a "Canon source" line to every brief in `drafts/`.**
+**Action 1: Add a reverse-index to the master citation file.**
 
-For each brief, add a single line near the top under "Status":
-
-```markdown
-**Canon source:** `~/Projects/Open Alley/architecture/modified-c-bis-ratification-2026-06-09.md` (for Modification N) + any other canonical files this brief depends on
-```
-
-This formalizes the brief-references-canon pattern. Takes ~30 min for all 22 briefs.
-
-**Action 2: Add a reverse-index to the master citation file.**
-
-In `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`, add a section "Briefs that translate this canon":
+In `~/Projects/the-street-code/research/citations/modified-c-bis-canonical-citations.md`, add a section "Posts that translate this canon":
 
 ```markdown
-## Brief translation index
-- Modification 5 (cross-cultural disclosure): briefs 84, 92, 99, 100, 101, 102
-- Modification 6 (Episodic vs Diachronic axes): briefs 83, 94, 95
-- Three-layer memory architecture: briefs 90, 91, 93, 95, 97, 98
+## Post translation index
+- Modification 5 (cross-cultural disclosure): posts 0112, 0117, 0124, 0125, 0126, 0127
+- Modification 6 (Episodic vs Diachronic axes): posts 0111, 0119, 0120
+- Three-layer memory architecture: posts 0115, 0116, 0118, 0120, 0122, 0123
+- Cross/Crenshaw V1 scope-down: post 0128
 - ...
 ```
 
-When canon updates, this index tells you which briefs need re-verification. Takes ~30 min.
+When canon updates, this index tells you which posts need re-verification (errata-as-update-note, not history-rewrite). Takes ~30 min.
+
+**Action 2: Add canonical-source acknowledgment to the Open Alley architecture files.**
+
+In each Open Alley architecture file, add a section "Posts that translate this canon" mirroring the reverse-index above:
+
+```markdown
+## Posts that translate this canon
+- the-street-code/posts/0118 (Recency Collapse and the Need for Consolidation) translates the three-layer architecture and the 0.995 decay anchor at reader-facing scope
+- the-street-code/posts/0123 (Cached Policies and Slow Consolidation) translates the cached-policies-with-slow-consolidation pattern
+- ...
+```
+
+The mirroring lets canon-updates flag which posts need errata-update-note review. Takes ~30 min per file × 7 files = ~3.5h total but doable in batches.
 
 **Action 3: Don't migrate. Don't restructure. Don't create a `roomtolife/foundations/` folder yet.**
 
@@ -125,9 +130,19 @@ Wait until V1 ships. The discipline cost of premature consolidation is higher th
 - Doesn't change the cross-cultural disclosure discipline (5-element commitment is canon-location-independent)
 - Doesn't substitute for primary-text reads (canon depends on operator-side primary-source verification regardless of where the canon file lives)
 - Doesn't preempt Room To Life's own canonical-naming convention if it differs (Room To Life uses `YYYY-MM-DD_topic-canonical.md` in `_workspace/design-notes/`; canon files would inherit that pattern on migration)
+- Doesn't require re-shipping any of the 19 published posts (the cross-link discipline operates at the citation-file level, not at the published-post-body level; posts at 0110-0128 are immutable per the framework's publication discipline)
 
 ---
 
 ## Open question for operator
 
 The implicit assumption above: **Memory Lanes V1 ships before any second product enters scope.** If that ordering changes (e.g., you decide to start a city sim BEFORE V1 ships), the migration moves up. Flag if the ordering assumption breaks; CANON.md gets revised.
+
+---
+
+## What changed between 2026-06-29 and 2026-06-30
+
+- The 19 B1 briefs (brief-post-83 through brief-post-103) shipped as the-street-code posts 0110-0128 on 2026-06-29 evening
+- The 3 B2 ready-to-ship methodology drafts also shipped at 0107-0109 on 2026-06-29 but were immediately retracted on 2026-06-30 when the cross-content audit caught that they were byte-identical duplicates of already-shipped posts 0091-0093 (the retraction is documented in SUMMARY.md at the consolidated 107-109 entry; slots 0107-0109 are preserved as a visible audit-record gap)
+- This CANON.md refresh updates the framing from "22 briefs in drafts/" to "19 shipped posts at 0110-0128 plus retracted 0107-0109"
+- The substantive recommendation (canon stays in Open Alley short-term; migrate to Room To Life post-V1) is unchanged; the post-shipping context did not affect the architectural-canon-home reasoning

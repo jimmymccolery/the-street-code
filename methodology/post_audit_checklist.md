@@ -40,6 +40,12 @@ For each match, verify the referenced post exists (`ls posts/REF-*.md`) and the 
 - **Post 70** = Marcus Reed Protocol named-guardrail honored and fabricated
 - **Post 77** = substrate-validation-theater under artifact-audit framing
 - **Post 82** = two-axis substrate-style preservation model
+- **Post 110** = retraction-table lead for Modified-C-bis philosophical-content arc; sixteen-row catalog of empirical corrections across eight rounds
+- **Post 112** = Personhood-as-Achievement (Wiredu structural-borrowing engagement; highest cross-cultural exposure post; full 5-element discipline applied)
+- **Post 117** = Wiredu mapping does not survive implementation (Option (c) drop; F-17 universalist reversal; F-14 Friston Appendix F parallel retraction)
+- **Post 120** = V1 NPC memory spec META-level closer (nine locked V1 elements; Phase-8.x banked scope; Steam V1.0 candidate scope; three retraction-condition triggers)
+- **Post 124** = canonical statement of the five-element cross-cultural disclosure discipline
+- **Post 128** = WEIRD-defaults-in-the-accumulator closer; Henrich + Crenshaw + Cross schema-placeholder discipline
 
 ### 3. Disclosure compliance per Approach 2 soft-disclosure rule
 
@@ -141,18 +147,23 @@ These specific facts appear in multiple posts and should be verified against can
 **Posts 91-98 arc (0 findings):**
 The Posts 81-90 lessons were applied at drafting time rather than retroactively. The no-expansion-pass approach + deliberate abstraction at drafting + cross-ref discipline during renumbering prevented the failure modes from recurring. The clean audit verdict on Posts 91-98 is evidence the checklist's discipline-of-prevention works when applied at drafting time.
 
+**Posts 110-128 arc (1 finding caught post-publication; 3 slots retracted):**
+The 22-post shipping arc on 2026-06-29 (3 B2 ready-to-ship methodology drafts at 0107-0109 + 19 B1 philosophical-content briefs drafted into posts at 0110-0128) introduced a new failure mode: **cross-content duplicate-publication**. The 3 B2 drafts in `drafts/` (`draft_canonical-anchor-validation-arc_2026-06-10.md`, `draft_fix-cycle-surface-drift_2026-06-10.md`, `draft_within-decade-dual-deployment-validator_2026-06-10.md`) had ALREADY produced shipped posts 0091, 0092, 0093 on 2026-06-10 during the substrate-methodology arc; the drafts sat in `drafts/` for 19 days because the prior session did not delete them after publishing. When the 2026-06-29 promotion cycle ran, the topic-match audit at slug level missed the equivalence because the draft filenames used different slug conventions than the shipped post slugs. The duplicates shipped as 0107-0109 then were caught + retracted at 2026-06-30. **Mitigation added to step 1 of the How-to-apply checklist below: cross-content equivalence check before promotion.** The retraction is documented at SUMMARY.md entry 107-109 per the framework's transparent-self-correction discipline (parallel to the retraction tables in posts 0089 + 0110).
+
 ## How to apply
 
 **For batch publications:**
-1. Draft posts and copy to `posts/` with NN-slug naming
+0. **Cross-content equivalence check (new step per Posts 110-128 audit):** before promoting any draft from `drafts/` to `posts/`, run a `diff` of the draft body against all existing `posts/*.md` files (or grep the draft's opening thesis paragraph against `posts/` to surface any high-similarity matches). The check catches duplicate-publication failure mode where draft filenames may use different slugs than the shipped post slugs of the same content.
+1. Draft posts and copy to `posts/` with NNNN-slug naming (four-digit zero-padded; the original "NN-slug naming" convention upgraded to 4-digit at post-0070 era)
 2. Run em-dash grep across the batch
 3. Run cross-reference grep across the batch and verify each
 4. Disclosure-compliance pass: search for forbidden specifics; abstract any found
 5. Madisonian Gate / F-18 / specific-citation pass: verify framing matches canonical record
 6. Empty-header check: visual scan of H2 sequence
-7. Update SUMMARY.md with dense single-paragraph entries
-8. Update post-ideas.md status fields
+7. Update SUMMARY.md with dense single-paragraph entries (including any retraction-aggregate entries if duplicates surfaced)
+8. Update post-ideas.md status fields (skip if posts came from drafts/ briefs rather than idea-queue entries)
 9. Single commit + push
+10. **Treasure Map regen (new step per Posts 110-128 audit):** run `~/Projects/master-setup/regen_launcher_hashes.py` after publishing batches that meaningfully change `posts/` count or `SUMMARY.md` preamble, so `~/.claude/cc_nav_payload.md` reflects current state for future CC sessions
 
 **For single-post publications:**
 Same six steps but at single-post scope.
@@ -168,6 +179,7 @@ Run the six checks; report findings categorized by severity; recommend fixes; op
 - Memory: `feedback_brief_slot_vs_publication_numbering_mismatch.md` — canonized lesson on cross-ref cascade failure mode
 - Memory: `project_posts_81_90_publication_arc_2026-06-10.md` — full session arc with the 5 findings detailed
 - Memory: `project_posts_91_98_publication_arc_2026-06-10.md` — full session arc demonstrating clean audit when checklist applied at drafting time
+- SUMMARY.md entry 107-109 — canonical record of the Posts 110-128 arc's cross-content duplicate-retraction event (3 slots retracted 2026-06-30; preserves the audit-record gap)
 
 ## Notes for revision
 

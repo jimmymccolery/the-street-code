@@ -16,13 +16,13 @@ The work is operator-audit-shaped: writing serves as memory-keeping and audit tr
 
 ## Conventions
 
-**Filename numbering prefix:** Two-digit zero-padded sequential number reflecting authoring order. Posts numbered 01-NN by body Date ascending; same-day clusters ordered by methodology-arc sequence (the order in which the substantive work documented in posts was performed). Filenames sort by reading order.
+**Filename numbering prefix:** Four-digit zero-padded sequential number reflecting authoring order. Posts numbered 0001-NNNN by body Date ascending; same-day clusters ordered by methodology-arc sequence (the order in which the substantive work documented in posts was performed). Filenames sort by reading order. Slots may be retracted (with the slot-number gap preserved as visible audit record) when a duplicate or other auditable issue surfaces post-publication; see SUMMARY.md for the canonical record of any retracted slots.
 
 **Body Date field:** The frontmatter `**Date:**` field reflects authoring Date: when the substantive work documented in the post was performed. Authoring Date is the basis for filename numbering order.
 
 **Frontmatter structure:** Posts use Markdown frontmatter with `**Author:**`, `**Date:**`, and `**Status:**` fields, followed by an italic disclosure note acknowledging AI writing assistance.
 
-**Post-naming pattern:** `NN-kebab-case-slug.md` where NN is two-digit zero-padded number reflecting authoring order convention above.
+**Post-naming pattern:** `NNNN-kebab-case-slug.md` where NNNN is four-digit zero-padded number reflecting authoring order convention above.
 
 ## Author
 
