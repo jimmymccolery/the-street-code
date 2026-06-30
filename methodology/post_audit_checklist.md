@@ -10,15 +10,19 @@ Run before commit + push of any post or batch of posts. Each audit takes 5-15 mi
 
 ## The six-item checklist
 
-### 1. Em-dash discipline (always)
+### 1. Em-dash discipline (applies post 0036 onward)
 
 Voice spec is zero em-dashes (— character, Unicode U+2014). Verify per post:
 
 ```bash
-grep -c '—' posts/NN-*.md
+grep -c '—' posts/NNNN-*.md
 ```
 
-Should return `0` for every post. Any nonzero result is a fix-before-commit.
+Should return `0` for every post drafted from post 0036 onward. Any nonzero result on a post 0036+ is a fix-before-commit.
+
+**Scope amendment (added 2026-06-30):** The em-dash rule was adopted partway through the corpus; posts 0001-0035 predate the rule and carry 118 cumulative em-dashes across 12 files (concentrated in cluster 0025-0035 plus 0005 + 0006). These legacy em-dashes are NOT retroactively fixed per the framework's immutability convention (posts are immutable once committed; corrections arrive as dated update-notes, not silent edits). The scope-amendment makes the spec-vs-corpus gap explicit rather than treating the 118 legacy em-dashes as ongoing violations. Future maintenance: posts 0036+ remain zero-em-dash; the legacy gap stays as visible record of when the rule was adopted (parallel discipline to the 0107-0109 retracted-slot gap which preserves audit-record visibility rather than back-applying corrections).
+
+The Posts 110-128 arc's clean em-dash audit verdict (the maintenance pass that surfaced the scope question in the first place) confirmed the rule's enforcement is reliable when applied at drafting time; the legacy gap is an artifact of rule-adoption timing, not of current discipline.
 
 ### 2. Cross-reference accuracy
 
