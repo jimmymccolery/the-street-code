@@ -1,0 +1,43 @@
+name: Audit
+
+# Runs the deterministic subset of methodology/post_audit_checklist.md
+# on every PR touching posts/, SUMMARY.md, drafts/, or methodology/.
+#
+# Judgment-based items (disclosure compliance, Madisonian Gate attribution,
+# F-18 framing) stay with the human pass per the checklist's documented
+# scope-amendment.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'posts/**'
+      - 'SUMMARY.md'
+      - 'drafts/**'
+      - 'methodology/**'
+      - 'research/citations/**'
+      - 'scripts/audit.sh'
+      - '.github/workflows/audit.yml'
+  pull_request:
+    paths:
+      - 'posts/**'
+      - 'SUMMARY.md'
+      - 'drafts/**'
+      - 'methodology/**'
+      - 'research/citations/**'
+      - 'scripts/audit.sh'
+      - '.github/workflows/audit.yml'
+  workflow_dispatch:
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Make audit script executable
+        run: chmod +x scripts/audit.sh
+
+      - name: Run audit
+        run: ./scripts/audit.sh
