@@ -20,7 +20,7 @@ The work is operator-audit-shaped: writing serves as memory-keeping and audit tr
 
 **Body Date field:** The frontmatter `**Date:**` field reflects authoring Date: when the substantive work documented in the post was performed. Authoring Date is the basis for filename numbering order.
 
-**Frontmatter structure:** Posts use Markdown frontmatter with `**Author:**`, `**Date:**`, and `**Status:**` fields, followed by an italic disclosure note acknowledging AI writing assistance.
+**Frontmatter structure:** Posts use Markdown frontmatter with `**Author:**`, `**Date:**`, and `**Status:**` fields, followed by an italic disclosure note acknowledging AI writing assistance. This convention was tightened partway through the corpus; posts 0026-0035 (10 files) carry partial frontmatter omissions that are preserved per the immutability convention rather than back-applied (parallel to the em-dash legacy gap documented in `methodology/post_audit_checklist.md`). The CI audit enforces frontmatter consistency from post 0036 onward.
 
 **Post-naming pattern:** `NNNN-kebab-case-slug.md` where NNNN is four-digit zero-padded number reflecting authoring order convention above.
 

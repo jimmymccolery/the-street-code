@@ -4,6 +4,8 @@
 **Refreshed:** 2026-06-30 (post-shipping; reflects retraction of 0107-0109)
 **Purpose:** Navigable map of the remaining 14 files in `drafts/`. The 19+3 philosophical-content arc + ready-to-ship methodology drafts have all shipped to `posts/` as posts 0110-0128 (with the 0107-0109 duplicate-retraction documented in SUMMARY.md). What remains are the 14 numbered slot proposals from the separate ideation queue (slots 48-61).
 
+> ⚠️ **Numbering-system disambiguation (added 2026-06-30):** The `drafts/48-...md` through `drafts/61-...md` slot files use a **separate two-digit ideation-queue numbering** that is unrelated to the four-digit `posts/0001-...md` through `posts/0128-...md` slot system. **`drafts/48-...` does NOT become `posts/0048-...` by promotion.** The two numbering systems are independent; promotion from drafts/ to posts/ assigns a fresh 4-digit slot at the next available position in posts/. The collision was a contributing factor to the 0107-0109 duplicate-publication incident; this banner exists to prevent a future operator-or-substrate misread.
+
 ---
 
 ## Current state

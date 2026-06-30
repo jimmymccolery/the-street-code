@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+title: "The Street Code"
+message: "If you cite or reference this work, please use the metadata below."
+type: dataset
+authors:
+  - family-names: McColery
+    given-names: Jimmy
+url: "https://github.com/jimmymccolery/the-street-code"
+repository-code: "https://github.com/jimmymccolery/the-street-code"
+abstract: >-
+  The Street Code is a methodology research repository documenting a personal
+  AI-discipline framework: cross-substrate audit chains, canonical-state
+  discipline, framework-encoded verification, and the empirical fires through
+  which the framework's rules earned their current shape. The corpus is
+  operator-audit-shaped (memory-keeping and audit trail for the operator's own
+  methodology research arc); public availability enables discoverability for
+  others researching similar territory.
+keywords:
+  - ai-methodology
+  - llm
+  - cross-substrate-verification
+  - canonical-state
+  - audit-chain
+  - anti-patterns
+  - solo-indie-development
+  - procedural-characters
+  - active-inference
+  - cross-cultural-disclosure
+  - research-notes
+license: MIT
+date-released: "2026-05-02"

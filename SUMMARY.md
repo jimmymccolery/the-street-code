@@ -12,6 +12,36 @@ Posts are numbered 0001 through 0128 in the order the work happened (with slots 
 
 ## Per-post summaries
 
+### Jump to arc
+
+The 125 published posts cluster into three thematic arcs (chronological numbering preserves authoring order; arc boundaries are approximate per the three-arc map documented in the intro above).
+
+**Arc 1 — AI methodology + discipline framework (Posts 01-40):** the origin material; substrate-swap experiments, anti-pattern catalogs, multi-role "Gang" audits, cross-substrate triangulation, Council of Three, canonical-state discipline.
+- [Post 01 — Does Discipline Survive Substrate?](#01-experiment-1-does-discipline-survive-substrate) (arc opener)
+- [Post 05 — How a Personal AI Discipline Framework Earns Its First Rules](#05-how-a-personal-ai-discipline-framework-earns-its-first-rules)
+- [Post 15 — Discipline as Substrate, AI Capabilities as Swappable Layer](#15-discipline-as-substrate-ai-capabilities-as-swappable-layer)
+- [Post 40 — What the Gang Actually Does and What's Theater](#40-what-the-gang-actually-does-and-whats-theater) (arc methodology meta)
+
+**Arc 2 — Indie game development + bowling-industry history (Posts 41-80):** R3F/Zustand/Rapier engineering write-ups for a bowling-tycoon sim; AMF pinsetter pricing 1957; 1962 Wall Street bubble; 1981 Volcker-shock collapse; pinsetter wars; pinboy era; period-design constraints.
+- [Post 42 — Multi-Lane Bowling in One Day](#42-multi-lane-bowling-in-one-day)
+- [Post 44 — Bowler-Bug Deep Dive: R3F + Zustand subscribe semantics](#44-bowler-bug-deep-dive-r3f-zustand-subscribe-semantics)
+- [Post 45 — The 12-Cent Proposition (AMF pinsetter pricing 1957)](#45-the-12-cent-proposition)
+- [Post 64 — The Pinsetter Wars 1951-1956](#64-the-pinsetter-wars-1951-1956-when-bowling-replaced-pinboys-with-machines)
+
+**Arc 3 — Philosophy of mind + procedural-character architecture (Posts 81-128):** NPC memory models; active inference; HEXACO/attachment trait encoding; the Modified-C-bis framework; cross-cultural disclosure discipline (Wiredu, Gyekye, Menkiti); WEIRD-sample critique (Henrich); intersectionality (Crenshaw); Nigrescence (Cross); the 0107-0109 retraction event.
+- [Post 81 — Why an Indie Bowling Game Has Philosophy of Mind](#81-why-an-indie-bowling-game-has-philosophy-of-mind) (arc opener)
+- [Post 110 — When the Framework Was Wrong About Itself](#110-when-the-framework-was-wrong-about-itself-eight-rounds-five-catches-and-the-discipline-that-earned-the-corrections) (retraction-table methodology lead)
+- [Post 120 — V1 NPC Memory Spec: What Ships, What Waits](#120-v1-npc-memory-spec-what-ships-what-waits) (architecture META-level closer)
+- [Post 124 — The Difference Between Inspiration and Implementation](#124-the-difference-between-inspiration-and-implementation-the-five-element-disclosure-discipline-i-am-committing-to-publicly) (cross-cultural discipline canonical statement)
+- [Post 128 — The Accumulator Is Where WEIRD Defaults Hide](#128-the-accumulator-is-where-weird-defaults-hide-henrich-crenshaw-cross-and-the-schema-placeholder-discipline-the-framework-adopts) (arc closer + WEIRD-defaults schema-placeholder discipline)
+
+**Retraction entry:**
+- [107-109. RETRACTED (duplicate-of-91-92-93)](#107-109-retracted-duplicate-of-91-92-93) — preserves visible audit-record gap per the framework's transparent-self-correction discipline
+
+For full per-post entries (dense single-paragraph summaries covering what each post documents + bounds + claims), continue reading below.
+
+---
+
 ### 01. Experiment 1: Does Discipline Survive Substrate?
 **Date:** 2026-05-02
 
