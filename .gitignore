@@ -3,3 +3,6 @@ Thumbs.db
 *.swp
 .idea/
 .vscode/
+
+# post-ideas queue intentionally NOT public — added 2026-06-29 evening
+post-ideas.md
