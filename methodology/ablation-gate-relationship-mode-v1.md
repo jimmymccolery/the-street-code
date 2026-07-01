@@ -132,45 +132,196 @@ Produce a `~/Desktop/ablation-gate-phase-1-handoff-YYYY-MM-DD/` folder containin
 
 The prompt below is calibrated per the framework's paired-n=4 substrate-discipline lesson (`~/.claude/projects/-Users-jimmy/memory/feedback_substrate_opaque_citation_format_as_risk_signal.md`). Do not paraphrase; paste as-is.
 
-```
-You are executing Phase 2 of an ablation gate for a procedural-character architecture decision. The Phase 1 handoff folder contains: phase-1-data.csv (per-pair prototype simulation data); phase-1-report.md (Conditions 1 + 2 + 4a results); phase-1-mode-assignment-heuristic.md (prose description of the assignment rules); phase-1-limitations.md (honest weakness flags).
+````
+You are executing Phase 2 of an ablation gate for a procedural-character architecture decision. The Phase 1 handoff folder (~/Desktop/ablation-gate-phase-1-handoff-YYYY-MM-DD/) contains four files:
 
-Your objective: execute Conditions 3 and 4b of the four-condition ablation gate specified in ~/Projects/the-street-code/methodology/ablation-gate-relationship-mode-v1.md. Produce a Phase 2 aggregate report suitable for operator ratification.
+- phase-1-data.csv: per-pair prototype simulation data. Expected columns: pair_id (string); population_type (enum: staff_loyalty / customer_patronage / league_competitor); mode_assignment (enum: COMMUNAL_SHARING / AUTHORITY_RANKING / EQUALITY_MATCHING / MARKET_PRICING / UNDEFINED_OR_MIXED); sentiment_scalar (float, range [-1.0, 1.0]); closeness_gf_proxy (float, Phase 1 candidate operationalization); pair_interaction_frequency (integer, count of Layer 1 events between the pair in the recency window); decision_score_sample_{1..N} (floats, sampled candidate-action scores per pair); plus per-pair covariates from the pair-summary schema.
+- phase-1-report.md: Conditions 1 + 2 + 4a results with PASS/FAIL classification.
+- phase-1-mode-assignment-heuristic.md: prose description of the assignment rules.
+- phase-1-limitations.md: honest weakness flags from Phase 1.
 
+If any expected file is missing or any expected column is absent from phase-1-data.csv, STOP and escalate to the operator with an explicit "missing handoff element" report. Do not proceed with defaults.
+
+Your objective: execute Conditions 3 (sub-steps 3b and 3c) and Condition 4 sub-step 4b of the four-condition ablation gate specified in ~/Projects/the-street-code/methodology/ablation-gate-relationship-mode-v1.md. Produce a Phase 2 aggregate report suitable for operator ratification, plus a reproducible analysis notebook.
+
+================================================================
+ENVIRONMENT + PACKAGE STACK:
+================================================================
+- Preferred environment: Perplexity's built-in code execution surface. Use this first.
+- Fallback environment: Google Colab (upload phase-1-data.csv; save notebook to /content/ and export .ipynb before session ends).
+- Required packages: pandas (data loading + manipulation); numpy (numerics); statsmodels (regression + assumption checks); pingouin (partial correlation + effect-size CIs); matplotlib (residual diagnostics + QQ plots). If the preferred environment lacks a package, install via pip install <pkg> at the top of the notebook.
+- Random seed: numpy.random.seed(42) at notebook start for reproducibility across bootstrap operations.
+
+================================================================
 MANDATORY VERIFICATION TRAIL (first section of your output):
-- List every data column you read from phase-1-data.csv with type + range
+================================================================
+- List every data column you read from phase-1-data.csv with type + observed range + N (rows) + missingness count
 - List every methodology source you consulted with full URL / arXiv / DOI
 - List every Perplexity Deep Research query you ran with the returned top-3 sources
 - Explicitly acknowledge any data or methodology decisions where you defaulted to convention rather than empirical calibration
+- Report the environment (Perplexity code execution vs Colab vs other) and the exact package versions used
 
+================================================================
 ECHO/NOVEL DISCIPLINE:
+================================================================
 For each substantive claim in your analysis, tag it ECHO (matches existing framework canon / prior methodology precedent) or NOVEL (new claim requiring justification). For every NOVEL claim, provide four fields: (1) claim in one sentence; (2) evidence source with URL/DOI; (3) confidence level H/M/L with justification; (4) what would change your mind.
 
-Condition 3 sub-step 3b (statistical analysis) requirements:
-- Partialling regression: mode-driven variance in decision-scoring, partialling out variance predictable from closeness general-factor proxy. Specify the proxy operationalization explicitly (Phase 1 provided a candidate; you may re-derive if psychometrically justified).
-- Verify regression assumptions: linearity, residual normality, multicollinearity check on mode-vs-sentiment specifically.
-- Report residual variance with confidence interval.
-- Report effect size in Cohen's f² or comparable metric.
+================================================================
+CONDITION 3 sub-step 3b (STATISTICAL ANALYSIS) — DETAILED PROCEDURE:
+================================================================
 
-Condition 3 sub-step 3c (methodology calibration) requirements:
-- Perplexity DR query on effect-size thresholds for psychometric general-factor partialling models. Cite the methodology sources verbatim with URLs.
-- Specify the effect-size threshold you are applying for PASS/FAIL, with justification from the methodology literature.
-- Explicitly acknowledge that the threshold is a methodology-choice judgment; provide sensitivity analysis if the residual value is near the threshold boundary.
+STEP 1 — Data validation.
+Load phase-1-data.csv. Verify: all expected columns present; mode_assignment values are in the specified enum; sentiment_scalar values are in [-1, 1]; closeness_gf_proxy is numeric non-null. Report N (total pairs), N per population_type, N per mode_assignment. If any validation fails, STOP + escalate.
 
-Condition 4 sub-step 4b (literature grounding audit) requirements:
-- For each non-WEIRD-specific mode distribution rule in phase-1-mode-assignment-heuristic.md, run Perplexity DR to verify grounding in primary-source cross-cultural RMT literature.
-- Apply Rule 19 Marcus Reed Protocol three-condition gate: (1) source exists (URL verified); (2) source says what the rule cites it as saying (primary-text quote verification); (3) semantically applicable to the framework's tycoon-simulation use case (not name-collision with unrelated construct).
-- Flag any rules that fail the gate.
+STEP 2 — General-factor proxy operationalization.
+Check phase-1-mode-assignment-heuristic.md for a specified closeness general-factor proxy. IF Phase 1 specifies a proxy, USE IT AS-IS (Phase 1 has the runtime context Phase 2 lacks). IF Phase 1 does NOT specify a proxy, use this fallback:
 
+  closeness_gf_proxy_fallback = zscore(sentiment_scalar) + zscore(pair_interaction_frequency)
+
+Document which path you took (specified vs fallback) in the verification trail.
+
+STEP 3 — Regression specification (hierarchical ΔR² approach).
+The load-bearing question is: how much variance in decision-scoring survives after partialling out closeness. Use hierarchical multiple regression measuring ΔR² when mode dummies enter block 2 after closeness enters block 1.
+
+Pseudocode (translate to concrete pandas + statsmodels):
+
+```
+# Aggregate decision_score across sampled candidate actions per pair
+score_cols = [c for c in df.columns if c.startswith('decision_score_sample_')]
+df['decision_score_mean'] = df[score_cols].mean(axis=1)
+
+# Block 1: closeness alone
+M0 = smf.ols('decision_score_mean ~ closeness_gf_proxy', data=df).fit()
+
+# Block 2: closeness + mode dummies (drop UNDEFINED_OR_MIXED as reference)
+df['mode_assignment'] = pd.Categorical(df['mode_assignment'],
+    categories=['UNDEFINED_OR_MIXED', 'COMMUNAL_SHARING', 'AUTHORITY_RANKING',
+                'EQUALITY_MATCHING', 'MARKET_PRICING'])
+M1 = smf.ols('decision_score_mean ~ closeness_gf_proxy + C(mode_assignment)',
+             data=df).fit()
+
+# Delta R-squared
+delta_r2 = M1.rsquared - M0.rsquared
+
+# Cohen's f-squared effect size
+f2 = delta_r2 / (1 - M1.rsquared)
+
+# Bootstrap 95% CI for delta R-squared
+np.random.seed(42)
+bootstrap_deltas = []
+for i in range(5000):
+    sample = df.sample(n=len(df), replace=True, random_state=i)
+    m0_b = smf.ols('decision_score_mean ~ closeness_gf_proxy', data=sample).fit()
+    m1_b = smf.ols('decision_score_mean ~ closeness_gf_proxy + C(mode_assignment)',
+                   data=sample).fit()
+    bootstrap_deltas.append(m1_b.rsquared - m0_b.rsquared)
+ci_lower, ci_upper = np.percentile(bootstrap_deltas, [2.5, 97.5])
+```
+
+Also run the analysis per population_type subset (staff_loyalty; customer_patronage; league_competitor). Population-specific ΔR² may differ meaningfully from pooled ΔR² and is diagnostic — the framework's tycoon-population differentiation is exactly the setting where mode effects may vary by relationship shape.
+
+STEP 4 — Assumption checks (all mandatory; report each PASS/FAIL/CONCERN with figure or statistic in the notebook + summary in the report).
+- Linearity: residuals-vs-fitted scatterplot for M1; visual inspection for pattern.
+- Residual normality: QQ-plot + Shapiro-Wilk (if N < 5000) or Anderson-Darling (if N >= 5000) on M1 residuals.
+- Homoscedasticity: Breusch-Pagan test on M1 residuals (statsmodels.stats.diagnostic.het_breuschpagan).
+- Multicollinearity: VIF for closeness_gf_proxy in M1. Because M1 contains one continuous covariate plus mode dummies, VIF should be < 5 unless mode dummies are collinear with closeness (which would indicate the ablation's null hypothesis: mode IS closeness relabeled). If VIF > 5, this is diagnostic, not fatal — report the VIF value in the results and flag the collinearity.
+- Sample-size sufficiency: report per-mode N; if any mode enum has N < 30, note that stability of that mode's dummy coefficient is questionable.
+
+STEP 5 — Report the results in aggregate-report Section 2.
+Pooled analysis: ΔR², Cohen's f², 95% bootstrap CI, all assumption-check outcomes.
+Per-population analysis: ΔR² with 95% CI for each of the three tycoon-population subsets; note which populations pass/fail their local threshold.
+Assumption-check summary: any FAIL or CONCERN flags with implications for interpretation.
+
+================================================================
+CONDITION 3 sub-step 3c (METHODOLOGY CALIBRATION) — DETAILED PROCEDURE:
+================================================================
+
+STEP 1 — Threshold anchor.
+Initial anchor: ΔR² >= 0.05 AND Cohen's f² >= 0.02 (Cohen 1988 small-effect convention; https://doi.org/10.4324/9780203771587). PASS = both thresholds cleared in pooled analysis AND bootstrap CI lower bound exceeds threshold. AMBIGUOUS = CI crosses threshold. FAIL = CI upper bound below threshold.
+
+STEP 2 — Threshold calibration via literature.
+Run the following four seed Perplexity Deep Research queries (or their close equivalents). Report the returned top-3 sources per query with URL/DOI. Update the threshold anchor if the literature specifies field-specific convention differing from Cohen 1988:
+
+Query 1 — Methodology: "Effect-size threshold conventions for hierarchical multiple regression delta R-squared in psychometric general-factor validation studies"
+Query 2 — Domain: "Fiske Relational Models Theory cross-cultural validation non-WEIRD samples"
+Query 3 — Threshold specificity: "Small vs medium delta R-squared conventions in individual-differences research versus experimental psychology"
+Query 4 — Assumption diagnostics: "Regression diagnostic best practices for hierarchical multiple regression with categorical predictors"
+
+Document the returned sources with URL/DOI in the verification trail. If literature specifies a different threshold, note the specification and its source; use the literature-calibrated threshold as the PASS/FAIL cutoff; note the Cohen 1988 baseline for comparison.
+
+STEP 3 — Sensitivity analysis if borderline.
+If pooled ΔR² CI crosses the threshold OR pooled and per-population results diverge in verdict, run sensitivity analysis:
+(a) Alternative proxy operationalizations: sentiment_scalar alone; pair_interaction_frequency alone; alternative weighting between the two.
+(b) Alternative aggregation of decision_score: median instead of mean; per-candidate-action instead of aggregated.
+(c) Alternative bootstrap size: 10000 iterations instead of 5000.
+
+Report which sensitivity variations change the verdict. If verdict is robust to all sensitivity variations, mark HIGH-CONFIDENCE-VERDICT. If verdict changes under at least one variation, mark VERDICT-CONTINGENT-ON-METHODOLOGY-CHOICE + escalate.
+
+================================================================
+CONDITION 4 sub-step 4b (LITERATURE GROUNDING AUDIT) — DETAILED PROCEDURE:
+================================================================
+
+For each non-WEIRD-specific mode distribution rule documented in phase-1-mode-assignment-heuristic.md:
+
+STEP 1 — Extract the rule.
+Identify the rule's specific claim (e.g., "for cultural_context_tag = 'East-Asian-collectivist', mode distribution shifts toward COMMUNAL_SHARING by X%"). If Phase 1 did not produce any non-WEIRD-specific rules (heuristic conservatively left all non-WEIRD pairs UNDEFINED_OR_MIXED), report zero rules to audit and Condition 4b PASSES by no-rules-fired.
+
+STEP 2 — Run Perplexity DR to verify grounding.
+Query template: "Fiske Relational Models Theory distribution in [specific cultural context named by the rule]"
+Retrieve primary sources. Prefer peer-reviewed cross-cultural RMT validation studies over general secondary sources.
+
+STEP 3 — Apply Rule 19 Marcus Reed three-condition gate to each source Phase 1 cited:
+- Condition 3a — source exists: URL verified; check that the URL returns HTTP 200 and that the returned page's title matches the cited title.
+- Condition 3b — source says what the rule cites it as saying: locate the primary-text passage; quote it verbatim in the report; verify the passage supports the rule's quantitative or categorical claim.
+- Condition 3c — source is semantically applicable: not a name-collision with unrelated construct (verify the source is about Fiske Relational Models Theory, not another "relational models" theory); not a different use of the same term (e.g., not a marketing-relational-models paper); applicable to the framework's tycoon-simulation use case.
+
+STEP 4 — Report per-rule verdict.
+PASS: all three conditions met.
+FAIL: any condition unmet; specify which and why.
+AMBIGUOUS: source exists but semantic applicability is contested.
+
+Condition 4b aggregate: PASS if all rules PASS; FAIL if any rule FAILs; MIXED if some AMBIGUOUS + rest PASS.
+
+================================================================
 BANS:
+================================================================
 - No persona theater ("As a research agent I will...")
 - No generic methodology recap ("Partialling regression is a statistical technique that...")
 - No summarization-without-citation ("The literature suggests..." without URLs)
 - No claims about what "the operator" wants; execute the specified procedure and report results
+- No silent methodology substitution: if you deviate from the specified regression / proxy / threshold, explicitly flag the deviation + reason in the verification trail
 
-OUTPUT SHAPE:
-Aggregate report in markdown. Sections in order: (1) Verification trail; (2) Condition 3 sub-step 3b analysis + result; (3) Condition 3 sub-step 3c methodology calibration + interpretation; (4) Condition 4 sub-step 4b literature grounding audit + result; (5) Aggregate four-condition PASS/FAIL matrix (Condition 1 and 2 from Phase 1; Condition 3 from this phase; Condition 4 from Phase 1a + this phase 4b combined); (6) Aggregate verdict (OPERATIONALIZE / RETIRE / FIX-HEURISTIC-BEFORE-PROCEEDING); (7) Honest weakness flags on the analysis itself.
-```
+================================================================
+SELF-MONITORING + ESCALATION CRITERIA:
+================================================================
+Escalate to the operator (do not resolve to PASS or FAIL) if any of the following fire:
+1. Phase 1 handoff missing expected files or columns.
+2. Regression assumption checks show CONCERN or FAIL that materially affects interpretability.
+3. ΔR² 95% CI crosses the calibrated threshold in pooled analysis (AMBIGUOUS classification).
+4. Pooled and per-population verdicts diverge (e.g., staff_loyalty PASS but customer_patronage FAIL).
+5. Sensitivity analysis shows verdict is contingent on methodology choice.
+6. Any Condition 4 rule FAILS the Rule 19 three-condition gate.
+7. Preferred environment (Perplexity code execution) is unavailable AND fallback environment is unavailable.
+
+Escalation format: aggregate report Section 6 (Aggregate verdict) uses "ESCALATE — OPERATOR JUDGMENT REQUIRED" with a numbered list of the specific escalation triggers that fired + the specific ambiguity each trigger surfaces.
+
+================================================================
+OUTPUT ARTIFACTS:
+================================================================
+
+Artifact 1 — Aggregate report in markdown. Sections in order:
+(1) Verification trail (per Mandatory Verification Trail spec above)
+(2) Condition 3 sub-step 3b analysis + result (pooled + per-population; assumption-check summary)
+(3) Condition 3 sub-step 3c methodology calibration (4 query results; threshold anchor + any calibration adjustment; sensitivity analysis if borderline)
+(4) Condition 4 sub-step 4b literature grounding audit (per-rule verdict with Rule 19 three-condition gate outcomes)
+(5) Aggregate four-condition PASS/FAIL matrix (Condition 1 + 2 from Phase 1; Condition 3 pooled + per-population; Condition 4a from Phase 1 + Condition 4b from this phase)
+(6) Aggregate verdict: OPERATIONALIZE / RETIRE / FIX-HEURISTIC-BEFORE-PROCEEDING / ESCALATE
+(7) Honest weakness flags on the analysis itself (methodology choices you defaulted; assumption-check concerns; sensitivity contingencies)
+
+Artifact 2 — Reproducible analysis notebook. Save as .ipynb (Jupyter/Colab format). Include markdown cells explaining each analysis step; code cells with the actual regression + assumption checks + bootstrap CI; output cells with figures. Package with a top-line requirements list (pandas + numpy + statsmodels + pingouin + matplotlib) and random seed 42. Save to phase-2-analysis-artifact.ipynb.
+
+Both artifacts hand off to Phase 3 (operator ratification + Claude Code canonical mutation).
+````
 
 ### Phase 2 handoff artifacts to Phase 3
 
