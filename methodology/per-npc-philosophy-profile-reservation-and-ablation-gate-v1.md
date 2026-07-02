@@ -437,3 +437,39 @@ Alternative sequencing (if operator prioritizes cross-family diversity over prim
 **Empirical foundation:** Perplexity DR (single-substrate; 60 sources; 45-minute wall-clock; verified 2026-07-01 22:36-22:55 PDT; archived at `_archive/2026-07-01-comet-batch-post-council-4/gap-4-perplexity-dr.md`). Operator spot-check on 3 URLs empirically verified 2 (Menkiti 1984 PDF + Metz 2011 PDF); 1 (Google Books PA108) empirically DEMOTED (returned "No eBook available"). Rule 19 3-condition gate PASSES for the 2 verified URLs; single-substrate output is ratifiable at family-by-family matrix scope.
 
 **Companion synthesis:** `_archive/2026-07-01-comet-batch-post-council-4/gap-4-comet-synthesis.md` (family-by-family analysis + operator acquisition worklist + Council #4 Decision 7 annotation upgrade candidacy analysis).
+
+---
+
+## UPDATE-NOTE 2026-07-02 evening: Council #2 Decision 3 Condition 2 modification (appraisal-tag baseline block insertion before profile block)
+
+Council #2 close (documented in Posts 0139 + 0140 in this arc) canonized a specific modification to this methodology guide's Condition 2 procedure per Substrate D's specification. The modification inserts an appraisal-tag baseline block (Block 2) BEFORE the profile-specific block (Block 3) in the hierarchical regression structure Condition 2 canonizes at the v1 core procedure.
+
+**Modified Condition 2 hierarchical regression blocks** (per Post 0140 Decision 3 + Substrate D specification):
+
+- **Block 0 (controls):** `sim_id` + `population_type` + game year + event family + actor/target role + dyad prior-history length + relationship strength + random intercepts for NPC nested in Sim.
+- **Block 1 (existing decomposition):** valence + arousal + stress + sentiment + attachment + typed-index category + HEXACO-H + other active trait covariates.
+- **Block 2 (NEW appraisal-tag baseline):** `agency_attribution` + `expectedness_delta` + `goal_congruence` + `coping_control_estimate` + deliberately-lossy `norm_violation_tag` as generic universal-tag baseline (see fail condition below).
+- **Block 3 (profile-specific):** `normative_profile_assignment` + `profile_norm_violation_score` + `profile × event_norm_signature` interaction + `profile_norm_violation_score × relationship_strength` interaction + profile-family × population_type interactions.
+
+**Modified pass criteria** (profile dispatch adds unique variance beyond appraisal-tag baseline):
+- Pooled ΔR² Block 2 → Block 3 ≥ 0.05
+- Cohen's f² ≥ 0.02
+- Bootstrap lower confidence bound clears pre-specified threshold
+- Per-population effects directionally coherent (no unexplained population-family reversal)
+- Cross-validated log-loss or Brier score improves for policy choices + memory salience
+
+**Modified fail criteria:**
+- Generic appraisal-tag block absorbs same variance profile dispatch would (the generic universal-tag adequately substitutes for profile-family-specific rules)
+- Profile assignment only proxies demographics (empirically-driven by demographic features rather than philosophy-family-specific normative content)
+- Profile labels become decorative (labels present but don't drive behavioral divergence)
+- Wiredu-vs-Gyekye distinction vanishes after sentiment + trait + structural appraisal controls (per-philosophy-family normative rule-set specificity does not survive appraisal-tag-baseline block)
+
+**Framework rationale for the modification:** the v1 methodology guide's original Condition 2 tested whether per-NPC-philosophy-profile normative dispatch adds unique variance beyond sentiment + HEXACO baselines. Substrate D at Council #2 correctly identified that appraisal-tags at Layer 2 consolidation cadence are a plausible competitor to per-NPC-philosophy-profile normative dispatch for the norm-violation-signal-carrying question. The modified Condition 2 tests whether profile dispatch adds unique variance beyond sentiment + HEXACO + appraisal-tag baselines. This is a more rigorous empirical test that decides the norm-violation-placement question empirically rather than by prior architectural commitment.
+
+**Cross-references:**
+- `~/Projects/the-street-code/posts/0139-council-2-close-when-the-orchestrator-caught-a-template-placeholder-passed-through-verification.md` — Council #2 close narrative
+- `~/Projects/the-street-code/posts/0140-council-2-spec-seven-decision-appraisal-tag-amendment-package-plus-pdf-template-placeholder-fabrication-axis-canonization.md` — Decision 3 spec
+- `~/Projects/the-street-code/methodology/appraisal-tag-reservation-and-ablation-gate-v1.md` — sibling methodology guide with Substrate B's Conditions 1-4 single-Sim ablation battery + Substrate C's multi-Sim playtester protocol
+- `~/Projects/the-street-code/_archive/2026-07-02-council-2-appraisal-tags/council-2-substrate-d-perplexity-dr.md` — Substrate D's specification (source of the modification)
+
+**Guide revision protocol:** per the guide's canonical revision protocol at v1 core procedure, mid-execution scope changes are anti-pattern territory. This update-note is a POST-CANONIZATION amendment landing before any Phase 1 execution against the v1 procedure has begun; the amendment lands with Council #2 close commit alongside the appraisal-tag methodology guide + the two Council #2 posts + auto-memory entries + operational-discipline-rules v1.19 → v1.20 bump. Future amendments follow same dated update-note pattern.
