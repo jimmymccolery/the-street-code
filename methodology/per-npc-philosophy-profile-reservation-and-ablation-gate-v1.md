@@ -407,3 +407,33 @@ Update this guide when:
 - Framework canonical files that this guide cross-references update in ways that affect guide content
 
 Do NOT retroactively edit the guide's core procedure after a phase begins execution; per the framework's immutability convention, mid-execution scope changes are anti-pattern territory. Add dated update-notes at the guide's foot instead.
+
+---
+
+## UPDATE-NOTE 2026-07-01 late evening: family-by-family primary-text feasibility matrix (empirical grounding for Condition 1 procedure)
+
+Post-Council-#4 Coverage Gap 4 batch (documented at `~/Projects/the-street-code/_archive/2026-07-01-comet-batch-post-council-4/`) empirically surveyed primary-text access surfaces for African philosophy scholars named at Council #4 close. The following family-by-family matrix provides empirical grounding for the guide's Condition 1 procedure (primary-text verification per profile family):
+
+| Family | Primary-text access status | Condition 1 feasibility | Scale-up sequencing rank |
+|---|---|---|---|
+| Akan (Wiredu / Gyekye) | Pre-existing framework corpus (Wiredu 1992 CRVP; Gyekye 1997 primary access) | Adequate baseline | Reference / already operational |
+| Ubuntu (Metz / Tempels / Ramose) | Metz 2011 SciELO PDF open; Metz 2021 PhilPapers PDF open; Tempels 1959 CYRHO PDF open (with rights caveat); Ramose 1999 institutional-only | Feasible at Metz-first + Tempels-second reduced scope | 1st (highest feasibility) |
+| Menkiti's 1984 chapter | University of Saint Thomas PDF empirically verified 2026-07-01 (contains "I am because we are" quote at page 171 with Mbiti attribution footnote) | Immediate primary-text feasible | Reference / already operational |
+| Igbo (Nwala / Asouzu) | Nwala 1985 via IA controlled lending; Asouzu 2007 Google Books snippet-only | Marginally feasible (single-source Nwala; snippet-only Asouzu) | 2nd |
+| Yoruba (Gbadegesin) | Institutional-only; Google Books / Open Library bibliographic; no authorized open PDF | BLOCKED without library affiliation | Deferred |
+| Bantu-Rwandan (Kagame full text) | KAOWARSOM PDF is EXTRAITS only; NLA reading-room-only | BLOCKED without institutional visit | Deferred |
+| Mbiti primary source | See citations file update-note 2026-07-01: Menkiti 1984 footnote 1 cites Mbiti 1970 Doubleday page 141, NOT 1969 Praeger pp. 108-109 as framework's original assumption held; 1970 Doubleday acquisition required | Bibliographic-lead-only pending acquisition | Reference / update-note context |
+
+**Condition 1 procedure amendment:** when a new profile family enters gate execution, cross-check the family's primary-text sources against this matrix before executing Phase 1 Condition 1 primary-text verification. If the family is Ubuntu, Metz-family sources are directly PDF-accessible and Condition 1 primary-text verification can begin immediately at Metz scope. If the family is Yoruba or Bantu-Rwandan, Condition 1 primary-text verification requires operator-side institutional affiliation OR library ILL pathway BEFORE Phase 1 can execute meaningfully.
+
+**Scale-up sequencing recommendation:** the guide's Condition 3 "one profile family at a time" discipline now has empirical grounding for family-ordering. Recommended scale-up sequence (assumes operator wants primary-text-verified profile families before operationalization):
+
+1. **Ubuntu family FIRST** (highest primary-text feasibility; Metz 2011 + Metz 2021 + Tempels 1959 all directly accessible)
+2. **Igbo family SECOND** (Nwala via IA controlled lending; single-source constraint noted)
+3. **Yoruba and Bantu-Rwandan DEFERRED** until library affiliation OR alternative pathway resolves
+
+Alternative sequencing (if operator prioritizes cross-family diversity over primary-text feasibility): operator judgment territory; the guide's Condition 3 does not enforce ordering, only one-family-at-a-time discipline.
+
+**Empirical foundation:** Perplexity DR (single-substrate; 60 sources; 45-minute wall-clock; verified 2026-07-01 22:36-22:55 PDT; archived at `_archive/2026-07-01-comet-batch-post-council-4/gap-4-perplexity-dr.md`). Operator spot-check on 3 URLs empirically verified 2 (Menkiti 1984 PDF + Metz 2011 PDF); 1 (Google Books PA108) empirically DEMOTED (returned "No eBook available"). Rule 19 3-condition gate PASSES for the 2 verified URLs; single-substrate output is ratifiable at family-by-family matrix scope.
+
+**Companion synthesis:** `_archive/2026-07-01-comet-batch-post-council-4/gap-4-comet-synthesis.md` (family-by-family analysis + operator acquisition worklist + Council #4 Decision 7 annotation upgrade candidacy analysis).

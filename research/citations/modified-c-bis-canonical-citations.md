@@ -183,10 +183,36 @@ If a knowledgeable critic shows material misrepresentation that cannot be defend
 
 ### Mbiti "I am because we are" epistemic-status annotation (Council #4 Decision 7)
 
+**Original annotation (2026-07-01 Council #4 close):**
+
 - **Mbiti, J. S. (1969).** ***African Religions and Philosophy***. Heinemann. Pages 108-109 contain the widely-cited "I am because we are, and since we are, therefore I am" formulation as attested in secondary literature.
 - **Epistemic-status annotation:** quote attested in **Menkiti, I. A. (1984).** "Person and Community in African Traditional Thought" in Richard A. Wright (ed.), ***African Philosophy: An Introduction*** (3rd ed.), University Press of America, page 171. Primary Mbiti 1969 pages 108-109 not directly verified in the framework's Council methodology corpus at Council #4 close (2026-07-01).
 - **How to cite:** Posts 0112 and 0127 in this arc lean on the formulation. Both posts route citation through Menkiti 1984 page 171 as the attested-quotation surface pending primary Mbiti 1969 pages 108-109 verification. Any future post that leans on the formulation should carry the same routing until primary-text verification surfaces.
 - **Distinct from Council #4 Decision 1:** Decision 1 corrects a substantive over-attribution at primary-text depth on Gyekye 1997; Decision 7 (this annotation) is an epistemic-status disclosure at citations-file scope. The two decisions are distinct Topic 37 decisions per Post 0135's ratified package.
+
+**UPDATE-NOTE 2026-07-01 late evening (post-Gap-4-batch empirical verification):**
+
+Post-Council-#4 Coverage Gap 4 batch (documented in `~/Projects/the-street-code/_archive/2026-07-01-comet-batch-post-council-4/`) empirically verified the Menkiti 1984 chapter via direct PDF access at University of Saint Thomas. Two substantive corrections to the original annotation surfaced:
+
+**Correction A — Menkiti 1984 attribution empirically verified.** Menkiti 1984 page 171 does contain the exact quotation "I am because we are, and since we are, therefore I am" with explicit Mbiti attribution. Verified via `https://universityofsaintthomas.github.io/sjlaumakis/reading%203-african%20view.pdf` (accessed 2026-07-01; PDF archived at `_archive/2026-07-01-comet-batch-post-council-4/gap-4-perplexity-dr.md` verification trail). The Menkiti-1984-page-171 attribution surface can be upgraded from "attested" to "empirically verified via direct PDF."
+
+**Correction B — Mbiti citation chain correction (LOAD-BEARING).** Menkiti 1984 footnote 1 cites the Mbiti source as: **"John Mbiti, African Religions and Philosophies (New York: Doubleday and Company, 1970), p. 141."** Menkiti 1984 footnote 3 cites: "Mbiti, African Religions, p. 32." NEITHER of Menkiti's own citations points to the 1969 Praeger edition pages 108-109 the framework's original annotation assumed. The framework's "Mbiti 1969 pp. 108-109" citation appears to derive from secondary-literature convention rather than from Menkiti's own citation chain.
+
+Corrected framework citation surface:
+
+- **Menkiti 1984** cites the Mbiti quotation source as **Mbiti, J. S. (1970).** ***African Religions and Philosophies***. New York: Doubleday. Page 141.
+- The framework's original assumption "Mbiti 1969 pp. 108-109" is NOT supported by Menkiti's own citation chain. Framework's continued Mbiti citation work should use Menkiti's cited edition (1970 Doubleday page 141) as the primary target, OR track down whichever secondary source the framework's "1969 pp. 108-109" citation originally derived from.
+- The 1969 Praeger edition pp. 108-109 may still contain the quotation (different edition; different pagination possible), but this is a separately-verifiable claim distinct from Menkiti's attributed source.
+
+**Google Books browser-inspection outcome (2026-07-01 spot-check):** `https://books.google.com/books?id=eTUpo9lH-fYC&pg=PA108` (1990 Heinemann edition) returned "No eBook available" plus sign-in requirement on WebFetch spot-check. Google Books is NOT a reliable no-friction verification path for the 1990 Heinemann edition pp. 108-109. Perplexity Gap 4 report's own weakness flag #1 correctly anticipated this ambiguity.
+
+**Framework's updated citation-routing recommendation:**
+
+1. **Menkiti 1984 page 171** remains the framework's primary attested-quotation surface, now empirically verified via direct PDF.
+2. **Mbiti 1970 Doubleday page 141** is the framework's target primary source per Menkiti's own citation chain. Not yet verified. Requires acquisition of the 1970 Doubleday edition (used-book channels; institutional library).
+3. **"Mbiti 1969 pp. 108-109" citation is DEMOTED** from framework citation surface until framework recovers the secondary-literature source it derives from. Not to be used as primary-attributed citation in future posts.
+
+The framework's post-Council-#4 empirical-batch discipline is that primary-text-verified citations (Menkiti 1984 page 171; Metz 2011 SciELO; Metz 2021 PhilPapers; Tempels 1959 CYRHO with rights caveat) are the framework's operational citation surface. Bibliographic-lead-only citations (Mbiti 1970 Doubleday page 141; Ramose 1999; Gbadegesin 1991) are banked for future acquisition per the operator-side acquisition worklist at `_archive/2026-07-01-comet-batch-post-council-4/gap-4-comet-synthesis.md`.
 
 ---
 
