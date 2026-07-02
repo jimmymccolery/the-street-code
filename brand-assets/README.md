@@ -17,7 +17,7 @@ Marketing + promotional assets for The Street Code methodology research framewor
 
 ### Visual composition
 
-Vintage pulp-cinema-poster aesthetic. Central figure: James Madison (Federalist Papers author + 4th US President; Madisonian Gate personified per anti-pattern #6 silent-compliance prevention canonical lineage). Central foreground: red/orange obelisk-monument on dark mountain silhouette (central anchor element). Halo arrangement: 9 distinct symbolic sigils in gold-on-blue (top center triangle-with-eye + 4 left + 4 right = 9 total). Background: classical Greco-Roman columns (left) + Gothic cathedral spires (right) suggesting institutional weight + cross-tradition permanence. Color palette: deep blues + golds + warm reds + bright whites. Title typography: "THE NINE SIGILS" in bold white serif with red trim (1930s-40s pulp-cinema-poster styling).
+Vintage pulp-cinema-poster aesthetic. Central figure: James Madison (Federalist Papers author + 4th US President; Madisonian Gate personified per anti-pattern #6 silent-compliance prevention canonical lineage). Central foreground: red/orange obelisk-monument on dark mountain silhouette (central anchor element). Halo arrangement: 9 distinct symbolic sigils in gold-on-blue (top center triangle-with-eye + 4 left + 4 right = 9 total). Background: classical Greco-Roman columns (left) + Gothic cathedral spires (right) suggesting institutional weight + cross-tradition visual permanence at the mnemonic layer (operationalization of any tradition-specific logic remains at schema-placeholder status per Post 0128; the visual register does not encode substantive scholarly synthesis). Color palette: deep blues + golds + warm reds + bright whites. Title typography: "THE NINE SIGILS" in bold white serif with red trim (1930s-40s pulp-cinema-poster styling).
 
 ### Canonical relationship encoded visually
 
@@ -36,7 +36,7 @@ Image is not 1:1 mapping of individual sigil symbols to specific Sigil canonical
 
 ### Aesthetic register
 
-Mythic + memorable + culturally-embedded — chosen deliberately to differentiate from generic corporate-flat / startup-minimal / generic-techie AI methodology marketing aesthetics. Matches the existing system's framing register (Sigils + Gates + anti-patterns as discipline-as-ritual-practice quasi-religious framing language).
+Mythic + memorable + mnemonic cross-tradition visual register (no operational schema mapping claimed) — chosen deliberately to differentiate from generic corporate-flat / startup-minimal / generic-techie AI methodology marketing aesthetics. Matches the existing system's framing register (Sigils + Gates + anti-patterns as discipline-as-ritual-practice quasi-religious framing at the visual-register layer; no substantive scholarly synthesis of engaged traditions in the procedural schema claimed per Post 0135 Decision 3).
 
 ### Cultural awareness notes
 
@@ -82,7 +82,7 @@ Image encodes the 4-standing-plus-2-embedded architecture as a visual mnemonic; 
 
 ### Aesthetic register
 
-1980s synthwave + youth-culture + cinematic-pop register — deliberately differentiated from generic corporate-flat / startup-minimal / generic-techie AI methodology marketing aesthetics. Different visual tradition from Nine Sigils poster (vintage pulp-cinema-poster register) but consistent operator-signature brand-identity logic: mythic + memorable + culturally-embedded + register-differentiated-from-generic-AI-tooling. Both posters operate at high-mythic-weight; The Gang poster operates at youth-culture / accessibility register; Nine Sigils poster operates at institutional-weight / quasi-religious register. The contrast = complementary marketing surfaces for different audience-on-ramp paths.
+1980s synthwave + youth-culture + cinematic-pop register — deliberately differentiated from generic corporate-flat / startup-minimal / generic-techie AI methodology marketing aesthetics. Different visual tradition from Nine Sigils poster (vintage pulp-cinema-poster register) but consistent operator-signature brand-identity logic: mythic + memorable + mnemonic cross-tradition visual register (no operational schema mapping claimed per Post 0135 Decision 3) + register-differentiated-from-generic-AI-tooling. Both posters operate at high-mythic-weight; The Gang poster operates at youth-culture / accessibility register; Nine Sigils poster operates at institutional-weight / quasi-religious register. The contrast = complementary marketing surfaces for different audience-on-ramp paths.
 
 ### Cultural awareness notes
 
@@ -188,7 +188,7 @@ Pulp-fantasy / mystical / scholarly aesthetic register (distinct from synthwave 
 
 ### Aesthetic register
 
-**Pulp-fantasy / mystical / scholarly** — distinct from synthwave trilogy (The Gang + The Archetypes + Nine-Sigils-synthwave-variant) AND from vintage-pulp Nine Sigils register (Madison + classical-Greco-Roman/Gothic architecture). Council of Three opens a THIRD visual register family: mystical-arcane-library-scholarly (akin to fantasy-genre tome-and-wizards imagery). Aesthetic justification: cross-substrate methodology = scholarly synthesis pattern; library + arcane wisdom + multi-mind convergence aesthetic suits the concept thematically. Trade-off: breaks synthwave-family visual continuity (3-of-5 synthwave + 1-of-5 vintage-pulp + 1-of-5 mystical-pulp). Same operator-signature mythic-marketing strategy (mythic + memorable + culturally-embedded + register-differentiated-from-generic-AI-tooling); different visual-tradition reference point per asset concept.
+**Pulp-fantasy / mystical / scholarly** — distinct from synthwave trilogy (The Gang + The Archetypes + Nine-Sigils-synthwave-variant) AND from vintage-pulp Nine Sigils register (Madison + classical-Greco-Roman/Gothic architecture). Council of Three opens a THIRD visual register family: mystical-arcane-library-scholarly (akin to fantasy-genre tome-and-wizards imagery). Aesthetic justification: cross-substrate methodology = scholarly synthesis pattern; library + arcane wisdom + multi-mind convergence aesthetic suits the concept thematically. Trade-off: breaks synthwave-family visual continuity (3-of-5 synthwave + 1-of-5 vintage-pulp + 1-of-5 mystical-pulp). Same operator-signature mythic-marketing strategy (mythic + memorable + mnemonic cross-tradition visual register (no operational schema mapping claimed per Post 0135 Decision 3) + register-differentiated-from-generic-AI-tooling); different visual-tradition reference point per asset concept.
 
 ### Cultural awareness notes
 

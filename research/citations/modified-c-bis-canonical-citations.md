@@ -181,6 +181,13 @@ All empirical anchors carry preliminary-status caveat.
 
 If a knowledgeable critic shows material misrepresentation that cannot be defended from Wiredu's primary text: RETRACT cross-cultural framing; keep technical content.
 
+### Mbiti "I am because we are" epistemic-status annotation (Council #4 Decision 7)
+
+- **Mbiti, J. S. (1969).** ***African Religions and Philosophy***. Heinemann. Pages 108-109 contain the widely-cited "I am because we are, and since we are, therefore I am" formulation as attested in secondary literature.
+- **Epistemic-status annotation:** quote attested in **Menkiti, I. A. (1984).** "Person and Community in African Traditional Thought" in Richard A. Wright (ed.), ***African Philosophy: An Introduction*** (3rd ed.), University Press of America, page 171. Primary Mbiti 1969 pages 108-109 not directly verified in the framework's Council methodology corpus at Council #4 close (2026-07-01).
+- **How to cite:** Posts 0112 and 0127 in this arc lean on the formulation. Both posts route citation through Menkiti 1984 page 171 as the attested-quotation surface pending primary Mbiti 1969 pages 108-109 verification. Any future post that leans on the formulation should carry the same routing until primary-text verification surfaces.
+- **Distinct from Council #4 Decision 1:** Decision 1 corrects a substantive over-attribution at primary-text depth on Gyekye 1997; Decision 7 (this annotation) is an epistemic-status disclosure at citations-file scope. The two decisions are distinct Topic 37 decisions per Post 0135's ratified package.
+
 ---
 
 ## Modification 6 — Strawson Episodic axis
