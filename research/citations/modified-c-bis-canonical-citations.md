@@ -1,6 +1,6 @@
 # Modified-C-bis canonical citations (the-street-code research reference)
 
-**Status:** CANONICAL post-Round-7 close (2026-06-10).
+**Status:** CANONICAL post-Round-7 close (2026-06-10); updated 2026-07-04 with Council #6 close-ratified framework-strongly-verified citations (AgentSociety + OASIS + GenSim) + Post 0150 forward-reference amendment for Post 0146 HEXACO citation-chain drift disposition.
 **Authority chain:** 6-substrate philosophical research arc Rounds 1-7, primary-text verified through Claude Web R6 Madisonian Gate synthesis closing-round.
 **Purpose:** public-facing canonical-citation reference for the-street-code Posts 81-104 sequence and any later research-level post that invokes the Modified-C-bis framework. Mirrors the working canonical-citations file at the operator's private architecture folder while excluding commercial-product protected-scope.
 **Discipline that governs this file:** primary text > review paper > secondary interpretation; explicit preprint-status caveat on all unpublished sources; primary-text reading prerequisite for any load-bearing cross-cultural claim.
@@ -318,3 +318,45 @@ Posts 81-88 were drafted before Round 7 closed; each post that cites the affecte
 Longer + more confident substrate output is usually NOT more authoritative. Substrate-self-attestation about citation correctness is unenforceable (Rule 19; n=4 in Round 7 alone: R3 + R4-1 + R4-2 + R5). Pair depth-and-discipline with breadth-and-generation in any multi-substrate research arc; the disciplined substrate is a grounding check NOT a co-equal vote.
 
 Substrate paraphrases of primary sources never substitute for primary-text reading on any load-bearing claim. The disciplines above are the operator's commitment to maintaining that distinction across the the-street-code research-level post sequence.
+
+---
+
+## Council #6 close 2026-07-04 ratified framework-strongly-verified citations
+
+Council #6 close ratified 3 additional citations as framework-strongly-verified at n≥3 cross-family substrate citation convergence. All 4 major AI-model families (xAI Grok + Anthropic via Perplexity Computer with Fable 5 + Google Gemini + OpenAI via Perplexity Computer with ChatGPT 5.5) at Council #6 candidacy provide independent cross-family verification. Framework's Rule 19 external-attribution discipline treats these citations as framework-strongly-verified at cross-substrate scope:
+
+**Framework-strongly-verified at n≥3 cross-family:**
+- **AgentSociety** at arXiv:2502.08691 — n=4 UNIVERSAL cross-family citation convergence (all 4 Council #6 candidacy substrates cite)
+- **OASIS** at arXiv:2411.11581 — n=3 cross-family (Grok + Perplexity+Fable5 + ChatGPT 5.5)
+- **GenSim** at arXiv:2410.04360 — n=3 cross-family (Grok + Perplexity+Fable5 + ChatGPT 5.5)
+
+**Framework-provisionally-verified at n=2 cross-family:**
+- Park at arXiv:2411.10109 (1000-person / 1052-person generative agent simulations; Grok + Perplexity+Fable5)
+- Affordable Generative Agents at TMLR 2024 / arXiv:2402.02053 (Perplexity+Fable5 + Gemini)
+- Ruiz-Serra and Sweeney 2025 AAMAS "Factorised Active Inference for Strategic Multi-Agent Interactions" (Grok + Gemini)
+- "From Individual to Society" survey at arXiv:2412.03563 (Perplexity+Fable5 + ChatGPT 5.5)
+
+**Single-source citations pending Rule 19 verification:**
+- Concordia (Google DeepMind) at arXiv:2312.03664 (Perplexity+Fable5 only)
+- Orchestrator: Active Inference for Multi-Agent Systems at arXiv:2509.05651 (Gemini only)
+- AI Metropolis 2024 (ChatGPT 5.5 only)
+- Personica AI Unreal Engine forum reference (Gemini only)
+- Multiple PMC-hosted active-inference papers (PMC12729794 + PMC11853804 + PMC12840411 + PMC6125413 + PMC11202763; Gemini only)
+
+**HEXACO citation-chain clarification per Post 0150 forward-reference amendment for Post 0146:**
+- Framework canonical chain: Lee and Ashton 2004 *Multivariate Behavioral Research* 39(2):329-358 (HEXACO Personality Inventory model paper) + Ashton and Lee 2009 *Journal of Personality Assessment* 91(4):340-345 (HEXACO-60 short-form instrument paper)
+- Post 0146 cited alternate Ashton and Lee 2007 *Personality and Social Psychology Review* 11(2):150-166 (also real; theoretical advantages paper); citation-chain drift not fabrication; ratified bank-for-audit at Council #6 close; Post 0150 forward-reference amendment executes optional amendment for canonical-record completeness
+
+**9 framework citations verified at Council #6 candidacy substrate DOI depth:**
+- Russell 1980 *Journal of Personality and Social Psychology* 39(6):1161-1178
+- Lazarus and Folkman 1984 *Stress, Appraisal, and Coping* Springer Publishing Company
+- Lee and Ashton 2004 *Multivariate Behavioral Research* 39(2):329-358
+- Ashton and Lee 2009 *Journal of Personality Assessment* 91(4):340-345
+- Hilbig and Zettler 2009 *Journal of Research in Personality* 43(3):516-519
+- Zettler et al 2020 *Perspectives on Psychological Science* 15(3):723-760
+- Fraley Waller Brennan 2000 *Journal of Personality and Social Psychology* 78(2):350-365 (ECR-R)
+- Friston FitzGerald Rigoli Schwartenbeck Pezzulo 2017 *Neural Computation* 29(1):1-49
+- Friston Da Costa Hafner Hesp Parr 2021 *Neural Computation* 33(3):713-763
+- Hawkins Carrere Gottman 2002 *Journal of Marriage and Family* 64(1):193-201
+
+All 9 confirmed at DOI verification depth by Substrate A/B hybrid (Perplexity Computer with Fable 5) at Council #6 candidacy.
