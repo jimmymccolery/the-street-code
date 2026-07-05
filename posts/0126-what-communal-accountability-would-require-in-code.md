@@ -1,5 +1,34 @@
 # What Communal Accountability Would Require in Code: The Generosity-Ledger Mechanic the Framework Specced and Banked as a Steam V1.0 Candidate
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0126
+domain: framework-architecture
+canonical_rule: wireduan-communal-accountability-generosity-ledger-mechanic-steam-v1-candidate
+load_bearing_claims:
+  - Wireduan communal-accountability mechanic specced (Option A from Round 7 deliberation) as Steam V1.0 candidate
+  - Generosity-ledger mechanic tracks pair relationships over time; personhood-as-striving mechanics
+  - Communal accountability as personality mechanic distinct from HEXACO trait (Post 0125 category-error correction)
+  - Banked for Steam V1.0 (deferred from iOS V1); requires meaningful implementation cost to avoid ornamental deployment
+applicability_triggers:
+  - When operationalizing Wireduan personhood-as-achievement WITH real mechanic (Element 1 option a)
+  - When designing generosity-ledger accumulator alongside HEXACO H
+  - When deciding what belongs in iOS V1 vs Steam V1.0
+  - When ablation-gating a cross-cultural mechanic implementation
+mechanism_details:
+  - Generosity ledger = per-pair accumulator tracking give/receive imbalance over time
+  - Personhood-as-striving = standing improves via consistent generosity + relational care
+  - Ablation gate required before operationalization (per-npc-philosophy-profile-reservation-and-ablation-gate-v1.md at the-street-code/methodology/)
+  - Steam V1.0 scope = post-iOS-launch; sophisticated inference runtime promoted
+cross_refs:
+  - Post 0112 (Wiredu personhood-as-achievement structural inspiration)
+  - Post 0116 (pair-relational sentiment mechanics)
+  - Post 0117 (Wiredu mapping failure)
+  - Post 0124 (five-element disclosure discipline)
+  - Post 0125 (procedural test NOT trait dimension)
+  - Methodology: per-npc-philosophy-profile-reservation-and-ablation-gate-v1.md
+  - Post 0146 Layer 6 + Layer 7 (relationships + cultural personhood)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Cross-cultural sequence post specifying the implementation-layer requirements for a Wireduan communal-accountability mechanic; carries high cross-cultural exposure; applies the framework's five-element disclosure discipline; documents the Steam V1.0 candidate scope without committing to ship at iOS V1; cites Wiredu Chapter 9 *Person and Community* (Wiredu and Gyekye 1992) directly per the framework's primary-text-verified citation chain

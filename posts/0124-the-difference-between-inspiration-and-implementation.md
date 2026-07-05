@@ -1,5 +1,34 @@
 # The Difference Between Inspiration and Implementation: The Five-Element Disclosure Discipline I Am Committing To Publicly
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0124
+domain: methodology-discipline
+canonical_rule: five-element-disclosure-discipline-cross-cultural-borrowing
+load_bearing_claims:
+  - Five-element cross-cultural disclosure discipline: acknowledgment language + primary-text-only citation + no [tradition] vocabulary in code + humility brackets + retraction condition (typically 14-day window)
+  - Distinguishes philosophical INSPIRATION (paper-layer framing) from IMPLEMENTATION (code-layer operationalization)
+  - Ornamental deployment (Bilge 2013) more harmful than no mapping; citation claims engagement without substance
+  - Three ratification options for cross-cultural borrowing: (a) retain + build real mechanic; (b) decouple from tradition; (c) DROP mapping (Wiredu case)
+applicability_triggers:
+  - When borrowing philosophical concepts from tradition into framework
+  - When operationalizing cultural concepts risks ornamental-deployment
+  - When implementing cross-cultural philosophical inspiration defensibly
+  - Before any code identifier uses tradition-specific vocabulary
+mechanism_details:
+  - Element 1 (acknowledgment): explicit engagement with tradition + naming what borrowed
+  - Element 2 (primary-text-only citation): no secondary sources; original tradition texts only
+  - Element 3 (no tradition vocabulary in code): implementation uses neutral identifiers (e.g. standing_modifier not onipa_hunu)
+  - Element 4 (humility brackets): acknowledge what framework does NOT engage
+  - Element 5 (retraction condition): time-bound reversibility if borrowing proves untenable
+cross_refs:
+  - Post 0112 (Wiredu personhood-as-achievement structural inspiration; Element 1-5 applied)
+  - Post 0117 (Wiredu mapping failure; retraction condition fired)
+  - Post 0125 (Wiredu procedural test NOT trait dimension category error)
+  - Post 0127 (intra-African dispute disclosure)
+  - Post 0128 (WEIRD defaults schema-placeholder)
+  - Bilge 2013 Du Bois Review (ornamental-deployment risk framework)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Lead post for the framework's cross-cultural disclosure sequence; documents the five-element discipline canonically; carries the highest cross-cultural exposure of the framework's current arc; applies the discipline to itself; the subsequent posts in the sequence depend on this post's discipline lock

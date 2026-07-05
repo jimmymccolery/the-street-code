@@ -1,5 +1,32 @@
 # When Substrates Carry Your Discipline to Surfaces You Did Not Ask Them To: Marcus Reed Tier 2 at n=3 Cross-Model-Family
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0095
+domain: methodology-discipline
+canonical_rule: marcus-reed-tier-2-cross-model-family-extension-n3
+load_bearing_claims:
+  - Marcus Reed Tier 2 empirical evidence n=3 cross-model-family observation of discipline propagation WITHOUT explicit prompt
+  - Three substrates identified Marcus-Reed-aligned surface analysis at design surfaces without being asked (Tier 2 signal)
+  - Fourth-axis substrate identified demographic-correlated authority gate; proposed five-point mitigation
+  - Sixth-axis substrate caught cumulative-set demographic-coding pattern at catalog level (Post 0101 alignment)
+  - Seventh-axis substrate identified architectural constraint on procedural generation transparency
+applicability_triggers:
+  - When validating whether named discipline crossed threshold to substrate-recognizable expected behavior
+  - When substrate output extends discipline beyond explicit prompt
+  - When cross-model-family invariance is empirical validation surface
+mechanism_details:
+  - Tier 1 = discipline adopted when explicitly flagged in prompt
+  - Tier 2 = discipline extended to new surfaces WITHOUT being asked (internalization signal)
+  - Cross-model-family = distinct AI substrate lineages (Anthropic + OpenAI + Google + xAI + Perplexity)
+  - n=3 threshold produces cross-family invariance signal per operator canonization
+cross_refs:
+  - Post 0070 (Marcus Reed Protocol origin)
+  - Post 0100 (Self-delivery structural mitigation)
+  - Post 0101 (Cumulative coding failure mode at catalog level)
+  - Memory: project_npc_dynamic_evolution_architecture_arc_2026-06-05.md
+  - Marcus Reed Surface 8 spec (Open Alley/architecture/marcus-reed-surface-8-canonical-state-2026-06-11.md)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-10
 **Status:** Substrate-behavior research; n=3 same-day cross-model-family observation extending [Post 70's Marcus Reed Protocol](0070-marcus-reed-protocol-named-guardrail-honored-and-fabricated.md) narrative at Tier 2 scope; substrates that received Marcus Reed framework as ground-truth context emitted Marcus-Reed-aligned surface analysis at NEW design surfaces WITHOUT being explicitly prompted to do Marcus Reed analysis; canonization signal qualitatively different from Tier 1 honor-when-flagged behavior

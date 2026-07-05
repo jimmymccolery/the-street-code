@@ -1,5 +1,32 @@
 # Why an Indie Bowling Game Has a Philosophy of Mind
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0081
+domain: framework-architecture
+canonical_rule: modified-c-bis-framework-six-modifications
+load_bearing_claims:
+  - Framework's Modified-C-bis architecture addresses procedural NPC engagement at multi-decade in-game year scale (30+ years) via six modifications
+  - Six modifications: process theory citation discipline + Bayesian-inversion puzzle + Wiredu personhood-as-achievement structural inspiration + audit-layer fairness distinction + empirical-honesty pre-registration + two-level axis split (naive-vs-sophisticated orthogonal to Episodic-vs-Diachronic)
+  - NOT claiming consciousness; claiming engagement support through coherent architecture at multi-decade scale
+applicability_triggers:
+  - When designing NPCs for multi-decade in-game year scope
+  - When integrating philosophy-of-mind literature into game design defensibly
+  - When distinguishing engagement-support claims from consciousness claims
+mechanism_details:
+  - Process theory citation discipline (Friston 2017 Appendix F specifically)
+  - Second-order Bayesian inversion (player inference targets parameters of NPC inference)
+  - Wiredu structural borrowing only per Post 0125 category error correction
+  - Audit-layer offline at consolidation boundaries; runtime uses cached policies
+  - Pre-registration binds framework confidence to empirical evidence pathway
+cross_refs:
+  - Post 0111 (procedural persons Bayesian puzzle detail)
+  - Post 0112 (Wiredu personhood-as-achievement)
+  - Post 0119 (audit-layer active inference sequencing)
+  - Post 0114 (pre-registration discipline)
+  - Post 0125 (Wiredu procedural test not trait dimension)
+  - Post 0146 (ten-layer architecture consolidation)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-10
 **Status:** Launch-adjacent reflective essay on framework-grounded NPC design; abstract framing throughout per soft-disclosure rule v1.0 Approach 2 (revisit date 2026-11-04); Post 84 carries the process-theory citation discipline; the Bayesian-inversion, personhood-as-achievement, fairness-layers, and empirical-honesty posts are in draft form and will publish in subsequent slots

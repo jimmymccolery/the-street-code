@@ -1,5 +1,33 @@
 # Cultural Baseline Signal Modest at Single-Sim: What KL-Divergence 0.01-0.02 Means for Population-Level Distinguishability
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0138
+domain: research-observation
+canonical_rule: cultural-baseline-distinguishability-kl-divergence-empirical-finding-h5
+load_bearing_claims:
+  - H5 (cultural-baseline distinguishability) empirical finding: KL-divergence 0.01-0.02 across 2000 trials at single-Sim scope
+  - Signal is MODEST at single-Sim scale; population-level (multi-Sim) validation deferred to Phase 2+
+  - Per-character cultural parameters DO produce measurable behavior differences (KL > 0) but effect size small at single-Sim
+  - Cultural baselines A/B/C (Baseline A Western-individualist + Baseline B Confucian role-ethics + Baseline C Wiredu Ghanaian communal-achievement) produce statistically distinguishable action trajectories
+applicability_triggers:
+  - Empirically validating cultural personhood layer at Sim level
+  - When cultural baseline claim needs empirical anchor (Post 0114 pre-registration discipline)
+  - When budgeting for Phase 2 multi-Sim validation of H5
+  - When responding to WEIRD-defaults criticism (Post 0128)
+mechanism_details:
+  - KL-divergence measured between action distributions of different-baseline Sims
+  - Range 0.01-0.02 = statistically significant but modest effect size
+  - 2000 trials = statistical power adequate for single-Sim distinguishability
+  - Population-level distinguishability requires Phase 2 multi-Sim
+  - R10d §4.4 canonical amendment: cultural-baseline dispatch validation-vs-ratification distinction ratified 2026-07-02 late evening
+cross_refs:
+  - Post 0114 (pre-registration discipline)
+  - Post 0128 (accumulator hides WEIRD defaults)
+  - Post 0136 (empirical BUILD mode; H1-H7 hypothesis validation)
+  - Post 0146 Layer 7 (cultural personhood baselines)
+  - Open Alley/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md (R10d canonical §4.4)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-07-01
 **Status:** Single empirical finding from Sim AI Phase 1 H5 test suite; single-Sim VALIDATION of the mechanism plus population-scale RATIFICATION deferred to Phase 2 multi-Sim testing; framework's R10d Section 4 architectural revision proposed pending operator ratification; connects to Post 0128 WEIRD-defaults schema-placeholder discipline and Post 0135 per-NPC-philosophy-profile BANK

@@ -1,5 +1,32 @@
 # Perpetual-Surprise Compression Edge Case: Where Sparse Coding Assumes and Where It Breaks
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0137
+domain: framework-architecture
+canonical_rule: sparse-coding-perpetual-surprise-compression-edge-case
+load_bearing_claims:
+  - Sparse coding for NPC memory assumes prediction-error distribution follows normal patterns
+  - When every event surprises model = 100% encoding rate (edge case: structurally-disrupted characters)
+  - Structurally-disrupted characters incur higher storage cost due to perpetual-surprise compression failure
+  - R10d §6.3.1 canonical amendment: memory storage cost variance for structurally-disrupted characters ratified 2026-07-02 late evening
+applicability_triggers:
+  - Character with sustained trauma, PTSD, addiction, or other structural disruption
+  - When character's world-model repeatedly fails to predict events
+  - When budgeting memory storage at population scale
+  - When designing structurally-disrupted character archetypes (combat_trauma per Phase 3.2)
+mechanism_details:
+  - Sparse coding = encode only prediction errors (deviations from expected)
+  - Normal operation: ~15% encoding rate (85% of events predicted correctly)
+  - Perpetual-surprise: 100% encoding rate; sparse coding collapses to dense coding
+  - R10d §6.3.1 amendment budget structurally-disrupted characters at 5-10x baseline storage
+cross_refs:
+  - Post 0118 (three-horizon memory + consolidation architecture)
+  - Post 0120 (V1 memory spec)
+  - Post 0136 (empirical BUILD mode; H4 finding surfaced this edge case)
+  - Post 0146 Layer 4 (memory architecture)
+  - Open Alley/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md (R10d canonical §6.3.1)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-07-01
 **Status:** Single empirical finding from Sim AI Phase 1 H4 test suite; architecturally consequential for procedural-character populations at scale where the population includes structurally-disrupted characters whose event streams break the compression scheme's core assumption; framework's R10d Section 6.3 architectural revision proposed pending operator ratification

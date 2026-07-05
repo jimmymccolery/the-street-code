@@ -1,5 +1,33 @@
 # Multi-Graph Memory Without the Research-System Overhead: Typed Indexes Over a Single Store
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0122
+domain: framework-architecture
+canonical_rule: multi-graph-memory-typed-indexes-single-store
+load_bearing_claims:
+  - MAGMA-style multi-graph agent memory adapted: typed indexes (semantic + temporal + causal + entity retrieval patterns) over SINGLE store
+  - Avoids research-system overhead (multiple physical stores) while preserving multi-graph benefits
+  - Character memory retrieval patterns require separating semantic vs temporal vs causal vs entity views
+  - MAGMA as research precedent; adaptation captures benefits at indie-budget cost
+applicability_triggers:
+  - Designing NPC memory retrieval at production budget
+  - Choosing between multiple physical stores vs typed indexes over single store
+  - When Park 2023 memory stream needs indexed retrieval (semantic/temporal/causal/entity)
+  - Character memory query optimization
+mechanism_details:
+  - Single store = single physical database with typed indexes on top
+  - Typed indexes: semantic (concept-similarity retrieval) + temporal (time-window retrieval) + causal (cause-effect chains) + entity (character-specific queries)
+  - MAGMA-style = multi-graph agent memory architecture (research literature)
+  - Indie-budget adaptation preserves query patterns without infrastructure cost of multi-store systems
+cross_refs:
+  - Post 0118 (three-horizon memory architecture)
+  - Post 0120 (V1 memory spec; multi-graph reserved for post-V1)
+  - Post 0121 (Park 2023 memory stream as backbone)
+  - Post 0123 (cached policies + slow consolidation)
+  - Post 0146 Layer 4 (memory architecture consolidation)
+  - MAGMA (multi-graph agent memory research precedent)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Hybrid-path implementation post for the framework's retrieval pathway; documents the typed-indexes adaptation of MAGMA-style multi-graph agent memory architecture; meta-level discussion of commercial-product implementation without enumerating tuning specifics

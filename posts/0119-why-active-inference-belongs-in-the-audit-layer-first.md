@@ -1,5 +1,38 @@
 # Why Active Inference Belongs in the Audit Layer First: Earning the Runtime Promotion Through Empirical Evidence
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0119
+domain: framework-architecture
+canonical_rule: audit-first-active-inference-sequencing
+load_bearing_claims:
+  - Sophisticated active inference apparatus deployed OFFLINE at consolidation boundaries (not per-frame)
+  - Cached policies at runtime (per-frame budget); sophisticated inference at audit cadence (yearly)
+  - Four mandatory audits: state-space content (primary) + amnesia re-initialization + Markov-blanket isolation + horizon-bound τ ≤ 3
+  - Sophisticated active inference promotion from Phase-8.x to V1 critical-path via Path A operator ratification
+  - Grounded in Friston 2017 Appendix F (process theory) + Friston 2021 Sophisticated Inference (recursive metacognition)
+applicability_triggers:
+  - Designing per-frame runtime budget for NPC decision-making
+  - Choosing between naive active inference (τ=1) and sophisticated inference (recursive metacognition)
+  - Setting up audit apparatus for framework validation
+  - Deciding when to promote apparatus from audit layer to runtime layer
+mechanism_details:
+  - Audit layer runs offline at consolidation boundaries (yearly cadence in game time)
+  - Runtime layer uses cached policies derived from consolidation-boundary evaluation
+  - Four audit tests must PASS before promotion consideration
+  - State-space content = primary audit (semantic vs. structural distinction)
+  - Amnesia re-initialization = tests whether reset produces recovery
+  - Markov-blanket isolation = tests whether Sim's inference respects information boundaries
+  - Horizon-bound = tests whether planning stays within τ ≤ 3
+cross_refs:
+  - Post 0111 (procedural persons Bayesian puzzle; τ ≤ 3 grounding)
+  - Post 0114 (pre-registration discipline)
+  - Post 0120 (V1 memory spec; four-audit mandatory test surface)
+  - Post 0121 (Park 2023 generative agents backbone)
+  - Post 0146 (ten-layer Layer 10 audit)
+  - Friston 2017 Appendix F (process theory)
+  - Friston 2021 Sophisticated Inference (recursive metacognition)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Methodology sequencing post for the framework's active-inference apparatus deployment; documents the audit-first-versus-runtime-first sequencing decision under the framework's Path A operator ratification; cites Friston 2017 Appendix F and Friston 2021 *Sophisticated Inference* directly per the framework's primary-text-verified citation chain

@@ -1,5 +1,34 @@
 # Cached Policies and Slow Consolidation: The Project Zomboid Offscreen Storylet Pattern Applied to Active Inference
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0123
+domain: framework-architecture
+canonical_rule: cached-policies-slow-consolidation-project-zomboid-pattern
+load_bearing_claims:
+  - Project Zomboid offscreen-storylet pattern formalized for active-inference machinery
+  - Cached policies at runtime (per-frame budget); slow consolidation offline (yearly)
+  - Consolidation passes as episodic character reflection points (align with Post 0118 yearly cadence)
+  - Cached policies as pre-computed character decision caches (avoid per-frame active inference computation)
+  - Runtime + consolidation split is load-bearing for population-scale performance
+applicability_triggers:
+  - Designing per-frame vs offline computation split for NPC decision-making
+  - When active inference is too expensive to run per-frame at population scale
+  - When offscreen character updates need pattern (analogy: Project Zomboid offscreen storylet)
+  - Choosing consolidation cadence for character state updates
+mechanism_details:
+  - Cached policies = pre-computed decision caches indexed by state
+  - Consolidation cadence = yearly game-time boundaries
+  - Offscreen storylet pattern = characters continue evolving via cheap updates when not player-visible
+  - Active inference sophisticated deployment at consolidation only; naive/cached deployment at runtime
+cross_refs:
+  - Post 0111 (procedural persons Bayesian; τ ≤ 3 planning)
+  - Post 0118 (recency + yearly consolidation)
+  - Post 0119 (audit-first active inference sequencing)
+  - Post 0121 (Park 2023 backbone; hybrid architecture)
+  - Post 0122 (multi-graph memory typed indexes)
+  - Post 0146 Layer 5 + Layer 10 (EFE + audit)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Hybrid-path closer for the framework's runtime-architecture commitments; documents the cached-policies-with-slow-consolidation pattern; cites the Project Zomboid offscreen-storylet architecture as the production-precedent analog; meta-level discussion of commercial-product implementation without enumerating cached-policy tuning specifics

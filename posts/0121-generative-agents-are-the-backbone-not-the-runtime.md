@@ -1,5 +1,35 @@
 # Generative Agents Are the Backbone, Not the Runtime: Park 2023 as Conceptual Foundation Without Direct LLM Scaling
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0121
+domain: framework-architecture
+canonical_rule: park-2023-generative-agents-backbone-not-runtime
+load_bearing_claims:
+  - Park 2023 (arXiv:2304.03442) three-process decomposition (observe-reflect-plan) borrowed as CONCEPTUAL BACKBONE, not implementation
+  - Direct LLM scaling doesn't work at population scale (80-100 characters); architectural surgery required
+  - Character population target: 80-100 concurrent NPCs
+  - Hybrid architecture: implementational substitution (rule-based + cached inference) for production-deployment constraints; conceptual borrowing preserved
+  - Memory stream as backbone for persistent character state
+applicability_triggers:
+  - Designing NPC architecture at 80-100 character scale
+  - Choosing between LLM-in-the-loop and rule-based-with-LLM-consolidation architecture
+  - Borrowing Park 2023 methodology without inheriting LLM-per-frame scaling constraint
+  - Character memory stream design
+mechanism_details:
+  - Park 2023 three processes: observe + reflect + plan
+  - Framework substitutes rule-based per-frame decision (EFE minimization at τ ≤ 3) for LLM per-frame
+  - LLM optional at consolidation boundaries (yearly cadence) for reflection depth
+  - Memory stream persists across game-decades via three-horizon architecture (Post 0118)
+  - Population scale 80-100 = MVP; scales to 5000+ post-V1 via procedural generation tier
+cross_refs:
+  - Park 2023 arXiv:2304.03442 (generative agents foundational paper)
+  - Park 2024 arXiv:2411.10109 (Marcus Reed reflection mechanism precedent)
+  - Post 0119 (active inference audit-first sequencing)
+  - Post 0122 (multi-graph memory implementation)
+  - Post 0123 (cached policies + slow consolidation pattern)
+  - Post 0146 (ten-layer architecture explicitly NOT LLM-in-the-loop per-frame)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Hybrid-path opener for the framework's runtime-architecture commitments; cites Park et al. 2023 "Generative Agents" arXiv:2304.03442 as the conceptual backbone; documents the scaling-constraint arithmetic that forces the framework's architectural surgery; meta-level discussion of commercial-product implementation without enumerating specifics

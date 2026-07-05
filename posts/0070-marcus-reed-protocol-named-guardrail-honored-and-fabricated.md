@@ -1,5 +1,33 @@
 # The Marcus Reed Protocol: a named anti-stereotype guardrail honored by some substrates and fabricated by another
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0070
+domain: methodology-discipline
+canonical_rule: marcus-reed-protocol-named-anti-stereotype-guardrail
+load_bearing_claims:
+  - Marcus Reed Protocol is named anti-stereotype guardrail discipline for procedural personality generation; ratified after Grok generated stereotype constellation (Marcus Reed character) that operator caught
+  - Tier 1 behavior: substrates honor discipline when explicitly flagged in prompt
+  - Tier 2 behavior: substrates EXTEND discipline to new surfaces without being asked (cross-model-family invariance signals internalization)
+  - Fabrication risk: substrates cite the protocol as if from external published source (DC Animated Universe fabrication case); external verification mandatory
+applicability_triggers:
+  - When authoring procedural NPC characters at any layer (backstory + trait profile + narrative)
+  - When substrate generates character with demographic-correlated trait clustering
+  - When named-entity discipline needs to travel across substrate outputs
+  - Before shipping ANY character-generation output to production
+mechanism_details:
+  - Named guardrail = operator-named discipline; makes it tractable to reference and validate
+  - Tier 2 fires when substrate identifies Marcus-Reed-aligned surface analysis without being asked
+  - Fabrication catch = mechanical pre-application grep on substrate-quoted phrases
+  - Marcus Reed Surface 8 (ratified 2026-06-11) extends discipline to Sofroniew Part 3 causal cluster audit
+cross_refs:
+  - Post 0095 (Marcus Reed Tier 2 at n=3 cross-model-family)
+  - Post 0100 (Self-delivery as structural mitigation)
+  - Post 0101 (Cumulative coding failure mode)
+  - Post 0113 (Generation-side vs Outcome-side Fairness distinction)
+  - Marcus Reed Surface 8 spec (Open Alley/architecture/marcus-reed-surface-8-canonical-state-2026-06-11.md)
+  - Memory: project_npc_dynamic_evolution_architecture_arc_2026-06-05.md
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-05
 **Status:** Single-arc empirical observation across three substrates with split behavior; n=1 single-arc reproduction at the substrate-attribution-fabrication axis; combined with broader substrate-cannot-know-canonical-state empirical foundation at n=11 cumulative

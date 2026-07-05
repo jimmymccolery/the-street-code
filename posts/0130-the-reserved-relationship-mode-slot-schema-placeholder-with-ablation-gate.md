@@ -1,5 +1,35 @@
 # The Reserved Relationship-Mode Slot: A Schema-Placeholder Spec with an Ablation Gate
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0130
+domain: framework-architecture
+canonical_rule: relationship-mode-schema-placeholder-with-ablation-gate
+load_bearing_claims:
+  - Fiske RMT relationship-mode reserved as NPC schema field per ordered pair; NOT operationalized at V1
+  - Schema-placeholder discipline preserves architectural correctness without V1 game-logic burden
+  - Four-condition ablation gate for V1.x unlock: mode-blindness test + mode-permutation test + cross-modal interaction test + empirical downstream-behavior test
+  - Relationship-mode is per-ordered-pair (matches Post 0116 pair sentiment); can be per-pair different mode
+applicability_triggers:
+  - When implementing pair-relational fields in Sim state
+  - When reserving schema slot for post-V1 operationalization
+  - Before V1.x unlock of relationship-mode mechanic
+  - When designing four-condition ablation gate for cross-cultural mechanic
+mechanism_details:
+  - Schema field: relationshipMode per ordered pair (A→B distinct from B→A)
+  - Four Fiske primitives: COMMUNAL_SHARING + AUTHORITY_RANKING + EQUALITY_MATCHING + MARKET_PRICING
+  - Ablation gate condition 1: mode-blindness test (does mode-blind baseline differ from mode-aware?)
+  - Ablation gate condition 2: mode-permutation test (does permuting modes change downstream behavior?)
+  - Ablation gate condition 3: cross-modal interaction test (do modes interact meaningfully?)
+  - Ablation gate condition 4: empirical downstream-behavior test (does mode presence produce observable effects?)
+cross_refs:
+  - Post 0116 (pair-relational sentiment; per-pair field pattern)
+  - Post 0129 (Council #1 close on relationship-mode question)
+  - Post 0146 Layer 6 (relationships architecture)
+  - Fiske 1992 Relational Models Theory (four primitives literature)
+  - Methodology: ablation-gate-relationship-mode-v1.md
+  - Ablation gate methodology: per-npc-philosophy-profile-reservation-and-ablation-gate-v1.md
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-30
 **Status:** V1 architecture-spec addendum documenting the framework's `relationship_mode` schema-slot reservation adopted at V1 per Council #1 close; documents the storage-of-record layer and the runtime access surface; documents the four-condition ablation gate that unlocks the V1.x operationalization; parallels the schema-placeholder discipline documented in post 0128 in this arc; companion to post 0129 in this arc which documents the Council methodology close narrative and the pattern reclassification from Pattern A to Pattern B

@@ -1,5 +1,33 @@
 # The Wiredu Mapping That Does Not Survive Implementation: Category Error, Ornamental-Deployment Risk, and Two Canonical-Record Reversals
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0117
+domain: methodology-discipline
+canonical_rule: wiredu-mapping-failure-and-canonical-record-reversal-methodology
+load_bearing_claims:
+  - Wiredu mapping (sympathetic impartiality + HEXACO H) does not survive primary-text pressure
+  - Two paired canonical-record reversals documented: (1) Wiredu universalist framing F-13 uncorroborated REVERSED to F-17 corroborated by Round 8 R4 primary-text re-read at different reading depth; (2) Friston 2017 Appendix F status F-8 uncorroborated REVERSED by direct primary-text confirmation
+  - Methodology lesson: orchestrator-class primary-text re-reads at different reading depths catch canonical-record drift that substrate convergence misses
+  - Stale-flag re-read discipline (2-round cutoff) prevents canonical-record drift from constraining architectural reasoning
+applicability_triggers:
+  - When exploring philosophical mapping to trait/architecture
+  - When primary-text re-read at different depths surfaces reversal
+  - When canonical-record has old flags constraining current reasoning
+  - When category error risk (procedural test vs trait dimension) is possible
+mechanism_details:
+  - Wiredu sympathetic impartiality = procedural moral test (per-action verdict), NOT trait dimension
+  - Mapping dropped from V1 operationalization; retained at philosophical-paper layer only
+  - Reversal mechanism: primary-text re-read at different reading depth (surface vs deep)
+  - Stale-flag cutoff = 2 rounds; older flags require re-verification before constraining decisions
+cross_refs:
+  - Post 0087 (arc close retrospective; F-17 reversal methodology)
+  - Post 0112 (Wiredu personhood-as-achievement structural inspiration)
+  - Post 0124 (five-element disclosure discipline)
+  - Post 0125 (Wiredu procedural test NOT trait dimension category error)
+  - Post 0127 (no single African view; intra-tradition dispute)
+  - Friston 2017 Appendix F (process theory canonical citation)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Self-correction post documenting a Wiredu personhood-as-achievement mapping that the framework explored, found not to survive primary-text pressure, and dropped from V1 mechanics; covers two paired canonical-record reversals (the Wiredu universalist framing and the Friston 2017 Appendix F status) that surfaced in the same research-arc closing round; carries high cross-cultural exposure; applies the framework's five-element disclosure discipline; cites Wiredu Chapter 9 *Person and Community* (Wiredu and Gyekye 1992) directly per Round 8 R4 primary-text reading

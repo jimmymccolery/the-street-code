@@ -1,5 +1,30 @@
 # The Buffer That Overflowed by One: Entry-Count-Per-Fire Discipline in Cap-N Append Patterns
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0144
+domain: methodology-discipline
+canonical_rule: entry-count-per-fire-discipline-cap-n-append-patterns
+load_bearing_claims:
+  - Cap-N append pattern (e.g. slice(-39) then push 2 entries) can overflow by 1 if entry-count-per-fire is not accounted for
+  - Specific fire: pairHistory buffer overflow at H11 (slice(-39) + 2 entries = 41 not 40)
+  - Fix: slice(-38) when adding 2 entries per fire
+  - Discipline extension: buffer-slice must account for entry-count PER FIRE, not baseline entries added
+applicability_triggers:
+  - Any cap-N buffer with variable entries-per-append (2 vs 1 depending on fire condition)
+  - When appending pair-history events (some fire 1 entry both-directions; others fire 2)
+  - When slicing to cap N and adding K entries, verify slice(-(N-K)) not slice(-(N-1))
+  - Any BUILD-mode hypothesis test that exercises buffer append pattern
+mechanism_details:
+  - Cap-N buffer: append K entries after slice(-(N-K))
+  - Formula: to keep buffer at N total after adding K entries, slice to (N-K) entries first
+  - Common error: slice(-(N-1)) when actually adding K > 1 entries
+  - Empirical trigger: H11 hypothesis test caught real slice(-39) + 2 entries = 41 overflow
+cross_refs:
+  - Post 0136 (empirical BUILD mode as architecture-as-hypothesis; H11 discipline)
+  - Memory: feedback_pair_history_buffer_overflow_h11_build_mode_fire_2026-07-03.md
+  - Sim AI Phase 2 Sequence A H11 test file
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-07-03
 **Status:** Single-finding arc; concrete instantiation of the Post 0136 empirical BUILD-mode-as-hypothesis discipline at buffer-slice sub-shape; n=1 empirical fire caught by a hypothesis test at scaffolding time

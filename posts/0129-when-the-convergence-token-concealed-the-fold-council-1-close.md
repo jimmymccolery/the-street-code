@@ -1,5 +1,33 @@
 # When the Convergence Token Concealed the Fold: Council #1 Close on the Relationship-Mode Primitive Question
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0129
+domain: methodology-discipline
+canonical_rule: council-1-close-pattern-b-adopt-fold-fiske-relational-modes
+load_bearing_claims:
+  - Council #1 close on relationship-mode primitive question; Pattern B ADOPT-FOLD decision ratified
+  - Fiske Relational Models Theory (RMT) primitives (COMMUNAL_SHARING + AUTHORITY_RANKING + EQUALITY_MATCHING + MARKET_PRICING) reserved as NPC schema slot without V1 game-logic operationalization
+  - Convergence token concealment: substrate consensus can mask underlying fold-set decisions
+  - Rule 14 Pattern B ADOPT-FOLD = adopt the reserved slot + fold into future operationalization scope
+applicability_triggers:
+  - When Council methodology deployment closes with substrate convergence
+  - When reserved schema slots are canonized without V1 operationalization
+  - When Rule 14 ADOPT-FOLD pattern applies
+  - Before ablation gate operationalization of reserved slot
+mechanism_details:
+  - Convergence token = substrate agreement signal
+  - Fold-set decision = specific sub-choices that survive convergence
+  - Pattern B ADOPT-FOLD = reserve + operationalize later; Pattern A ADOPT-NOW = operationalize immediately
+  - Fiske RMT four primitives are canonical relational-mode ontology (Fiske 1992 Relational Models Theory)
+cross_refs:
+  - Post 0130 (Reserved Relationship-Mode Slot detail)
+  - Post 0116 (pair-relational sentiment; relates to relationship-mode)
+  - Rule 14 (Madisonian Gate synthesis + ADOPT-FOLD pattern)
+  - Methodology: ablation-gate-relationship-mode-v1.md at the-street-code/methodology/
+  - Fiske 1992 Relational Models Theory (four primitives)
+  - Memory: Council #1 close 2026-06-30 evening
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-30
 **Status:** Framework-methodology post documenting the close of Council #1 (the framework's first Rule 14 Madisonian Gate deployment against a specific architectural decision); documents the orchestrator-contested pattern classification from Pattern A to Pattern B; documents two orchestrator-class synthesis contributions the substrates missed; documents the independent verification of the load-bearing external citation; documents the two-part verdict (ADOPT the schema-slot reservation at V1; BANK the operationalization behind a sharpened ablation); companion to post 0130 in this arc which specs the reserved slot and the ablation gate

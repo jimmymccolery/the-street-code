@@ -1,5 +1,30 @@
 # Self-Delivery as Structural Mitigation: When Architecture Encodes Anti-Bias More Durably Than Content Policy
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0100
+domain: framework-architecture
+canonical_rule: self-delivery-structural-mitigation-more-durable-than-per-element-content-policy
+load_bearing_claims:
+  - Structural Marcus Reed mitigation more durable than per-element content policy at scale
+  - Runner-versus-self architectural choice eliminates demographic-coded labor patterns at structural layer (role does not exist means role cannot be demographically coded)
+  - Five rituals using self-delivery: character-initiated approach + proprietor-origination + board-tender pattern + self-tended temporal + self-posting honor-roll
+  - Pattern generalizes to: customer service + notification (push vs pull) + authorization + content moderation
+applicability_triggers:
+  - Designing NPC labor patterns at scale where demographic clustering is a risk
+  - Choosing between runner-mediated vs self-service architecture
+  - When per-element content policy will not scale to review all outputs
+  - When architectural anti-bias is preferable to content anti-bias
+mechanism_details:
+  - Self-delivery = character does the thing themselves rather than employing a runner
+  - Runner-versus-self is architectural choice made once at design time
+  - Per-element content policy requires review each generation; self-delivery requires zero ongoing review
+cross_refs:
+  - Post 0070 (Marcus Reed Protocol origin)
+  - Post 0095 (Marcus Reed Tier 2 cross-family)
+  - Post 0101 (Cumulative coding failure mode; complementary catch at catalog level)
+  - Post 0113 (Generation-side vs outcome-side fairness distinction)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-10
 **Status:** Substrate-behavior + design pattern observation; n=1 substrate-emergent design where all five rituals in a delivery-class architecture were structured as self-delivery / self-origination, with the substrate explicitly framing the structural choice as Marcus Reed Protocol mitigation that operates more durably than per-element content policy; extends [Post 70's Marcus Reed Protocol narrative](0070-marcus-reed-protocol-named-guardrail-honored-and-fabricated.md) at structural-mitigation scope

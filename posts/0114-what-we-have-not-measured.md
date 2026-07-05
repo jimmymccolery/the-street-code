@@ -1,5 +1,32 @@
 # What We Have Not Measured: Pre-Registration Discipline as the Honest Bridge Between Framework Confidence and Framework Testability
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0114
+domain: methodology-discipline
+canonical_rule: pre-registration-discipline-empirical-validation-pathway
+load_bearing_claims:
+  - Framework is design-theory status (NOT yet validated empirically)
+  - Pre-registration discipline binds framework to empirical evidence pathway
+  - Four load-bearing empirical gaps NOT measured: (1) cryptographic-puzzle intra-agent self-discovery effect on Self-Concept Clarity; (2) Marcus Reed Protocol outcome-distribution improvement (only N=11 internal replication; no independent validation); (3) era-progressive identity-expression mechanic (zero empirical anchor); (4) two-level axis split orthogonality (theoretical not empirical)
+  - Planned X-Phi pilot July-August 2026 post-prerequisite; OSF preregistration required; abstract Character A/B vignettes protect commercial NPC roster
+applicability_triggers:
+  - When framework claims exceed empirical foundation
+  - When making claims about NPC engagement that could be validated empirically
+  - Before publishing empirical claims about framework mechanics
+  - When integrating literature the framework has not yet empirically validated against
+mechanism_details:
+  - Pre-registration binds specific predictions to specific measurements BEFORE data collection
+  - OSF (Open Science Framework) is canonical pre-registration venue
+  - Abstract vignettes (Character A/B) protect commercial NPC roster while enabling empirical validation
+  - X-Phi (experimental philosophy) methodology applies to consciousness-adjacent claims
+cross_refs:
+  - Post 0081 (framework six modifications; validation pathway)
+  - Post 0111 (procedural persons Bayesian; theoretical foundation to validate)
+  - Post 0136 (empirical BUILD mode as architecture-as-hypothesis)
+  - Post 0138 (cultural baseline distinguishability empirical finding H5)
+  - Marcus Reed Protocol Item 1594-1598 (R1-R5 substrate reports; internal replication)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Methodology honesty post; documents the framework's empirical status as a pre-registered design theory rather than as a validated framework; uses abstract Character A and Character B framing throughout (per the framework's operator-side scope discipline for protected-scope NPC content); the pilot the post discusses is planned for July-August 2026 post-prereq closure
