@@ -5,16 +5,16 @@
 **Cross-references:**
 - Post 0163: post-synthesis audit discipline at BUILD-time scope
 - Post 0167: post-audit-correction discipline at post-publication scope
-- Rule 20 candidacy Family A empirical foundation at n=17 candidate sub-shapes
-- Operator-realism-check discipline n=3 within-arc canonization candidacy
+- Rule 20 candidacy Family A empirical foundation at n=18 candidate sub-shapes (sub-shape 24 candidate BANKED 2026-07-05 late afternoon post Phase 3.2-D Fires A-F arc: isolation-test-passes-but-multi-day-integration-reveals-suppressed-mechanic; adjacent sub-shape 25 + 26 candidates at sub-BANK)
+- Operator-realism-check discipline STRENGTHENED to n=8 within-arc + n=11 total within-Phase-3 (Phase 2.7-A biology-of-consciousness + Phase 2.7-C variance-preservation + Phase 2.7-D deferral + Phase 3.2-D Fires A-F eight within-arc reshape fires); SUBSTANTIALLY EXCEEDS canonization threshold
 - Operator-delegated CC ratification discipline n=2 fires
 
 ## Executive summary
 
 Three discipline candidacies have converged at empirical foundation thresholds strong enough to warrant Council #8 methodology deployment for formal canonization adjudication:
 
-1. **Rule 20 candidacy Family A — canonization-propagation gap discipline family** — n=17 candidate sub-shapes across framework layers + mechanisms
-2. **Operator-realism-check discipline** — n=3 within-arc fires materially affecting framework calibration or preventing unnecessary constraints
+1. **Rule 20 candidacy Family A — canonization-propagation gap discipline family** — n=18 candidate sub-shapes across framework layers + mechanisms (sub-shape 24 candidate added post Phase 3.2-D Fires A-F arc)
+2. **Operator-realism-check discipline** — STRENGTHENED to n=8 within-arc + n=11 total within-Phase-3; six discrete framework mechanic failures diagnosed via seed=42 empirical validation + resolved sequentially with re-validation between iterations; substantially exceeds canonization threshold
 3. **Operator-delegated CC ratification discipline** — n=2 fires (Council #7 candidacy Phase 2.6 spec + character design workflow Option C ratification)
 
 Plus one adjacent discipline extension that emerged from applying rigorous 6-dimension grading rubric to morning work:
@@ -57,6 +57,8 @@ When the framework's Council methodology or empirical BUILD arc produces canonic
 
 **Sub-shape 22:** CC-authored perspective-swap gap at Phase 3 mechanical layer (Phase 3 caveman → castaway → higher-level personality progression arc shipped in 9 iterative commits; 756 tests passed by end of arc; rigorous 6-dimension grading rubric audit surfaced 3 architectural bugs — simBView spread Sim A's Phase 3 fields into Sim B tick + tickSimB return dropped Sim B mutable state + HEXACO stress drift/longing helper never called for Sim B). Extended post-fix agent audit surfaced 5 additional pre-existing gaps from Phase 1 baseline (hasShelter/shelterPosition/worldGrid), Phase 2.6.C (knownWaterSources), Phase 2.10 (Sim A needs from Sim B share_food), and Phase 3.0-E (fires) — all Sim B mutations to shared world state or Sim A state were LOST because tickSimB return spread ...state rather than propagating simBResult mutations. All tests passed because ZERO tests validated shared-world-state propagation from Sim B tick. Fix + 8 regression tests shipped (test count 756 → 764). Sub-shape architecturally distinct from sub-shape 21 (semantic-inversion at Phase 2.9-C step 2 code layer) at ARCHITECTURAL-extension-awareness-in-perspective-swap-framework layer.
 
+**Sub-shape 24:** isolation-test-passes-but-multi-day-integration-reveals-suppressed-mechanic (Phase 3.2-D Fire B empirical trigger; phase30Weather.test.ts passed at 200-seed isolation sweep with 1.5× multiplicative boost validated; empirical seed=42 30-game-day session showed 0.0% shelter-adjacent actions during 100-tick storm-approach window because Sim A was mid-sleep action started ~tick 6700 running through window unbroken; decideNextAction never ran, boost had no target to apply to). Four successive Fire B reshape iterations (v1 multiplicative 4× + v2 additive floor 3.5 + v3 additive floor 8.0 + v4 post-emergency-modulation override) all shipped as increasingly-aggressive weight boosts under assumption decideNextAction was running each tick. All four empirically produced 0.0%. Only after diagnostic instrumentation revealed mid-sleep root cause did v5 (storm-approach WAKE-UP INTERRUPT for sleep/rest/observe_surroundings) succeed at 100.0%. Sub-shape architecturally distinct from prior at TEMPORAL-SCOPE test-coverage layer: isolation tests initialize fresh state without simulating the passive-action background empirically dominant at trigger tick in extended-horizon sessions. Adjacent sub-shape 25 candidate (multi-iteration-reshape-without-diagnostic-instrumentation; Fire B v1-v4 iterations shipped without diagnostic between iterations) + sub-shape 26 candidate (typo-in-conditional-shipped-without-execution-path-test; Fire D `state.foodCache` typo should be `foodCacheLevel`; no test path exercised the OR-branch) — both n=1 sub-BANK pending second-fires.
+
 **Sub-shape 23:** CC-authored character generation without consulting operator's canonical template (Phase 3.2-A biographical archetype ship arc; CC shipped 6 archetypes at biographicalRecord.ts without consulting Item 1134 comprehensive re-ingestion doc 17-section canonical template + Marcus Reed Surface 8 audit spec + Item 0334 civil-rights consultant pipeline + 74 existing personality entities catalog + Round 9 R4 canonical generative-model spec + Round 10a per-tradition primitives requirement + 12-round NPC dynamic evolution arc memory). Archetype categories chosen (survivalist + combat vet + burned-out office worker + fisherman + retired teacher + young artist) themselves stereotype-adjacent — precisely the risk-class Marcus Reed catches. Corrected via ARCHETYPE_* → PLACEHOLDER_MVP_* rename + file-level warning + BiographicalRecord extended with ExtendedBiographicalTemplate (17 Item 1134 sections) + SofroniewAudit type (three causal cluster analogs + variance-decomposition + provenance-separated findings + designer sign-off per V1 BUILD gate) + PROPER_ANCHOR_SAM_NGUYEN first proper anchor-tier character via full 17-section template. Sub-shape architecturally distinct from sub-shapes 21+22 at CANONICAL-INFRASTRUCTURE-CONSULTATION-BEFORE-CHARACTER-AUTHORING layer (sub-shape 21 = semantic-inversion; sub-shape 22 = architectural-extension-awareness; sub-shape 23 = canonical-infrastructure-consultation-before-CONTENT-authoring).
 
 **CC-side-empirical-grounding-failure sub-family strengthens to n=5 within-arc (sub-shapes 19, 20, 21, 22, 23).**
@@ -67,6 +69,7 @@ When the framework's Council methodology or empirical BUILD arc produces canonic
 - Sub-shape 21: code closure bug in single-mechanism semantic-inversion (Phase 2.9-C step 2 sentiment key)
 - Sub-shape 22: architectural-extension-awareness (perspective-swap propagation gap; Phase 3 mechanical layer)
 - Sub-shape 23: canonical-infrastructure-consultation-before-CONTENT-authoring (character generation without template)
+- Sub-shape 24: isolation-test-passes-integration-fails temporal-scope test-coverage gap (Phase 3.2-D Fire B; mechanic-gating-on-decideNextAction empirically suppressed by long-running passive actions during trigger window)
 
 **This n=5 within-arc strengthening SUBSTANTIALLY EXCEEDS canonization threshold** (typical multi-fire bar n=3+). CC-side-empirical-grounding-failure discipline candidacy warrants either separate canonization from Rule 20 Family A OR consolidation as a Rule 20 Family A sub-cluster with own operational-discipline rules. Council #8 adjudication scope MUST include this question.
 
@@ -94,13 +97,25 @@ Formalize Rule 20 as first-class framework operational discipline covering the c
 
 When the framework's calibration decisions for survival, embodied cognition, or emergency behavior mechanics require operator judgment on real-world realism, operator's real-world intuition catches CC-proposed blunt interpretations before they ship. Two subtypes empirically observed: (a) reshape-and-ship (operator catches simplification-that-would-produce-unrealistic-behavior; design revised and ships); (b) don't-ship (operator recognizes proposed constraint would over-constrain what framework already correctly models; design deferred).
 
-### n=3 within-arc empirical foundation
+### n=11 within-Phase-3 empirical foundation (STRENGTHENED 2026-07-05 late afternoon)
+
+**Phase 2.7 fires (within-arc n=3):**
 
 **Fire 1 (Phase 2.7-A sleep-storm interrupt):** operator biology-of-consciousness two-part insight ("someone can freeze in their sleep? But storm might keep them awake?"). Reshaped design from blunt threshold-based interrupt to two-regime biology model.
 
 **Fire 2 (Phase 2.7-C emergency safe-cell registry):** operator variance-preservation-over-hard-filter insight ("some humans would fail like this in an emergency? Don't code that out"). Reshaped from hard filter to moderate 2.5× boost preserving realistic bad-decision variance.
 
 **Fire 3 (Phase 2.7-D at-safe-cell dwelling boost DEFERRED):** operator framework-already-models-this insight ("what if storm so long they must leave to fulfill needs? Tough choice, take a chance?"). Prevented unnecessary constraint from shipping.
+
+**Phase 3.2-D Fires A-F reshaping arc fires (within-arc n=8):**
+
+**Fires 4-9 (Fires A through F):** six discrete framework mechanic failures diagnosed via seed=42 30-game-day empirical validation session + resolved sequentially with re-validation between iterations. Layer 3 valence_f floor (biographical baseline drift + FAST_DECAY_RATE 0.0008 → 0.003 + coupling coefficient -0.5 → -0.2) + storm anticipation (five iterations before wake-up interrupt for sleep/rest/observe_surroundings during stormApproaching succeeded) + fire tending threshold + kindness synthesis gates + aggression preconditions (cooldown + threshold raises + Path B raise) + rescue probability formula tuning.
+
+**Fires 10-11 (Fire B v1-v4 + Fire E v1 iterations):** two operator-realism-check reshape iterations within the Fires A-F arc that were empirically insufficient before final iteration succeeded. Fire B required 5 iterations (v5 wake-up interrupt) after diagnostic instrumentation revealed root cause. Fire E required 2 iterations (v2 added AGGRESSION_COOLDOWN_TICKS + lastAggressionTick state field with perspective-swap propagation).
+
+Empirical outcome: 6 of 8 RQ1-RQ8 mega-spec targets fire cleanly (RQ1 storm anticipation 100% + RQ3 both Sims accumulate skills + RQ4 30+ fire builds + RQ5 HEXACO differentiation preserved + RQ6 kindness partial + RQ7 archetype differentiation 18.18 point valence_f spread + Fire F both Sims rescued day 21.2).
+
+**Total operator-realism-check discipline strengthening:** n=11 within-Phase-3 across 4 distinct arcs (Phase 2.7-A + Phase 2.7-C + Phase 2.7-D + Phase 3.2-D). SUBSTANTIALLY EXCEEDS canonization threshold at Council #8 methodology deployment scope.
 
 ### Proposed canonization
 
