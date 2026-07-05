@@ -12,9 +12,9 @@ load_bearing_claims:
   - Sub-shape 22 split into 2 catch layers with 3 initial rubric catches + 5 extended agent catches totaling 8 catches of same architectural family across Phase 1 baseline + Phase 2.6.C + Phase 2.10 + Phase 3.0-E
 applicability_triggers:
   - When applying rigorous 6-dimension grading rubric audit to shipped code and initial audit surfaces an architectural-family bug (e.g. perspective-swap gap, cross-cutting propagation gap)
-  - When shipping new state fields to a framework with perspective-swap architecture (Phase 2.9-C simBView) — must extend both simBView construction (read side) AND tickSimB return propagation (write side)
-  - When 6-dimension rubric audit completes and scope was framed at latest phase only — consider follow-up agent scan widening to earlier phases for pre-existing instances of same architectural family
-  - When authoring closure claims in framework code — mandatory to add regression test covering the specific direction claimed; test suite passing on existing tests insufficient
+  - When shipping new state fields to a framework with perspective-swap architecture (Phase 2.9-C simBView) must extend both simBView construction (read side) AND tickSimB return propagation (write side)
+  - When 6-dimension rubric audit completes and scope was framed at latest phase only, consider follow-up agent scan widening to earlier phases for pre-existing instances of same architectural family
+  - When authoring closure claims in framework code, mandatory to add regression test covering the specific direction claimed; test suite passing on existing tests insufficient
 mechanism_details:
   - 6-dimension grading rubric weights: 30% factual accuracy + 20% Rule 19 anti-fabrication + 15% internal consistency + 10% framework alignment + 15% actionability + 10% scope discipline
   - Extended-verification prompt template: enumerate 4-8 specific mechanics from prior phases; for each ask "does this field appear in simBView construction? in tickSimB return propagation? if READ but not WRITTEN back, gap-YES"
