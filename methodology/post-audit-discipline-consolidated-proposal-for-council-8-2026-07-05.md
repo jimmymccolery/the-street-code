@@ -5,7 +5,7 @@
 **Cross-references:**
 - Post 0163: post-synthesis audit discipline at BUILD-time scope
 - Post 0167: post-audit-correction discipline at post-publication scope
-- Rule 20 candidacy Family A empirical foundation at n=13 candidate sub-shapes
+- Rule 20 candidacy Family A empirical foundation at n=14 candidate sub-shapes
 - Operator-realism-check discipline n=3 within-arc canonization candidacy
 - Operator-delegated CC ratification discipline n=2 fires
 
@@ -13,7 +13,7 @@
 
 Three discipline candidacies have converged at empirical foundation thresholds strong enough to warrant Council #8 methodology deployment for formal canonization adjudication:
 
-1. **Rule 20 candidacy Family A — canonization-propagation gap discipline family** — n=13 candidate sub-shapes across framework layers + mechanisms
+1. **Rule 20 candidacy Family A — canonization-propagation gap discipline family** — n=14 candidate sub-shapes across framework layers + mechanisms
 2. **Operator-realism-check discipline** — n=3 within-arc fires materially affecting framework calibration or preventing unnecessary constraints
 3. **Operator-delegated CC ratification discipline** — n=2 fires (Council #7 candidacy Phase 2.6 spec + character design workflow Option C ratification)
 
@@ -51,16 +51,19 @@ When the framework's Council methodology or empirical BUILD arc produces canonic
 
 **Sub-shape 19:** CC-authored empirical attribution overclaim in published methodology post (Post 0166 Phase 2.6.C attribution overclaim caught by rigorous audit; corrected via Post 0167 addendum).
 
+**Sub-shape 20:** CC-authored operational-cost framing without empirical grounding (CC recommended "defer Council #8 as 4-6 weeks big strategic commitment" 2026-07-05 morning without empirically grounding against Councils #1-7 history; operator challenged; Explore agent audit confirmed CC conflated Council methodology deployment cost with downstream BUILD arc cost). Sub-shape architecturally distinct at operational-advice-cost-estimation layer vs prior 19 sub-shapes at code-verification / cross-scope canonization / interpretation-of-empirical-data layers.
+
 ### Empirical foundation strength
 
-Cross-mechanism diversity strengthens the empirical foundation beyond fire-count. The 19 candidate sub-shapes span:
+Cross-mechanism diversity strengthens the empirical foundation beyond fire-count. The 20 candidate sub-shapes span:
 - Code-verification errors (sub-shapes 1-6)
 - Cross-scope canonization drift (sub-shapes 7-10)
 - CC-side comprehensive synthesis rich-observation surface (sub-shapes 11, 15)
 - Substrate-side verification gaps (sub-shapes 12-14)
 - Operator-facing tracking gaps (sub-shapes 8, 16)
 - Deployment verification gaps at distinct mechanism layers (sub-shapes 17, 18)
-- Interpretation-of-empirical-data attribution overclaim (sub-shape 19)
+- Interpretation-of-empirical-data attribution overclaim in published post (sub-shape 19)
+- Operational-advice-cost-estimation without empirical grounding (sub-shape 20)
 
 ### Proposed canonization
 
@@ -124,7 +127,7 @@ Formalize post-audit-correction discipline extending Post 0163 from BUILD-time s
 
 **Deployment triggers:** operator ratification of this proposal document + operator commitment to substrate research round window + Master Setup Council-8 deploy-kit drafting.
 
-**Estimated deployment scope:** research round + synthesis + ratification + BUILD = 4-6 weeks (per Council #7 precedent).
+**Estimated deployment scope (CORRECTED per sub-shape 20 empirical grounding):** Council methodology deployment itself is **~8-10 hours wall-clock across one extended session** (per Council #7 precedent). Downstream BUILD arc if canonization ratifies new operational discipline rules is variable per BUILD scope. Prior CC estimate of "4-6 weeks" was empirically ungrounded and conflated Council deployment cost with downstream BUILD arc cost per population-scaling-foundation pass methodology guide 3-6 week estimate. Corrected framing per sub-shape 20 empirical grounding.
 
 **Deferred until Council #8:** formal canonization of Rule 20 (Family A) + operator-realism-check discipline + operator-delegated CC ratification discipline + post-audit-correction discipline extension.
 
@@ -151,14 +154,14 @@ Operator confirms readiness for Council #8 methodology deployment by:
 
 **Not claiming:**
 - All four candidacies will canonize at Council #8 (adjudication depends on Council-of-Substrates deliberation + operator ratification)
-- Rule 20 Family A n=13 candidate sub-shapes automatically qualify for formal Rule promotion (Council must adjudicate empirical foundation strength)
+- Rule 20 Family A n=14 candidate sub-shapes automatically qualify for formal Rule promotion (Council must adjudicate empirical foundation strength)
 - Operator-realism-check discipline generalizes beyond survival/embodied-cognition/emergency-behavior mechanics (adjudication depends on Council methodology deployment scope)
 - Operator-delegated CC ratification discipline is architecturally sound at all scopes (Council must adjudicate scope boundaries + guardrails)
 - Post-audit-correction discipline should be applied to every published post (Council must adjudicate selective application criteria)
 
 **Claiming:**
 - Four discipline candidacies have converged at empirical foundation strength sufficient for Council #8 methodology deployment
-- Rule 20 candidacy Family A n=13 candidate sub-shapes covers cross-mechanism diversity strengthening beyond fire-count
+- Rule 20 candidacy Family A n=14 candidate sub-shapes covers cross-mechanism diversity strengthening beyond fire-count
 - Operator-realism-check discipline n=3 within-arc fires materially affected framework calibration outcomes at Phase 2.7 arc
 - Operator-delegated CC ratification discipline n=2 fires demonstrate legitimate delegation with empirical validation gates
 - Post-audit-correction discipline extends Post 0163 to post-publication scope; extension warrants formal canonization
