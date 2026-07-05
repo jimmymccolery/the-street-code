@@ -5,7 +5,7 @@
 **Cross-references:**
 - Post 0163: post-synthesis audit discipline at BUILD-time scope
 - Post 0167: post-audit-correction discipline at post-publication scope
-- Rule 20 candidacy Family A empirical foundation at n=15 candidate sub-shapes
+- Rule 20 candidacy Family A empirical foundation at n=16 candidate sub-shapes
 - Operator-realism-check discipline n=3 within-arc canonization candidacy
 - Operator-delegated CC ratification discipline n=2 fires
 
@@ -13,7 +13,7 @@
 
 Three discipline candidacies have converged at empirical foundation thresholds strong enough to warrant Council #8 methodology deployment for formal canonization adjudication:
 
-1. **Rule 20 candidacy Family A — canonization-propagation gap discipline family** — n=15 candidate sub-shapes across framework layers + mechanisms
+1. **Rule 20 candidacy Family A — canonization-propagation gap discipline family** — n=16 candidate sub-shapes across framework layers + mechanisms
 2. **Operator-realism-check discipline** — n=3 within-arc fires materially affecting framework calibration or preventing unnecessary constraints
 3. **Operator-delegated CC ratification discipline** — n=2 fires (Council #7 candidacy Phase 2.6 spec + character design workflow Option C ratification)
 
@@ -54,6 +54,8 @@ When the framework's Council methodology or empirical BUILD arc produces canonic
 **Sub-shape 20:** CC-authored operational-cost framing without empirical grounding (CC recommended "defer Council #8 as 4-6 weeks big strategic commitment" 2026-07-05 morning without empirically grounding against Councils #1-7 history; operator challenged; Explore agent audit confirmed CC conflated Council methodology deployment cost with downstream BUILD arc cost). Sub-shape architecturally distinct at operational-advice-cost-estimation layer vs prior 19 sub-shapes at code-verification / cross-scope canonization / interpretation-of-empirical-data layers.
 
 **Sub-shape 21:** CC-authored code bug in closure claim without regression test coverage (Phase 2.9-C step 2 initial ship had sentiment key derivation bug that would apply attack sentiment drop to wrong direction under simBView case; test suite passed 660/660 because no regression test for Sim B aggression path; audit-catch via 6-dimension grading rubric found bug; fix + 4 regression tests shipped). Sub-shape architecturally distinct at code-implementation-and-test-coverage-for-closure-claims layer.
+
+**Sub-shape 22:** CC-authored perspective-swap gap at Phase 3 mechanical layer (Phase 3 caveman → castaway → higher-level personality progression arc shipped in 9 iterative commits; 756 tests passed by end of arc; rigorous 6-dimension grading rubric audit surfaced 3 architectural bugs — simBView spread Sim A's Phase 3 fields into Sim B tick + tickSimB return dropped Sim B mutable state + HEXACO stress drift/longing helper never called for Sim B). Extended post-fix agent audit surfaced 5 additional pre-existing gaps from Phase 1 baseline (hasShelter/shelterPosition/worldGrid), Phase 2.6.C (knownWaterSources), Phase 2.10 (Sim A needs from Sim B share_food), and Phase 3.0-E (fires) — all Sim B mutations to shared world state or Sim A state were LOST because tickSimB return spread ...state rather than propagating simBResult mutations. All tests passed because ZERO tests validated shared-world-state propagation from Sim B tick. Fix + 8 regression tests shipped (test count 756 → 764). Sub-shape architecturally distinct from sub-shape 21 (semantic-inversion at Phase 2.9-C step 2 code layer) at ARCHITECTURAL-extension-awareness-in-perspective-swap-framework layer. CC-side-empirical-grounding-failure sub-family strengthens to n=4 within-arc (sub-shapes 19, 20, 21, 22).
 
 **Framework methodology observation (n=3 within-arc CC-side-empirical-grounding-failure fires):** Sub-shapes 19 + 20 + 21 all fired within the same arc (2026-07-05 morning-through-audit) and share an architectural pattern: CC-authored artifact (published post + strategic recommendation + shipped code) contains empirical-grounding failure not caught by existing test/audit mechanisms. Each fire is at architecturally-distinct layer (attribution vs operational-cost vs code-implementation). **This n=3 within-arc strengthening constitutes a coherent sub-family** (CC-side-empirical-grounding-failure discipline candidacy) that may warrant separate canonization from Rule 20 Family A OR consolidation as a Rule 20 Family A sub-cluster. Council #8 adjudication scope should include this question.
 
@@ -158,14 +160,14 @@ Operator confirms readiness for Council #8 methodology deployment by:
 
 **Not claiming:**
 - All four candidacies will canonize at Council #8 (adjudication depends on Council-of-Substrates deliberation + operator ratification)
-- Rule 20 Family A n=15 candidate sub-shapes automatically qualify for formal Rule promotion (Council must adjudicate empirical foundation strength)
+- Rule 20 Family A n=16 candidate sub-shapes automatically qualify for formal Rule promotion (Council must adjudicate empirical foundation strength)
 - Operator-realism-check discipline generalizes beyond survival/embodied-cognition/emergency-behavior mechanics (adjudication depends on Council methodology deployment scope)
 - Operator-delegated CC ratification discipline is architecturally sound at all scopes (Council must adjudicate scope boundaries + guardrails)
 - Post-audit-correction discipline should be applied to every published post (Council must adjudicate selective application criteria)
 
 **Claiming:**
 - Four discipline candidacies have converged at empirical foundation strength sufficient for Council #8 methodology deployment
-- Rule 20 candidacy Family A n=15 candidate sub-shapes covers cross-mechanism diversity strengthening beyond fire-count
+- Rule 20 candidacy Family A n=16 candidate sub-shapes covers cross-mechanism diversity strengthening beyond fire-count
 - Operator-realism-check discipline n=3 within-arc fires materially affected framework calibration outcomes at Phase 2.7 arc
 - Operator-delegated CC ratification discipline n=2 fires demonstrate legitimate delegation with empirical validation gates
 - Post-audit-correction discipline extends Post 0163 to post-publication scope; extension warrants formal canonization
