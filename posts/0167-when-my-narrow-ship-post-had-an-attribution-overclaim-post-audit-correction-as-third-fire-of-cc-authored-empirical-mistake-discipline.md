@@ -1,5 +1,33 @@
 # When My Narrow-Ship Post Had an Attribution Overclaim: Post-Audit Correction as Third Fire of CC-Side Empirical Mistake Discipline
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0167
+domain: methodology-discipline
+canonical_rule: post-audit-correction-at-post-publication-scope
+load_bearing_claims:
+  - Post-audit-correction discipline extends Post 0163 post-synthesis audit from BUILD-time scope to post-publication scope
+  - Rigorous 6-dimension grading rubric MUST apply to already-published work not just to draft work
+  - Post immutability preserved via addendum posts not in-place edits; addendum acknowledges original and provides correction
+  - Sub-shape 19 attribution overclaim architecturally distinct at interpretation-of-empirical-data layer vs prior sub-shapes at code-verification / cross-scope canonization / deployment-verification layers
+applicability_triggers:
+  - Recently-published methodology post contains empirical claim; audit-catch discovered
+  - Multiple mechanism hypotheses could explain observable data; post picked one without empirical breakdown
+  - Numerical discrepancy between post-stated value and canonical memory record
+  - Post-audit surfaces attribution overclaim (claiming one mechanism specifically without empirical evidence of breakdown)
+  - Under operator-delegated ratification pressure where pre-publish review threshold was reduced
+mechanism_details:
+  - Correction pattern: ship addendum post rather than edit original; original remains in record with grade documented
+  - Selective application of rubric-based post-audit-correction to load-bearing methodology posts more sustainable than exhaustive coverage
+  - Attribution overclaim fires when observable data supports multiple mechanism hypotheses but post picks one specifically without breakdown
+  - Post-audit-correction preserves post immutability while enabling factual corrections
+cross_refs:
+  - Post 0163 (post-synthesis audit at BUILD-time scope; this post extends discipline to post-publication)
+  - Post 0166 (the corrected post; Phase 2.6.C hydration attribution overclaim)
+  - Post 0168 (extended-verification as third-layer discipline)
+  - Post 0143 (parent canonization-propagation gap discipline family Family A)
+  - Memory: feedback_cc_authored_empirical_attribution_overclaim_candidate_19th_sub_shape_2026-07-05.md
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-07-05
 **Status:** Single-finding arc documenting the framework's post-audit-correction discipline reproducing at a candidate 19th sub-shape 2026-07-05 morning; CC-authored Post 0166 published this morning contained a specific empirical attribution overclaim about Phase 2.6.C hydration rate improvement mechanism plus a minor numerical inaccuracy; rigorous audit applied 6-dimension grading rubric per Post 0163 precedent and caught both weaknesses; correction shipped as this post plus a memory entry documenting the sub-shape; framework methodology observation about specific attribution being harder to catch than code-verification errors because empirical-data interpretation layer sits above the layer that Post 0143 canonization-propagation gap discipline family Family A traditionally covers

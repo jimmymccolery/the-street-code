@@ -1,5 +1,35 @@
 # When the Follow-up Audit Found Five Bugs Mine Missed: Extended Verification as Fourth Fire of CC-Side Empirical Grounding Failure Sub-Family
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0168
+domain: methodology-discipline
+canonical_rule: extended-verification-third-layer-discipline
+load_bearing_claims:
+  - CC-side-empirical-grounding-failure sub-family fires at n=4 within-arc across 4 architecturally-distinct layers (sub-shapes 19+20+21+22 in 2026-07-05 arc)
+  - Rule 20 candidacy Family A empirical foundation at n=16 candidate sub-shapes approaching canonization threshold at Council #8 methodology deployment scope
+  - Framework methodology extension proposal: extended-verification as third-layer discipline below post-synthesis audit (Post 0163 BUILD-time) and post-audit-correction (Post 0167 post-publication)
+  - Extended-verification mechanism: delegate follow-up directed scan to agent with scope-widening prompt that specifies a dimension distinct from initial audit's framing
+  - Sub-shape 22 split into 2 catch layers with 3 initial rubric catches + 5 extended agent catches totaling 8 catches of same architectural family across Phase 1 baseline + Phase 2.6.C + Phase 2.10 + Phase 3.0-E
+applicability_triggers:
+  - When applying rigorous 6-dimension grading rubric audit to shipped code and initial audit surfaces an architectural-family bug (e.g. perspective-swap gap, cross-cutting propagation gap)
+  - When shipping new state fields to a framework with perspective-swap architecture (Phase 2.9-C simBView) — must extend both simBView construction (read side) AND tickSimB return propagation (write side)
+  - When 6-dimension rubric audit completes and scope was framed at latest phase only — consider follow-up agent scan widening to earlier phases for pre-existing instances of same architectural family
+  - When authoring closure claims in framework code — mandatory to add regression test covering the specific direction claimed; test suite passing on existing tests insufficient
+mechanism_details:
+  - 6-dimension grading rubric weights: 30% factual accuracy + 20% Rule 19 anti-fabrication + 15% internal consistency + 10% framework alignment + 15% actionability + 10% scope discipline
+  - Extended-verification prompt template: enumerate 4-8 specific mechanics from prior phases; for each ask "does this field appear in simBView construction? in tickSimB return propagation? if READ but not WRITTEN back, gap-YES"
+  - CC-side-empirical-grounding-failure sub-family fire layers: attribution overclaim (methodology posts) + operational-cost framing (strategic recommendations) + code closure bug (single-mechanism semantic-inversion) + architectural-extension-awareness (perspective-swap framework)
+  - Post-immutability preserved via addendum posts not in-place edits per Post 0167 discipline
+cross_refs:
+  - Post 0143 (parent canonization-propagation gap discipline family Family A)
+  - Post 0163 (post-synthesis audit at BUILD-time scope; first layer of audit discipline stack)
+  - Post 0166 (narrow-ship methodology; contains attribution overclaim corrected by Post 0167)
+  - Post 0167 (post-audit-correction at post-publication scope; second layer of audit discipline stack)
+  - Memory: feedback_cc_authored_perspective_swap_gap_for_phase_3_mechanical_layer_candidate_22nd_sub_shape_2026-07-05.md
+  - Memory: feedback_cc_authored_code_bug_in_closure_claim_without_regression_test_candidate_21st_sub_shape_2026-07-05.md (parent shape for CC-side-empirical-grounding-failure sub-family)
+  - Council #8 proposal: ~/Projects/the-street-code/methodology/post-audit-discipline-consolidated-proposal-for-council-8-2026-07-05.md
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-07-05
 **Status:** DRAFT CANDIDATE pending operator review before shipping. Single-finding arc documenting a specific fourth-fire event of the framework's CC-side-empirical-grounding-failure sub-family (sub-shapes 19, 20, 21, 22 shipping within a single 2026-07-05 arc); extends candidate 22nd sub-shape of Post 0143 canonization-propagation gap discipline family Family A from initial n=1 fire to include five pre-existing gaps caught by a follow-up agent-driven audit that my initial 6-dimension rubric audit missed; empirical foundation for framework methodology extension proposing extended-verification as third-layer discipline below post-synthesis audit (Post 0163) and post-audit-correction (Post 0167)

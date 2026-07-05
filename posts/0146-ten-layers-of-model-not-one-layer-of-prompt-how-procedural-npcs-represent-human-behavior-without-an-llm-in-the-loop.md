@@ -1,5 +1,42 @@
 # Ten Layers of Model, Not One Layer of Prompt: How Procedural NPCs Represent Human Behavior Without an LLM in the Loop
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0146
+domain: framework-architecture
+canonical_rule: ten-layer-npc-architecture
+load_bearing_claims:
+  - Ten grounded modeling layers are first-class architectural commitments for procedural NPC representation; each layer explicitly grounded in published literature
+  - Layer 1 needs (biological drives); Layer 2 affect (Russell 1980 valence + arousal; Lazarus-Folkman 1984 stress); Layer 3 HEXACO 6D personality (Ashton & Lee 2007) + attachment style (Fraley-Waller-Brennan 2000 ECR-R avoidance + anxiety); Layer 4 memory (three-horizon short/mid/long-biographical with consolidation); Layer 5 decision-making (expected free energy minimization per Friston 2017 active inference); Layer 6 relationships (ordered-pair sentiment scalars Hawkins-Carrere-Gottman 2002); Layer 7 cultural personhood (Baseline A Western-individualist + Baseline B Confucian role-ethics + Baseline C Wiredu Ghanaian communal-achievement); Layer 8 life history (biographical records generated at spawn with era + culture + priorOccupation + formative events + values; canonical at ecosystem layer persisting across Scenes); Layer 9 environmental knowledge (Scene-specific affordances not abstract); Layer 10 audit (sophisticated active inference offline at consolidation boundaries)
+  - Framework contribution addresses Generative Agent-Based Social Simulation field gaps at validation + reproducibility + auditability that LLM-prompt-dumping approaches cannot meet
+  - Ten layers compose additively; each layer produces auditable + testable + portable behavior; no layer requires LLM in the loop
+applicability_triggers:
+  - Designing procedural character architecture for a multi-decade tycoon simulation or similar sustained NPC ecosystem
+  - Choosing between LLM-prompt-based NPC representation and grounded structural modeling
+  - Wiring personality traits (HEXACO / attachment) to action selection
+  - Designing memory system with consolidation boundaries and horizon distinctions
+  - Cross-cultural personhood modeling with baseline-parameter-set approach
+  - Character spawn with biographical record persisting across Scenes
+mechanism_details:
+  - HEXACO H (Honesty-Humility) for cooperation/exploitation prediction per Hilbig & Zettler 2009
+  - Attachment style (ECR-R) for relational bonding dynamics per Mikulincer & Shaver 2016
+  - Ordered-pair sentiment S(A→B) in [-1, +1] with sentiment override mechanic
+  - Three-horizon memory: short 6-12 game-months + mid consolidation + long-biographical landmarks
+  - EFE decision-making at τ ≤ 3 planning depth per Post 0111
+  - Yearly consolidation cadence with four promotion criteria (affective-spike + pair-history-significant + trait-modulated-significant + first-occurrence)
+  - Cultural baselines A/B/C as parameter sets not stereotype content
+  - Sophisticated active inference deployed at consolidation boundaries not per-frame
+cross_refs:
+  - Post 0111 (procedural persons as Bayesian puzzle; τ ≤ 3 planning; naive vs sophisticated active inference distinction)
+  - Post 0115 (HEXACO to attachment re-source; literature-checking trait sources per function)
+  - Post 0116 (ordered-pair sentiment + Gottman override; Layer 6 mechanics)
+  - Post 0118 (recency + consolidation architecture; Layer 4 mechanics)
+  - Post 0120 (V1 NPC memory spec; nine locked V1 elements + Phase-8.x banked + Steam V1.0 candidate)
+  - Post 0125 (Wiredu cannot be a trait slider; category error preventing Layer 7 misuse)
+  - Post 0127 (no single African view; intra-tradition dispute disclosure)
+  - Post 0128 (accumulator hides WEIRD defaults; schema-placeholder discipline)
+  - Post 0146 project state: Phase 3 shipped ~2026-07-05 wiring Layers 1+2+3+4+5+6 into sim-ai code (see project_phase_3_caveman_castaway_progression_shipped_2026-07-05.md)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-07-03
 **Status:** Methodology-anchor post articulating the framework's structural approach to representing human behavior in procedural characters; enumerates ten grounded modeling layers as first-class architectural commitments; distinguishes from LLM-prompt-dumping approaches that hide the model inside opaque generation; positions the framework's contribution against Generative Agent-Based Social Simulation field gaps at validation plus reproducibility plus auditability

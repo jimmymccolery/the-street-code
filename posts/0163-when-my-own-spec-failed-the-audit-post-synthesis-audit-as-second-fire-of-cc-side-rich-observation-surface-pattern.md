@@ -1,5 +1,33 @@
 # When My Own Spec Failed the Audit: Post-Synthesis Audit as Second-Fire of CC-Side Rich-Observation-Surface Pattern
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0163
+domain: methodology-discipline
+canonical_rule: post-synthesis-audit-at-BUILD-time-scope
+load_bearing_claims:
+  - Post-synthesis audit stage is mandatory before BUILD phase at Council methodology deployment scope
+  - 6-dimension grading rubric weighted at 30/20/15/10/15/10 (factual accuracy + Rule 19 anti-fabrication + internal consistency + framework alignment + actionability + scope discipline) catches load-bearing errors before BUILD proceeds
+  - Any artifact grading below A- (85+) triggers a v2 correction pass; BUILD proceeds only when load-bearing artifacts pass
+  - CC's rich-observation-surface pattern operates by systematic tendency under operator-delegated ratification pressure; comprehensive-delivery competes with verify-against-code and comprehensive-delivery wins by default
+  - Audit stage takes 60-90 minutes CC-side work; alternative is BUILD-time discovery costing hours to unwind
+applicability_triggers:
+  - Council methodology deployment producing artifacts under time pressure
+  - Operator delegates ratification authority to CC ("I trust you to continue as I follow along")
+  - CC drafts spec draft immediately before BUILD phase begins
+  - Framework code arc completes and shipped code needs verification
+  - Cross-substrate synthesis output claims architectural coherence
+mechanism_details:
+  - 6-dimension grading rubric weights are load-bearing; 30% factual accuracy is highest weight
+  - Rubric application caught 5 spec errors in Council #7 candidacy Phase 2.6 spec (wrong Layer3State arousal_f baseline 25 vs actual 20 + EFE formula incompatibility + non-existent action reference + formula internal inconsistency + parameter overreach outside substrate cluster support)
+  - Spec artifact grade C+ (74.6) while other artifacts A- or higher demonstrates artifact-type-specific rubric applicability
+  - Post-synthesis audit stage is one layer of framework's audit discipline stack (Post 0167 extends to post-publication; Post 0168 extends to third-layer via directed agent scan)
+cross_refs:
+  - Post 0143 (parent canonization-propagation gap discipline family Family A)
+  - Post 0167 (post-audit-correction; extends this discipline from BUILD-time to post-publication scope)
+  - Post 0168 (extended-verification; third-layer discipline via directed agent scan)
+  - Memory: feedback_council_7_candidacy_synthesis_ratified_2026-07-04.md
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-07-04
 **Status:** DRAFT CANDIDATE pending operator review before shipping
