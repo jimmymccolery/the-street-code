@@ -8,7 +8,7 @@
 
 Run before commit + push of any post or batch of posts. Each audit takes 5-15 minutes per post depending on density. The audit is a CC-runnable discipline; the operator can also run it manually. The audit is NOT a substitute for the operator's final read with fresh-Substack-reader lens; the audit catches CC-side failure modes that the operator-side read may not surface, and the operator-side read catches reader-experience issues that the audit does not surface. Both are load-bearing.
 
-## The six-item checklist
+## The seven-item checklist (v2 as of 2026-07-05 amendment)
 
 ### 1. Em-dash discipline (applies post 0036 onward)
 
@@ -114,6 +114,30 @@ Manually verify each H2 has content paragraphs before the next H2. The Posts 81-
 **Standard closing structure** (per voice spec + recent published convention):
 - `## What I am not claiming` — 3-5 paragraphs; each paragraph leads with "I am not claiming X..."; bounds the post's scope explicitly
 - `## What I am claiming` — 3-5 paragraphs; first paragraph leads with the central claim directly (no "I am claiming that..." hedge); subsequent paragraphs expand with substantive content (not recap); include "if you are doing X" reader address; "doing more work than I expected" framing in recent posts 70/75/77/80
+
+### 7. CC-OPTIMIZED-SUMMARY block verification (applies post 0146 retrofit + all posts 2026-07-05 onward)
+
+Every load-bearing framework methodology post from Post 0163 onward MUST carry a `CC-OPTIMIZED-SUMMARY` HTML-comment block immediately after the title. Format spec at `~/Projects/substack/post_template.md` v2 (2026-07-05 amendment). Structured 7 fields: `post_id + domain + canonical_rule + load_bearing_claims + applicability_triggers + mechanism_details + cross_refs`. Reader-invisible (Substack ignores HTML comments); grep-accessible for CC session context.
+
+Verify per post drafted 2026-07-05 onward:
+
+```bash
+# Block presence (must equal 2: opening + closing tags)
+grep -c "CC-OPTIMIZED-SUMMARY" posts/NNNN-*.md
+
+# Domain field present
+grep -A 1 "CC-OPTIMIZED-SUMMARY" posts/NNNN-*.md | grep -E "^(domain):"
+
+# Word count 200-400 words
+awk '/<!-- CC-OPTIMIZED-SUMMARY/,/CC-OPTIMIZED-SUMMARY -->/' posts/NNNN-*.md | wc -w
+
+# Em-dashes: must be zero across whole file including block
+grep -c '—' posts/NNNN-*.md
+```
+
+**Retrofit scope amendment (2026-07-05):** 37 posts carry CC-OPTIMIZED-SUMMARY blocks as of session close: 4 shipped natively (Post 0146 + 0163 + 0167 + 0168) + 12 retrofit batch 1 (Posts 0115 + 0116 + 0118 + 0120 + 0111 + 0143 + 0136 + 0090 + 0112 + 0125 + 0127 + 0128) + 21 retrofit batch 2 (Posts 0070 + 0081 + 0087 + 0095 + 0100 + 0101 + 0113 + 0114 + 0117 + 0119 + 0121 + 0122 + 0123 + 0124 + 0126 + 0129 + 0130 + 0137 + 0138 + 0144 + 0150). Ongoing retrofit as new posts reference older load-bearing posts. Posts NOT carrying blocks are typically product-feature + industry-history + narrative-arc posts (~130 posts) — these are lower priority for CC framework work.
+
+**Sub-shape 23 discipline extension (2026-07-05):** Character-authoring-without-canonical-template gap (sub-shape 23) fires when CC ships biographical/character/NPC content without consulting the operator's canonical infrastructure. Post-audit-checklist extends to: **if post discusses character-generation methodology, verify cross-refs to Item 1134 comprehensive re-ingestion doc + Marcus Reed Surface 8 canonical spec + Character Design Workflow Option C ratification + 74 personality entities catalog.**
 
 ## Operator-canonical-record facts that recur
 
