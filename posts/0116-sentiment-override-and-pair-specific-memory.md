@@ -1,5 +1,35 @@
 # Sentiment Override and Pair-Specific Memory: The Bowling-Alley Tipping Scenario as a Worked Example
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0116
+domain: framework-architecture
+canonical_rule: ordered-pair-sentiment-with-override-regime
+load_bearing_claims:
+  - Pair-relational history accumulates affect sentiment biasing subsequent event interpretation; sentiment-override regime operates as Bayesian prior over pair-behavior interpretation
+  - Positive regime partners read ambiguous behavior charitably; negative regime partners read same behavior as bad-intent confirmation (Hawkins-Carrere-Gottman 2002)
+  - Framework extends mechanism to multi-NPC pair-relational interactions with ordered-pair sentiment scalars in [-1, +1] range
+  - Sentiment biases Layer 1-2 encoding + retrieval filtering (mood-congruent retrieval per Eich 1995)
+applicability_triggers:
+  - When pair-interaction history should shape current event interpretation
+  - When same event should mean different things depending on relationship's accumulated sentiment
+  - When character pairs should distinguish between consistent-small-gifts and occasional-large-gifts contextually
+  - When implementing mood-congruent retrieval at character level
+mechanism_details:
+  - Sentiment scalar per ordered pair (A→B distinct from B→A)
+  - Range [-1, +1]; range direction: negative regime bias interpretation toward bad intent
+  - Three-to-five active sentiments per pair cap (Sims 4 Sentiments commercial precedent)
+  - Decay-toward-current + drift-from-history update formula
+  - Active-inference decision-scoring reads sentiment scalars into expected-free-energy decomposition
+cross_refs:
+  - Hawkins Carrere Gottman 2002 (sentiment-override foundational literature)
+  - Eich 1995 (mood-congruent retrieval)
+  - Commercial precedents: Sims 4 Sentiments + RimWorld opinions + CK3 memory + Dwarf Fortress tiers
+  - Post 0115 (attachment-modulated encoding feeds sentiment accumulation)
+  - Post 0118 (consolidation-pass integration)
+  - Post 0136 (BUILD-mode empirical validation)
+  - Post 0146 Layer 6 (relationships)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Implementation-consequence post for the framework's pair-relational mechanism; cites Hawkins, Carrère, and Gottman 2002 as the canonical sentiment-override anchor; compares the framework's pair-history architecture against commercial precedents (Sims 4 Sentiments, RimWorld opinions, CK3 memories, Dwarf Fortress emotional memory tiers); the comparison is at the meta-architecture level without naming the framework's specific commercial-product NPC roster

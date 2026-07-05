@@ -1,5 +1,32 @@
 # Procedural Persons as a Bayesian Puzzle: Player and NPC as Inferences at Different Layers
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0111
+domain: framework-architecture
+canonical_rule: second-order-bayesian-inversion-player-vs-npc
+load_bearing_claims:
+  - Player and NPC run inferences at different layers in different parameter spaces from opposite sides of information asymmetry
+  - Second-order Bayesian model inversion keeps inferences computationally separate while binding them (outer inference targets parameters of inner inference)
+  - V1 adopts sophisticated active inference at consolidation boundaries (Path A ratification), not per-frame
+  - Three orthogonal axes: naive-vs-sophisticated (recursive metacognition), temporal-horizon (planning depth), Episodic-vs-Diachronic (self-experience continuity); V1 commits to sophisticated + Episodic with no cross-era self-identity variable
+applicability_triggers:
+  - Designing NPC behavior that supports player mental-model attribution
+  - Player-side inference and NPC-side decision-making risk conflation
+  - Puzzle structure should mirror inference asymmetry not violate it
+  - Designing engagement around emergent NPC unpredictability under Bayesian bounds
+mechanism_details:
+  - Sophisticated active inference per Friston 2017 Appendix F process theory
+  - τ ≤ 3 planning depth per V1 spec
+  - Sophisticated active inference deployed at consolidation boundaries (yearly cadence), not per-frame; cached policies drive per-frame decisions
+  - Position-(a) structural-only discipline: no cross-era self-identity variable in generative model
+cross_refs:
+  - Friston 2017 (sophisticated active inference process theory)
+  - Gray et al. 2007 + Waytz et al. 2010 (mind-perception literature)
+  - Bouizegarene et al. 2024 (narrative-as-active-inference)
+  - Posts 0112-0128 (architecture implementation details across ten-layer arc)
+  - Post 0146 (ten-layer NPC framework; Layer 5 EFE decision-making + Layer 10 audit)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Methodology framing post for procedural-character architectures that use second-order Bayesian model inversion as the structural binding between player-side observation and NPC-side world-modeling; cites Friston 2017 Appendix F directly per Round 8 R2 and R4 primary-text verification; covers the conceptual frame without naming the cryptographic-puzzle internals of the production design (the design is a commercial product still in development)

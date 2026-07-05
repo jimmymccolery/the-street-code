@@ -1,5 +1,32 @@
 # Re-Sourcing Trait Encoding from HEXACO to Attachment: When One Trait Was Driving Two Different Things and the Literature Said Stop
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0115
+domain: framework-architecture
+canonical_rule: trait-source-routing-per-cognitive-function
+load_bearing_claims:
+  - Trait-source routing must ground in psychometric literature for each cognitive function separately; conflating multiple functions under single familiar trait causes failure at architecture scale
+  - First-pass spec routed relational-event encoding through HEXACO H (grounded for cooperation NOT for encoding); literature check caught the over-extension
+  - Attachment style (Fraley-Waller-Brennan 2000 ECR-R) drives relational encoding; Mikulincer and Shaver confirm encoding-and-retrieval patterns
+  - Corrected routing (HEXACO H for cooperation/generosity + attachment for relational encoding) produces observable character variation where first-pass created uniformity
+applicability_triggers:
+  - When trait-modulated encoding breaks multi-NPC interaction scenario
+  - When characters with same cooperation profile show indistinguishable relational behavior
+  - When literature-check per-function reveals over-extension of familiar trait
+  - When test-run uniformity appears where variation should emerge
+mechanism_details:
+  - HEXACO H (honesty-humility) dimensions: honesty + fairness + greed-avoidance + modesty; feeds cooperation/exploitation/generosity actions
+  - Attachment avoidance + anxiety dimensions per ECR-R; feeds Layer 1-2 relational-event encoding filter + pair-history accumulation
+  - Two-dimensional attachment scalar [0,1] × [0,1] per character
+  - Attachment stable but modifiable per Fraley-Hudson 2014
+cross_refs:
+  - Hilbig and Zettler 2009 + Thielmann and Hilbig 2015 + Zettler et al 2020 (HEXACO H cooperation validity)
+  - Fraley Waller Brennan 2000 (ECR-R attachment measurement)
+  - Mikulincer and Shaver 2016 Attachment in Adulthood (cross-cultural attachment literature + encoding patterns)
+  - Post 0116 (pair-relational sentiment override mechanism uses attachment-modulated encoding)
+  - Post 0146 Layer 3 (HEXACO + attachment ratified as Layer 3 sub-components)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Implementation-consequence post for one row of the framework's retraction table (post 0110); documents the re-source from HEXACO honesty-humility to attachment-style for the relational-event encoding pathway in the framework's procedural-character architecture; cites the canonical psychometric literature for both trait sources

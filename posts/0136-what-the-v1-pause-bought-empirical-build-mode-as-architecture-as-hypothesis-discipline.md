@@ -1,5 +1,33 @@
 # What the V1 Pause Bought: Empirical BUILD Mode as Architecture-as-Hypothesis Discipline
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0136
+domain: methodology-discipline
+canonical_rule: empirical-BUILD-mode-as-architecture-as-hypothesis
+load_bearing_claims:
+  - Pause ship-date pressure; run empirical BUILD at smallest-viable scope; generate falsifiable evidence on theoretical architectural hypotheses
+  - Round 10 substrate research produced six consolidated theoretical dimensions without empirical contact; scope-empirical failure (88-NPC vs 500-concurrent alley design mismatch) revealed ship-date pressure distorting research
+  - Phase 1 BUILD at single-Sim scope produced 132 tests validating 7 hypotheses (H1-H7)
+  - Two hypotheses (H4 compression rates + H5 cultural-baseline distinguishability) surfaced architectural-revision proposals grounded in mechanical operation rather than further theoretical refinement
+applicability_triggers:
+  - Architectural research produces theoretical commitments without empirical contact
+  - Ship-date pressure risks ratifying untested mechanisms
+  - Scope-empirical failure surfaces (architecture sound but assumption violated downstream)
+  - Operator quality-over-speed preference supports pause cost
+  - Falsifiable evidence is producible at smallest-viable scope
+mechanism_details:
+  - Six consolidated dimensions: per-Sim psyche shape + four-channel affect fast+slow + τ=1 EFE + softmax + three-layer emotion-conditioned memory + prediction-error sparse encoding + settlement-state taxonomy
+  - Phase 1 tested H1-H7 hypotheses with specific empirical predictions
+  - H4 finding: higher storage cost for structurally-disrupted characters
+  - H5 finding: cultural-baseline signal modest at single-Sim scale pending Phase 2 multi-Sim validation
+cross_refs:
+  - Round 10 Madisonian Gate synthesis (six consolidated architectural dimensions)
+  - Post 0120 (V1 spec locked after Path A ratification)
+  - Post 0137 (H4 perpetual-surprise finding detail)
+  - Post 0138 (H5 cultural-baseline distinguishability implications)
+  - Post 0146 Layer 10 (audit apparatus tests architectural hypotheses)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-07-01
 **Status:** Single-cycle methodology finding; the V1 pause paid off empirically at single-Sim scope with 132 tests passing across 7 hypotheses; the two proposed architectural revisions are the concrete evidence that the pause did what pause-and-BUILD was supposed to do; Phase 2 and later empirical work is the ongoing test of the pattern

@@ -1,5 +1,37 @@
 # Canonization-Propagation Gap Discipline at n=6 Empirical Fires Across Six Scope Levels in a Single Day
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0143
+domain: methodology-discipline
+canonical_rule: canonization-propagation-gap-discipline-family-A-parent
+load_bearing_claims:
+  - Canonization at some layers is NOT canonization at all layers; canonical-file bump is load-bearing completing act; scope-level-appropriate verification layer catches recurrence at each distinct canonization surface
+  - Framework's canonical-state mutations propagate across six canonization layers: canonical file + Council posts + auto-memory + CW project knowledge + deploy kits + regen outputs
+  - Six empirical fires within 24-hour arc 2026-07-02 caught at six architecturally-distinct scope levels
+  - Empirical foundation (n=6 in 24 hours across six distinct architectural surfaces) comparable to Rule 14 + Rule 17 + Rule 18 canonization patterns
+  - This is the PARENT sub-shape family; subsequent sub-shapes 7-22 extend the empirical foundation
+applicability_triggers:
+  - When canonical state carries load-bearing downstream consumption at multiple canonization surfaces
+  - When architectural mutations propagate across layers (new rules + extensions + version bumps)
+  - When canonical-file bump requires verification cascade through memory + posts + CI paste-blocks + CW project knowledge + deploy kits + regen outputs
+  - When Rule 20 promotion candidacy warranted by cross-scope-level empirical reproduction
+  - When applying 6-dimension grading rubric to shipped code and looking for architectural-family bugs
+mechanism_details:
+  - Six scope levels (original) (1) canonical-file-vs-memory (2) intra-file-append (3) register-classification (4) intra-file-drafting-seams (5) entry-label-semantic-precision (6) regen-timing
+  - Verification layers (original) CW project-knowledge-refresh (Rule 17) + CW verification against loaded file + orchestrator Phase C re-derivation (Rule 19 extension) + operator spot-check query
+  - Each scope level has scope-level-appropriate verification mechanism; SELECTION of appropriate mechanism is disciplined not hard-enforced
+  - Family A extended to n=16 candidate sub-shapes by 2026-07-05 (sub-shapes 7-22 including CC-side-empirical-grounding-failure sub-family at n=4 within-arc)
+cross_refs:
+  - Rule 17 (CW Project Knowledge Refresh Discipline; canonized v1.13)
+  - Rule 19 (Marcus Reed Protocol; canonized v1.18)
+  - AP #33 (Multi-Scope Canonical-State-Verification Failure)
+  - Rule 14 (Madisonian Gate; n=3+ fires canonization pattern)
+  - Rule 20 candidacy (empirical foundation strengthening across sub-shapes 1-22)
+  - Post 0163 (post-synthesis audit at BUILD-time scope; second-fire of sub-shape 11)
+  - Post 0167 (post-audit-correction at post-publication scope; sub-shape 19)
+  - Post 0168 (extended-verification third-layer discipline; sub-shape 22)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-07-03
 **Status:** Methodology finding documenting the framework's canonization-propagation gap discipline family reproducing at n=6 empirical fires across six distinct scope levels within a single 24-hour arc 2026-07-02; each fire caught by scope-level-appropriate verification layer; framework's discipline architecture demonstrably working at successive scope-level catches; empirical foundation strong enough for the discipline family to become a Rule promotion candidate at future Council methodology deployment

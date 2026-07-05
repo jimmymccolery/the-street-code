@@ -1,5 +1,34 @@
 # Recency Collapse and the Need for Consolidation: Tiered Memory Architecture at Multi-Decade Game-Time Scope
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0118
+domain: framework-architecture
+canonical_rule: tiered-memory-with-yearly-consolidation-and-0-995-decay-anchor
+load_bearing_claims:
+  - Naive raw-event storage at multi-decade scale (1-2M events per NPC times 100 bytes each) exhausts iOS budget by order of magnitude
+  - Naive summarization flattens texture making characters feel database-flat
+  - Tiered architecture (Layer 1 raw events bounded recency 6-12 months + Layer 2 consolidated entries promoted per four criteria + Layer 3 constant-size accumulator) plus 0.995 anchor half-life ~1 game-week bounds storage while preserving event-specific texture
+  - Four promotion criteria: affective-spike + pair-history-significance + trait-modulated-significance + first-occurrence
+applicability_triggers:
+  - Characters accumulate game-decades of interaction history
+  - Storage budget must scale with multi-century NPC scope
+  - Per-frame retrieval cost must remain O(1)
+  - Everyday-event decay needs empirical inspiration grounded in forgetting-curve literature
+mechanism_details:
+  - Layer 1 bounded-recency window (6-12 game-months)
+  - Layer 2 consolidated events (affective content + narrative-significant content preserved; lower-priority detail compressed)
+  - Layer 3 accumulator (DC1 split: valence + arousal + stress scalars; constant per-character storage)
+  - 0.995/game-hour anchor decay (half-life 138 game-hours ~1 game-week)
+  - Yearly consolidation pass trigger (game-year boundaries)
+cross_refs:
+  - Ebbinghaus 1885 + Murre and Dros 2015 (forgetting-curve inspiration; 0.995 not direct literature translation)
+  - Dwarf Fortress emotional memory tiers (commercial precedent)
+  - Post 0116 (pair-relational sentiment updating integrates with consolidation)
+  - Posts 0121-0123 (hybrid-path: cached policies + slow consolidation + multi-graph memory)
+  - Project Zomboid offscreen-storylet pattern
+  - Post 0146 Layer 4 (three-horizon memory)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Implementation-consequence post for the framework's tiered consolidation pattern; documents the 0.995/game-hour decay anchor and the consolidation-pass cadence; cites the forgetting-curve literature for the empirical inspiration and Project Zomboid's offscreen-storylet architecture (covered in a subsequent post) for the production-precedent analog

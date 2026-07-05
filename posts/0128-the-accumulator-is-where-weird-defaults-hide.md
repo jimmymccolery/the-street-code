@@ -1,5 +1,36 @@
 # The Accumulator Is Where WEIRD Defaults Hide: Henrich, Crenshaw, Cross, and the Schema-Placeholder Discipline the Framework Adopts
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0128
+domain: framework-architecture
+canonical_rule: schema-placeholder-discipline-for-weird-defaults-concealment
+load_bearing_claims:
+  - Framework's empirical groundings (HEXACO + attachment + Russell circumplex + Gottman sentiment-override) predominantly WEIRD-sample-based per Henrich-Heine-Norenzayan 2010
+  - Single-calibration approach silently encodes WEIRD assumption (decay rates + sentiment-override dynamics + attachment distributions + cooperation tendencies all assume WEIRD context)
+  - Schema-placeholder approach reserves three metadata field slots for post-V1 operationalization while preventing hidden assumption in V1
+  - Crenshaw 1989/1991 intersectionality framework requires multi-axis representation; Cross 1971/1991 Nigrescence framework stages identity development
+applicability_triggers:
+  - When framework architecture uses exclusively WEIRD-sample-validated empirical literature
+  - When accumulator or affective-state mechanics need cultural-context awareness
+  - When operating at solo-indie scale where cross-cultural operationalization is post-V1 scope
+  - When avoiding ornamental deployment of intersectionality or identity-development frameworks
+mechanism_details:
+  - Three V1 schema-placeholder fields (1) cultural_context_tag free-form + populated at character generation + not used by V1 mechanics + reserved for post-V1 cultural-context-aware calibration
+  - (2) intersectional_position_tags array supporting multi-axis representation per Crenshaw + reserved for post-V1 intersectional-context mechanics
+  - (3) identity_stage Cross/Crenshaw V1 scope-down placeholder per Marcus Reed Surface 8 gate prerequisite
+  - Surface 8 audit required for any post-V1 placeholder surfacing to player
+cross_refs:
+  - Henrich Heine and Norenzayan 2010 (WEIRD critique foundational)
+  - Crenshaw 1989/1991 (intersectionality framework; multi-axis lived experience)
+  - Cross 1971/1991 (Nigrescence staged identity development)
+  - Bilge 2013 (ornamental deployment risk class)
+  - Post 0115 (HEXACO + attachment WEIRD-grounding)
+  - Post 0116 (Gottman sentiment-override WEIRD-grounding)
+  - Posts 0124-0127 (cross-cultural sequence)
+  - Marcus Reed Surface 8 (representational-stakes audit gate)
+  - Post 0146 Layer 7 (cultural personhood baselines)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Cross-cultural sequence closer and the closer of the entire philosophical-content arc; carries the highest cross-cultural exposure of the sequence; applies the framework's five-element disclosure discipline maximally; cites Henrich, Heine, and Norenzayan 2010 plus Crenshaw 1989/1991 plus Cross 1971/1991 directly; documents the framework's schema-placeholder approach as the V1-shippable response to the WEIRD-defaults problem

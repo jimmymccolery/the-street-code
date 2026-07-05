@@ -1,5 +1,35 @@
 # Why Wiredu Cannot Be a Trait Slider: The Category Error Procedural Designers Should Avoid Across Multiple Cross-Cultural Traditions
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0125
+domain: framework-architecture
+canonical_rule: procedural-moral-test-not-equal-to-trait-dimension-category-error
+load_bearing_claims:
+  - Procedural moral tests (deliberative procedures producing per-action verdicts) are NOT trait dimensions (statistical tendencies across populations)
+  - Mapping one onto other is category error generalizing across traditions: Kantian universalizability + Rawlsian original position + Confucian role ethics + Ubuntu communal accountability all produce this pattern
+  - Framework's fix: retain Wiredu inspiration at framework-paper layer only; implement cooperation/generosity through HEXACO H (empirically grounded for those functions); implement standing/relational-context through separate mechanisms
+  - Ornamental deployment (citation adds reputation without mechanic delivering substance) is the risk-class per Bilge 2013
+applicability_triggers:
+  - When tempted to operationalize cross-cultural philosophical procedure as trait dimension
+  - When philosophical inspiration risks ornamental-deployment risk
+  - When framework cites tradition but mechanic cannot deliver on citation's content
+  - When distinguishing inspirational framing from implementation-layer grounding
+mechanism_details:
+  - Category error: procedural test is per-action binary verdict; trait is continuous gradient
+  - Per-case evaluation (test passes/fails this action) NOT equivalent to dispositional prediction (agent scores high/low across situations)
+  - Wiredu's sympathetic impartiality is procedural test (agent imagines outcome from each affected party position; evaluates acceptability to self regardless of position occupied)
+  - HEXACO H is trait dimension (statistical tendency predicting cooperation across populations)
+cross_refs:
+  - Wiredu and Gyekye 1992 Chapter 9 pp 199-201 (sympathetic impartiality primary text)
+  - Hilbig and Zettler 2009 (HEXACO H cooperation validity)
+  - Bilge 2013 Du Bois Review (ornamental-deployment framework)
+  - Post 0112 (Wiredu personhood structure inspiration only)
+  - Post 0124 (five-element disclosure discipline)
+  - Post 0127 (intra-African dispute)
+  - Post 0128 (WEIRD defaults)
+  - Post 0146 Layer 3 + Layer 7 (trait vs cultural personhood layer distinction)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Cross-cultural sequence post documenting a category error the framework caught in its own first-pass specification; generalizes the lesson beyond the Wiredu-specific case to procedural moral tests across multiple cross-cultural traditions; carries high cross-cultural exposure; applies the framework's five-element disclosure discipline maximally; cites Wiredu Chapter 9 *Person and Community* (Wiredu and Gyekye 1992) directly per Round 8 R4 primary-text reading

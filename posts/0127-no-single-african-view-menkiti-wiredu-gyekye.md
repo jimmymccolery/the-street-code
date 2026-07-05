@@ -1,5 +1,34 @@
 # No Single "African View": Menkiti, Wiredu, Gyekye and the Intra-African Dispute the Framework Discloses Publicly
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0127
+domain: framework-architecture
+canonical_rule: intra-tradition-pluralism-disclosure-discipline
+load_bearing_claims:
+  - Wiredu (achievement-graded personhood) and Gyekye (birth-conferred plus relationally-enhanced) represent contested field within Akan philosophy; Stanford Encyclopedia of Philosophy gives both equal weight
+  - Framework's choice of Wiredu is operator-judgment in contested field NOT literature-mandated
+  - Presenting personhood-as-achievement as the Akan view is category error misrepresenting internal pluralism
+  - Framework discloses Wiredu-Gyekye dispute and bounds engagement to Wiredu's specific reading with retraction condition
+applicability_triggers:
+  - When engaging intra-tradition philosophical disputes as framework inspiration source
+  - When cross-cultural borrowing risks flattening internal pluralism
+  - When framework chooses one position within contested field
+  - When respectful engagement requires acknowledging all parties and their weight
+mechanism_details:
+  - Wiredu reading: personhood graduated + striving-based + relational
+  - Gyekye reading: personhood inherent at biological-humanity level + Kant-influenced + enhanced (not constituted) by community
+  - Menkiti aligns with Wiredu despite different cultural background (convergence across Igbo and Akan traditions)
+  - Framework acknowledgment: Wiredu reading is philosopher's specific contribution; broader African philosophy is plural
+cross_refs:
+  - Wiredu and Gyekye 1992 Person and Community pp 10-11 (dispute documented within volume itself)
+  - Gyekye 1997 Tradition and Modernity (fuller counter-position treatment)
+  - Stanford Encyclopedia of Philosophy (equal-weight framing)
+  - Menkiti 1984 (achievement-graded reading; Igbo tradition)
+  - Post 0112 (Wiredu engagement structural-borrowing-only)
+  - Posts 0124-0128 (cross-cultural sequence)
+  - Post 0146 Layer 7 (cultural personhood Baseline C ratified as Wiredu-Menkiti Ghanaian communal-achievement)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Cross-cultural sequence post documenting the intra-African philosophical dispute between Wiredu (Menkiti-aligned) and Gyekye (Kant-grounded counter-position) and the framework's structural-borrowing engagement with Wiredu's reading specifically; carries high cross-cultural exposure; applies the framework's five-element disclosure discipline; particularly careful framing because the post addresses intra-tradition philosophical dispute requiring respectful engagement with all parties

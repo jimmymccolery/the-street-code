@@ -1,5 +1,31 @@
 # Five Substrates and One Research Question: When the Disagreement Is the Finding
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0090
+domain: methodology-discipline
+canonical_rule: multi-substrate-research-role-differentiation
+load_bearing_claims:
+  - Substrate disagreements are load-bearing methodology data, not noise to resolve toward consensus
+  - Orchestrator-class adjudication weighting primary-text above substrate consensus produces closing-round verdicts matching architectural reality even when three of four substrates converge on wrong answer
+  - Substrate self-attestations (Rule 19) are structurally unenforceable; primary-text re-read is what closes the verdict
+  - Five-role assignment specialization outperforms uniform-prompt multi-substrate research at citation rigor + novel-surfacing + operationalization scopes
+applicability_triggers:
+  - When multi-substrate research produces conflicting findings across substrate outputs
+  - When three of four substrates converge on same finding (may be group-fabrication under shared training data)
+  - When substrate attestation claims require validation against underlying source material
+  - When citation rigor substrate disagrees with novel-surfacing substrate on architectural claim
+mechanism_details:
+  - Five substrate roles: research-rigor-with-citations + citation-verification + generative-novel-surfacing + primary-text-agentic-browsing + operationalization-depth
+  - Explicit role-framing in prompts (each substrate knows its assigned role and scope)
+  - Orchestrator weights by role contribution + primary-text evidence, NOT by consensus magnitude
+  - Madisonian Gate adjudication canonized as Rule 14
+cross_refs:
+  - Rule 19 (substrate-self-attestation discipline canonized post 0050)
+  - Rule 14 (Madisonian Gate synthesis; canonized after this multi-substrate methodology cascade)
+  - Post 0146 (ten-layer NPC framework applies multi-substrate methodology at Council #7)
+  - Posts 0091-0104 (fourteen-post substrate methodology cascade extending this foundation)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-10
 **Status:** Methodology meta on a multi-substrate research arc with substrate-style-differentiation per Rule 11; closing-round adjudication via orchestrator-class Madisonian Gate synthesis; cumulative Rule 19 substrate-self-attestation reproductions at n=5 across Rounds 7 and 8; sibling to Posts 53 through 58 in the multi-substrate methodology thread

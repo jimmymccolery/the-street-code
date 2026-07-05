@@ -1,5 +1,35 @@
 # Personhood as Achievement: Borrowing Structural Elements from Wiredu's Reading of Akan Personhood Without Borrowing the Tradition
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0112
+domain: framework-architecture
+canonical_rule: wiredu-personhood-as-achievement-structural-inspiration-only
+load_bearing_claims:
+  - Wiredu frames Akan personhood as continual striving; not categorical given at birth
+  - Framework borrows graduated-achievement axis + failure-judgment axis + relational-constitution + recoverability pathway as STRUCTURAL inspiration only, NOT operationalizing substantive Akan content
+  - Five-element disclosure discipline applies maximally: acknowledgment language + primary-text-only citation + no Akan vocabulary in code + humility brackets + 14-day retraction condition
+  - Framework's engagement is philosophical-inspiration-at-paper-layer only; implementation uses neutral code identifiers (e.g. `standing_modifier` not *onipa hunu*)
+applicability_triggers:
+  - Designing moral-standing progression mechanic where standing accumulates or diminishes through action
+  - Characters' standing should fall through conduct violations and recover through striving
+  - Relational context should CONSTITUTE standing rather than merely decorate it
+  - Implementing cross-cultural philosophical inspiration defensibly against ornamental-deployment risk
+mechanism_details:
+  - Four structural borrowing elements: graduated achievement (observable axis) + failure axis + relational constitution + recoverability pathway
+  - Wiredu Chapter 9 pages 199-202 primary-text citation basis
+  - Implementation uses neutral code identifiers not Akan vocabulary
+  - Retraction condition (14-day) preserves reversibility if borrowing proves untenable
+cross_refs:
+  - Wiredu & Gyekye 1992 Person and Community Chapters 9 pp 199-202 (primary text)
+  - Dzobo Chapter 6 (recoverability grounding)
+  - Menkiti 1984 (achievement-graded view; Igbo tradition parallel)
+  - Bilge 2013 Du Bois Review (ornamental-deployment risk framework)
+  - Post 0125 (Wiredu procedural test NOT trait dimension category error)
+  - Post 0127 (no single African view; Wiredu-Gyekye dispute disclosure)
+  - Post 0128 (schema-placeholder discipline; WEIRD-defaults concealment)
+  - Post 0146 Layer 7 (cultural personhood Baseline C)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** Cross-cultural philosophical inspiration post; carries the highest cross-cultural-appropriation exposure in the framework's current arc; applies the framework's five-element disclosure discipline maximally; cites Wiredu Chapter 9 *Person and Community* (Wiredu and Gyekye 1992) directly per Round 8 R4 primary-text reading; acknowledges Gyekye's counter-position with equal weight per Stanford Encyclopedia of Philosophy attribution

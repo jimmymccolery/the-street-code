@@ -1,5 +1,34 @@
 # V1 NPC Memory Spec: What Ships, What Waits
 
+<!-- CC-OPTIMIZED-SUMMARY v1.0
+post_id: 0120
+domain: framework-architecture
+canonical_rule: v1-npc-memory-spec-meta-level-closer-with-nine-locked-elements
+load_bearing_claims:
+  - V1 spec locks nine architectural commitments: three-layer memory + DC1 split affective state + HEXACO H + attachment + occupation traits + pair-relational history with sentiment override + consolidation pass + sophisticated active inference at consolidation boundaries + state-space-content audit invariant + four-audit mandatory test surface
+  - Path A operator ratification promoted sophisticated active inference from Phase-8.x to V1 critical-path (audit apparatus first-class not deferred)
+  - V1 defers: DSM-5 personality-disorder mechanics + IFS exile-flood mechanics + mental-health-themed central gameplay
+  - iOS V1 schema-placeholder only for Cross Nigrescence (identity_stage field reserved; no V1 branching logic)
+applicability_triggers:
+  - When V1 spec needs single-navigable-artifact clarity summarizing prior post arc
+  - When operator ratification changes scope boundaries (deferral to promotion)
+  - When architecture commitments need locked META-level statement independent of implementation specifics
+  - When ship-date pressure risks drift between architectural intention and specification
+mechanism_details:
+  - Four-audit mandatory test surface: state-space content + amnesia re-init + Markov-blanket isolation + horizon-bound τ ≤ 3
+  - Three retraction-condition triggers: self-variable leak + phenomenal-claim language + bridge over-extension
+  - Sophisticated active inference deployed at consolidation boundaries (not per-frame; cached policies drive per-frame)
+  - Position-(a) structural-only discipline (no cross-era self-identity variable)
+cross_refs:
+  - Posts 0111-0128 (prior posts detailing each element)
+  - Post 0119 (Path A operator ratification + audit-first sequencing)
+  - Post 0136 (BUILD-mode empirical validation)
+  - Post 0143 (canonization-propagation discipline; V1 spec is canonical-state mutation example)
+  - Rule 14 (Madisonian Gate synthesis)
+  - Rule 19 (substrate self-attestation)
+  - Post 0146 (ten-layer NPC framework consolidates V1 spec into ten first-class layers)
+CC-OPTIMIZED-SUMMARY -->
+
 **Author:** Jimmy McColery
 **Date:** 2026-06-29
 **Status:** V1 architecture-spec closer for the framework's procedural-character memory commitments; converts the prior retraction-and-correction block into a single shippable architecture specification; the spec is META-level (architectural commitments without enumerating commercial-product implementation specifics) per the framework's operator-side soft-disclosure discipline
