@@ -5,7 +5,7 @@
 **Cross-references:**
 - Post 0163: post-synthesis audit discipline at BUILD-time scope
 - Post 0167: post-audit-correction discipline at post-publication scope
-- Rule 20 candidacy Family A empirical foundation at n=16 candidate sub-shapes
+- Rule 20 candidacy Family A empirical foundation at n=17 candidate sub-shapes
 - Operator-realism-check discipline n=3 within-arc canonization candidacy
 - Operator-delegated CC ratification discipline n=2 fires
 
@@ -13,7 +13,7 @@
 
 Three discipline candidacies have converged at empirical foundation thresholds strong enough to warrant Council #8 methodology deployment for formal canonization adjudication:
 
-1. **Rule 20 candidacy Family A — canonization-propagation gap discipline family** — n=16 candidate sub-shapes across framework layers + mechanisms
+1. **Rule 20 candidacy Family A — canonization-propagation gap discipline family** — n=17 candidate sub-shapes across framework layers + mechanisms
 2. **Operator-realism-check discipline** — n=3 within-arc fires materially affecting framework calibration or preventing unnecessary constraints
 3. **Operator-delegated CC ratification discipline** — n=2 fires (Council #7 candidacy Phase 2.6 spec + character design workflow Option C ratification)
 
@@ -160,14 +160,14 @@ Operator confirms readiness for Council #8 methodology deployment by:
 
 **Not claiming:**
 - All four candidacies will canonize at Council #8 (adjudication depends on Council-of-Substrates deliberation + operator ratification)
-- Rule 20 Family A n=16 candidate sub-shapes automatically qualify for formal Rule promotion (Council must adjudicate empirical foundation strength)
+- Rule 20 Family A n=17 candidate sub-shapes automatically qualify for formal Rule promotion (Council must adjudicate empirical foundation strength)
 - Operator-realism-check discipline generalizes beyond survival/embodied-cognition/emergency-behavior mechanics (adjudication depends on Council methodology deployment scope)
 - Operator-delegated CC ratification discipline is architecturally sound at all scopes (Council must adjudicate scope boundaries + guardrails)
 - Post-audit-correction discipline should be applied to every published post (Council must adjudicate selective application criteria)
 
 **Claiming:**
 - Four discipline candidacies have converged at empirical foundation strength sufficient for Council #8 methodology deployment
-- Rule 20 candidacy Family A n=16 candidate sub-shapes covers cross-mechanism diversity strengthening beyond fire-count
+- Rule 20 candidacy Family A n=17 candidate sub-shapes covers cross-mechanism diversity strengthening beyond fire-count
 - Operator-realism-check discipline n=3 within-arc fires materially affected framework calibration outcomes at Phase 2.7 arc
 - Operator-delegated CC ratification discipline n=2 fires demonstrate legitimate delegation with empirical validation gates
 - Post-audit-correction discipline extends Post 0163 to post-publication scope; extension warrants formal canonization
