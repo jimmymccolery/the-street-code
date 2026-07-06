@@ -43,6 +43,8 @@ cross_refs:
 **Date:** 2026-07-05
 **Status:** DRAFT CANDIDATE pending operator review before shipping. Single-finding arc documenting a specific fourth-fire event of the framework's CC-side-empirical-grounding-failure sub-family (sub-shapes 19, 20, 21, 22 shipping within a single 2026-07-05 arc); extends candidate 22nd sub-shape of Post 0143 canonization-propagation gap discipline family Family A from initial n=1 fire to include five pre-existing gaps caught by a follow-up agent-driven audit that my initial 6-dimension rubric audit missed; empirical foundation for framework methodology extension proposing extended-verification as third-layer discipline below post-synthesis audit (Post 0163) and post-audit-correction (Post 0167)
 
+> **Top-of-file correction notice (added 2026-07-06 per Rule 24 canonization at Council #8):** The sub-shape 22 architectural-extension-awareness discipline originated at this post at n=1 empirical foundation. Post 0174 documents a within-same-session recurrence at the Phase 3 a7Memory tick loop integration (Q56) architectural extension surface, strengthening sub-shape 22 empirical foundation from n=1 to n+2 within-Phase-3. See Post 0174 for the same-day recurrence documentation and sub-shape 22 3-place fix pattern.
+
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
 ---

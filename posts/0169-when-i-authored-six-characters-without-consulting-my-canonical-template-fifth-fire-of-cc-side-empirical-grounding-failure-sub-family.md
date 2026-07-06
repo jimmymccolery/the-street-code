@@ -50,6 +50,8 @@ cross_refs:
 **Date:** 2026-07-05
 **Status:** PUBLISHED. Methodology finding documenting sub-shape 23 fire: CC-authored 6 biographical archetypes in Phase 3.2-A without consulting Item 1134 comprehensive re-ingestion doc + Marcus Reed Surface 8 audit + operator-controlled representational-diversity review pathways + 74 personality entities catalog + Round 9 R4 + Round 10a. Corrected via ARCHETYPE_ to PLACEHOLDER_MVP_ rename + file-level warning + BiographicalRecord ExtendedTemplate + PROPER_ANCHOR_SAM_NGUYEN first anchor-tier character. Fifth within-arc fire of CC-side-empirical-grounding-failure sub-family.
 
+> **Top-of-file correction notice (added 2026-07-06 per Rule 24 canonization at Council #8):** This post references Item 0334 civil-rights-consultant workflow verbiage that was subsequently retired at Open Alley content-kb per Post 0172 (verify-against-canonical-files class-h n+4 fire canonization). Item 0334 workflow is RETIRED at Open Alley/content-kb pipeline as of 2026-07-05; the reference in this post reflects state at time of authoring. See Post 0172 for the retirement disposition documentation and canonical retirement discipline.
+
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
 

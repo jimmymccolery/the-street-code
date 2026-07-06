@@ -37,6 +37,8 @@ cross_refs:
 **Date:** 2026-07-05
 **Status:** DRAFT CANDIDATE pending operator review before shipping. Methodology finding documenting the framework's iterative-narrow-ship pattern reproducing at n=7 commits within a single Phase 2.8 aggression + fleeing empirical BUILD arc 2026-07-04 latest evening through 2026-07-05 early morning; each commit addressed an empirical bug surfaced by the immediately-preceding seed=42 session; the pattern also surfaced a latent Phase 2.6.C bug that had been silently masked by adjacent framework behavior since Phase 2.6 empirical validation
 
+> **Top-of-file correction notice (added 2026-07-06 per Rule 24 canonization at Council #8):** This post contained an attribution overclaim regarding a specific Phase 2.6.C hydration improvement (attributed to drink_from_stream navigation specifically without empirical breakdown across contributing mechanisms) plus a minor numerical inaccuracy in the baseline percentage (3.4% stated vs 3.5% actual). See Post 0167 for the post-audit-correction addendum that established Rule 24 post-publication scope extension.
+
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
 ---

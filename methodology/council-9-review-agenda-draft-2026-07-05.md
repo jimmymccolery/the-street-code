@@ -141,6 +141,18 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should anchor-authoring discipline canonize live Sofroniew audit consultation as pre-lock gate at Marcus Reed Surface 8 §4 retrospective canon audit scope?
 - Alternative reduction-move consideration: should Layer 3 dimensions be augmented or replaced with action-frequency-histogram observation surface to see between-character differentiation more strongly?
 
+**Phase 11 empirical resolution addendum (2026-07-06 Monday morning; Post 0177):** Item 1 of Phase 11 nine-item arc added action-frequency-histogram observation surface to sofroniewAuditRuntime.ts via `computeActionDistributionDivergence` using Jensen-Shannon divergence between per-character action histograms. Empirical result at seed=42 Sam+Frank dyad: JS divergence 0.0381 (Phase 10 baseline) to 0.0890 after Phase 11 mechanism-density additions (+134% between-character differentiation). Layer 3 observation surface remains within-heavy (0.897 vs 0.103) confirming H2 survival-mechanic-dominance CONFIRMED at affect channel. Action-frequency observation surface now shows detectable differentiation confirming H3 wrong-observation-surface CONFIRMED at action-selection channel. **RESOLUTION:** Both H2 and H3 in play simultaneously at DISTINCT observation channels; Council #9 substrate research should treat future Sofroniew audit runtime as REQUIRING BOTH Layer 3 and action-frequency channels as complementary observation surfaces (not competing). H1 aspirational declaration remains supported as claim about original declaration composition process. Reduction-move recommendation: SPLIT the sub-shape into two per-observation-channel manifestations, or ABSORB the reformulated sub-shape into Rule 21 as anchor-authoring-live-Sofroniew-audit-pre-lock sub-clause with complementary-surface requirement.
+
+### Item 11 — Candidate methodology observation: schema-reservation-with-provenance-enum-gating pattern (Phase 11 Post 0177)
+
+**Filed n=1 at Phase 11 close via Post 0177 Items 7 + 9 simultaneous double-schema-reservation arc.** Phase 11 exercised schema-reservation-with-provenance-enum-gating at TWO architecturally distinct arcs simultaneously: Item 7 Round 10a per-tradition primitives at culturalBaselines.ts + Item 9 12-round NPC three-layer orientation at ExtendedBiographicalTemplate. Both surfaces use `provenance` enum with values `ITEM-0334-CONSULTANT-VERIFIED` + `OPERATOR-PRIMARY-SOURCE-VERIFIED` + `COMMUNITY-INPUT-VERIFIED` + `SCHEMA-RESERVED-UNPOPULATED` distinguishing verified from placeholder-schema-scaffold. Candidate methodology observation: schema-reservation with provenance-enum-gating is a viable operating pattern for research-artifact population where CC-authored content would fire Rule 19 anti-fabrication n=6 language-model-lineage-invariant discipline. Council #9 review questions:
+
+- Did any additional schema-reservation-with-provenance-enum-gating instances land between Council #8 and Council #9 review window?
+- Does the pattern scale predictably to other protected-class-adjacent content population workflows (e.g., R11 political-alignment + R11 criminality + R11 sexual-orientation)?
+- Should the pattern promote to canonization as sibling to Rule 19 anti-fabrication (Rule 19b: schema-reservation-with-provenance-gating-for-substrate-cannot-know content)?
+- Should the pattern absorb into Rule 19 as sub-clause (Rule 19 extension for canonical schema surfaces)?
+- Should the pattern remain as METHODOLOGY OBSERVATION only pending strengthening (e.g., n=3 cross-arc reproduction)?
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
