@@ -153,6 +153,26 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should this remain filed as methodology observation only pending strengthening (e.g., n=3 cross-substrate reproduction)?
 - Did the sim-ai pre-commit hook installation (Post 0178 prevention action) empirically prevent additional fires during the review window?
 
+### Item 13 — Candidate methodology observation: Layer 3 state-channel-expansion discipline (Post 0179)
+
+**Filed n=2 at Post 0179 2026-07-06 Monday afternoon.** Phase 12 Item 3 shipped relational-web integrity as first NEW Layer 3 state channel since Phase 3.2-D vitality (Phase 2.6.A per Council #7 candidacy Branch 1 ratification). Empirical foundation for methodology observation: framework's Layer 3 architecture supports occasional state-channel expansion (n=2: vitality_b Phase 2.6.A + relational_integrity_b Phase 12) each with specific canonization pathway (Council #7 for vitality; R10d Dimension 4 for relational-integrity). Council #9 review questions:
+
+- Should Layer 3 state-channel-expansion promote to canonical discipline governing when + how new accumulators land?
+- What canonization gate should govern future state-channel additions (Council methodology deployment vs operator-delegated CC ratification)?
+- Should baseline decay direction be characterized as first-class architectural choice (framework baseline vs character baseline) with rules for each?
+- Are there additional Layer 3 state channels warranted from remaining systematic-review scope (e.g., trust-accumulator + status-accumulator + purpose-alignment)?
+- Should n=2 promote directly OR remain as filed observation pending n=3 strengthening?
+
+### Item 14 — Candidate methodology observation: comprehensive-arc-at-scale discipline (Post 0179)
+
+**Filed n=3 at Post 0179 2026-07-06 Monday afternoon.** Phase 10 (Sunday morning; 3 items) + Phase 11 (Monday morning; 9 items) + Phase 12 (Monday afternoon; 7 items) closed 20 systematic-review items in 48 hours across three comprehensive-arc sessions. Framework research-implementation coverage advanced from ~65% to ~95%. Council #9 review questions:
+
+- Does comprehensive-arc discipline scale reproducibly OR does it require specific enabling conditions (operator-delegated CC ratification policy + systematic-review inventory + high mechanism-density baseline)?
+- Should the pattern promote to canonical discipline governing when to batch integration work into comprehensive arcs vs when to ship incrementally?
+- What is the operator-attention cost of comprehensive-arc discipline compared to iterative-narrow-ship discipline (Post 0166 canonization)?
+- Should Council 9 evaluate whether comprehensive-arc discipline INCREASES or DECREASES latent bug risk (Post 0178 fired within the arc window catching one 27-day-latent bug)?
+- Is n=3 sufficient for promotion OR require additional evidence at Council 10+ review windows?
+
 ### Item 11 — Candidate methodology observation: schema-reservation-with-provenance-enum-gating pattern (Phase 11 Post 0177)
 
 **Filed n=1 at Phase 11 close via Post 0177 Items 7 + 9 simultaneous double-schema-reservation arc.** Phase 11 exercised schema-reservation-with-provenance-enum-gating at TWO architecturally distinct arcs simultaneously: Item 7 Round 10a per-tradition primitives at culturalBaselines.ts + Item 9 12-round NPC three-layer orientation at ExtendedBiographicalTemplate. Both surfaces use `provenance` enum with values `ITEM-0334-CONSULTANT-VERIFIED` + `OPERATOR-PRIMARY-SOURCE-VERIFIED` + `COMMUNITY-INPUT-VERIFIED` + `SCHEMA-RESERVED-UNPOPULATED` distinguishing verified from placeholder-schema-scaffold. Candidate methodology observation: schema-reservation with provenance-enum-gating is a viable operating pattern for research-artifact population where CC-authored content would fire Rule 19 anti-fabrication n=6 language-model-lineage-invariant discipline. Council #9 review questions:
