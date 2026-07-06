@@ -46,6 +46,13 @@ cross_refs:
 
 # When I Authored Six Characters Without Consulting My Canonical Template: Fifth Fire of CC Side Empirical Grounding Failure Sub Family
 
+**Author:** Jimmy McColery
+**Date:** 2026-07-05
+**Status:** PUBLISHED. Methodology finding documenting sub-shape 23 fire: CC-authored 6 biographical archetypes in Phase 3.2-A without consulting Item 1134 comprehensive re-ingestion doc + Marcus Reed Surface 8 audit + operator-controlled representational-diversity review pathways + 74 personality entities catalog + Round 9 R4 + Round 10a. Corrected via ARCHETYPE_ to PLACEHOLDER_MVP_ rename + file-level warning + BiographicalRecord ExtendedTemplate + PROPER_ANCHOR_SAM_NGUYEN first anchor-tier character. Fifth within-arc fire of CC-side-empirical-grounding-failure sub-family.
+
+*Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+
+
 **Date filed:** 2026-07-05 late morning
 **Type:** Framework methodology observation + sub-shape 23 fire in Rule 20 Family A canonization discipline
 **Cross-refs:** Post 0143 Rule 20 Family A canonization-propagation; Posts 0167 + 0168 sibling sub-shape fires; Post 0170 adjacent framework methodology observation

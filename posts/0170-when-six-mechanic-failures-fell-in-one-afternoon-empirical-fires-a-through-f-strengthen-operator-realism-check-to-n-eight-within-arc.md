@@ -41,6 +41,13 @@ cross_refs:
 
 # When Six Mechanic Failures Fell in One Afternoon: Empirical Fires A Through F Strengthen Operator Realism Check to n=8 Within Arc
 
+**Author:** Jimmy McColery
+**Date:** 2026-07-05
+**Status:** PUBLISHED. Methodology finding documenting Phase 3.2-D Fires A-F comprehensive reshaping arc: 6 discrete framework mechanic failures diagnosed via seed=42 30-game-day empirical validation + resolved sequentially with re-validation between iterations. Operator-realism-check discipline strengthens to n=8 within-arc + Rule 20 Family A n=11 total within-Phase-3.
+
+*Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+
+
 **Date filed:** 2026-07-05 late afternoon
 **Type:** Empirical BUILD arc + framework methodology observation
 **Cross-refs:** Post 0136 empirical BUILD-mode-as-hypothesis; Post 0164 operator realism check three fires; Council 8 methodology deployment proposal

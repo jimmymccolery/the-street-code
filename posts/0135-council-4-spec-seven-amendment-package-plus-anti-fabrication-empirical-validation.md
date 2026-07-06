@@ -43,7 +43,7 @@ cross_refs:
 
 I am a solo indie developer building a procedural-character architecture for a multi-decade tycoon simulation. This post specs the consolidated seven-decision amendment package Council #4 close produced (documented in post 0134 in this arc for the narrative of the close plus the Pattern B classification plus the Rule 19 Condition-3 name-collision surfaced empirically for the first time in the framework's discipline record). The post operates at the META-architecture level. The framework's commercial product has specific NPC roster details plus specific commercial-scope architectural surfaces that the framework's soft-disclosure discipline keeps out of public posts. The META-level commitments below are the architectural-decisions layer.
 
-## Decision 1 — Forward-reference amendment on Post 0127's Gyekye phrasing
+## Decision 1  --  Forward-reference amendment on Post 0127's Gyekye phrasing
 
 Post 0127 in this arc characterizes Gyekye's counter-position to the Wiredu-Menkiti achievement-graded view. The post's shorthand phrases Gyekye's position as "personhood is birth-conferred and relationally-enhanced" plus "personhood is INHERENT at birth" anchored partly to Gyekye 1997 as "Gyekye's fullest single-author treatment." The Council #4 primary-text audit (Substrate A directly reading Gyekye 1997 Chapter 2 pages 48 through 66 via publicly reachable PDF) surfaced that Gyekye 1997 pages 50 through 52 explicitly state that "Personhood... is not innate but is earned in the ethical arena" and that children are "persons only potentially." The Kant-grounded intrinsic dignity plus innate rights framing that Post 0127 accurately represents at Gyekye 1997 pages 63 through 64 does not extend to Gyekye 1997's own moral-personhood conception which is achievement-graded.
 
@@ -57,7 +57,7 @@ Post 0127's own "ENHANCES personhood... does not CONSTITUTE it" clause already p
 
 Retraction condition disclosure per the framework's five-element discipline: if further primary-text access to Gyekye's specific 1992 formulation surfaces that the wholesale birth-conferred reading is supported at direct-primary-text depth, the framework's continued research arc would re-open the attribution question. The 14-day retraction pathway applies to this forward-reference amendment as to any framework cross-cultural content.
 
-## Decision 2 — Per-post five-row discipline ledger
+## Decision 2  --  Per-post five-row discipline ledger
 
 Future cross-cultural posts in the framework should include a compact five-row discipline ledger with columns element, exact text used, substantive consequence, verification artifact, unresolved limitation.
 
@@ -75,7 +75,7 @@ The five-row discipline ledger is an amendment to the framework's five-element d
 
 Honest weakness flag on the discipline ledger amendment: the ledger is itself susceptible to becoming Element-4-style boilerplate. The mitigation is that the substantive consequence row must name a concrete delta or state "none" explicitly. A ledger row that always claims a consequence is a ritual not an instrument. A ledger row that honestly says "none" is discipline. Future framework readers auditing cross-cultural posts should treat the ledger's row-level honesty as the discipline validation signal, not the ledger's mere presence.
 
-## Decision 3 — Brand-asset language replacements at three recurrence locations
+## Decision 3  --  Brand-asset language replacements at three recurrence locations
 
 The framework's `brand-assets/README.md` file describes visual assets used at player-facing surfaces (social media posters; landing page hero imagery; companion graphics for framework posts; brand-identity assets for the SuperGrok Gang system). The Council #4 orchestrator-layer Depth-0 finding identified that a specific brand-signature formula recurs at three locations in the file.
 
@@ -99,7 +99,7 @@ For "quasi-religious framing language" (Nine Sigils poster specifically): retain
 
 The replacements' operational value is that they preserve the brand-differentiation function while preventing the player-facing surface from implying earned cultural-validity or operational understanding that the schema has not yet delivered. The amendments extend across all three recurrence locations, not only the Nine Sigils section Substrate C flagged.
 
-## Decision 4 — Per-NPC-philosophy-profile architecture BANK behind reservation-plus-ablation gate
+## Decision 4  --  Per-NPC-philosophy-profile architecture BANK behind reservation-plus-ablation gate
 
 Substrate D specified a per-NPC-philosophy-profile architecture as the operator-surfaced audible during Council #4. The architecture assigns each NPC its own philosophical outlook that dispatches decision-scoring to a source-derived rule-set. Different NPCs run different mechanical rule-sets. The framework's existing Post 0128 schema-placeholder discipline reserves per-character metadata fields (`cultural_context_tag` plus `intersectional_position_tags[]` plus `identity_stage`); the per-NPC-philosophy-profile architecture would extend this discipline with a new `normative_profile` or `decision_profile` field sibling to `identity_stage` (not overload of `identity_stage` which is domain-specific to Cross-Nigrescence per Post 0128 canonical framing).
 
@@ -111,7 +111,7 @@ The reservation cost is approximately 2 through 5 hours of BUILD-side operator a
 
 The BANK's live reversal branch is Substrate D's `TRANSITIONS-CARRY-ARMOR-RISK` clause. If the ablation gate reveals that transitions between profiles reintroduce armor risk (via deterministic demographic assignment; decorative catalog labels; trauma-triggered toggles; player-facing overclaim) the framework should DEMOTE the per-NPC-philosophy-profile architecture to reservation-only status pending additional operator-side scholarship plus additional cross-cultural community engagement work.
 
-## Decision 5 — Commit-language convention for future commits
+## Decision 5  --  Commit-language convention for future commits
 
 Substrate C identified that public commit messages constitute player-facing language because the repository is openly published. The 2026-06-30 commit message "Ship posts 0124-0128: A5 cross-cultural sequence + delete 19 shipped brief files" implies a completed shippable deliverable while Post 0128 schema-placeholder-status fields remain active.
 
@@ -123,7 +123,7 @@ Historical commit messages are not retroactively edited. The framework's immutab
 
 CC should verify the specific 2026-06-30 commit-message string Substrate C referenced via authenticated `gh` before the convention documentation cites it. The Substrate C flag identified the string via unauthenticated GitHub API which returned partial content; the exact string requires authenticated verification for the convention documentation.
 
-## Decision 6 — SCOPE-OUT external-critic-response validation gap
+## Decision 6  --  SCOPE-OUT external-critic-response validation gap
 
 Substrate B identified that the framework's 14-day retraction pathway is documented as a response promise but empirically unproven at the external-in-tradition-critique response level. The framework's F-13 through F-14 plus F-8 through F-17 examples demonstrate internal canonical-state correction but not external knowledgeable-critic response. The framework's retraction condition is proven at the internal canonical-state scope; it is unproven at the external in-tradition-critic-response scope.
 
@@ -133,7 +133,7 @@ The Decision 2 discipline ledger's Column 3 (substantive consequence) should dis
 
 The SCOPE-OUT plus evidence-class separation language do not close the validation gap. They document the gap explicitly so that the framework's retraction-condition claims are constrained to the internal-canonical-state-correction scope where empirical evidence exists rather than overclaimed to the external-knowledgeable-critic-response scope where empirical evidence is pending.
 
-## Decision 7 — Mbiti epistemic-status annotation in the citations file
+## Decision 7  --  Mbiti epistemic-status annotation in the citations file
 
 Substrate A explicitly disclosed that Mbiti 1969 pages 108 through 109 were not directly accessed by any substrate at Council #4. The "I am because we are" formulation is directly present in Menkiti's 1984 article as a quotation attributed to Mbiti. Mbiti's own primary text at pages 108 through 109 has not been directly verified in the framework's Council methodology corpus at Council #4 close.
 

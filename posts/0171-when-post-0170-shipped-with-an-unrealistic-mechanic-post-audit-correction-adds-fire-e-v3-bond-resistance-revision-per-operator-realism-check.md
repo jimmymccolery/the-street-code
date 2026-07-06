@@ -43,6 +43,13 @@ cross_refs:
 
 # When Post 0170 Shipped with an Unrealistic Mechanic: Post Audit Correction Adds Fire E v3 Bond Resistance Revision per Operator Realism Check
 
+**Author:** Jimmy McColery
+**Date:** 2026-07-05
+**Status:** PUBLISHED. Methodology finding documenting Fire E v2 cooldown mechanic operator rejected as unrealistic + Fire E v3 revision: removed cooldown + reverted base thresholds + added bond-strength modulation using sentiment as bond proxy. Operator-realism-check discipline strengthens to n=12 within-Phase-3. Addendum-preserves-immutability discipline: Post 0170 preserved as historical record + Post 0171 supersedes Fire E scope only.
+
+*Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+
+
 **Date filed:** 2026-07-05 evening
 **Type:** Framework methodology post-audit correction + sub-shape 25 second-fire strengthening
 **Cross-refs:** Post 0167 addendum pattern; Post 0170 original Fires A-F arc (canonical historical record); Post 0164 operator-realism-check discipline

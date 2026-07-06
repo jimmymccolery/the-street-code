@@ -43,6 +43,13 @@ cross_refs:
 
 # Forward-Reference Amendment for Post 0146 Cultural Baselines A/B/C Definitional Divergence vs Code Implementation
 
+**Author:** Jimmy McColery
+**Date:** 2026-07-05
+**Status:** PUBLISHED. Methodology finding documenting Post 0146 paper-layer A/B/C definitions (Kant+Rawls / Confucian / Wiredu-Menkiti-Gyekye) diverge from culturalBaselines.ts code-layer (1955 Northern urban Black church widow / 1972 Midwest Catholic union man / 1980 West Coast secular Jewish professional). Pattern D forward-reference amendment per Post 0167 addendum-preserves-immutability discipline. Sub-shape 28 candidate BANKED at n=1 sub-BANK.
+
+*Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+
+
 **Date filed:** 2026-07-05 evening
 **Type:** Framework methodology post-audit correction addendum (Pattern D per Post 0133 + Post 0150 + Post 0167 + Post 0171 + Post 0172 discipline lineage)
 **Cross-refs:** Post 0146 original ten-layer NPC architecture; Post 0138 KL-divergence empirical validation; Post 0128 WEIRD defaults hiding; Post 0172 Item 0334 retirement addendum precedent

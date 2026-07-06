@@ -47,6 +47,13 @@ cross_refs:
 
 # When My a7Memory Integration Recreated Sub-shape 22 Within the Same Session: Architectural Extension Awareness Discipline Strengthens to n+2 Within-Phase-3
 
+**Author:** Jimmy McColery
+**Date:** 2026-07-05
+**Status:** PUBLISHED. Methodology finding documenting Path B a7Memory tick loop integration Q56 shipped 2026-07-05 evening recreated sub-shape 22 within-same-session. memory field added to SimStateSnapshot but perspective-swap architecture in tickSimB not extended. Silent bug: Sim B memory reset each tick. Operator-requested rigorous audit caught bug. Fix landed in 3 places matching sub-shape 22 discipline. Sub-shape 22 strengthens to n+2 within-Phase-3.
+
+*Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+
+
 **Date filed:** 2026-07-05 evening
 **Type:** Framework methodology post-audit correction + sub-shape 22 strengthening + sub-shape 27 strengthening
 **Cross-refs:** Post 0163 post-synthesis audit discipline; Post 0167 post-audit-correction extension; Post 0168 original sub-shape 22 fire; Post 0171 + 0172 + 0173 recent addendum discipline lineage

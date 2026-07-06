@@ -50,6 +50,13 @@ cross_refs:
 
 # When I Published Post 0169 Referencing a Workflow I Retired a Month Ago: Post Audit Correction Fourth Fire of Verify Against Canonical Files Discipline
 
+**Author:** Jimmy McColery
+**Date:** 2026-07-05
+**Status:** PUBLISHED. Methodology finding documenting Post 0169 + Post 0171 + biographicalRecord.ts + framework-research-index references to retired Item 0334 civil-rights consultant workflow. Class-h verify-against-canonical-files discipline fourth fire (n+4 architecturally severer: CC INTRODUCED retired concept as canonical infrastructure). Retirement executed 2026-07-05 evening; all other guardrails preserved.
+
+*Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+
+
 **Date filed:** 2026-07-05 evening
 **Type:** Framework methodology post-audit correction + verify-against-canonical-files discipline n+4 reproduction
 **Cross-refs:** Post 0167 addendum pattern; Post 0169 original referenced Item 0334 as active infrastructure; Post 0171 also referenced retired workflow in cross-refs; feedback_verify_against_canonical_files.md n+4 reproduction
