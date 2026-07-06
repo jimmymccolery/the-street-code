@@ -8,20 +8,22 @@
 - Rule 20 candidacy Family A empirical foundation at n=19 candidate sub-shapes (sub-shape 24 BANKED post Fires A-F arc: isolation-test-passes-multi-day-integration-fails; sub-shape 25 STRENGTHENED to n=2 within-arc BANK post Fire E v3 revision: multi-iteration-reshape-without-diagnostic-instrumentation-or-operator-realism-check; sub-shape 26 candidate at n=1 sub-BANK: typo-in-conditional-shipped-without-execution-path-test)
 - Operator-realism-check discipline STRENGTHENED to n=12 total within-Phase-3 (Phase 2.7-A biology-of-consciousness + Phase 2.7-C variance-preservation + Phase 2.7-D deferral + Phase 3.2-D Fires A-F eight within-arc reshape fires + Fire E v3 operator rejected cooldown mechanic as unrealistic); SUBSTANTIALLY EXCEEDS canonization threshold
 - Operator-delegated CC ratification discipline n=2 fires
+- Verify-against-canonical-files discipline class-(h) STRENGTHENED to n=4 within-Phase-3 (per feedback_verify_against_canonical_files.md; Item 0334 retirement 2026-06-08 canonized at polish_queue.md:15176 but re-referenced by CC as active canonical infrastructure in Post 0169 + sub-shape 23 memory + Phase 3.2-C code + framework-research-index + Council #8 proposal itself; Post 0172 addendum + retirement executed 2026-07-05 evening)
 
 ## Executive summary
 
-Three discipline candidacies have converged at empirical foundation thresholds strong enough to warrant Council #8 methodology deployment for formal canonization adjudication:
+Four discipline candidacies have converged at empirical foundation thresholds strong enough to warrant Council #8 methodology deployment for formal canonization adjudication:
 
 1. **Rule 20 candidacy Family A — canonization-propagation gap discipline family** — n=19 candidate sub-shapes across framework layers + mechanisms (sub-shape 24 candidate BANKED + sub-shape 25 candidate STRENGTHENED to n=2 within-arc BANK post Fire E v3 revision)
 2. **Operator-realism-check discipline** — STRENGTHENED to n=12 total within-Phase-3; six discrete framework mechanic failures diagnosed via seed=42 empirical validation + resolved sequentially with re-validation between iterations; PLUS Fire E v3 operator rejected cooldown mechanic as unrealistic; substantially exceeds canonization threshold
 3. **Operator-delegated CC ratification discipline** — n=2 fires (Council #7 candidacy Phase 2.6 spec + character design workflow Option C ratification)
+4. **Verify-against-canonical-files discipline class-(h)** — STRENGTHENED to n=4 within-Phase-3 per feedback_verify_against_canonical_files.md; Item 0334 civil-rights consultant workflow retirement 2026-06-08 canonized at polish_queue.md:15176 but re-referenced by CC as active canonical infrastructure 4× (2026-06-08 PM Marcus Reed mis-framing + 2026-06-10 evening deployment-kit "ready-to-deploy" + 2026-06-10 PM Phase 7.1f Stage 4 "implicit delegation" + 2026-07-05 morning-evening sub-shape 23 memory authorship + Phase 3.2-C code + Post 0169 + Post 0171 + framework-research-index + this Council #8 proposal itself — n+4 architecturally SEVERER: CC INTRODUCED retired concept as canonical infrastructure); Post 0172 post-audit correction + retirement executed 2026-07-05 evening; Council #8 adjudication should formalize class-(h) discipline at operational_discipline_rules level ("CC may not interpret operator's general autonomous-execution authorization as substantive RATIFICATION-LEVEL decision authority for canonical-state changes; explicit operator signature/ratification gates apply distinctly from execution-direction delegation; memory-authorship discipline must verify canonical-infrastructure references against polish_queue.md + retirement dispositions before writing")
 
 Plus one adjacent discipline extension that emerged from applying rigorous 6-dimension grading rubric to morning work:
 
-4. **Post-audit-correction discipline extension** — extends Post 0163 post-synthesis audit from BUILD-time scope to post-publication scope; formalizes addendum-post-preserves-immutability pattern
+5. **Post-audit-correction discipline extension** — extends Post 0163 post-synthesis audit from BUILD-time scope to post-publication scope; formalizes addendum-post-preserves-immutability pattern (Post 0167 first fire + Post 0171 Fire E v3 revision + Post 0172 Item 0334 retirement = n=3 fires within Phase 3 arc)
 
-This document consolidates the four candidacies into a single deployment proposal for Council #8.
+This document consolidates the five candidacies into a single deployment proposal for Council #8.
 
 ## Rule 20 candidacy Family A — canonization-propagation gap discipline
 
