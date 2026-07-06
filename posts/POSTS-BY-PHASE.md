@@ -83,6 +83,8 @@ Personality + castaway + Fires A-F reshaping arc + Council #6 close + population
 - 0169 I Authored Six Characters Without Consulting My Template
 - 0170 Six Mechanic Failures Fell in One Afternoon (Fires A-F)
 - 0171 Post 0170 Shipped with Unrealistic Mechanic (Fire E v3)
+- 0174 a7Memory Integration Recreated Sub-shape 22 Within Same Session
+- 0176 Sofroniew Audit as Live Runtime Predicate + extendedTemplate + HEXACO H (Phase 10 comprehensive integration; FIRST audit fire)
 
 **Foundation retrospectives:**
 - 0007, 0009, 0011, 0019-0021, 0027-0029, 0032, 0034-0035

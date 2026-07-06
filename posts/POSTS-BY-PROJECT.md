@@ -45,6 +45,8 @@ Sim AI substrate — HEXACO + attachment + memory architecture + personality par
 - 0168 Follow-up Audit Found Five Bugs Mine Missed
 - 0170 Six Mechanic Failures Fell in One Afternoon: Fires A-F
 - 0171 Post 0170 Shipped with Unrealistic Mechanic: Fire E v3
+- 0174 a7Memory Integration Recreated Sub-shape 22 Within Same Session
+- 0176 Sofroniew Audit as Live Runtime Predicate + extendedTemplate + HEXACO H (Phase 10 comprehensive; FIRST runtime audit fire)
 
 **Framework research (deferred / Phase-4+) — 2 posts (list authoritative):**
 - 0130 Reserved Relationship-Mode Slot Schema Placeholder

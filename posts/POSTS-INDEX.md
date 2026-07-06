@@ -165,14 +165,15 @@
 0173 | 2026-07-05 | Post 0146 Cultural Baselines A/B/C Divergence Amendment   | proj:sim-ai,street-code | task:canonization-propagation,cross-cultural-personhood | phase:era-independent | discipline:Rule-20-Family-A-canonization-propagation | status:published | supersedes:0146-A-B-C-labels-partial
 0174 | 2026-07-05 | a7Memory Integration Recreated Sub-shape 22 Within Same Session | proj:sim-ai,street-code | task:canonization-propagation,methodology-research | phase:Phase-3 | discipline:Rule-20-Family-A-canonization-propagation | status:published | supersedes:0168-empirical-foundation-count-partial
 0175 | 2026-07-05 | Council #8 Canonized 5 Rules + Policy + Split-Retire-Reduce + Falsification Clause | proj:street-code,master-setup,cross-cutting | task:canonization,council-methodology,framework-rule-promotion | phase:era-independent | discipline:Council-Methodology-Deployment,Rule-14-ADOPT-FOLD,Rule-14-Pattern-D-ORCHESTRATOR-CUSTOM,Rule-20-through-24-canonization,Operator-Delegated-CC-Ratification-Policy,Split-Retire-Reduce-Mechanism,Falsification-Clause-Requirement,Session-Close-Discipline-Extension | status:published | supersedes:none
+0176 | 2026-07-06 | Sofroniew Audit as Live Runtime Predicate + extendedTemplate + HEXACO H Independent Bond-Resistance: FIRST Audit Fire | proj:sim-ai,street-code,cross-cutting | task:sim-ai-implementation,sofroniew-audit-runtime,extended-template-wiring,empirical-validation | phase:Phase-3,Phase-10 | discipline:H-NEW-3-implementation,H-NEW-5-implementation,Sofroniew-Surface-8-runtime,Marcus-Reed-audit,Post-0146-Layer-8-runtime,candidate-sub-shape-declared-vs-observed-variance-drift | status:published | supersedes:none
 ```
 
 ---
 
 ## Statistics (verified via grep 2026-07-05 evening post-audit)
 
-**Total posts:** 172 (post_id range 0001-0175; gaps at 0107-0109)
-**v2.0 CC-OPTIMIZED-SUMMARY blocks present:** 172 (100%; all posts retrofitted; 0173 + 0174 + 0175 shipped with v2.0 block at authorship time)
+**Total posts:** 173 (post_id range 0001-0176; gaps at 0107-0109)
+**v2.0 CC-OPTIMIZED-SUMMARY blocks present:** 173 (100%; all posts retrofitted; 0173 + 0174 + 0175 + 0176 shipped with v2.0 block at authorship time)
 
 **Project scope distribution (posts tagged with each scope in any position; sum exceeds 169 due to multi-scope tagging):**
 - street-code: 66

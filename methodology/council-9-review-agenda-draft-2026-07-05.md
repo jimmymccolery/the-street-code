@@ -131,6 +131,16 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Did any AP #34 fires escape the count-ledger requirement (tracking-surface authorship without proper ledger)?
 - Was 6-dimension grading rubric (Rule 24) applied to tracking-surface authorship at load-bearing scope?
 
+### Item 10 — Candidate sub-shape declared-vs-observed variance-drift (Phase 10 empirical fire 2026-07-06)
+
+**Filed n=1 at Phase 10 close via Post 0176.** FIRST Sofroniew Surface 8 audit fire at runtime; homogenization signal fired for BOTH Sam Nguyen + Frank Wojcik anchors at seed=42 (observed within 0.880 vs declared within 0.35 and 0.30 respectively; between 0.120 vs declared 0.61 and 0.65). Candidate sub-shape distinct from prior Rule 20 Family A + Rule 21 realism-check + Rule 23 ground-your-state-externally at Sofroniew-audit-runtime architectural layer. Council #9 review questions:
+
+- Did any additional declared-vs-observed variance-drift fires accumulate between Council #8 and Council #9 review window?
+- Which of three candidate root-cause hypotheses (aspirational declaration + survival-mechanic dominance + wrong observation surface) does subsequent empirical evidence support?
+- Should this promote to Rule 26 candidacy (anchor-authoring-realism-check-via-live-Sofroniew-audit) or absorb into Rule 21 as sub-clause (operator-realism-check for declared varianceDecomposition values before content lock)?
+- Should anchor-authoring discipline canonize live Sofroniew audit consultation as pre-lock gate at Marcus Reed Surface 8 §4 retrospective canon audit scope?
+- Alternative reduction-move consideration: should Layer 3 dimensions be augmented or replaced with action-frequency-histogram observation surface to see between-character differentiation more strongly?
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
