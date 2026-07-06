@@ -126,7 +126,7 @@ cross_refs:
 -->
 ```
 
-**Status:** 41 posts have v1.0 blocks as of 2026-07-05 evening. Retrofit of 128 posts to v1.0+ blocks scheduled.
+**Status (post-retrofit 2026-07-05 evening):** All 169 posts have v2.0 blocks (100% coverage). 4 supersession chains active plus 2 extended chains (Chain 4a for 5 Item 0334 partial supersessions; Chain 4b for 2 sim-ai extraction path partial supersessions). See `POSTS-SUPERSESSION-CHAIN.md` for full detail.
 
 ---
 
