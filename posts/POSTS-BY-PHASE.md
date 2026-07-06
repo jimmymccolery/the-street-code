@@ -25,6 +25,9 @@ Posts that apply regardless of framework phase. These are the highest-value post
 **Post-audit-correction:**
 0163, 0167, 0171, 0172
 
+**Cross-consumer typecheck discipline:**
+0178 (latent LandmarkEvent bug caught by consumer's pre-commit hook + sub-shape 22 n+3)
+
 ---
 
 ## Phase-1 (51 posts; grep-verified)
