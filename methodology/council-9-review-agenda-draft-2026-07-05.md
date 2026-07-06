@@ -222,6 +222,36 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the pattern promote AT n=800 (single-anchor evidence at strong empirical foundation) OR require cross-anchor reproduction (n=2 anchors demonstrating similar pattern)?
 - Related to the meta-analysis-sweep-harness reusable pattern (see Council 9 Item 19 candidate below); the discovery pathway itself required the sweep harness which suggests coupled canonization consideration
 
+### Item 22 — Candidate methodology observation wall-clock-test-tolerance-under-scaled-concurrent-load discipline (Post 0184 n=1 fire)
+
+**Filed n=1 at Post 0184 2026-07-06 Tuesday afternoon.** H32g wall-clock scaling test at sim-ai/src/sim-ai/worlds/island/scale/phaseDMeasurement.test.ts line 120 assertion `expect(result.wallClockMs.max).toBeLessThan((result.wallClockMs.median || 0.01) * 500)` fires at max approximately 22ms vs threshold approximately 11ms under parallel-load execution with 1026-test-count concurrent baseline. Test passes reliably 26 of 26 at isolated execution + 1026 of 1026 at --no-file-parallelism serial execution. Post 0184 schema hygiene arc +25 provenance tests (2.5% concurrent-load increase) surfaced the pre-existing CI-noise sensitivity; my changes are pure type-system additions with no wall-clock impact on Phase D measurement code paths. Flake is CI-concurrency-induced not algorithmic-regression-induced. Council #9 review questions:
+
+- Should wall-clock timing tests require concurrent-load-realistic thresholds beyond order-of-magnitude blow-up detection (median × 500 approaches order-of-magnitude sensitivity at concurrent-load-induced GC pause margin)?
+- Should wall-clock tests require isolated-pool CI configuration to preserve tight tolerances at framework CI configuration?
+- Should wall-clock-based order-of-magnitude blow-up detection be replaced with different empirical signal (memory-footprint growth ratio + operations-per-tick allocation-count instrumentation)?
+- Does the discipline extend to other Phase D scaling tests + Phase 2.x-8 tests carrying wall-clock assertions?
+- Should the discipline absorb into Rule 20 read-side sub-shape family covering wall-clock-test-tolerance-under-scaled-concurrent-load as canonization-propagation-gap fire?
+
+### Item 23 — Candidate methodology observation provenance-centralization-anti-drift discipline (Post 0184 n=1 fire)
+
+**Filed n=1 at Post 0184 2026-07-06 Tuesday afternoon.** Post 0183 Item 0334 rename operation at sim-ai touched 5 code files + 5 test files carrying provenance enum literal declarations. Post 0184 centralization at src/sim-ai/provenance.ts collapses 7 inline provenance union declarations to 2 imports (biographicalRecord.ts IdentityStageMarker + ThreeLayerOrientation + 3 SofroniewAudit declarations + culturalBaselines.ts PaperLayerBaselineStub + PerTraditionPrimitive) + ships framework-wide canonical enum registrations ALL_SCHEMA_RESERVATION_PROVENANCE + ALL_AUDIT_PROVENANCE enabling regression-test-time drift verification. Future retired-workflow-recurrence-remediation now has single-file rename semantics instead of multi-file sed cascade. Council #9 review questions:
+
+- Does framework-wide canonical enum registration plus regression-test-time-drift-verification promote to canonical schema-hygiene pattern for future protected-class-adjacent registries?
+- Should the pattern extend to other framework enum surfaces beyond provenance (FormativeEventType + Era + PriorOccupation + BondType at biographical schema; EventId + ActionId at eventTaxonomy + actionSpace; MemoryHorizon at a7Memory; etc.)?
+- Should the pattern absorb into Rule 19 anti-fabrication as sibling discipline covering enum-drift as fabrication-adjacent risk?
+- Should the pattern promote to canonical schema-hygiene discipline sibling to sub-shape 23 canonical-infrastructure-consultation-before-character-authoring?
+- Related to Item 22 wall-clock-test-tolerance discipline: regression-test-time drift verification adds tests; wall-clock threshold discipline may need loosening to accommodate ongoing test-count growth
+
+### Item 24 — Candidate methodology observation comment-metadata-to-typed-field promotion discipline (Post 0184 n=1 fire)
+
+**Filed n=1 at Post 0184 2026-07-06 Tuesday afternoon.** civilRightsFrameworkApplicable promoted from comment-metadata at anchor definition headers to required boolean field on BiographicalRecord interface. Population from operator-authored Item 1134-1139 metadata verbatim preserving Rule 19 anti-fabrication compliance. Runtime benefit: compile-time deterministic Marcus Reed 6-protected-class extension gating replacing prior comment-only assertion. Council #9 review questions:
+
+- Should the pattern promote to canonical schema-hygiene discipline for framework runtime-gating flags currently in comment-metadata state?
+- What other framework flags qualify (checking for existing comment assertions on anchor headers or module headers that gate runtime behavior)?
+- Should the pattern extend to sub-shape 23 canonical-infrastructure-consultation discipline covering typed-field promotion as pre-content-authoring-workflow gate?
+- Should typed-field promotion be REQUIRED or OPTIONAL at framework methodology scope (Post 0184 chose required which forces test-fixture updates but enforces gating universally)?
+- Related to Item 23 provenance-centralization discipline: typed-field promotion + centralized enum + regression-test verification are complementary schema-hygiene patterns
+
 ### Item 19 — Candidate methodology observation meta-analysis-sweep-harness as reusable pattern for session-close discipline extension (Post 0182 n=1 fire)
 
 **Filed n=1 at Post 0182 2026-07-06 Tuesday afternoon.** The Phase 14 meta-analysis harness at sim-ai/scripts/phase14-pinboy-meta-analysis-sweep.ts executed 2000 simulations at 1.1 second wall clock demonstrating that post-arc empirical confirmation gate is inexpensive session-close discipline extension. Similar in spirit to Post 0178 cross-consumer typecheck extension for session-close (7th stage candidacy). Harness is parameterized on ANCHORS array + SEEDS constant + dyad ordering enumeration; scales linearly to 20-anchor scale at ~20 second wall clock. Candidate discipline: "Any Sim AI comprehensive-arc close involving anchor addition or Scene mechanic modification SHOULD execute meta-analysis sweep as session-close discipline extension analogous to Post 0178 cross-consumer typecheck extension." Council #9 review questions:
