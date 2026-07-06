@@ -1,0 +1,228 @@
+# The Street Code — POSTS-INDEX.md (CC-Scan Layer 1: Master Flat Index)
+
+**Purpose:** Fast-grep master index for CC scan efficiency. One line per post. All 169 posts (0001-0172; three post_id gaps at 0107-0109). CC greps this file to filter by project/task/phase/discipline before opening specific posts.
+
+**Format:** `{post_id} | {date} | {title (60ch)} | proj:{scope} | task:{cc-task} | phase:{binding} | discipline:{family} | status:{state}`
+
+**Layer 1 (this file):** Global flat filterable index — greppable in ~50KB
+**Layer 2:** Specialized views at `POSTS-BY-{PROJECT|CC-TASK|PHASE|DISCIPLINE|SUPERSESSION}.md`
+**Layer 3:** Per-post `CC-OPTIMIZED-SUMMARY` blocks (grep `CC-OPTIMIZED-SUMMARY` inside post files for 200-400 word structured distillations)
+**Layer 4:** Full post bodies (2000-2600 words each; final fallback)
+
+**Scan protocol:** See `CC-SCAN-PROTOCOL.md` for how CC should navigate the 4-layer pyramid.
+
+---
+
+## Master Index
+
+```
+0001 | 2026-05-02 | Experiment 1: Does Discipline Survive Substrate?          | proj:street-code | task:empirical-BUILD,substrate-methodology | phase:Phase-1 | discipline:Rule-14-Madisonian | status:published
+0002 | 2026-05-02 | Experiment 5: Where the Discipline Framework Bound        | proj:street-code | task:empirical-BUILD,substrate-methodology | phase:Phase-1 | discipline:Rule-14-Madisonian | status:published
+0003 | 2026-05-03 | The Rule Fired During Its Own Promotion                   | proj:street-code | task:empirical-BUILD,discipline-enforcement | phase:Phase-1 | discipline:Rule-19-anti-fabrication | status:published
+0004 | 2026-05-03 | Three Runs at the Asymptote                               | proj:street-code | task:empirical-BUILD,substrate-methodology | phase:Phase-2 | discipline:Rule-11-substrate-specialization | status:published
+0005 | 2026-05-04 | How a Personal AI Discipline Framework Earns First Rules  | proj:street-code | task:methodology-research,discipline-enforcement | phase:Phase-1 | discipline:Rule-14-Madisonian | status:published
+0006 | 2026-05-04 | What Auditing the Audit Taught Me About Substrate Routing | proj:street-code | task:substrate-methodology,methodology-research | phase:Phase-2 | discipline:Rule-11-substrate-specialization | status:published
+0007 | 2026-05-04 | When the Architecture Worked: Two-Cycle Validation        | proj:street-code | task:empirical-BUILD,verification-validation | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published
+0008 | 2026-05-04 | When Deployment Outpaces Decisions                        | proj:street-code | task:empirical-BUILD,methodology-research | phase:Phase-1 | discipline:verify-against-canonical-files | status:published
+0009 | 2026-05-04 | When Verification Catches Itself: Audit Chain             | proj:street-code | task:verification-validation,methodology-research | phase:Phase-3 | discipline:verify-against-canonical-files | status:published
+0010 | 2026-05-04 | When the AI Fires Your Own Discipline                     | proj:street-code | task:discipline-enforcement,methodology-research | phase:Phase-1 | discipline:anti-fabrication | status:published
+0011 | 2026-05-06 | What Cross-Substrate Audit Surfaced                       | proj:street-code | task:verification-validation,substrate-methodology | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published
+0012 | 2026-05-06 | Archive Review as Methodology                             | proj:street-code | task:methodology-research,framework-research | phase:Phase-1 | discipline:verify-against-canonical-files | status:published
+0013 | 2026-05-07 | Reflection as Methodology Research Discipline             | proj:street-code | task:methodology-research,discipline-enforcement | phase:Phase-1 | discipline:post-audit-correction | status:published
+0014 | 2026-05-07 | When to Build Cross-Project Shared Infrastructure         | proj:cross-cutting | task:methodology-research,framework-research | phase:era-independent | discipline:none-applicable | status:published
+0015 | 2026-05-07 | Discipline as Substrate, AI Capabilities as Swappable    | proj:street-code | task:framework-research,substrate-methodology | phase:era-independent | discipline:Rule-11-substrate-specialization | status:published
+0016 | 2026-05-07 | Design-Based Research on AI-Assisted Personal Practice    | proj:street-code | task:methodology-research,framework-research | phase:Phase-1 | discipline:none-applicable | status:published
+0017 | 2026-05-07 | Recovery-from-Drift as Framework Discipline               | proj:street-code | task:empirical-BUILD,discipline-enforcement | phase:Phase-1 | discipline:verify-against-canonical-files | status:published
+0018 | 2026-05-07 | What Running on Auto-Pilot Revealed                       | proj:street-code | task:empirical-BUILD,discipline-enforcement | phase:Phase-1 | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0019 | 2026-05-08 | When the Audit Substrate Isnt Independent Enough         | proj:street-code | task:substrate-methodology,verification-validation | phase:Phase-3 | discipline:Rule-11-substrate-specialization | status:published
+0020 | 2026-05-09 | When Council of Three's Third Leg Is Wrong                | proj:street-code | task:empirical-BUILD,verification-validation | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published
+0021 | 2026-05-09 | When a Verification Arc Doesnt Close on First Try        | proj:street-code | task:verification-validation,discipline-enforcement | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published
+0022 | 2026-05-09 | When The Stacks: Article-Stacking Discipline              | proj:street-code | task:discipline-enforcement,methodology-research | phase:Phase-1 | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0023 | 2026-05-09 | Verification-Query Precision                              | proj:street-code | task:verification-validation,discipline-enforcement | phase:Phase-1 | discipline:verify-against-canonical-files | status:published
+0024 | 2026-05-09 | Recursive Scope-Gap: When Corrections Generate Fires      | proj:street-code | task:empirical-BUILD,discipline-enforcement | phase:Phase-1 | discipline:post-audit-correction | status:published
+0025 | 2026-05-09 | Drafting-Drift Canonical Promotion Arc                    | proj:street-code | task:empirical-BUILD,anti-fabrication | phase:Phase-1 | discipline:verify-against-canonical-files | status:published
+0026 | 2026-05-07 | Operational Discipline Rules: Five Canonized              | proj:street-code | task:discipline-enforcement,framework-research | phase:Phase-1 | discipline:Rule-14-Madisonian | status:published
+0027 | 2026-05-10 | Council of Three Outcome Patterns                         | proj:street-code | task:empirical-BUILD,verification-validation | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published
+0028 | 2026-05-10 | Cross-Session Validation Sections                         | proj:street-code | task:canonization-propagation,framework-research | phase:Phase-3 | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0029 | 2026-05-10 | Bundled-Canonization-Correction                           | proj:street-code | task:canonization-propagation,discipline-enforcement | phase:Phase-3 | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0030 | 2026-05-10 | Apply-Time Verification: Five Sub-Disciplines             | proj:street-code | task:discipline-enforcement,methodology-research | phase:Phase-1 | discipline:verify-against-canonical-files | status:published
+0031 | 2026-05-10 | Four Things Canonical Record Couldnt Tell Me             | proj:street-code | task:discipline-enforcement,methodology-research | phase:Phase-1 | discipline:verify-against-canonical-files | status:published
+0032 | 2026-05-10 | Closing the Canonization-Scope Asymmetry                  | proj:street-code | task:canonization-propagation,discipline-enforcement | phase:Phase-3 | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0033 | 2026-05-10 | Five Fires of #18: Schema Documentation Alone            | proj:street-code | task:empirical-BUILD,discipline-enforcement | phase:Phase-3 | discipline:operator-realism-check | status:published
+0034 | 2026-05-10 | When Recovery Layer Catches Substrate Self-Reports       | proj:street-code | task:empirical-BUILD,verification-validation | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published
+0035 | 2026-05-10 | Methodology Refinements at Validation Edge                | proj:street-code | task:methodology-research,verification-validation | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published
+0036 | 2026-05-24 | Why PKCE Magic Link Needs Click-to-Confirm Interstitial   | proj:roomtolife | task:empirical-BUILD,deployment-verification | phase:Phase-2 | discipline:operator-realism-check | status:published
+0037 | 2026-05-24 | Cyberduck Is Single-Pane and Port 22 Isnt Actually Open  | proj:cross-cutting | task:empirical-BUILD,deployment-verification | phase:Phase-2 | discipline:operator-realism-check | status:published
+0038 | 2026-05-24 | Practitioner-Validated Patterns Beat Research Verdicts    | proj:roomtolife | task:methodology-research,empirical-BUILD | phase:Phase-2 | discipline:none-applicable | status:published
+0039 | 2026-05-24 | Cross-Substrate Triangulation as Solo-Indie Methodology   | proj:cross-cutting | task:multi-substrate-audit,methodology-research | phase:era-independent | discipline:Rule-11-substrate-specialization | status:published
+0040 | 2026-05-24 | What the Gang Actually Does and Whats Theater            | proj:cross-cutting | task:multi-substrate-audit,methodology-research | phase:era-independent | discipline:Rule-11-substrate-specialization | status:published
+0041 | 2026-05-27 | 13 Architectural-Lock Cycles in 7 Days                    | proj:pin-paradise | task:methodology-research,character-authoring | phase:Phase-1 | discipline:Rule-14-Madisonian | status:published
+0042 | 2026-05-27 | We Shipped Multi-Lane Bowling in One Day                  | proj:pin-paradise | task:empirical-BUILD | phase:Phase-1 | discipline:none-applicable | status:published
+0043 | 2026-05-27 | 7-Phase Architectural Refactor Decomposition              | proj:pin-paradise | task:empirical-BUILD | phase:Phase-1 | discipline:none-applicable | status:published
+0044 | 2026-05-27 | Bowler-Off-Lane-Spawn Bug: R3F+Zustand Interaction        | proj:pin-paradise | task:empirical-BUILD | phase:Phase-2 | discipline:none-applicable | status:published
+0045 | 2026-05-27 | The 12-Cent Proposition (Bowling History 1957)            | proj:street-code | task:canonization-propagation | phase:era-independent | discipline:none-applicable | status:published
+0046 | 2026-05-27 | The 1960s Bowling Bubble                                  | proj:street-code | task:canonization-propagation | phase:era-independent | discipline:none-applicable | status:published
+0047 | 2026-05-27 | Bowling and the Volcker Shock                             | proj:street-code | task:canonization-propagation | phase:era-independent | discipline:none-applicable | status:published
+0048 | 2026-05-31 | What 10 Indie Tycoon Games Taught Me About V1 Scope       | proj:pin-paradise | task:methodology-research | phase:Phase-1 | discipline:none-applicable | status:published
+0049 | 2026-05-31 | Design Mode and Code Mode Are Different Work Classes      | proj:cross-cutting | task:methodology-research,discipline-enforcement | phase:era-independent | discipline:none-applicable | status:published
+0050 | 2026-05-31 | Canonical-Content Reproduction Works Substrate Self-Att   | proj:cross-cutting | task:multi-substrate-audit,discipline-enforcement | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published
+0051 | 2026-05-31 | Atomic Zustand State Machines                             | proj:pin-paradise | task:empirical-BUILD | phase:Phase-2 | discipline:none-applicable | status:published
+0052 | 2026-05-31 | Camera Coordinates Dont Belong in Your Store             | proj:pin-paradise | task:empirical-BUILD | phase:Phase-2 | discipline:none-applicable | status:published
+0053 | 2026-05-31 | Don Carters $1 Million Ebonite Deal                       | proj:street-code | task:canonization-propagation | phase:era-independent | discipline:none-applicable | status:published
+0054 | 2026-05-31 | Statistical Bowling Without Physics                       | proj:pin-paradise | task:empirical-BUILD | phase:Phase-2 | discipline:none-applicable | status:published
+0055 | 2026-05-31 | Multi-Entity Rapier Physics: Per-Lane Collision Groups    | proj:pin-paradise | task:empirical-BUILD | phase:Phase-2 | discipline:none-applicable | status:published
+0056 | 2026-05-31 | Mechanic as New Friction Class                            | proj:street-code | task:canonization-propagation | phase:era-independent | discipline:none-applicable | status:published
+0057 | 2026-05-31 | When to Accept a V1 Bug                                   | proj:pin-paradise | task:discipline-enforcement | phase:Phase-1 | discipline:none-applicable | status:published
+0058 | 2026-05-31 | Catching AI Hallucinations in Game Research               | proj:cross-cutting | task:multi-substrate-audit,methodology-research | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published
+0059 | 2026-05-31 | The X-Calibur Disruption 1991                             | proj:street-code | task:canonization-propagation | phase:era-independent | discipline:none-applicable | status:published
+0060 | 2026-05-31 | Recursive 4-Layer Catch Cascade                           | proj:cross-cutting | task:multi-substrate-audit,discipline-enforcement | phase:era-independent | discipline:Rule-11-substrate-specialization | status:published
+0061 | 2026-05-31 | Substrate Roles in Multi-Substrate Research               | proj:cross-cutting | task:methodology-research,multi-substrate-audit | phase:era-independent | discipline:Rule-11-substrate-specialization | status:published
+0062 | 2026-05-31 | When the AIs Were Right                                   | proj:pin-paradise | task:methodology-research,character-authoring | phase:Phase-1 | discipline:none-applicable | status:published
+0063 | 2026-05-31 | Loose-End Audits as Post-Commit Canonical-State Hygiene  | proj:cross-cutting | task:discipline-enforcement,methodology-research | phase:era-independent | discipline:none-applicable | status:published
+0064 | 2026-06-01 | The Pinsetter Wars 1951-1956                              | proj:street-code | task:canonization-propagation | phase:era-independent | discipline:none-applicable | status:published
+0065 | 2026-06-01 | Real-Time Friction as Design Philosophy                   | proj:pin-paradise | task:methodology-research | phase:Phase-1 | discipline:none-applicable | status:published
+0066 | 2026-06-01 | The Northfield Lanes Family Boom                          | proj:street-code | task:canonization-propagation | phase:era-independent | discipline:none-applicable | status:published
+0067 | 2026-06-01 | The Kegel Sanction Machine 1988                           | proj:street-code | task:canonization-propagation | phase:era-independent | discipline:none-applicable | status:published
+0068 | 2026-06-01 | Composition Over Modification: Multi-System Games         | proj:pin-paradise | task:methodology-research | phase:Phase-1 | discipline:none-applicable | status:published
+0069 | 2026-06-01 | Pinboy-Pinsetter Mechanic Inheritance                     | proj:pin-paradise | task:character-authoring,methodology-research | phase:Phase-1 | discipline:none-applicable | status:published
+0070 | 2026-06-05 | The Marcus Reed Protocol                                  | proj:cross-cutting | task:marcus-reed-audit,anti-fabrication,character-authoring | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published | v1-block:yes
+0071 | 2026-06-09 | Orchestrator-Class Pattern-Matching from Proximal Signals | proj:sim-ai,cross-cutting | task:operator-realism-check,anti-fabrication | phase:era-independent | discipline:operator-realism-check | status:published
+0072 | 2026-06-09 | Dont Pre-Screen Chapters: Sequential-Completion Discipline| proj:cross-cutting | task:methodology-research,empirical-BUILD | phase:era-independent | discipline:verify-against-canonical-files | status:published
+0073 | 2026-06-09 | Three Legitimate Play Modes: Rewards Not Gates            | proj:pin-paradise | task:character-authoring,empirical-BUILD | phase:Phase-1 | discipline:none-applicable | status:published
+0074 | 2026-06-09 | Cross-Player Tournaments Without Central Servers          | proj:pin-paradise | task:empirical-BUILD,deployment-verification | phase:Phase-2 | discipline:none-applicable | status:published
+0075 | 2026-06-09 | Institutional Evolution as Game Constraint (PBA/USBC)     | proj:pin-paradise | task:empirical-BUILD,methodology-research | phase:Phase-3 | discipline:none-applicable | status:published
+0076 | 2026-06-09 | Five Scopes of Canonical-State Verification               | proj:cross-cutting | task:anti-fabrication,operator-realism-check | phase:era-independent | discipline:Rule-14-Madisonian | status:published
+0077 | 2026-06-09 | Substrate-Validation-Theater Under Artifact Audit         | proj:cross-cutting | task:anti-fabrication,operator-realism-check | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published
+0078 | 2026-06-09 | Two-Layer Scope Blindness: Multi-Hour Session Matrix      | proj:cross-cutting | task:methodology-research,operator-realism-check | phase:era-independent | discipline:none-applicable | status:published
+0079 | 2026-06-09 | Aesthetic as Architecture: Cross-Product Ecosystem Coherence | proj:street-code,roomtolife,pin-paradise,90s-life-builder | task:character-authoring,framework-research | phase:Phase-1 | discipline:none-applicable | status:published
+0080 | 2026-06-09 | Per-Decade Trophy Presentation Conventions                | proj:pin-paradise | task:empirical-BUILD,methodology-research | phase:Phase-3 | discipline:none-applicable | status:published
+0081 | 2026-06-10 | Why an Indie Bowling Game Has a Philosophy of Mind        | proj:pin-paradise | task:character-authoring,personality-architecture | phase:Phase-1 | discipline:none-applicable | status:published | v1-block:yes
+0082 | 2026-06-10 | Two-Axis Substrate-Style Preservation                     | proj:cross-cutting | task:methodology-research,empirical-BUILD | phase:era-independent | discipline:Rule-11-substrate-specialization | status:published
+0083 | 2026-06-10 | Substrate-Style Differential at n=10+                     | proj:cross-cutting | task:methodology-research,empirical-BUILD | phase:era-independent | discipline:Rule-14-Madisonian | status:published
+0084 | 2026-06-10 | Cite the Process Theory: Active Inference Falsifiability  | proj:sim-ai | task:character-authoring,personality-architecture | phase:Phase-1 | discipline:none-applicable | status:published
+0085 | 2026-06-10 | Seven Substrates + Anti-Confirmation-Bias Framing         | proj:cross-cutting | task:methodology-research,operator-realism-check | phase:era-independent | discipline:Rule-14-Madisonian | status:published
+0086 | 2026-06-10 | CC-Side Freshness-Amendment Drift                         | proj:cross-cutting | task:anti-fabrication,operator-realism-check | phase:era-independent | discipline:Rule-14-Madisonian | status:published
+0087 | 2026-06-10 | Arc Close Retrospective: Four Same-Arc Rounds             | proj:sim-ai,cross-cutting | task:methodology-research,canonization-propagation | phase:era-independent | discipline:Rule-14-Madisonian | status:published | v1-block:yes
+0088 | 2026-06-10 | Architecturally Finished Claim Correction                 | proj:cross-cutting | task:operator-realism-check,anti-fabrication | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published
+0089 | 2026-06-10 | Explicit Pre-Synthesis Verification Trail                 | proj:cross-cutting | task:operator-realism-check,anti-fabrication | phase:era-independent | discipline:Rule-14-Madisonian | status:published
+0090 | 2026-06-10 | Five Substrates and One Research Question                 | proj:sim-ai,cross-cutting | task:methodology-research,canonization-propagation | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published | v1-block:yes
+0091 | 2026-06-10 | Fix-Cycle Surface Drift Verification Gate                 | proj:cross-cutting | task:methodology-research,anti-fabrication | phase:era-independent | discipline:verify-against-canonical-files | status:published
+0092 | 2026-06-10 | Three Arcs for One Anchor: Canonical Element Validation   | proj:cross-cutting,street-code | task:methodology-research,canonization-propagation | phase:era-independent | discipline:none-applicable | status:published
+0093 | 2026-06-10 | Within-Decade Dual Deployment Controlled Experiment       | proj:cross-cutting | task:methodology-research,empirical-BUILD | phase:era-independent | discipline:none-applicable | status:published
+0094 | 2026-06-10 | Substrate-Emergent META-Rule Synthesis                    | proj:cross-cutting | task:empirical-BUILD,operator-realism-check | phase:era-independent | discipline:none-applicable | status:published
+0095 | 2026-06-10 | Marcus Reed Tier 2: Substrate Extends Discipline          | proj:sim-ai,cross-cutting | task:marcus-reed-audit,anti-fabrication | phase:era-independent | discipline:Rule-20-Family-A-canonization-propagation | status:published | v1-block:yes
+0096 | 2026-06-10 | Parity of Record, Singularity of Action                   | proj:sim-ai,open-alley | task:framework-research,personality-architecture | phase:Phase-2 | discipline:none-applicable | status:published
+0097 | 2026-06-10 | Cross-Model-Family Backbone Diversity                     | proj:cross-cutting | task:empirical-BUILD,operator-realism-check | phase:era-independent | discipline:Rule-14-Madisonian | status:published
+0098 | 2026-06-10 | Rule 17 Canonization Arc                                  | proj:cross-cutting,street-code | task:canonization-propagation,methodology-research | phase:era-independent | discipline:none-applicable | status:published
+0099 | 2026-06-10 | Substrate Soft-Validation Overreach                       | proj:cross-cutting | task:anti-fabrication,methodology-research | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published
+0100 | 2026-06-10 | Self-Delivery as Marcus Reed Structural Mitigation        | proj:sim-ai | task:marcus-reed-audit,personality-architecture | phase:Phase-1 | discipline:Rule-20-Family-A-canonization-propagation | status:published | v1-block:yes
+0101 | 2026-06-10 | Cumulative-Set Demographic Coding                         | proj:sim-ai | task:marcus-reed-audit,personality-architecture | phase:Phase-1 | discipline:Rule-20-Family-A-canonization-propagation | status:published | v1-block:yes
+0102 | 2026-06-10 | Convergent Substrate Signal as Escalation Trigger         | proj:cross-cutting | task:methodology-research,operator-realism-check | phase:era-independent | discipline:Rule-14-Madisonian | status:published
+0103 | 2026-06-10 | Substrates Name Design Tensions Architecture Cannot Solve | proj:cross-cutting | task:framework-research,operator-realism-check | phase:era-independent | discipline:none-applicable | status:published
+0104 | 2026-06-10 | Foundation-First vs Momentum-First Ratification           | proj:cross-cutting,street-code | task:methodology-research,canonization-propagation | phase:era-independent | discipline:none-applicable | status:published
+0105 | 2026-06-11 | When Closing-Round Flagged Two Citations as Fabricated    | proj:sim-ai,cross-cutting | task:anti-fabrication,methodology-research | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published
+0106 | 2026-06-11 | Verification Substrate Misquoted Spec to Fabricate Defect | proj:cross-cutting | task:anti-fabrication,verification-validation | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published
+0110 | 2026-06-29 | When Framework Was Wrong About Itself: 8 Rounds, 5 Catches| proj:cross-cutting | task:empirical-BUILD,multi-substrate-audit | phase:era-independent | discipline:Rule-11-substrate-specialization | status:published
+0111 | 2026-06-29 | Procedural Persons as a Bayesian Puzzle                   | proj:sim-ai | task:character-authoring,personality-architecture | phase:Phase-1 | discipline:Rule-14-Madisonian | status:published | v1-block:yes
+0112 | 2026-06-29 | Personhood as Achievement (Wiredu Akan)                   | proj:cross-cutting | task:cross-cultural-personhood,memory-architecture | phase:Phase-1 | discipline:Rule-20-Family-A-canonization-propagation | status:published | v1-block:yes
+0113 | 2026-06-29 | Generation-Side vs Outcome-Side Fairness                  | proj:sim-ai | task:framework-research,anti-fabrication | phase:Phase-1 | discipline:Rule-19-anti-fabrication | status:published | v1-block:yes
+0114 | 2026-06-29 | What We Have Not Measured: Pre-Registration Discipline    | proj:cross-cutting | task:methodology-research,empirical-BUILD | phase:era-independent | discipline:none-applicable | status:published | v1-block:yes
+0115 | 2026-06-29 | Re-Sourcing Trait Encoding: HEXACO to Attachment          | proj:sim-ai | task:character-authoring,personality-architecture | phase:Phase-1 | discipline:none-applicable | status:published | v1-block:yes
+0116 | 2026-06-29 | Sentiment Override and Pair-Specific Memory               | proj:sim-ai | task:character-authoring,memory-architecture | phase:Phase-1 | discipline:none-applicable | status:published | v1-block:yes
+0117 | 2026-06-29 | The Wiredu Mapping That Does Not Survive Implementation   | proj:cross-cutting | task:cross-cultural-personhood,anti-fabrication | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published
+0118 | 2026-06-29 | Recency Collapse and Need for Consolidation               | proj:sim-ai | task:memory-architecture,framework-research | phase:Phase-1 | discipline:none-applicable | status:published | v1-block:yes
+0119 | 2026-06-29 | Why Active Inference Belongs in Audit Layer First         | proj:sim-ai | task:empirical-BUILD,framework-research | phase:Phase-1 | discipline:Rule-14-Madisonian | status:published | v1-block:yes
+0120 | 2026-06-29 | V1 NPC Memory Spec: What Ships What Waits                 | proj:sim-ai | task:empirical-BUILD,deployment-verification | phase:Phase-1 | discipline:Rule-14-Madisonian | status:published | v1-block:yes
+0121 | 2026-06-29 | Generative Agents Are Backbone Not Runtime                | proj:sim-ai | task:empirical-BUILD,framework-research | phase:Phase-1 | discipline:none-applicable | status:published | v1-block:yes
+0122 | 2026-06-29 | Multi-Graph Memory: Typed Indexes Over Single Store       | proj:sim-ai | task:memory-architecture,framework-research | phase:Phase-1 | discipline:none-applicable | status:published | v1-block:yes
+0123 | 2026-06-29 | Cached Policies and Slow Consolidation                    | proj:sim-ai | task:empirical-BUILD,framework-research | phase:Phase-1 | discipline:none-applicable | status:published | v1-block:yes
+0124 | 2026-06-29 | Difference Between Inspiration and Implementation         | proj:cross-cutting | task:cross-cultural-personhood,canonization-propagation | phase:era-independent | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0125 | 2026-06-29 | Why Wiredu Cannot Be a Trait Slider                       | proj:cross-cutting | task:cross-cultural-personhood,personality-architecture | phase:era-independent | discipline:none-applicable | status:published
+0126 | 2026-06-29 | What Communal Accountability Would Require in Code        | proj:cross-cutting | task:cross-cultural-personhood,framework-research | phase:Phase-4+ | discipline:none-applicable | status:published
+0127 | 2026-06-29 | No Single African View: Menkiti Wiredu Gyekye             | proj:cross-cutting | task:cross-cultural-personhood,framework-research | phase:era-independent | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0128 | 2026-06-29 | Accumulator Is Where WEIRD Defaults Hide                  | proj:cross-cutting | task:cross-cultural-personhood,memory-architecture | phase:Phase-1 | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0129 | 2026-06-29 | When Convergence Token Concealed Fold: Council 1 Close    | proj:cross-cutting | task:multi-substrate-audit,anti-fabrication | phase:era-independent | discipline:Rule-11-substrate-specialization | status:published
+0130 | 2026-06-29 | Reserved Relationship-Mode Slot Schema Placeholder        | proj:sim-ai | task:memory-architecture,personality-architecture | phase:Phase-4+ | discipline:none-applicable | status:published
+0131 | 2026-06-29 | Council 3 Close: Benchmark Ruled Out Half the Question    | proj:cross-cutting | task:multi-substrate-audit | phase:era-independent | discipline:Rule-14-Madisonian | status:published
+0132 | 2026-06-29 | Consolidation Pass Benchmark Harness (Post 0119 Amendment)| proj:sim-ai | task:empirical-BUILD,framework-research | phase:Phase-1 | discipline:Rule-14-Madisonian | status:published
+0133 | 2026-06-29 | V1 Pause Empirical Resolution: Council 3 Forward Amendment| proj:cross-cutting | task:empirical-BUILD,methodology-research | phase:Phase-1 | discipline:Rule-14-Madisonian | status:published
+0134 | 2026-06-29 | Council 4 Close: Orchestrator Caught My Pattern A Read    | proj:cross-cutting | task:multi-substrate-audit,operator-realism-check | phase:era-independent | discipline:Rule-14-Madisonian | status:published
+0135 | 2026-06-29 | Council 4 Spec Seven Amendment Package                    | proj:cross-cutting | task:anti-fabrication,canonization-propagation | phase:Phase-1 | discipline:Rule-19-anti-fabrication | status:published
+0136 | 2026-06-29 | What V1 Pause Bought: Empirical BUILD Mode                | proj:sim-ai | task:empirical-BUILD,framework-research | phase:Phase-1 | discipline:none-applicable | status:published
+0137 | 2026-06-29 | Perpetual Surprise Compression Edge Case                  | proj:sim-ai | task:memory-architecture,framework-research | phase:Phase-4+ | discipline:none-applicable | status:published
+0138 | 2026-06-29 | Cultural Baseline Signal Modest at Single Sim (KL 0.01)   | proj:cross-cutting | task:cross-cultural-personhood,empirical-BUILD | phase:Phase-1 | discipline:none-applicable | status:published
+0139 | 2026-06-29 | Council 2 Close: Template Placeholder Passed Through      | proj:cross-cutting | task:anti-fabrication,operator-realism-check | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published
+0140 | 2026-06-29 | Council 2 Spec: Decision Appraisal Tag + Placeholder Axis | proj:cross-cutting | task:anti-fabrication,canonization-propagation | phase:Phase-1 | discipline:Rule-19-anti-fabrication | status:published
+0141 | 2026-07-02 | Council 5 Close: Orchestrator Caught Register Class      | proj:sim-ai,street-code | task:anti-fabrication,council-methodology | phase:Phase-3 | discipline:Rule-19-anti-fabrication | status:published
+0142 | 2026-07-02 | Council 5 Spec: 8-Decision Longitudinal-Trace Catalogue  | proj:sim-ai,street-code | task:anti-fabrication,framework-research | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published
+0143 | 2026-07-03 | Canonization-Propagation Gap Discipline n=6 Fires in 1 Day| proj:street-code | task:methodology-research,canonization-propagation | phase:era-independent | discipline:Rule-20-Family-A-canonization-propagation | status:published | v1-block:yes
+0144 | 2026-07-03 | Buffer That Overflowed by One: Entry-Count-Per-Fire       | proj:sim-ai | task:empirical-BUILD,framework-research | phase:Phase-2 | discipline:Rule-14-Madisonian | status:published | v1-block:yes
+0145 | 2026-07-03 | Regen-Timing-Gap Re-Fired Within 12 Hours of Canonization | proj:street-code | task:canonization-propagation | phase:era-independent | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0146 | 2026-07-03 | Ten Layers of Model Not One Layer of Prompt (NPC Arch)    | proj:sim-ai | task:character-authoring,framework-research | phase:Phase-3 | discipline:none-applicable | status:published | v1-block:yes | superseded-by:0150-partial
+0147 | 2026-07-04 | Council 6 Close: NO-GO Verdict on Population-Scaling      | proj:sim-ai,street-code | task:council-methodology,methodology-research | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published
+0148 | 2026-07-04 | Council 6 Spec: 4-Item Fold-Set + Hybrid Substrate Axis   | proj:sim-ai,street-code | task:council-methodology,framework-research | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published
+0149 | 2026-07-04 | Population-Scaling Phase A Complete + Phase B Baseline    | proj:sim-ai | task:empirical-BUILD,methodology-research | phase:Phase-2 | discipline:Rule-14-Madisonian | status:published
+0150 | 2026-07-04 | Forward-Reference Amendment Post 0146 HEXACO Citation-Chain| proj:street-code | task:anti-fabrication,methodology-research | phase:era-independent | discipline:Rule-19-anti-fabrication | status:published | v1-block:yes | supersedes:0146-partial
+0151 | 2026-07-04 | Population-Scaling Complete + Room-to-Life Phase C        | proj:sim-ai,roomtolife | task:empirical-BUILD,methodology-research | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published
+0152 | 2026-07-04 | Phase D Empirical Scaling: Node Tier + Safari + Device Farm| proj:sim-ai | task:empirical-BUILD,deployment-verification | phase:Phase-3 | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0153 | 2026-07-04 | Tier A Empirical Close: iPhone 17 + iPad Mini Ratify      | proj:sim-ai | task:empirical-BUILD,deployment-verification | phase:Phase-3 | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0154 | 2026-07-04 | Path the Plan Did Not Enumerate: Post 0152 4-Path + 5th   | proj:street-code | task:methodology-research,canonization-propagation | phase:era-independent | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0155 | 2026-07-04 | React Fiber That Was Not There: Next.js HMR iOS Safari    | proj:open-alley | task:empirical-BUILD,operator-realism-check | phase:Phase-3 | discipline:none-applicable | status:published
+0156 | 2026-07-04 | Marathon Day That Was Two Hours: CC Misjudges Clock Time  | proj:street-code | task:methodology-research | phase:era-independent | discipline:none-applicable | status:published
+0157 | 2026-07-04 | tsconfig Alias That Only Broke at Deploy Time: Vercel     | proj:open-alley | task:empirical-BUILD,canonization-propagation | phase:Phase-3 | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0158 | 2026-07-04 | Anti-Fabrication Caught Site URL: Rule 19 to Ops Diagnostic| proj:open-alley,street-code | task:anti-fabrication,operator-realism-check | phase:Phase-3 | discipline:Rule-19-anti-fabrication | status:published
+0159 | 2026-07-04 | Two Survivors Do Not Meet for Six Game-Days               | proj:sim-ai | task:empirical-BUILD,framework-research | phase:Phase-2 | discipline:Rule-14-Madisonian | status:published
+0160 | 2026-07-04 | When Hypotheses Do Not Fire: Landmark-Ripple Scenario     | proj:sim-ai | task:empirical-BUILD,framework-research | phase:Phase-2 | discipline:Rule-14-Madisonian | status:published
+0161 | 2026-07-04 | Witness Moved Away Mid-Tick: Timing Race Tick 9773        | proj:sim-ai | task:empirical-BUILD,framework-research | phase:Phase-2 | discipline:none-applicable | status:published
+0162 | 2026-07-04 | Sentiment Held at 0.78 for Three Game-Days                | proj:sim-ai | task:empirical-BUILD,framework-research | phase:Phase-2 | discipline:none-applicable | status:published
+0163 | 2026-07-04 | When My Own Spec Failed the Audit: Post-Synthesis Audit   | proj:street-code | task:canonization-propagation,methodology-research | phase:era-independent | discipline:Rule-20-Family-A-canonization-propagation | status:published | v1-block:yes
+0164 | 2026-07-04 | When Biology Caught the Mechanics: Operator Realism n=3   | proj:sim-ai,street-code | task:operator-realism-check,empirical-BUILD | phase:Phase-2 | discipline:operator-realism-check | status:published
+0165 | 2026-07-04 | Five Seconds Late: Vercel Build + Session-Close Deploy    | proj:street-code | task:canonization-propagation,deployment-verification | phase:era-independent | discipline:Rule-20-Family-A-canonization-propagation | status:published
+0166 | 2026-07-05 | Seven Commits in Two Hours: Narrow-Ship Pattern n=7       | proj:sim-ai | task:empirical-BUILD,framework-research | phase:Phase-3 | discipline:Rule-14-Madisonian | status:published | supersession:0167-attribution-only
+0167 | 2026-07-05 | My Narrow-Ship Post Had an Attribution Overclaim          | proj:street-code | task:canonization-propagation,methodology-research | phase:era-independent | discipline:Rule-20-Family-A-canonization-propagation | status:published | v1-block:yes | supersedes:0166-attribution
+0168 | 2026-07-05 | Follow-up Audit Found Five Bugs Mine Missed: Extended Verif| proj:sim-ai,street-code | task:canonization-propagation,empirical-BUILD | phase:Phase-3 | discipline:Rule-20-Family-A-canonization-propagation | status:published | v1-block:yes
+0169 | 2026-07-05 | I Authored Six Characters Without Consulting My Template  | proj:sim-ai,open-alley,street-code | task:character-authoring,methodology-research | phase:Phase-3 | discipline:Rule-20-Family-A-canonization-propagation | status:published | v1-block:yes | supersession:0172-Item-0334
+0170 | 2026-07-05 | Six Mechanic Failures Fell in One Afternoon: Fires A-F    | proj:sim-ai,street-code | task:operator-realism-check,empirical-BUILD | phase:Phase-3 | discipline:operator-realism-check | status:published | v1-block:yes | supersession:0171-Fire-E
+0171 | 2026-07-05 | Post 0170 Shipped with Unrealistic Mechanic: Fire E v3    | proj:sim-ai,street-code | task:operator-realism-check,methodology-research | phase:Phase-3 | discipline:operator-realism-check | status:published | v1-block:yes | supersedes:0170-Fire-E
+0172 | 2026-07-05 | Published Post 0169 Referencing a Workflow I Retired      | proj:sim-ai,open-alley,street-code | task:canonization-propagation,methodology-research | phase:era-independent | discipline:verify-against-canonical-files | status:published | v1-block:yes | supersedes:0169-Item-0334
+```
+
+---
+
+## Statistics
+
+**Total posts:** 169 (post_id range 0001-0172; gap at 0107-0109)
+**v1.0 CC-OPTIMIZED-SUMMARY blocks present:** 41 (marked `v1-block:yes`)
+**v2.0 blocks pending retrofit:** 128 posts
+
+**Project scope distribution:**
+- street-code-methodology: 58
+- cross-cutting: 62
+- sim-ai: 42
+- pin-paradise: 22
+- roomtolife: 4
+- open-alley: 5
+- 90s-life-builder: 1 (Post 0079 only)
+
+**Phase binding distribution:**
+- era-independent: 82
+- Phase-1: 45
+- Phase-2: 18
+- Phase-3: 20
+- Phase-4+: 4
+
+**Discipline family distribution:**
+- none-applicable: 65
+- Rule-14-Madisonian: 30
+- Rule-20-Family-A-canonization-propagation: 24
+- Rule-19-anti-fabrication: 20
+- Rule-11-substrate-specialization: 8
+- verify-against-canonical-files: 10
+- operator-realism-check: 5
+- post-audit-correction: 3
+
+**Supersession chains:**
+- Post 0146 → Post 0150 (HEXACO citation-chain partial)
+- Post 0166 → Post 0167 (attribution overclaim)
+- Post 0169 → Post 0172 (Item 0334 retirement)
+- Post 0170 → Post 0171 (Fire E v3 revision)
