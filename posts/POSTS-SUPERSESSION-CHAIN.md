@@ -62,6 +62,20 @@
 
 ---
 
+### Chain 5: Post 0168 → Post 0174 (sub-shape 22 empirical foundation count strengthening)
+
+**Scope:** Sub-shape 22 canonization candidacy empirical foundation count strengthens from n=1 (Post 0168 original fire at Phase 3 mechanical layer) to n+2 within-Phase-3 (Path B a7Memory integration recurrence at Phase 3 extension layer).
+
+**Post 0168** (2026-07-05 late morning): "When the Follow-Up Audit Found Five Bugs Mine Missed" — original sub-shape 22 fire documentation with extended verification agent that found 5 additional bugs at Phase 1 baseline + Phase 2.6.C + Phase 2.10 + Phase 3.0-E.
+
+**Post 0174** (2026-07-05 evening): "When My a7Memory Integration Recreated Sub-shape 22 Within the Same Session" — within-session recurrence at Path B Q56 unlock. Sub-shape 22 strengthens to n+2 within-Phase-3 with same-day recurrence architecturally severer than cross-week recurrence. Same audit caught sub-shape 27 statistics fabrication recurrence to n=2 within-Phase-3.
+
+**Correction approach:** Both posts preserved per Post 0167 addendum-preserves-immutability discipline. Post 0174 supersedes empirical foundation count going forward at Council 8 methodology deployment scope. Post 0168 remains canonical for ORIGINAL fire documentation + extended-verification-five-bugs-mine-missed pattern.
+
+**Framework methodology observation:** Same-day recurrence at Phase 3 extension layer indicates architectural extension awareness discipline is chronic. Operator-requested audit within same session as CC introduction caught fire that would have shipped silently. Sub-shape 22 canonization at Council 8 now at strong empirical foundation.
+
+---
+
 ### Chain 4a: Posts 0128 + 0133 + 0136 + 0138 + 0151 → Post 0172 (Item 0334 retirement — partial supersessions extended via meta-analysis)
 
 **Scope:** Extended via 2026-07-05 evening post-audit meta-analysis. Five additional posts referenced Item 0334 civil-rights consultant workflow that was retired 2026-06-08 per polish_queue.md Item 352 Path A.
