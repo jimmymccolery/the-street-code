@@ -163,15 +163,25 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Are there additional Layer 3 state channels warranted from remaining systematic-review scope (e.g., trust-accumulator + status-accumulator + purpose-alignment)?
 - Should n=2 promote directly OR remain as filed observation pending n=3 strengthening?
 
-### Item 14 — Candidate methodology observation: comprehensive-arc-at-scale discipline (Post 0179)
+### Item 14 — Candidate methodology observation: comprehensive-arc-at-scale discipline (Post 0179 + STRENGTHENED n=4 at Post 0180)
 
-**Filed n=3 at Post 0179 2026-07-06 Monday afternoon.** Phase 10 (Sunday morning; 3 items) + Phase 11 (Monday morning; 9 items) + Phase 12 (Monday afternoon; 7 items) closed 20 systematic-review items in 48 hours across three comprehensive-arc sessions. Framework research-implementation coverage advanced from ~65% to ~95%. Council #9 review questions:
+**Filed n=3 at Post 0179 2026-07-06 Monday afternoon; STRENGTHENED to n=4 at Post 0180 2026-07-06 Monday evening.** Phase 10 (Sunday morning; 3 items) + Phase 11 (Monday morning; 9 items) + Phase 12 (Monday afternoon; 7 items) + Phase 13 (Monday evening; 7 items) closed 27 architecturally distinct items in 60 hours across four comprehensive-arc sessions. Framework research-implementation coverage advanced from ~65% to ~95% via Phase 10-12 systematic-review-tail scope + then applied to product scope at Phase 13. Council #9 review questions:
 
 - Does comprehensive-arc discipline scale reproducibly OR does it require specific enabling conditions (operator-delegated CC ratification policy + systematic-review inventory + high mechanism-density baseline)?
 - Should the pattern promote to canonical discipline governing when to batch integration work into comprehensive arcs vs when to ship incrementally?
 - What is the operator-attention cost of comprehensive-arc discipline compared to iterative-narrow-ship discipline (Post 0166 canonization)?
 - Should Council 9 evaluate whether comprehensive-arc discipline INCREASES or DECREASES latent bug risk (Post 0178 fired within the arc window catching one 27-day-latent bug)?
 - Is n=3 sufficient for promotion OR require additional evidence at Council 10+ review windows?
+
+### Item 15 — Candidate methodology observation: framework-substrate-cross-scene-portability discipline (Post 0180)
+
+**Filed n=1 at Post 0180 2026-07-06 Monday evening.** Phase 13 empirically validated Sim AI substrate cross-Scene portability from Island (survival) Scene to Bowling Alley (labor) Scene with Scene-specific action taxonomy + landmark taxonomy but SHARED core mechanics (Layer 3 accumulators + biographical + relational-integrity STATE channel + a7Memory + Sofroniew audit runtime). This validates the Scene abstraction (Phase 2.9-A step 1) as architecturally correct. Council #9 review questions:
+
+- Does framework-substrate-cross-scene-portability promote to canonical discipline governing when Scene abstraction is preserving vs when it drifts?
+- Should there be an empirical gate at each new Scene deployment (test: same core mechanics work + Scene-specific taxonomies compose correctly)?
+- What is the discipline for handling Scene-specific mechanics that DO require touching core sim-ai modules (e.g., if a new Scene needed a new Layer 3 channel; how does this differ from Phase 12 Item 3 relational-integrity canonization)?
+- Does the pattern generalize to future Scenes beyond Bowling Alley (Rooms Tier 2 Scenes + 90s Life Builder + The Living Room hardware companion)?
+- Should the pattern remain filed observation OR promote at n=1 given architectural-not-empirical foundation?
 
 ### Item 11 — Candidate methodology observation: schema-reservation-with-provenance-enum-gating pattern (Phase 11 Post 0177)
 
