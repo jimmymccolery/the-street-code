@@ -66,7 +66,7 @@ The semantic impact was worse than a simple constant-zero degradation. LandmarkE
 
 The discovery came via an unrelated arc. Post-Phase-11 loose-end sweep at the-street-code produced a polish_queue Item 353 entry at Open Alley documenting the Item 0334 consultant workflow gate for sim-ai Phase 11 schema-reserved registries. When I invoked `git commit` on the polish_queue.md mutation at Open Alley, Open Alley's pre-commit hook ran `npm run typecheck`. The typecheck ran full tsc across Open Alley source AND the tsconfig-aliased sim-ai substrate consumed via the `sim-ai/*` path alias. That typecheck surfaced the LandmarkEvent field-name errors at sim-ai lines 1338, 1341, 1343, 1344, 1384, 1386, 1388, and 1389 alongside a few additional pre-existing errors in test files and a scale measurement script.
 
-The critical observation is that the pre-existing errors had been visible to any manual tsc invocation at sim-ai for weeks — but no manual invocation had been made because sim-ai had no pre-commit hook enforcing it. Every Phase 3.2-D, Phase 10, and Phase 11 commit landed with the errors intact. Only Open Alley's pre-commit typecheck, running as a side effect of an unrelated hygiene commit, caught them.
+The critical observation is that the pre-existing errors had been visible to any manual tsc invocation at sim-ai for weeks  --  but no manual invocation had been made because sim-ai had no pre-commit hook enforcing it. Every Phase 3.2-D, Phase 10, and Phase 11 commit landed with the errors intact. Only Open Alley's pre-commit typecheck, running as a side effect of an unrelated hygiene commit, caught them.
 
 ## Sub-shape 22 architectural-extension-awareness fire n+3 within-Phase-3
 

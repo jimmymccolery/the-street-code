@@ -88,11 +88,11 @@ Phase 13 Item 4 shipped `pinboyInjurySubsystem.ts` with 3-severity model (minor 
 
 ## Item 5: Empirical validation at seed=42
 
-Marvin + Stas dyad ran 486 ticks (8-hour shift plus shift_end_walkout completion buffer) at seed=42. Both anchors completed shift. Landmark events: shift_start (2), pin_rack_completed (2), shift_end (2) — total 6 landmarks. Marvin 6 landmark memory traces + Stas 6 landmark memory traces at end of shift. Pair sentiment 0.140 in both directions via 14 pair-history events (observed_together_at_pit + shared_break rhythm).
+Marvin + Stas dyad ran 486 ticks (8-hour shift plus shift_end_walkout completion buffer) at seed=42. Both anchors completed shift. Landmark events: shift_start (2), pin_rack_completed (2), shift_end (2)  --  total 6 landmarks. Marvin 6 landmark memory traces + Stas 6 landmark memory traces at end of shift. Pair sentiment 0.140 in both directions via 14 pair-history events (observed_together_at_pit + shared_break rhythm).
 
 Three-observation-surface analysis per Phase 12 discipline: Surface 1 Layer 3 variance decomposition within=0.990 between=0.010 (labor Scene homogenizes even more than survival Scene at Phase 11 baseline of within=0.897 between=0.103; mechanical pit-work compresses affect trajectories). Surface 2 action-frequency Jensen-Shannon divergence 0.0208 (modest differentiation like Phase 10 Sam+Frank baseline before mechanism-density additions). Surface 3 landmark memory 6 traces each with mean encoded valence approximately 21-22 (positive-valence-elevation-analog dominated by pin_rack_completed + shift_end which are positive-signed events).
 
-Load-bearing finding: **Stas showed 4.1 percent chat_with_coworker vs Marvin 0 percent** despite both anchors having similar action distributions at set_pins + rest_between_frames + handle_stuck_pin + restroom_break. This cross-character social-channel differentiation surfaces DESPITE aggregate homogenization — validation that personality mechanics DO drive behavioral choice at margins even when survival + labor mechanics dominate central tendencies (n=3 for Phase 10 Sofroniew disambiguation triad).
+Load-bearing finding: **Stas showed 4.1 percent chat_with_coworker vs Marvin 0 percent** despite both anchors having similar action distributions at set_pins + rest_between_frames + handle_stuck_pin + restroom_break. This cross-character social-channel differentiation surfaces DESPITE aggregate homogenization  --  validation that personality mechanics DO drive behavioral choice at margins even when survival + labor mechanics dominate central tendencies (n=3 for Phase 10 Sofroniew disambiguation triad).
 
 ## Items 6 + 7: Consumer wiring + arc documentation
 
