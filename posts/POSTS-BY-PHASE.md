@@ -28,6 +28,9 @@ Posts that apply regardless of framework phase. These are the highest-value post
 **Cross-consumer typecheck discipline:**
 0178 (latent LandmarkEvent bug caught by consumer's pre-commit hook + sub-shape 22 n+3)
 
+**Phase-12 comprehensive arc:**
+0179 (systematic-review tail closure; Layer 3 relational-integrity STATE channel + landmark empirical + H-NEW-5 full experiment + Post 0128 schema + dialogue lint + paper-layer refactor + catalog non-duplication)
+
 ---
 
 ## Phase-1 (51 posts; grep-verified)
