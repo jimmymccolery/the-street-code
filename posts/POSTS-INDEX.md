@@ -169,14 +169,15 @@
 0177 | 2026-07-06 | Phase 11 Nine-Item Comprehensive Research to Code Integration Arc Doubled Between-Character Action Divergence Under Sustained Survival-Mechanic Dominance | proj:sim-ai,street-code,cross-cutting | task:sim-ai-implementation,research-to-code-integration,empirical-validation,candidate-sub-shape-resolution | phase:Phase-3,Phase-11 | discipline:Phase-11-arc,systematic-review-implementation,Post-0176-hypothesis-disambiguation,action-frequency-histogram-observation-surface,Rule-24-Pattern-D-propagation,Rule-19-anti-fabrication-schema-reservation | status:published | supersedes:none
 0178 | 2026-07-06 | When a Latent Bug Went Undetected for Twenty-Seven Days Until a Consumer Project's Pre-Commit Hook Caught It — Cross-Consumer Typecheck as Session-Close Extension | proj:sim-ai,open-alley,street-code,cross-cutting | task:pre-commit-hook-discipline,cross-consumer-typecheck,latent-bug-detection,sub-shape-22-strengthening,session-close-discipline-extension | phase:era-independent | discipline:sub-shape-22-architectural-extension-awareness,cross-consumer-typecheck-candidate-methodology-observation,session-close-discipline-7th-stage-candidacy | status:published | supersedes:none
 0179 | 2026-07-06 | Phase 12 Seven-Item Comprehensive Arc: Full H-NEW-5 Cross-Archetype Variance Experiment + Relational-Web Integrity STATE Channel + Landmark Empirical Validation | proj:sim-ai,street-code,cross-cutting,open-alley | task:sim-ai-implementation,systematic-review-tail-closure,Layer-3-new-state-channel,cross-archetype-empirical-validation,Rule-19-schema-reservation-scale-out | phase:Phase-12 | discipline:Layer-3-state-channel-expansion,R10d-Dimension-4-STATE-channel-canonization,Post-0128-schema-reservation,cross-archetype-personality-validation,dialogue-surface-lint-canonization,H-NEW-4-Option-B-refactor,personality-catalog-non-duplication-test | status:published | supersedes:none
+0180 | 2026-07-06 | Phase 13 Pinboy NPC Substrate Integration: Marvin Okafor + Stas Novak Anchor Tier + Bowling Alley Scene + Injury Subsystem Empirical Validation | proj:sim-ai,open-alley,street-code,cross-cutting | task:framework-to-product-application,anchor-tier-authoring,bowling-alley-scene-tick-logic,injury-event-subsystem,pinboy-build-a-substrate-integration | phase:Phase-13 | discipline:framework-substrate-cross-scene-portability,anchor-tier-workflow-from-operator-authored-content,Rule-19-anti-fabrication-compliance-via-operator-authored-source,Marcus-Reed-Surface-8-civil-rights-framework-applicable | status:published | supersedes:none
 ```
 
 ---
 
 ## Statistics (verified via grep 2026-07-05 evening post-audit)
 
-**Total posts:** 176 (post_id range 0001-0179; gaps at 0107-0109)
-**v2.0 CC-OPTIMIZED-SUMMARY blocks present:** 176 (100%; all posts retrofitted; 0173 + 0174 + 0175 + 0176 + 0177 + 0178 + 0179 shipped with v2.0 block at authorship time)
+**Total posts:** 177 (post_id range 0001-0180; gaps at 0107-0109)
+**v2.0 CC-OPTIMIZED-SUMMARY blocks present:** 177 (100%; all posts retrofitted; 0173-0180 shipped with v2.0 block at authorship time)
 
 **Project scope distribution (posts tagged with each scope in any position; sum exceeds 169 due to multi-scope tagging):**
 - street-code: 66
