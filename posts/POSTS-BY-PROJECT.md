@@ -47,6 +47,7 @@ Sim AI substrate — HEXACO + attachment + memory architecture + personality par
 - 0171 Post 0170 Shipped with Unrealistic Mechanic: Fire E v3
 - 0174 a7Memory Integration Recreated Sub-shape 22 Within Same Session
 - 0176 Sofroniew Audit as Live Runtime Predicate + extendedTemplate + HEXACO H (Phase 10 comprehensive; FIRST runtime audit fire)
+- 0177 Phase 11 Nine-Item Comprehensive Research to Code Integration Arc (9 items; 52 tests; JS divergence 0.0381 → 0.0890; H2+H3 both in play)
 
 **Framework research (deferred / Phase-4+) — 2 posts (list authoritative):**
 - 0130 Reserved Relationship-Mode Slot Schema Placeholder

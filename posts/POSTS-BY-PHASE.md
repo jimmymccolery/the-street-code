@@ -85,6 +85,7 @@ Personality + castaway + Fires A-F reshaping arc + Council #6 close + population
 - 0171 Post 0170 Shipped with Unrealistic Mechanic (Fire E v3)
 - 0174 a7Memory Integration Recreated Sub-shape 22 Within Same Session
 - 0176 Sofroniew Audit as Live Runtime Predicate + extendedTemplate + HEXACO H (Phase 10 comprehensive integration; FIRST audit fire)
+- 0177 Phase 11 Nine-Item Comprehensive Research to Code Integration Arc (action-histogram audit + Rule 24 propagation + attachment anxiety + Gottman override + HEXACO H/A channel separation + R10d 4-dim routing + R10d 6-dim template + schema-reservation Items 7 + 9; JS divergence 0.0381 → 0.0890)
 
 **Foundation retrospectives:**
 - 0007, 0009, 0011, 0019-0021, 0027-0029, 0032, 0034-0035
