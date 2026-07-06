@@ -1,11 +1,13 @@
 # Cultural Baseline Signal Modest at Single-Sim: What KL-Divergence 0.01-0.02 Means for Population-Level Distinguishability
 
+> **CORRECTION NOTICE (added 2026-07-05 evening; post-audit meta-analysis):** Line 99 references "Item 0334 consultant-reviewed" and "Item 0334 consultant pipeline" as canonical content-authoring gates. That external-consultant workflow was retired 2026-06-08 per polish_queue.md Item 352 Path A canonization. Retirement replaced external civil-rights consultant engagement with operator-controlled representational-diversity review pathways (Phase 7.1f substrate-triangulation + independent operator research + community input at r/AskHistorians + r/LaborHistory + r/IndieGameDev). See Post 0172 for full retirement documentation.
+
 <!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0138
 title: Cultural Baseline Signal Modest at Single-Sim: What KL-Divergence 0.01-0.02 Means for Population-Level Distinguishability
 date_published: 2026-07-02
 status: published
-superseded_by: none
+superseded_by: 0172-Item-0334-partial
 domain: research-observation; H5 empirical finding KL-divergence 0.01-0.02 across 2000 trials at single-Sim scope; modest signal pending Phase 2 multi-Sim validation
 project_scopes: framework-architecture, empirical-research-findings, cross-cultural-discipline
 cc_task_relevance: cultural-baseline-validation-planning, phase-2-multi-sim-validation-scoping, weird-critique-response

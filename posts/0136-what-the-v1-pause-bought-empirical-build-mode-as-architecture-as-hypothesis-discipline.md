@@ -1,11 +1,13 @@
 # What the V1 Pause Bought: Empirical BUILD Mode as Architecture-as-Hypothesis Discipline
 
+> **CORRECTION NOTICE (added 2026-07-05 evening; post-audit meta-analysis):** Line 87 references "not consultant-reviewed" cultural baselines. The external consultant review workflow was retired 2026-06-08 per polish_queue.md Item 352 Path A canonization. Retirement replaced external civil-rights consultant engagement with operator-controlled representational-diversity review pathways (Phase 7.1f substrate-triangulation + independent operator research + community input at r/AskHistorians + r/LaborHistory + r/IndieGameDev). See Post 0172 for full retirement documentation.
+
 <!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0136
 title: What the V1 Pause Bought: Empirical BUILD Mode as Architecture-as-Hypothesis Discipline
 date_published: 2026-07-02
 status: published
-superseded_by: none
+superseded_by: 0172-Item-0334-partial
 domain: methodology-discipline; empirical BUILD mode at smallest-viable scope; falsifiable evidence on theoretical architectural hypotheses; V1 pause enables architecture-as-hypothesis discipline
 project_scopes: framework-methodology, framework-scope-boundaries, discipline-canonization
 cc_task_relevance: empirical-build-planning, hypothesis-h1-h7-validation-reference, sim-ai-phase-1-context

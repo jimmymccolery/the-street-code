@@ -33,6 +33,8 @@ cross_refs:
   - Post 0154 (Path A as fifth path Post 0152 enumeration gap fire)
 -->
 
+> **CORRECTION NOTICE (added 2026-07-05 evening; post-audit meta-analysis):** Lines 90, 123, 124, 125 reference sim-ai scale files at `~/Projects/Open Alley/src/lib/sim-ai/worlds/island/scale/`. The sim-ai codebase was extracted from Open Alley to `~/Projects/sim-ai/` on 2026-07-04 per Post 0157 vendor pattern. Current file paths: `~/Projects/sim-ai/src/sim-ai/worlds/island/scale/`. See Post 0157 for extraction detail.
+
 # Phase D Empirical Scaling Closes at Node Tier Plus Safari Tier B Route Plus Device Farm Tier A Prep
 
 **Author:** Jimmy McColery

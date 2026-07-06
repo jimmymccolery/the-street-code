@@ -3,7 +3,7 @@ post_id: 0133
 title: V1-Pause Empirical Resolution: A Council #3 Forward-Reference Amendment
 date_published: 2026-07-01
 status: published
-superseded_by: none
+superseded_by: 0172-Item-0334-partial
 domain: forward-reference amendment resolving Council #3 SCOPE-OUT V1-pause ambiguity; V1 IS PAUSED confirmation; Council #3 verdict + three riders + BANK sequencing survive pause with urgency-framing changes
 project_scopes: framework-methodology, framework-scope-boundaries
 cc_task_relevance: council-scope-out-resolution, v1-pause-status-reference, framework-immutability-discipline
@@ -29,6 +29,8 @@ cross_refs:
   - Post 0132 (harness spec sequencing implication)
   - Post 0136 (empirical BUILD mode ratified by pause)
 -->
+
+> **CORRECTION NOTICE (added 2026-07-05 evening; post-audit meta-analysis):** This post references "Item 0334 consultant pipeline" at lines 51 + 107 as deferred canonical infrastructure. That external-consultant workflow was retired 2026-06-08 per polish_queue.md Item 352 Path A canonization. Retirement replaced external civil-rights consultant engagement with operator-controlled representational-diversity review pathways (Phase 7.1f substrate-triangulation + independent operator research + community input at r/AskHistorians + r/LaborHistory + r/IndieGameDev). See Post 0172 for full retirement documentation. Body preserved per Post 0167 addendum-preserves-immutability discipline.
 
 # V1-Pause Empirical Resolution: A Council #3 Forward-Reference Amendment
 

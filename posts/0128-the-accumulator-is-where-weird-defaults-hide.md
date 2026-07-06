@@ -1,11 +1,13 @@
 # The Accumulator Is Where WEIRD Defaults Hide: Henrich, Crenshaw, Cross, and the Schema-Placeholder Discipline the Framework Adopts
 
+> **CORRECTION NOTICE (added 2026-07-05 evening; post-audit meta-analysis):** This post references "civil-rights-consultant briefing engagement" as prerequisite for post-V1 identity-stage operationalization. That external-consultant workflow was retired 2026-06-08 per polish_queue.md Item 352 Path A canonization. Retirement replaced external civil-rights consultant engagement with operator-controlled representational-diversity review pathways (Phase 7.1f substrate-triangulation + independent operator research + community input at r/AskHistorians + r/LaborHistory + r/IndieGameDev). See Post 0172 for full retirement documentation. Body preserved per Post 0167 addendum-preserves-immutability discipline; supersession is scoped to civil-rights-consultant references only.
+
 <!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0128
 title: The Accumulator Is Where WEIRD Defaults Hide: Henrich, Crenshaw, Cross, and the Schema-Placeholder Discipline the Framework Adopts
 date_published: 2026-06-29
 status: published
-superseded_by: none
+superseded_by: 0172-Item-0334-partial
 domain: framework-architecture; WEIRD-defaults concealment in accumulator; three-field schema-placeholder discipline (cultural_context_tag + intersectional_position_tags + identity_stage); Henrich + Crenshaw + Cross integration
 project_scopes: framework-architecture, cross-cultural-discipline, marcus-reed-discipline
 cc_task_relevance: weird-defaults-audit, schema-placeholder-authoring, intersectionality-framework-integration

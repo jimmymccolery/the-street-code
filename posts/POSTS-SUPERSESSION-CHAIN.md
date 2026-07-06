@@ -62,6 +62,35 @@
 
 ---
 
+### Chain 4a: Posts 0128 + 0133 + 0136 + 0138 + 0151 → Post 0172 (Item 0334 retirement — partial supersessions extended via meta-analysis)
+
+**Scope:** Extended via 2026-07-05 evening post-audit meta-analysis. Five additional posts referenced Item 0334 civil-rights consultant workflow that was retired 2026-06-08 per polish_queue.md Item 352 Path A.
+
+**Post 0128** (2026-06-29): "Accumulator Is Where WEIRD Defaults Hide" — lines 92 + 102 reference "civil-rights-consultant briefing engagement" as prerequisite for post-V1 identity-stage operationalization.
+**Post 0133** (2026-07-01): "V1-Pause Empirical Resolution" — lines 51 + 107 reference "Item 0334 consultant pipeline" as deferred canonical infrastructure.
+**Post 0136** (2026-07-02): "What the V1 Pause Bought" — line 87 references "not consultant-reviewed" cultural baselines.
+**Post 0138** (2026-07-02): "Cultural Baseline Signal Modest at Single-Sim" — line 99 references "Item 0334 consultant-reviewed" and "Item 0334 consultant pipeline" as content-authoring gates.
+**Post 0151** (2026-07-04): "Population-Scaling-Foundation Pass Substantially Complete" — line 117 references "external consultant pipeline routing" as production-scope requirement.
+
+**Correction approach:** Each post received a `> **CORRECTION NOTICE**` block at top of body pointing to Post 0172 retirement. Each post's v2.0 CC-OPTIMIZED-SUMMARY block `superseded_by: none` field updated to `superseded_by: 0172-Item-0334-partial`. Post body content preserved per addendum-preserves-immutability discipline; supersession is scoped to Item 0334 references only.
+
+**Framework methodology observation:** These 5 additional fires strengthen the verify-against-canonical-files class-(h) reproduction pattern to n=5 within-Phase-3 (was n=4 at Post 0172 publication). All 5 posts predated retirement discovery + were shipped without polish_queue.md verification.
+
+---
+
+### Chain 4b: Posts 0152 + 0153 → Post 0157 (sim-ai extraction path change — partial supersessions extended via meta-analysis)
+
+**Scope:** Extended via 2026-07-05 evening post-audit meta-analysis. Two posts reference sim-ai scale files at pre-extraction path.
+
+**Post 0152** (2026-07-04): Lines 90, 123, 124, 125 reference `~/Projects/Open Alley/src/lib/sim-ai/worlds/island/scale/`.
+**Post 0153** (2026-07-04): Lines 155 + 159 reference same pre-extraction path.
+
+**Current path:** `~/Projects/sim-ai/src/sim-ai/worlds/island/scale/` per Post 0157 vendor pattern extraction.
+
+**Correction approach:** Both posts received CORRECTION NOTICE blocks pointing to Post 0157 for extraction detail. Original path references preserved in body per addendum-preserves-immutability discipline.
+
+---
+
 ### Chain 4: Post 0169 → Post 0172 (Item 0334 retirement)
 
 **Scope:** Post 0169 referenced "Item 0334 civil-rights consultant pipeline" as canonical infrastructure to consult before character authoring. That concept + workflow was actually retired 2026-06-08 per polish_queue.md Item 352 Path A canonization.

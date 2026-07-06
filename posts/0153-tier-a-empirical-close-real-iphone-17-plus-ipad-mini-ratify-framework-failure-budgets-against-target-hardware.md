@@ -36,6 +36,8 @@ cross_refs:
   - Memory project_phase_d_tier_a_empirical_close_iphone_17_ipad_mini_2026-07-04.md
 -->
 
+> **CORRECTION NOTICE (added 2026-07-05 evening; post-audit meta-analysis):** Lines 155 + 159 reference sim-ai scale files at `~/Projects/Open Alley/src/lib/sim-ai/worlds/island/scale/`. The sim-ai codebase was extracted from Open Alley to `~/Projects/sim-ai/` on 2026-07-04 per Post 0157 vendor pattern. Current file paths: `~/Projects/sim-ai/src/sim-ai/worlds/island/scale/` and `~/Projects/sim-ai/src/sim-ai/worlds/island/bowling-alley-action-space-scope-draft-2026-07-04.md`. See Post 0157 for extraction detail.
+
 # Tier A Empirical Close Real iPhone 17 Plus iPad Mini Ratify Framework Failure Budgets Against Target Hardware
 
 **Author:** Jimmy McColery

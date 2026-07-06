@@ -3,7 +3,7 @@ post_id: 0151
 title: Population-Scaling-Foundation Pass Substantially Complete Plus Room to Life Universe Phase C Extensions Shipped
 date_published: 2026-07-04
 status: published
-superseded_by: none
+superseded_by: 0172-Item-0334-partial
 domain: framework state progress cumulative execution across Council #6 close-ratified population-scaling-foundation pass Phase A through Phase D plus RoomToLife Universe Phase C
 project_scopes: framework-state-progress, sim-ai, roomtolife, memory-lanes, open-alley
 cc_task_relevance: population-scaling-execution, roomtolife-universe-phase-c, marcus-reed-surface-8-audit-scaffold, cross-product-entity-tracking, rule-14-empirical-foundation
@@ -35,6 +35,8 @@ cross_refs:
   - Post 0152 (Phase D empirical scaling close arc at Node tier)
   - Memory project_population_scaling_foundation_pass_phase_a_b_first_tier_complete_2026-07-04.md
 -->
+
+> **CORRECTION NOTICE (added 2026-07-05 evening; post-audit meta-analysis):** Line 117 references "external consultant pipeline routing" as production-scope requirement per Gemini Council #6 substrate specification. The external consultant review workflow was retired 2026-06-08 per polish_queue.md Item 352 Path A canonization (predating this post by ~1 month). Retirement replaced external civil-rights consultant engagement with operator-controlled representational-diversity review pathways (Phase 7.1f substrate-triangulation + independent operator research + community input at r/AskHistorians + r/LaborHistory + r/IndieGameDev). See Post 0172 for full retirement documentation.
 
 # Population-Scaling-Foundation Pass Substantially Complete Plus Room to Life Universe Phase C Extensions Shipped
 
