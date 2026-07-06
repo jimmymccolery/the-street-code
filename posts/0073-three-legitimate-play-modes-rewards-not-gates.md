@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0073
+title: Cozy, tycoon, and care: designing for three legitimate play modes without gating success
+date_published: 2026-06-09
+status: published
+superseded_by: none
+domain: design-principle three legitimate play modes cozy tycoon care as first-class with engagement as reward not gate
+project_scopes: pin-paradise
+cc_task_relevance: play-mode-first-class-design, engagement-reward-vs-gate-decision, false-binary-detection
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: The alley greets everyone; tycoon care and cozy players operate in the same alley with the same NPCs and physical space; no mode is gated behind another or second-class
+load_bearing_claims:
+  - Genre discourse treats tycoon-vs-relationship as trade-off
+  - Trade-off framing was inherited from discourse not observed in mechanics
+  - Engagement as reward (not gate) resolves hanging design decisions
+  - n=1 articulation with n=4 cascade reuse over four weeks of architectural-lock cycles
+applicability_triggers:
+  - When resolving hanging design decisions that repeatedly present as binary trade-offs
+  - When play modes need first-class architectural support without gating
+  - When authoring design-principle posts on false-binary detection
+mechanism_details:
+  - Engagement mechanics reward participation across all modes without requiring specific mode for success
+  - Same NPCs and physical space serve all mode players simultaneously
+cross_refs:
+  - Post 0068 (composition over modification)
+  - Post 0079 (aesthetic as architecture)
+-->
+
 # Cozy, tycoon, and care: designing for three legitimate play modes without gating success
 
 **Author:** Jimmy McColery

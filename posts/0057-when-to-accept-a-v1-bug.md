@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0057
+title: When to accept a V1 bug: documenting trade-offs in early-access game development
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: bug triage discipline for early-access V1 shipping
+project_scopes: pin-paradise, street-code-methodology
+cc_task_relevance: v1-bug-triage, early-access-shipping-decisions, documentation-discipline-for-known-issues
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: A narrow class of V1 bugs should ship with the release when cost-of-fix-now is high and cost-of-shipping-with-it is acceptable, disciplined by honest documentation
+load_bearing_claims:
+  - Standard fix-every-bug discipline is correct for gameplay-blocking crash-producing or confusing bugs
+  - Second class exists where fix cost is high and ship cost is acceptable
+  - The hard part is honest triage without sliding into fix-never-ship-anyway rationalization
+  - Documentation discipline is what makes acceptance honest
+applicability_triggers:
+  - When shipping V1 or Early Access with known-issue backlog
+  - When making bug triage decisions on solo indie project
+  - When authoring team-transparency around trade-offs
+mechanism_details:
+  - Explicit acceptance-with-documentation surfaces trade-off honestly to players
+  - Framework applied to subsequent triage decisions to avoid backsliding
+cross_refs:
+  - Post 0049 (design mode vs code mode)
+  - Post 0063 (loose-end audits post-commit hygiene)
+-->
+
 # When to accept a V1 bug: documenting trade-offs in early-access game development
 
 **Author:** Jimmy McColery

@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0022
+title: When The Stacks An Article Stacking Discipline at n5 Empirical Validation
+date_published: 2026-05-09
+status: published
+superseded_by: none
+domain: Topic 33 article-stacking discipline canonization candidate with n=5 empirical fires from S009 Topic 27 Beatles model rename bulk find/replace
+project_scopes: street-code-methodology
+cc_task_relevance: canonization-propagation, discipline-enforcement
+phase_binding: Phase-1
+discipline_family: Rule-20-Family-A-canonization-propagation
+canonical_rule: When a role name with definite article enters a sentence with existing determiner both determiners stack The is preserved at sentence-start / possessive / standalone subject and dropped in compound-modifier post-determiner positions
+load_bearing_claims:
+  - Bulk find/replace of role-name to role-name-with-The without context-awareness produces article-stacked artifacts at every compound-modifier site
+  - N=5 empirical fires across sentence-start, possessive, standalone, compound-modifier post-determiner, post-adjective compound, parens-determiner-like contexts
+  - Rename-narrative vs live-reference sub-pattern carved out for false-positive sites
+applicability_triggers:
+  - CC executing bulk role-name rename with definite article
+  - CC drafting sentence-position discipline for canonical rename work
+  - CC evaluating whether context-aware find/replace vs bulk find/replace
+mechanism_details:
+  - Convention canonized at research_queue.md Topic 33 lines 1304-1336
+  - Reads as natural English on first scan because both stacked-determiner forms and correct forms satisfy reader expectation
+  - Bundled with Topics 28/29/30 for next architecture-revision session
+cross_refs:
+  - Post 0021 S009 corrective sub-stage arc
+  - Post 0023 verification-query precision (Topic 34)
+  - Post 0024 recursive scope-gap pattern
+-->
+
 # When "The" Stacks: An Article-Stacking Discipline at n=5 Empirical Validation
 
 **Author:** Jimmy McColery

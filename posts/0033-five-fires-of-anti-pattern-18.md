@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0033
+title: Five Fires of 18 When Schema Documentation Alone Doesnt Enforce Calibration Discipline
+date_published: 2026-05-11
+status: published
+superseded_by: none
+domain: Five cumulative fires of anti-pattern #18 post-promotion + Track G no-promotion review discipline that held gate open at 5 within-session fires against premature refinement
+project_scopes: street-code-methodology
+cc_task_relevance: canonization-propagation, discipline-enforcement
+phase_binding: Phase-1
+discipline_family: Rule-20-Family-A-canonization-propagation
+canonical_rule: Schema documentation alone does not enforce per-claim calibration discipline anti-pattern #18 candidacy for structural-enforcement refinement (parallel to #22 and #23) requires cross-session multi-fire bar not within-session accumulation alone
+load_bearing_claims:
+  - Five fires enumerated at lessons-learned.md line 497 (3 at S004b, 1 at NPI S005 Layer 3, 1 at NPI S009 Phase 4)
+  - Track G review at Step 19.9 recommended 0 promote, 2 defer, 1 wrong-category no-action
+  - Anti-pattern #22 substrate-binding gates and #23 hosted chat orchestration were promoted with parallel structural reasoning at S006
+applicability_triggers:
+  - CC evaluating whether schema documentation alone will bind a discipline
+  - CC drafting Track G session-closeout review for anti-pattern promotion candidacy
+  - CC assessing within-session vs cross-session multi-fire bar
+mechanism_details:
+  - Topic 30 candidacy names four decision dimensions for eventual refinement deliberation
+  - Fifth fire NPI Phase 4: Hall Monitor Evidence Audit returned single A grade uniformly with circular Dissent Log
+  - Deterministic-vs-probabilistic distinction is what supports structural-enforcement family classification
+cross_refs:
+  - Post 0003 recursive rule fire (S005 pre-promotion history)
+  - Post 0011 deterministic-vs-probabilistic distinction
+-->
+
 # Five Fires of #18: When Schema Documentation Alone Doesn't Enforce Calibration Discipline
 
 Self-experimentation by a non-credentialed practitioner. n=1 operator across one multi-day arc plus prior-fire history. Cross-arc replication is unverified at filing time. Read accordingly.

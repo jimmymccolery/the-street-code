@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0089
+title: The Explicit Pre-Synthesis Verification Trail: Making Orchestrator-Class Quality Assurance Auditable
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: orchestrator-class verification-trail explicit emission; auditable quality assurance step; hidden-thinking default vs surfaced-trail contrast
+project_scopes: framework-methodology, cross-project-substrate-methodology
+cc_task_relevance: orchestrator-class-substrate-deployment, council-close-synthesis, cc-side-verification-discipline
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: orchestrator-class-explicit-verification-trail-as-auditability-discipline
+load_bearing_claims:
+  - Orchestrator-class synthesis step normally hidden behind verdict; explicit pre-synthesis trail makes QA step auditable
+  - Eight-step verification trail produced three specific structural catches that would have been invisible under default
+  - Methodology candidacy is explicit-trail-surfacing as generic discipline not eight-step template specifically
+  - Trail outputs are substantive catches driving closing-round verdict; verdict is trail-integration
+applicability_triggers:
+  - Orchestrator-class Council synthesis deployment
+  - When quality assurance step needs auditability post-hoc
+  - When operator-side workflow needs verification-trail visibility
+mechanism_details:
+  - Named verification steps each describing check target plus source plus lookfor
+  - Substantive catches drive verdict; verdict does not stand alone
+  - Trail = artifact separate from synthesis output but load-bearing on it
+cross_refs:
+  - Post 0085 (seven-substrate triangulation)
+  - Post 0086 (freshness amendment drift catch mechanism)
+  - Post 0090 (five-substrate role differentiation)
+  - Rule 14 Madisonian Gate synthesis
+-->
+
 # The Explicit Pre-Synthesis Verification Trail: Making Orchestrator-Class Quality Assurance Auditable
 
 **Author:** Jimmy McColery

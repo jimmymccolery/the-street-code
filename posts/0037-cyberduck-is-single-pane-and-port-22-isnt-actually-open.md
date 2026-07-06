@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0037
+title: Cyberduck Is Single Pane and Port 22 Isnt Actually Open Five Earned Lessons from a 2026 Static Site Deploy
+date_published: 2026-05-24
+status: published
+superseded_by: none
+domain: Five concrete deploy-time lessons from Porkbun static-site shipping arc (sueyourkid.com) where documentation said one thing and empirical reality said another
+project_scopes: cross-cutting
+cc_task_relevance: empirical-BUILD, verification-validation
+phase_binding: era-independent
+discipline_family: verify-against-canonical-files
+canonical_rule: Deploy-time empirical truths beat documentation lessons 1/2/4/5 generalized across multiple Porkbun sites and live at ~/Projects/sites-common/DEPLOYMENT.md
+load_bearing_claims:
+  - Cyberduck is single-pane by design not by bug (drag from Finder into Cyberduck)
+  - Port 22 shown open by netstat is not actually reachable through Porkbun edge (SSH must be tunneled)
+  - Lesson 3 stayed project-specific because Google Search Console submission fires once per site
+applicability_triggers:
+  - CC deploying static site to Porkbun-class hosting
+  - CC evaluating whether a deploy lesson generalizes across sites (Post 14 pattern)
+  - CC drafting shared canonical file for cross-project deployment
+mechanism_details:
+  - PHASE_2_LESSONS.md was in-project source
+  - Sixteen mock-legal case pages + sitewide assets + robots.txt + sitemap.xml
+  - Shared canonical at sites-common/DEPLOYMENT.md; per-site projects reference
+cross_refs:
+  - Post 0014 when to build cross-project shared infrastructure (governing pattern)
+  - Post 0036 PKCE magic link (adjacent auth deploy)
+-->
+
 # Cyberduck Is Single-Pane and Port 22 Isn't Actually Open: Five Earned Lessons from a 2026 Static-Site Deploy
 
 **Author:** Jimmy McColery

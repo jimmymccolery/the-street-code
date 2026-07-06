@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0014
+title: When to Build Cross Project Shared Infrastructure
+date_published: 2026-05-07
+status: published
+superseded_by: none
+domain: Three-project threshold for extracting shared cluster-level canonical file from per-project duplication (static-site deployment case)
+project_scopes: cross-cutting, street-code-methodology
+cc_task_relevance: methodology-research, discipline-enforcement
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: At three or more projects with shared tooling concerns specific enough that duplication produces coordination overhead shared infrastructure setup cost amortizes and inverts the linear-duplication trade-off
+load_bearing_claims:
+  - Four domain-agnostic deployment lessons (connection, security, document-root, tooling conventions) promoted from per-site docs to sites-common cluster reference on 2026-05-04
+  - Trigger is not three projects generically but three projects with shared tooling concerns specific enough that duplication produces measurable coordination overhead
+  - Per-project duplication scales linearly; shared reference scales 1:N via thin wrapper
+applicability_triggers:
+  - CC evaluating whether to extract shared infrastructure from duplicated per-project code
+  - CC deciding wrapper pattern for a new consumer project
+  - CC drafting cross-project deployment discipline
+mechanism_details:
+  - Shared infrastructure at ~/Projects/sites-common/DEPLOYMENT.md; per-project wrappers reference plus project-specific values
+  - Two-project case is judgment territory; three-project case is where inversion becomes empirically clear
+  - Similarity of tooling concerns affects where inversion sits
+cross_refs:
+  - Post 0037 Cyberduck five deploy lessons (referenced this pattern)
+  - Post 0015 discipline as substrate AI capabilities swappable layer
+-->
+
 # When to Build Cross-Project Shared Infrastructure
 
 **Author:** Jimmy McColery

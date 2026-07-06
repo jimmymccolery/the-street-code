@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0160
+title: When Hypotheses Do Not Fire Landmark-Ripple Scenario Dependency in a Nine-Game-Day Two-Sim Session
+date_published: 2026-07-04
+status: published
+superseded_by: 0161-timing-race (partial refinement from purely coincidence-dependent to also timing-model-dependent)
+domain: framework methodology observation about non-firing as first-class empirical data; H15-H22 landmark-ripple hypothesis did not fire in 9.11 game-day two-Sim session
+project_scopes: framework-methodology, sim-ai
+cc_task_relevance: hypothesis-non-firing-analysis, landmark-ripple-scenario-dependency, validation-classification
+phase_binding: Phase-2
+discipline_family: extended-horizon empirical analysis + hypothesis validation discipline
+canonical_rule: framework hypotheses H15 through H22 landmark-ripple sentiment propagation identified as validation-requires-scenario-coincidence class architecturally distinct from validation-requires-magnitude class; non-firing is first-class empirical data
+load_bearing_claims:
+  - H15 through H22 hypotheses covering landmark-ripple sentiment propagation did not fire in 9.11 game-day two-Sim session at seed=42
+  - 16 landmark events and 878 co-located ticks failed to trigger ripple
+  - Validation-requires-scenario-coincidence class of hypothesis architecturally distinct from validation-requires-magnitude class
+  - Non-firing is first-class empirical data
+applicability_triggers:
+  - Framework hypothesis fails to fire despite substantial scenario opportunity
+  - Landmark-ripple sentiment propagation validation needed
+  - Extended-horizon session provides many opportunities for hypothesis firing
+mechanism_details:
+  - 16 landmark events triggered in 9.11 game-day session
+  - 878 co-located ticks provided witness opportunities
+  - Landmark-ripple fires require specific scenario coincidence not just magnitude
+  - Post 0161 subsequently revises framing to also timing-model-dependent
+cross_refs:
+  - Post 0159 (late-convergence emergent behavior; same session)
+  - Post 0161 (timing race in landmark co-witness detection at tick 9773; revises this post framing)
+  - Post 0136 (empirical BUILD mode as architecture-as-hypothesis)
+-->
+
 # When Hypotheses Do Not Fire: Landmark-Ripple Scenario Dependency in a Nine-Game-Day Two-Sim Session
 
 **Author:** Jimmy McColery

@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0040
+title: What the Gang Actually Does and Whats Theater
+date_published: 2026-05-24
+status: published
+superseded_by: none
+domain: Four-layer honest decomposition of The Gang multi-role architecture with per-layer value assessment (Layer 1 persona naming = theater; Layer 2 workflow = real; Layer 3 same-substrate multi-role = theater; Layer 4 cross-substrate = real)
+project_scopes: street-code-methodology
+cc_task_relevance: methodology-research, substrate-methodology, discipline-enforcement
+phase_binding: era-independent
+discipline_family: Rule-14-Madisonian, Rule-11-substrate-specialization
+canonical_rule: Layers 2 and 4 are where the real work happens (workflow discipline + cross-substrate triangulation); Layers 1 and 3 (persona naming + same-substrate multi-role) are mostly theater per anti-pattern #15
+load_bearing_claims:
+  - Cemri et al. 2025 arXiv:2503.13657 shows MAS failure rates 41-86.7% across SOTA frameworks establishing empirical prior
+  - Anti-pattern #15 in canonical record says gains come from turn-taking, verification gates, structured outputs, adversarial probing not from persona identities (Zheng et al. EMNLP 2024)
+  - Open Question #5 flagged transparently: head-to-head benchmark against Chain-of-Thought + self-consistency not yet measured (outstanding since 2026-04-28)
+applicability_triggers:
+  - CC evaluating whether a multi-agent framework adds value vs single-call best-practice prompting
+  - CC drafting persona naming vs workflow discipline
+  - CC assessing which layer of an AI architecture is doing real work
+mechanism_details:
+  - Four standing roles (Quarterback, Nerd, Hall Monitor, Paranoid Stoner) plus two embedded functions (Teacher's Pet, New Kid)
+  - Layer 1 persona naming does nothing by itself (mnemonic; structure is mechanism)
+  - Companion to Post 39 as public-facing Layer 4 articulation
+cross_refs:
+  - Post 0039 cross-substrate triangulation (Layer 4 canonical articulation)
+  - Post 0026 operational discipline rules
+-->
+
 # What the Gang Actually Does (and What's Theater)
 
 **Author:** Jimmy McColery

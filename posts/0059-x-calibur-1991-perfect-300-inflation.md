@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0059
+title: The X-Calibur disruption 1991: how a single bowling ball coverstock caused perfect-300 inflation
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: bowling history 1991 X-Calibur reactive-resin coverstock material-science-scoring-integrity disruption
+project_scopes: pin-paradise
+cc_task_relevance: era-progression-design, material-science-mechanic-modeling, historical-fidelity-research
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Nu-Line X-Calibur reactive-resin coverstock 1991 caused approximately 20% jump in perfect-300 rates in a single season triggering lane-conditioning arms race
+load_bearing_claims:
+  - 1991 perfect-300 rate jumped approximately 20% in a single season
+  - Jump was not skill or rules; single material-science innovation drove it
+  - Reactive-resin coverstock as new coverstock class disrupted scoring integrity
+  - Pattern recurs across aluminum bats tennis composite frames carbon-fiber bicycles
+applicability_triggers:
+  - When modeling equipment-class introduction as scoring-inflation event in era-progression
+  - When designing lane-conditioning or handicap mechanic
+  - When authoring material-science-innovation impact research
+mechanism_details:
+  - Reactive-resin absorbs and interacts with lane oil differently than urethane predecessors
+  - Response was lane-conditioning arms race and pattern-complexity increase per Post 0067
+cross_refs:
+  - Post 0067 (Kegel Sanction Machine 1988 precision substrate)
+  - Post 0075 (institutional evolution PBA USBC)
+-->
+
 # The X-Calibur disruption 1991: how a single bowling ball coverstock caused perfect-300 inflation
 
 **Author:** Jimmy McColery

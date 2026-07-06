@@ -1,8 +1,16 @@
 # What We Have Not Measured: Pre-Registration Discipline as the Honest Bridge Between Framework Confidence and Framework Testability
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0114
-domain: methodology-discipline
+title: What We Have Not Measured: Pre-Registration Discipline as the Honest Bridge Between Framework Confidence and Framework Testability
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: methodology-discipline; pre-registration discipline binding framework to empirical evidence pathway; four load-bearing gaps not measured
+project_scopes: framework-methodology, framework-defense
+cc_task_relevance: pre-registration-planning, empirical-claim-audit, framework-defensibility-writing
+phase_binding: era-independent
+discipline_family: framework-methodology
 canonical_rule: pre-registration-discipline-empirical-validation-pathway
 load_bearing_claims:
   - Framework is design-theory status (NOT yet validated empirically)
@@ -25,7 +33,7 @@ cross_refs:
   - Post 0136 (empirical BUILD mode as architecture-as-hypothesis)
   - Post 0138 (cultural baseline distinguishability empirical finding H5)
   - Marcus Reed Protocol Item 1594-1598 (R1-R5 substrate reports; internal replication)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

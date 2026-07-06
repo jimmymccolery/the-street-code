@@ -1,13 +1,22 @@
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0170
-domain: framework-methodology-empirical-BUILD-arc
-canonical_rule: operator-realism-check discipline strengthens to n=8 within-arc + n=11 total within-Phase-3; Rule 20 Family A sub-shape 24 candidate BANKED at temporal-scope test-coverage layer
+title: When Six Mechanic Failures Fell in One Afternoon Empirical Fires A Through F Strengthen Operator Realism Check to n=8 Within-Arc
+date_published: 2026-07-05
+status: published
+superseded_by: 0171-Fire-E
+domain: Phase 3.2-D Fires A-F comprehensive reshaping arc resolving 6 discrete framework mechanic failures; operator-realism-check discipline strengthens to n=8 within-arc + n=11 total within-Phase-3
+project_scopes: framework-methodology, sim-ai
+cc_task_relevance: phase-3-2-d-reshape-arc, operator-realism-check-canonization, sub-shape-24-temporal-scope-test-coverage, iterative-reshape-diagnostic-instrumentation
+phase_binding: Phase-3
+discipline_family: operator-realism-check discipline + Rule 20 candidacy Family A sub-shape 24 candidate
+canonical_rule: operator-realism-check discipline strengthens to n=8 within-arc + n=11 total within-Phase-3; Rule 20 Family A sub-shape 24 candidate BANKED at temporal-scope test-coverage layer; Fire E v2 subsequently rejected as unrealistic and reshaped to v3 per Post 0171
 load_bearing_claims:
   - Phase 3.2-D Fires A-F comprehensive reshaping arc resolved 6 discrete framework mechanic failures diagnosed via seed=42 30-game-day empirical validation session with re-validation between iterations
   - 6 of 8 RQ1-RQ8 mega-spec targets fire cleanly post-arc (RQ1 storm anticipation 100% + RQ3 both Sims accumulate + RQ4 30+ fires + RQ5 preserved + RQ6 partial + RQ7 18.18 point valence_f spread + Fire F both Sims rescued day 21.2)
   - Fire B required 5 iterations before diagnostic instrumentation revealed root cause (Sim mid-sleep through storm-approach window)
   - Sub-shape 24 candidate BANKED at temporal-scope test-coverage layer distinct from prior sub-shapes
   - Operator-realism-check discipline empirical foundation n=11 total within-Phase-3 substantially exceeds canonization threshold
+  - Post 0171 subsequently supersedes Fire E v2 with v3 bond-resistance revision after operator-realism-check rejection
 applicability_triggers:
   - Extended-horizon empirical validation session diagnoses framework mechanic failures
   - Iteration count on reshape without diagnostic instrumentation exceeds 2
@@ -18,15 +27,16 @@ mechanism_details:
   - Fire B storm anticipation via 5 iterations final v5 WAKE-UP INTERRUPT for sleep/rest/observe_surroundings during stormApproaching after diagnostic instrumentation revealed mid-sleep root cause
   - Fire C fire tending threshold reshape exposure 40 to 20 or no active fire plus tend weight 0.9 to 2.5
   - Fire D kindness gates via share_food foodCache typo fix plus comfort valence_f -30 to -8 plus COMFORT_STRIVING_WEIGHT 0.8 to 2.5
-  - Fire E aggression cooldown v2 AGGRESSION_COOLDOWN_TICKS 1440 plus lastAggressionTick state field with perspective-swap propagation via simBView
+  - Fire E v2 aggression cooldown AGGRESSION_COOLDOWN_TICKS 1440 plus lastAggressionTick state field with perspective-swap propagation via simBView (subsequently reshaped to v3 per Post 0171)
   - Fire F rescue probability tuning RESCUE_P_BASE 0.05 to 0.08
 cross_refs:
   - Post 0136 empirical BUILD-mode-as-hypothesis discipline
   - Post 0144 buffer-slice entry-count-per-fire discipline
   - Post 0164 operator-realism-check three fires in one session
-  - Council 8 methodology deployment proposal at street-code methodology folder
-  - Phase 3.2-D memory at project_phase_3_2_d_fires_a_f_reshaping_arc_shipped_2026-07-05.md
-  - Sub-shape 24 memory at feedback_isolation_test_passes_but_multi_day_integration_reveals_suppressed_mechanic_candidate_24th_sub_shape_2026-07-05.md
+  - Post 0171 (addendum post-audit-correction Fire E v3 bond-resistance revision supersedes Fire E v2 in this post)
+  - Council 8 methodology deployment proposal at the-street-code methodology folder
+  - Phase 3.2-D memory project_phase_3_2_d_fires_a_f_reshaping_arc_shipped_2026-07-05.md
+  - Sub-shape 24 memory feedback_isolation_test_passes_but_multi_day_integration_reveals_suppressed_mechanic_candidate_24th_sub_shape_2026-07-05.md
 -->
 
 # When Six Mechanic Failures Fell in One Afternoon: Empirical Fires A Through F Strengthen Operator Realism Check to n=8 Within Arc

@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0068
+title: Composition over modification: an architectural-design pattern for multi-system games
+date_published: 2026-06-01
+status: published
+superseded_by: none
+domain: software architecture pattern for multi-system game coupling via composition-layer
+project_scopes: pin-paradise, street-code-methodology
+cc_task_relevance: architectural-lock-cycle-design, multi-system-coupling-decision, composition-layer-pattern
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Newer architectural decisions compose on top of older ones in a dedicated composition layer owned by the newer decision; older decisions stay textually immutable
+load_bearing_claims:
+  - Standard practice modifies existing system interface to expose what new system needs
+  - Composition pattern owns coupling on the newer side rather than modifying the older side
+  - n=4 cumulative empirical validation across May 2026 architectural-lock cycles
+  - More tractable than modification-based coupling for multi-system games
+applicability_triggers:
+  - When multi-system game needs cross-system coupling
+  - When architectural-lock arc discipline requires textual immutability for prior locks
+  - When authoring architecture posts on solo indie multi-system design
+mechanism_details:
+  - Older architectural decisions remain textually immutable to preserve reasoning provenance
+  - Newer decisions carry their composition-layer explaining coupling into prior systems
+  - Enables clean cross-Q composition without breaking prior audit trail
+cross_refs:
+  - Post 0049 (design mode vs code mode transition)
+  - Post 0057 (V1 bug triage documentation)
+-->
+
 # Composition over modification: an architectural-design pattern for multi-system games
 
 **Author:** Jimmy McColery

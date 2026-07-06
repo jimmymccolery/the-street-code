@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0001
+title: Experiment 1 Does Discipline Survive Substrate
+date_published: 2026-05-02
+status: published
+superseded_by: none
+domain: First cross-substrate experiment testing whether v1.2 anti-patterns + v1.1 schemas bind on Claude after being developed on Grok
+project_scopes: street-code-methodology
+cc_task_relevance: multi-substrate-audit, verification-validation, discipline-enforcement
+phase_binding: Phase-1
+discipline_family: Rule-14-Madisonian, verify-against-canonical-files
+canonical_rule: Framework discipline binds across substrates when canonical anti-patterns + role schemas are attached and phase-gated with operator-driven advances
+load_bearing_claims:
+  - Claude's Phase 1 STOP protocol correctly refused fabricating canonical content when attached files were older than prompt assumed (anti-pattern #10 fire during framework's own promotion)
+  - Sequential role isolation with operator-advance held on Claude across five phases including Madisonian Dissent Log synthesis
+  - Six prior Grok failures did not reproduce on Claude successful run establishing substrate-class evidence for framework portability
+applicability_triggers:
+  - CC evaluating cross-substrate framework portability claims
+  - CC drafting substrate verification / Phase 1 canonical-state gates
+  - CC investigating whether a failure was substrate-specific or framework-gap
+mechanism_details:
+  - Six canonical files attached (anti-patterns v1.2, role schemas v1.1, bootstrap manifest, lessons log, project graph, master GROK.md)
+  - Five-phase structure: substrate verification, premortem, main audit, falsification criteria, cross-check
+  - First attempt failed cleanly at Phase 1 STOP because deployment was incomplete on disk
+cross_refs:
+  - Post 0002 Experiment 5 Grok Pattern C partial binding
+  - Post 0005 foundation-period S001-S004 rule promotions
+-->
+
 # Experiment 1: Does Discipline Survive Substrate?
 
 **Author:** Jimmy McColery

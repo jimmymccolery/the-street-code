@@ -1,7 +1,15 @@
 # The Marcus Reed Protocol: a named anti-stereotype guardrail honored by some substrates and fabricated by another
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0070
+title: The Marcus Reed Protocol: a named anti-stereotype guardrail honored by some substrates and fabricated by another
+date_published: 2026-06-05
+status: published
+superseded_by: none
+project_scopes: street-code-methodology, cross-cutting, pin-paradise
+cc_task_relevance: procedural-character-generation, anti-stereotype-guardrail-audit, substrate-fabrication-detection
+phase_binding: era-independent
+discipline_family: Rule-19-anti-fabrication
 domain: methodology-discipline
 canonical_rule: marcus-reed-protocol-named-anti-stereotype-guardrail
 load_bearing_claims:

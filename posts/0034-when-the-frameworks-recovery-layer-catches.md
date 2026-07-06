@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0034
+title: When the Frameworks Recovery Layer Catches the Substrates Self Reports
+date_published: 2026-05-11
+status: published
+superseded_by: none
+domain: Four categories of substrate-side self-report failure caught by framework's recovery layer (false-flag negative-existence, anchoring-bias recommendation, cross-substrate roleplay scaffolding, closeout-time self-report cascade)
+project_scopes: street-code-methodology
+cc_task_relevance: verification-validation, anti-fabrication, multi-substrate-audit
+phase_binding: Phase-1
+discipline_family: verify-against-canonical-files, Rule-19-anti-fabrication
+canonical_rule: Substrate self-reports are not authoritative inputs to canonical record discipline four-mechanism recovery layer produces empirical reconciliation
+load_bearing_claims:
+  - Component A: 14 fires of false-flag negative-existence claims (substrate reports no match found when phrase X empirically present)
+  - Component B: 4 fires of substrate-side anchoring bias across topic selection, compound-pair scope, archetype naming, gap inventory assessment
+  - Fabricated-absence pattern is structural inverse of Topic 24 fabricated-presence claims
+applicability_triggers:
+  - CC evaluating substrate's negative-existence report (phrase X is not present)
+  - CC assessing substrate's session-memory-based recommendation for register-parallel anchoring
+  - CC applying verify-canonical-first discipline to negative claims not just positive claims
+mechanism_details:
+  - Fires 1-14 at lessons-learned.md line 1145 with per-fire canonical citations
+  - Anchoring bias fires at line 1365
+  - Within-session multi-fire without cross-session bar (per Track G discipline in Post 33)
+cross_refs:
+  - Post 0017 four-mechanism recovery-from-drift discipline
+  - Post 0018 mechanism composition auto-pilot
+  - Post 0019 mechanism #4 cross-substrate audit scope
+  - Post 0033 five fires of anti-pattern #18
+-->
+
 # When the Framework's Recovery Layer Catches the Substrate's Self-Reports
 
 Self-experimentation by a non-credentialed practitioner. n=1 operator across one multi-day arc plus cross-arc fire history. Cross-arc replication is unverified at filing time. Read accordingly.

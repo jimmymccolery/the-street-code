@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0006
+title: What Auditing the Audit Taught Me About Substrate Routing
+date_published: 2026-05-04
+status: published
+superseded_by: none
+domain: Methodology finding that substrates handle prescribed-format work cleanly while failing on adversarial judgment class producing class-specific substrate routing recommendation
+project_scopes: street-code-methodology
+cc_task_relevance: substrate-methodology, multi-substrate-audit, verification-validation
+phase_binding: Phase-1
+discipline_family: Rule-11-substrate-specialization
+canonical_rule: Substrate routing decisions should be class-specific based on which substrate's training objectives match which kinds of cognitive work not aesthetic choices
+load_bearing_claims:
+  - Grok landed all prescribed-format tasks cleanly (verbatim quotes, em-dash count, grade tables, arXiv citation) but failed uniformly on adversarial calibration of operator-authored content
+  - Anti-pattern #18 recovery via named-fire + structural format prescription works for prescribed-format failures and fails for judgment-class failures
+  - Same substrate can succeed on one class and fail on another within same session with the difference being task class not substrate quality
+applicability_triggers:
+  - CC routing work between Grok/Claude/Gemini and unsure which substrate suits which task
+  - CC deciding recovery posture (structural format vs substrate swap) for a specific failure class
+  - CC assessing whether an audit substrate is independent enough of the audited work
+mechanism_details:
+  - Nine sequential turns of same audit demonstrated split behavior
+  - Bottom-line-trap fired on operator-authored content despite Phase 2 premortem prediction
+  - Recovery posture has known scope (structural failures yes, judgment failures no)
+cross_refs:
+  - Post 0004 three-runs-at-the-asymptote (substrate training-objective limit)
+  - Post 0007 two-cycle validation of substrate-routed architecture
+-->
+
 # What Auditing the Audit Taught Me About Substrate Routing
 
 **Author:** Jimmy McColery

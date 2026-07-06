@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0065
+title: Real-time friction as design philosophy: when game cost is your actual attention
+date_published: 2026-06-01
+status: published
+superseded_by: none
+domain: tycoon design real-wall-clock time as cost vector for manual-task mechanics
+project_scopes: pin-paradise
+cc_task_relevance: tycoon-cost-vector-design, real-time-friction-mechanic, attention-as-currency
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Manual maintenance and cleaning task mechanic uses real wall-clock time as cost so player attention is on the same ledger as in-game financial cost
+load_bearing_claims:
+  - Standard tycoon cost vectors are abstractions (money energy AP time-of-day)
+  - Design breaks pattern by making task duration real wall-clock time not in-game time
+  - Player trades real attention for in-game wage savings legibly at experience level
+  - Bounded honest discussion of when the design would not work
+applicability_triggers:
+  - When designing tycoon cost vectors around player attention rather than abstractions
+  - When mechanic exposes wall-clock friction to player as legible trade-off
+  - When authoring game-design philosophy posts
+mechanism_details:
+  - Real-time task duration makes the cost ledger unified with player experience
+  - Player can choose manual work (save wages, spend attention) or delegate (pay wages, save attention)
+cross_refs:
+  - Post 0056 (mechanic as new friction class)
+  - Post 0068 (composition over modification architectural pattern)
+-->
+
 # Real-time friction as design philosophy: when game cost is your actual attention
 
 **Author:** Jimmy McColery

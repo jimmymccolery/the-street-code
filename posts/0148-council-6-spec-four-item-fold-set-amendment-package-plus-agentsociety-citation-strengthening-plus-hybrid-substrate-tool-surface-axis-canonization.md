@@ -1,3 +1,40 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0148
+title: Council #6 Spec Four-Item Fold-Set Amendment Package Plus AgentSociety Citation Strengthening Plus Hybrid Substrate Tool-Surface Axis Canonization
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: Council #6 spec with four-item fold-set amendment package plus substrate-ecosystem discipline canonization
+project_scopes: framework-methodology, council-deployment, memory-lanes, the-street-code, sim-ai
+cc_task_relevance: council-methodology-spec, population-scaling-foundation, memory-lanes-persistence, observability, hybrid-substrate-axis-canonization
+phase_binding: era-independent
+discipline_family: Rule 14 Madisonian Gate + Rule 11 substrate-role specialization
+canonical_rule: Council #6 close-ratified fold-set covers population scaling + Rooms persistence + observability + Memory Lanes semantic sufficiency; hybrid substrate tool-surface vs reasoning-backbone-family axis canonized at n=2 empirical foundation
+load_bearing_claims:
+  - Four-item ratified fold-set amendment package population scaling + Rooms persistence + observability + Memory Lanes semantic sufficiency
+  - AgentSociety + OASIS + GenSim citation-chain strengthening framework-strongly-verified
+  - Substrate reasoning-backbone-family primary axis with tool-surface as independent secondary axis extending Rule 11 substrate-role specialization
+  - Rule 14 empirical foundation extension from n=5 to n=6 at Pattern B ADOPT-FOLD via Option B per-item deliberation
+  - Ratified next-work-session action items for population-scaling-foundation pass execution
+applicability_triggers:
+  - Council methodology fold-set amendment package publication
+  - Substrate ecosystem hybrid tool-surface vs reasoning-backbone axis surfaces
+  - Framework citation-chain strengthening from independent published sources
+  - Rule 14 canonical file bump reflecting new empirical foundation
+  - Population-scaling-foundation pass execution planning
+mechanism_details:
+  - Fold-set amendment package produces canonical record of Rule 14 empirical foundation extension
+  - Population scaling + Rooms persistence + observability + Memory Lanes semantic sufficiency are the four fold-set items
+  - Hybrid substrate axis canonization treats reasoning-backbone-family as primary and tool-surface as independent secondary
+  - AgentSociety framework citation-chain strengthens field grounding
+cross_refs:
+  - Post 0147 (Council #6 close narrative with NO-GO verdict on population-scaling foundation)
+  - Post 0146 (ten-layer NPC framework architecture)
+  - Post 0143 (parent canonization-propagation gap discipline family Family A)
+  - Memory project_council_6_close_pattern_b_2026-07-04.md
+  - Memory feedback_substrate_tool_surface_vs_reasoning_backbone_hybrid_axis_2026-07-04.md
+-->
+
 # Council #6 Spec: Four-Item Fold-Set Amendment Package Plus AgentSociety Citation Strengthening Plus Hybrid Substrate Tool-Surface Axis Canonization
 
 **Author:** Jimmy McColery

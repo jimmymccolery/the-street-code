@@ -1,3 +1,42 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0142
+title: Council #5 Spec Eight-Decision Longitudinal-Trace-Catalogue Amendment Package Plus Cross-Source-Misbinding Fabrication-Axis Sub-Shape Canonization
+date_published: 2026-07-02
+status: published
+superseded_by: none
+domain: Council #5 spec with eight-decision amendment package and Rule 19 sub-shape canonization
+project_scopes: framework-methodology, council-deployment, the-street-code, sim-ai
+cc_task_relevance: council-methodology-spec, longitudinal-trace-catalogue, x-phi-amendment, rule-14-empirical-foundation
+phase_binding: era-independent
+discipline_family: Rule 14 Madisonian Gate + Rule 19 Marcus Reed Protocol
+canonical_rule: Rule 14 empirical foundation extension to n=5 conditional on operator ratification Pattern B via Option B with contamination-condition modifier documented
+load_bearing_claims:
+  - Eight-decision Council #5 amendment package specifies two-tier longitudinal-trace catalogue publication (Decision 1) and longitudinal-benchmark methodology guide (Decision 2)
+  - Decision 3 amends Sim AI Phase 2 scope for post-hoc answer-key generation logging requirement
+  - Decision 4 forward-references Post 0114 X-Phi pilot scope-note amendment
+  - Decision 5 amends Post 0119 to add catalogue as named fifth surface class
+  - Decision 6 extends Rule 14 empirical foundation to n=5 with contamination-condition modifier documented
+  - Decision 7 bumps operational-discipline-rules canonical file v1.20 to v1.21 documenting Rule 14 n=5 plus Rule 19 body extension canonizing Fire A under corrected cross-source-misbinding Condition-3c-adjacent shape plus Rule 19 BANK Fire B at n=1 plus Council #4 anti-fabrication empirical validation context-dependence note
+  - Decision 8 canonizes three feedback-memory BANK entries for Grok intra-substrate verdict reproduction plus Grok attempt-2 ECHO/NOVEL field-thinning plus register-classification correction as Phase C re-derivation empirical fire
+applicability_triggers:
+  - Consolidated Council methodology amendment package publication
+  - Longitudinal-trace catalogue methodology guide production
+  - Rule 14 canonical file bump reflecting new empirical foundation
+  - Rule 19 sub-shape body extension canonization
+  - X-Phi pilot scope amendment via forward-reference discipline
+mechanism_details:
+  - Two-tier longitudinal-trace catalogue publication methodology
+  - Rule 14 Pattern B ADOPT-FOLD via Option B per-item deliberation with contamination-condition modifier
+  - Rule 19 cross-source-misbinding Condition-3c-adjacent sub-shape canonization body extension
+  - Companion methodology guides at longitudinal-trace-catalogue-v1.md and longitudinal-benchmark-methodology-guide-v1.md
+cross_refs:
+  - Post 0141 (Council #5 close narrative with Pattern B classification and non-replication event)
+  - Post 0114 (X-Phi pilot scope-note amendment target)
+  - Post 0119 (fifth surface class named in Decision 5)
+  - Post 0130/0135/0140 (parallel methodology guides pattern)
+  - operational-discipline-rules v1.21 canonical file
+-->
+
 # Council #5 Spec: The Eight-Decision Longitudinal-Trace-Catalogue Amendment Package Plus the Cross-Source-Misbinding Fabrication-Axis Sub-Shape Canonization
 
 **Author:** Jimmy McColery

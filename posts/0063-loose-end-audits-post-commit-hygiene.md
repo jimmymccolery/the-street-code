@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0063
+title: Loose-end audits as post-commit canonical-state hygiene
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: post-commit loose-end audit discipline for canonical-state drift
+project_scopes: street-code-methodology, cross-cutting
+cc_task_relevance: post-commit-audit-discipline, canonical-state-hygiene, loose-end-disposition-workflow
+phase_binding: era-independent
+discipline_family: verify-against-canonical-files
+canonical_rule: After substantive commit cycle closes, run structured pass to surface loose ends and dispose them via standard actions committed as their own corrective commits with explicit framing
+load_bearing_claims:
+  - Standard advice (amend the commit or commit a fix) assumes operator notices drift unprompted
+  - Noticing is the part where standard advice quietly fails
+  - Structured pass makes noticing systematic rather than incidental
+  - Multi-cycle reproduction across architectural-deliberation arcs
+applicability_triggers:
+  - After a substantive commit cycle closes and before moving to the next cycle
+  - When architectural-deliberation arc produces multiple pieces of canonical state at risk of subtle drift
+  - When authoring solo-dev methodology on post-commit hygiene
+mechanism_details:
+  - Structured pass surfaces list of loose ends
+  - Each disposed against small set of standard actions
+  - Dispositions committed as their own corrective commits with explicit framing
+cross_refs:
+  - Post 0057 (V1 bug triage documentation)
+  - Post 0049 (design mode vs code mode)
+-->
+
 # Loose-end audits as post-commit canonical-state hygiene
 
 **Author:** Jimmy McColery

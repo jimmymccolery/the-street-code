@@ -1,9 +1,17 @@
 # When My Narrow-Ship Post Had an Attribution Overclaim: Post-Audit Correction as Third Fire of CC-Side Empirical Mistake Discipline
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0167
-domain: methodology-discipline
-canonical_rule: post-audit-correction-at-post-publication-scope
+title: When My Narrow-Ship Post Had an Attribution Overclaim Post-Audit Correction as Third Fire of CC-Side Empirical Mistake Discipline
+date_published: 2026-07-05
+status: published
+superseded_by: none
+domain: post-audit-correction at post-publication scope; sub-shape 19 CC-side attribution overclaim; extends Post 0163 audit discipline stack
+project_scopes: framework-methodology, sim-ai, the-street-code
+cc_task_relevance: post-audit-correction-discipline, addendum-preserves-immutability, cc-side-empirical-grounding-failure, attribution-overclaim-catch
+phase_binding: era-independent
+discipline_family: Rule 20 candidacy Family A sub-shape 19 (CC-side-empirical-grounding-failure sub-family first fire) + post-audit-correction discipline
+canonical_rule: post-audit-correction discipline extends Post 0163 post-synthesis audit from BUILD-time scope to post-publication scope; 6-dimension grading rubric MUST apply to already-published work; post immutability preserved via addendum posts
 load_bearing_claims:
   - Post-audit-correction discipline extends Post 0163 post-synthesis audit from BUILD-time scope to post-publication scope
   - Rigorous 6-dimension grading rubric MUST apply to already-published work not just to draft work
@@ -13,10 +21,10 @@ applicability_triggers:
   - Recently-published methodology post contains empirical claim; audit-catch discovered
   - Multiple mechanism hypotheses could explain observable data; post picked one without empirical breakdown
   - Numerical discrepancy between post-stated value and canonical memory record
-  - Post-audit surfaces attribution overclaim (claiming one mechanism specifically without empirical evidence of breakdown)
+  - Post-audit surfaces attribution overclaim
   - Under operator-delegated ratification pressure where pre-publish review threshold was reduced
 mechanism_details:
-  - Correction pattern: ship addendum post rather than edit original; original remains in record with grade documented
+  - Correction pattern ship addendum post rather than edit original; original remains in record with grade documented
   - Selective application of rubric-based post-audit-correction to load-bearing methodology posts more sustainable than exhaustive coverage
   - Attribution overclaim fires when observable data supports multiple mechanism hypotheses but post picks one specifically without breakdown
   - Post-audit-correction preserves post immutability while enabling factual corrections
@@ -25,8 +33,10 @@ cross_refs:
   - Post 0166 (the corrected post; Phase 2.6.C hydration attribution overclaim)
   - Post 0168 (extended-verification as third-layer discipline)
   - Post 0143 (parent canonization-propagation gap discipline family Family A)
-  - Memory: feedback_cc_authored_empirical_attribution_overclaim_candidate_19th_sub_shape_2026-07-05.md
-CC-OPTIMIZED-SUMMARY -->
+  - Post 0171 (addendum-preserves-immutability pattern applied at Fire E v3 revision)
+  - Post 0172 (addendum-preserves-immutability pattern applied at Item 0334 retirement)
+  - Memory feedback_cc_authored_empirical_attribution_overclaim_candidate_19th_sub_shape_2026-07-05.md
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-05

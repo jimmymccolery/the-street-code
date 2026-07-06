@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0046
+title: The 1960s Bowling Bubble: how Brunswick's stock surged 1,590% then crashed in 5 years
+date_published: 2026-05-27
+status: published
+superseded_by: none
+domain: bowling-industry-economics-history 1957-1965 Brunswick stock bubble
+project_scopes: pin-paradise
+cc_task_relevance: era-progression-design, historical-fidelity-research, financial-mechanic-modeling
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Brunswick stock surged 1,590% 1957-1962 then collapsed by 1965 with 131 financed centers repossessed
+load_bearing_claims:
+  - AMF Pinspotter lease structure ($800/lane/year + 12 cents/game) shifted industry economics from labor-cost to capital-cost basis
+  - Brunswick Model A outright-sale strategy at approximately $7,700/lane 1956 dollars with in-house financing arm
+  - Wall Street capitalized implied multi-year revenue stream forward driving Brunswick stock 1,590% between 1957-1962
+  - 1965 collapse produced 131 Brunswick-financed centers in repossession forming Brunswick Recreation Centers division
+applicability_triggers:
+  - When designing era-progression financial mechanics for a bowling tycoon covering the 1950s-1960s
+  - When modeling capital-structure vs labor-structure trade-offs in period simulations
+  - When authoring historical industry-economics research posts
+mechanism_details:
+  - Lease vs outright-sale coexistence served different alley owner profiles but collectively shifted industry toward capital-intensive structure
+  - Manufacturer plus financier plus sales channel role fusion at Brunswick created feedback loop with alley financing
+cross_refs:
+  - Post 0045 (12-Cent Proposition AMF pricing)
+  - Post 0047 (Volcker shock 1981 conclusion of 3-post arc)
+-->
+
 # The 1960s Bowling Bubble: how Brunswick's stock surged 1,590% then crashed in 5 years
 
 **Author:** Jimmy McColery

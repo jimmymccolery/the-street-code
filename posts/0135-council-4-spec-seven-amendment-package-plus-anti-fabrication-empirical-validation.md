@@ -1,3 +1,36 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0135
+title: Council #4 Spec: The Seven-Amendment Package Plus the Rule 19 Condition-3 Sub-Mode Canonization
+date_published: 2026-07-01
+status: published
+superseded_by: none
+domain: Council #4 spec output; seven-decision amendment package (Post 0127 forward-reference + per-post five-row discipline ledger + brand-asset language + commit-language convention + Mbiti annotation + per-NPC-philosophy-profile BANK + SCOPE-OUT critic-response language); Rule 19 Condition-3 sub-mode canonization
+project_scopes: framework-architecture, framework-methodology
+cc_task_relevance: council-spec-authoring, cross-cultural-discipline-amendment, rule-19-sub-mode-canonization
+phase_binding: era-independent
+discipline_family: framework-methodology
+canonical_rule: council-4-seven-decision-amendment-package-plus-rule-19-condition-3-name-collision-canonized
+load_bearing_claims:
+  - Decision 1 Post 0127 forward-reference amendment on Gyekye 1997 phrasing correction (primary-text audit surfaced Gyekye's own achievement-graded moral personhood at pp. 50-52)
+  - Decision 2-7 amendment package addresses per-post ledger discipline + brand-asset language + commit-language + Mbiti epistemic-status + per-NPC-philosophy BANK + SCOPE-OUT critic-response language
+  - Rule 19 Marcus Reed Protocol Condition-3 name-collision sub-mode canonized as standalone methodology insight artifact
+  - Companion methodology guide at per-npc-philosophy-profile-reservation-and-ablation-gate-v1.md
+applicability_triggers:
+  - Implementing Council #4 close output
+  - Cross-cultural post amendments
+  - Rule 19 Condition-3 name-collision detection
+mechanism_details:
+  - Forward-reference amendment respects framework immutability convention
+  - Per-post five-row discipline ledger = structural verification mechanism
+  - Ablation-gate parallel to Post 0130 relationship-mode discipline
+cross_refs:
+  - Post 0134 (Council #4 close narrative companion)
+  - Post 0127 (Gyekye phrasing amendment target)
+  - Post 0128 (WEIRD schema-placeholder adjacent discipline)
+  - Post 0130 (relationship-mode ablation-gate parallel)
+  - Methodology: per-npc-philosophy-profile-reservation-and-ablation-gate-v1.md
+-->
+
 # Council #4 Spec: The Seven-Amendment Package Plus the Rule 19 Condition-3 Sub-Mode Canonization
 
 **Author:** Jimmy McColery

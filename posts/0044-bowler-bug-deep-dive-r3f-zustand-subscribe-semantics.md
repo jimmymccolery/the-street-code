@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0044
+title: The Bowler Visible at Off Lane Spawn Bug a React R3F Zustand Subscribe Semantics Deep Dive
+date_published: 2026-05-27
+status: published
+superseded_by: none
+domain: Three-system-interaction bug: JSX prop diffing + Rapier RigidBody position re-application + Zustand default subscribe semantics producing bowler teleporting to off-lane spawn on focus cycle
+project_scopes: pin-paradise
+cc_task_relevance: empirical-BUILD, verification-validation
+phase_binding: Phase-1
+discipline_family: none-applicable
+canonical_rule: Diagnostic pattern is incremental fixes per discovered system with visual-test driven discovery between fixes (three fixes were required because each of three independently-correct subsystems contributed)
+load_bearing_claims:
+  - Bug caught by operator-side visual-test cycle at Phase 4.A commit that introduced it (Post 43 discipline)
+  - Physics provider relocation up React tree changed component persistence pattern (unmounts became prop updates)
+  - Zustand default subscribe semantics without fireImmediately combined with prop diffing and RigidBody position re-application
+applicability_triggers:
+  - CC diagnosing bugs at intersection of React + R3F + Zustand
+  - CC evaluating three-system interaction bugs (each subsystem behaving as documented)
+  - CC assessing visual-test discipline for bug containment
+mechanism_details:
+  - Bowler is kinematic visual mesh not RigidBody; moves via useFrame lerp
+  - Three fixes required together; none alone fully resolved
+  - Symptom: bowler reappears visible at off-lane spawn instead of resuming walk animation
+cross_refs:
+  - Post 0042 multi-lane bowling BUILD day
+  - Post 0043 7-phase refactor decomposition
+-->
+
 # The bowler-visible-at-off-lane-spawn bug: a React + R3F + Zustand subscribe semantics deep-dive
 
 **Author:** Jimmy McColery

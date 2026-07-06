@@ -1,3 +1,36 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0166
+title: When Seven Commits in Two Hours Shipped a Framework Mechanic Narrow-Ship Pattern Empirically Strengthens at n=7 Within-Arc
+date_published: 2026-07-05
+status: published
+superseded_by: 0167-attribution
+domain: iterative-narrow-ship pattern reproducing at n=7 commits within single Phase 2.8 aggression + fleeing empirical BUILD arc; each commit addressed empirical bug from immediately-preceding seed=42 session
+project_scopes: framework-methodology, sim-ai
+cc_task_relevance: narrow-ship-pattern-empirical-foundation, iterative-BUILD-arc-discipline, latent-bug-surfacing, phase-2-8-aggression-fleeing
+phase_binding: Phase-2
+discipline_family: iterative-narrow-ship pattern empirical foundation
+canonical_rule: narrow-ship pattern reproduces at n=7 commits within single BUILD arc; each commit addressed immediately-preceding seed=42 session bug; latent Phase 2.6.C bug surfaced as side effect
+load_bearing_claims:
+  - Iterative-narrow-ship pattern reproduces at n=7 commits within single Phase 2.8 aggression + fleeing empirical BUILD arc 2026-07-04 latest evening through 2026-07-05 early morning
+  - Each commit addressed an empirical bug surfaced by the immediately-preceding seed=42 session
+  - The pattern also surfaced a latent Phase 2.6.C bug that had been silently masked by adjacent framework behavior since Phase 2.6 empirical validation
+  - Post 0167 partial-supersedes this post at attribution overclaim scope (Phase 2.6.C hydration attribution to drink_from_stream specifically without empirical breakdown)
+applicability_triggers:
+  - Empirical BUILD arc with iterative narrow-ship commits
+  - Each commit addresses immediately-preceding empirical session
+  - Latent bug surfaces as side effect of adjacent-mechanic ship
+  - Multi-mechanism hydration or resource attribution needs empirical breakdown before ship
+mechanism_details:
+  - 7 commits within 2 hours = iterative narrow-ship pattern
+  - Each commit informed by prior seed=42 session
+  - Phase 2.6.C latent bug surfaced during Phase 2.8 arc
+  - Attribution overclaim identified post-publication at Post 0167
+cross_refs:
+  - Post 0167 (post-audit-correction; corrects attribution overclaim in this post)
+  - Memory project_phase_2_8_aggression_fleeing_shipped_2026-07-05.md
+  - Memory feedback_cc_authored_empirical_attribution_overclaim_candidate_19th_sub_shape_2026-07-05.md
+-->
+
 # When Seven Commits in Two Hours Shipped a Framework Mechanic: Narrow-Ship Pattern Empirically Strengthens at n=7 Within-Arc
 
 **Author:** Jimmy McColery

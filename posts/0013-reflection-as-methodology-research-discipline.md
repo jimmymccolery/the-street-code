@@ -1,3 +1,31 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0013
+title: Reflection as Methodology Research Discipline
+date_published: 2026-05-07
+status: published
+superseded_by: none
+domain: End-of-session reflection prompt discipline that captures methodology research material operational-mode review misses
+project_scopes: street-code-methodology
+cc_task_relevance: methodology-research, discipline-enforcement
+phase_binding: Phase-1, era-independent
+discipline_family: operator-realism-check
+canonical_rule: Explicit reflection prompt at session close (What did we just do that is potentially novel methodology research material) captures roughly 25 canonical-record additions per substantive session that operational mode misses
+load_bearing_claims:
+  - Two substantive sessions produced approximately 25 reflection-driven canonical-record additions each
+  - Operational mode is artifact-focused (did the post ship, did canonical file update) and cannot catch meta-patterns by construction
+  - Reflection is reliability mechanism distinct from verification chains and Phase 5 review
+applicability_triggers:
+  - CC closing a substantive session
+  - CC deciding whether to run reflection pass before declaring session complete
+  - CC drafting session-close discipline
+mechanism_details:
+  - Reflection scans for failure modes fired during session, disciplines that emerged from operator judgment, near-misses framework gates caught
+  - Three subsequent operator-pushback cycles after AI declared closure produced additional filings (phase-numbering convention, refinement candidates, drafted-but-not-executed patterns)
+cross_refs:
+  - Post 0017 recovery-from-drift discipline (mechanism #3 reflection-prompt discipline)
+  - Post 0018 auto-pilot session extension
+-->
+
 # Reflection as Methodology Research Discipline
 
 **Author:** Jimmy McColery

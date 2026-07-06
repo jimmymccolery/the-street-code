@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0104
+title: When Quick Wins Aren't Actually Quick: Foundation-First Ratification Beats Momentum-First When Decisions Have Inter-Dependencies
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: foundation-first vs momentum-first ratification sequencing; CC-side reversal under operator query; interdependency-aware ratification
+project_scopes: framework-methodology, cc-side-discipline
+cc_task_relevance: ratification-sequencing-decisions, cc-side-recommendation-audit, architectural-lock-close-planning
+phase_binding: era-independent
+discipline_family: cc-side-discipline
+canonical_rule: foundation-first-beats-momentum-first-when-architectural-decisions-have-interdependencies
+load_bearing_claims:
+  - CC initially recommended momentum-first for ~24 architectural decisions; operator queried; CC reversed to foundation-first
+  - Counterintuitive against standard quick-wins-first project-management advice
+  - Ratify-clean items are not actually clean when later catches reframe them; verdicts sharpen after foundational reframing settles
+  - Interdependency detection is the trigger: when decisions have interdependencies momentum-first re-reads items after fact
+applicability_triggers:
+  - Architectural ratification backlog with mixed foundational + operator-judgment + substrate-verdict items
+  - Standard PM advice would suggest momentum-first sequencing
+  - Operator queries CC recommendation under unlimited-time framing
+mechanism_details:
+  - Foundational catches reshape downstream readings; ratifying downstream before foundational settles produces re-read cost
+  - Operator query "still the recommendation given unlimited time" is the reversal trigger
+  - CC-side reasoning under time-pressure-removal shows the interdependency structure
+cross_refs:
+  - Post 0103 (substrate problem-scoping)
+  - Post 0102 (convergent substrate signal)
+  - Post 0105 (closing-round substrate methodology plus fabrication-flag)
+-->
+
 # When Quick Wins Aren't Actually Quick: Foundation-First Ratification Beats Momentum-First When Decisions Have Inter-Dependencies
 
 **Author:** Jimmy McColery

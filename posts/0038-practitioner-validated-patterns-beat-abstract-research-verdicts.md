@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0038
+title: Practitioner Validated Patterns Beat Abstract Research Verdicts How a Codrops Demo Shipped My PS1 Shader
+date_published: 2026-05-24
+status: published
+superseded_by: none
+domain: Methodology finding that pre-validating architecture against shipped practitioner code (Codrops PS1 shader demo) beats implementing directly off abstract research verdict (Grok custom ShaderMaterial recommendation)
+project_scopes: pin-paradise, street-code-methodology
+cc_task_relevance: substrate-methodology, methodology-research, verification-validation
+phase_binding: Phase-1, era-independent
+discipline_family: Rule-11-substrate-specialization, verify-against-canonical-files
+canonical_rule: When research surfaces architectural intent but practitioner code surfaces implementation detail let architecture be pre-validated against shipped practitioner code Phase A surface check reads what practitioners actually shipped
+load_bearing_claims:
+  - Pass 1 six iterations vs Pass 2 six commits zero reverts asymmetry is methodology finding not architectural difficulty
+  - Grok Pass 2 verdict said implement custom ShaderMaterial from scratch (architecturally sound but reinvents MeshLambertMaterial)
+  - Codrops React-Three-Fiber demo showed onBeforeCompile extension of built-in material producing shorter path
+applicability_triggers:
+  - CC receiving research substrate recommendation for architectural pattern
+  - CC deciding whether to implement off research verdict directly or Phase A check against shipped code first
+  - CC building shader/rendering work where documentation is often stale
+mechanism_details:
+  - RoomToLife chair-prototype shader spike 2026-05-15 to 2026-05-16
+  - Two-pass shader: screen-space posterize/dither/gamma + vertex-level snap and Lambert with flatShading
+  - Grok cited Liutikov + Heckel + Codrops as three practitioners plus one architectural pattern
+cross_refs:
+  - Post 0036 PKCE magic link (adjacent RoomToLife work)
+  - Post 0039 cross-substrate triangulation
+-->
+
 # Practitioner-Validated Patterns Beat Abstract Research Verdicts: How a Codrops Demo Shipped My PS1 Shader
 
 **Author:** Jimmy McColery

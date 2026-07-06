@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0023
+title: Verification Query Precision When the Question Asked Doesnt Match the Canonical State
+date_published: 2026-05-09
+status: published
+superseded_by: none
+domain: Topic 34 verification-query precision class as sub-class of anti-pattern #10 with n=2 fires within S009 Step 11 corrective sub-stage 2
+project_scopes: street-code-methodology
+cc_task_relevance: verification-validation, canonization-propagation, anti-fabrication
+phase_binding: Phase-1
+discipline_family: Rule-20-Family-A-canonization-propagation, verify-against-canonical-files
+canonical_rule: Verification-query drafting against canonical role architecture must read the literal canonical schema before drafting the query not paraphrase from session-memory of the rename
+load_bearing_claims:
+  - Precision class operates at question-asking layer not at answer-content layer producing questions whose answers cannot match canonical state
+  - Pattern-completion bias under salience pressure leaks embedded role names into list shape that visually parallels canonical structure
+  - Sub-class of anti-pattern #10 generalizing verify-canonical-first from substantive claims to operator-facing query drafting
+applicability_triggers:
+  - CC drafting verification queries after a recent canonical rename
+  - CC evaluating whether a query tests against literal canonical schema or paraphrase
+  - CC deciding whether a query failure is content-error or precision-class error
+mechanism_details:
+  - Canonized at research_queue.md Topic 34 lines 1340-1365
+  - Fire 1: Gemini Deep Think caught verification-query drafting error across three substrates simultaneously
+  - Fire 2: partial-absorption fingerprint at persona-section text propagation layer
+cross_refs:
+  - Post 0020 Council of Three third leg fallibility
+  - Post 0025 drafting-drift canonical promotion arc
+-->
+
 # Verification-Query Precision: When the Question Asked Doesn't Match the Canonical State
 
 **Author:** Jimmy McColery

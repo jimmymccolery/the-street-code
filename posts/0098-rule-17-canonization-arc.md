@@ -1,3 +1,36 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0098
+title: From Stale Knowledge to Canonical Rule: How a Discipline Gets Promoted in Six Fires
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: operational-discipline canonization arc; Rule 17 (CW Project Knowledge Refresh Discipline) worked example; six-fires-across-five-days promotion structure
+project_scopes: framework-methodology, discipline-canonization
+cc_task_relevance: discipline-canonization-decisions, feedback-memory-promotion, operational-rule-authoring
+phase_binding: era-independent
+discipline_family: framework-methodology
+canonical_rule: operational-discipline-canonization-follows-observation-plus-repeated-fires-plus-promotion-arc
+load_bearing_claims:
+  - Operational disciplines emerge ad-hoc as feedback memory; promotion arc has structure worth documenting
+  - Rule 17 canonized 2026-05-31 at AR-3.3 after six fires across five days
+  - Discipline addresses long-running orchestrator-class AI workspace canonical-state drift from project canonical record
+  - Promotion arc generalizes across discipline domains not just CW project knowledge refresh
+applicability_triggers:
+  - Feedback memory accumulating repeated fires suggesting canonization candidacy
+  - Framework has multiple ad-hoc disciplines needing promotion to Rules
+  - Long-running orchestrator-class workspaces drifting from canonical record
+mechanism_details:
+  - Fire 1 = notice specific failure pattern; file feedback memory
+  - Fires 2-N = pattern reproduces under different conditions
+  - Promotion trigger = pattern strengthening plus operator recognition of structural regularity
+  - Canonization output = numbered Rule with explicit trigger taxonomy plus propagation discipline
+cross_refs:
+  - Rule 17 CW Project Knowledge Refresh Discipline
+  - Rule 20 canonization-propagation gap discipline (adjacent canonization arc)
+  - Post 0090 (five-substrate methodology; Rule 11 canonization foundation)
+  - Framework operational-discipline-rules.md canonical registry
+-->
+
 # From Stale Knowledge to Canonical Rule: How a Discipline Gets Promoted in Six Fires
 
 **Author:** Jimmy McColery

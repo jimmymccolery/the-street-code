@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0154
+title: Path the Plan Did Not Enumerate Post 0152 Tier A Four-Path Enumeration Plus Path A as the Fifth
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: single-finding NEW sub-shape 7 enumeration-completeness gap between foundational-readiness scope and operator-executable-execution scope
+project_scopes: framework-methodology, the-street-code
+cc_task_relevance: canonization-propagation-verification, enumeration-completeness-audit, rule-20-candidacy-strengthening, path-a-fifth-path-discovery
+phase_binding: era-independent
+discipline_family: Rule 20 candidacy Family A canonization-propagation gap sub-shape 7
+canonical_rule: framework posts enumerating operator-executable options must distinguish foundational-readiness scope from operator-executable-execution scope; enumeration-completeness gap sub-shape distinct from prior sub-shapes
+load_bearing_claims:
+  - Post 0152 four-path Tier A enumeration missed Path A same-WiFi local dev server that closed Tier A within one hour of publication
+  - Sub-shape 7 enumeration-completeness gap architecturally distinct from prior 6 sub-shapes
+  - n=1 fire pending second-fire strengthening
+  - Rule 20 candidacy Family A empirical foundation extension ahead of Council #7 methodology deployment adjudication
+applicability_triggers:
+  - Framework post enumerates operator-executable paths for a specific close condition
+  - Path discovered within short window of publication that was not enumerated
+  - Foundational-readiness scope conflated with operator-executable-execution scope
+mechanism_details:
+  - Enumeration-completeness gap fires when post enumerates paths without distinguishing scope
+  - Foundational-readiness scope covers framework algorithmic close; operator-executable-execution scope covers real-device close
+  - Path A same-WiFi local dev server pattern emerged operator-side within 1 hour of publication
+cross_refs:
+  - Post 0143 (parent canonization-propagation gap discipline family Family A)
+  - Post 0152 (Phase D empirical scaling closes at Node tier; the enumerated four-path post)
+  - Post 0153 (Tier A empirical close with Path A operationalized)
+  - Memory feedback_canonization_propagation_gap_enumeration_completeness_sub_shape_2026-07-04.md
+-->
+
 # The Path the Plan Did Not Enumerate: Post 0152 Tier A Four-Path Enumeration Plus Path A as the Fifth
 
 **Author:** Jimmy McColery

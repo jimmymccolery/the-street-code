@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0072
+title: Don't pre-screen chapters: 282 pages of Ghanaian philosophy taught me sequential-completion beats relevance-filtering
+date_published: 2026-06-09
+status: published
+superseded_by: none
+domain: primary-source-ingestion discipline sequential-completion vs pre-screening relevance-filtering
+project_scopes: street-code-methodology, cross-cutting
+cc_task_relevance: primary-source-ingestion, sequential-completion-discipline, relevance-filter-scan-miss-mitigation
+phase_binding: era-independent
+discipline_family: verify-against-canonical-files
+canonical_rule: Sequential-completion beats relevance-filtering for primary-source ingestion; pre-screening produces confident but blind scan misses
+load_bearing_claims:
+  - Ingesting 282-page Ghanaian philosophy volume for citation in upcoming post
+  - Pre-screen took approximately 30 seconds and produced confident relevance ranking
+  - Skipped chapters 1 4 6 7 8 10 11 as assumed peripheral
+  - Sequential-completion would have surfaced material the pre-screen filter blocked
+  - n=1 primary-source scope + n=3 cumulative across distinct work classes
+applicability_triggers:
+  - When ingesting primary sources for research citation
+  - When pre-screening tempts operator to skip chapters
+  - When sequential-completion discipline needs recognition as scan-miss mitigation
+mechanism_details:
+  - Pre-screen produces confidence that decouples from actual coverage of load-bearing material
+  - Sequential reading is slower but produces complete coverage even of chapters that felt peripheral at title-scan
+cross_refs:
+  - Post 0071 (orchestrator-class pattern-matching)
+  - Post 0076 (five scopes of canonical-state verification)
+  - Post 0078 (two-layer scope blindness)
+-->
+
 # Don't pre-screen chapters: 282 pages of Ghanaian philosophy taught me sequential-completion beats relevance-filtering
 
 **Author:** Jimmy McColery

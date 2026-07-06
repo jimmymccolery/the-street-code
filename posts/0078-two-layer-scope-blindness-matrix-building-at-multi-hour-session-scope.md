@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0078
+title: Two-layer scope blindness: why matrix-building fails at multi-hour session scope and how summarization compression makes it invisible
+date_published: 2026-06-09
+status: published
+superseded_by: none
+domain: two-layer failure mode narrow-scan plus summarization-compression producing invisible matrix gap in multi-hour scan
+project_scopes: street-code-methodology, cross-cutting
+cc_task_relevance: multi-hour-session-scan-audit, summarization-compression-blindness-mitigation, compound-failure-detection
+phase_binding: era-independent
+discipline_family: verify-against-canonical-files
+canonical_rule: Narrow scan (3 of 8 directories) combined with operator blind at conversation-context layer (summarization compressed prior ingestion out of visible context) produces invisible matrix gap
+load_bearing_claims:
+  - Scan covered 3 directories of roughly 8 where relevant content lived
+  - Five missing directories including archive of older research two design-content directories posture-state file and mid-session ingestion
+  - Two-layer failure: narrow at directory-scope plus blind at conversation-context layer
+  - Each layer alone would have been catchable; together produced invisible matrix gap
+  - n=3 cumulative across matrix-building book-ingestion and canonical-substrate-scan
+applicability_triggers:
+  - When multi-hour session includes comprehensive scan across multiple directories
+  - When summarization compression may hide prior ingestion or scan detail from operator visibility
+  - When authoring compound-failure-mode methodology posts
+mechanism_details:
+  - Directory-scope narrowing produces incomplete coverage that looks complete
+  - Summarization compression makes prior context invisible to operator making narrowing undetectable
+cross_refs:
+  - Post 0072 (sequential-completion discipline)
+  - Post 0076 (five scopes of canonical-state verification)
+-->
+
 # Two-layer scope blindness: why matrix-building fails at multi-hour session scope and how summarization compression makes it invisible
 
 **Author:** Jimmy McColery

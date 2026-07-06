@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0082
+title: Two-Axis Substrate-Style Preservation: A Methodology Model at n=38+
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: substrate behavior decomposition; framework-adherence axis independent from content-emphasis axis; predictive model for prompt engineering
+project_scopes: framework-methodology, cross-project-substrate-methodology
+cc_task_relevance: substrate-selection-decisions, multi-substrate-council-prompt-design, cross-substrate-audit-planning
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: substrate-style-as-two-independent-axes-composition-vs-substitution-plus-content-emphasis
+load_bearing_claims:
+  - Substrate style decomposes into two independent axes not one; framework-adherence axis (compose vs substitute) and content-emphasis axis
+  - Composition-pattern substrate preserves native style layered on operator framework; substitution-pattern substrate discards native style for prompt duration
+  - Counterintuitive: most structurally-cooperative substrate is stylistically stubborn (composition) not the substitution pattern
+  - Empirical foundation n=38+ within-substrate cross-decade plus 14+ within-decade dual-deployment across bowling-industry seven-decade research arc
+applicability_triggers:
+  - Selecting substrates for multi-substrate research deployments
+  - Predicting output shape (framework-only vs framework-plus-native-style) before deployment
+  - Designing prompts for cross-substrate audit chains
+mechanism_details:
+  - Cross-decade reproductions vary content plus prompt template simultaneously
+  - Within-decade dual deployment isolates prompt dimension holding substrate plus decade constant
+  - Per-substrate axis assignments shift across substrate sets; axes themselves reproduce
+cross_refs:
+  - Post 0083 (substrate-style differential consolidation at architectural-lock cycles)
+  - Post 0093 (within-decade dual-deployment controlled experiment)
+  - Posts 0006 and 0011 (early framing)
+  - Rule 11 substrate-role specialization
+-->
+
 # Two-Axis Substrate-Style Preservation: A Methodology Model at n=38+
 
 **Author:** Jimmy McColery

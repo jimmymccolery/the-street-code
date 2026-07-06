@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0008
+title: When Deployment Outpaces Decisions A Mid Iteration Alignment Problem
+date_published: 2026-05-04
+status: published
+superseded_by: none
+domain: Session-management lesson on deployment timing: deploy canonical state only after full scope plan is stable, because intermediate-Phase-3 deployment creates alignment problems downstream corrections expose
+project_scopes: street-code-methodology
+cc_task_relevance: discipline-enforcement, verification-validation, methodology-research
+phase_binding: Phase-1
+discipline_family: verify-against-canonical-files, operator-realism-check
+canonical_rule: Mid-session canonical deployment optimizes for closure on what has been decided so far but creates alignment problems when the session continues and scope plan expands
+load_bearing_claims:
+  - Second Phase 3 output diverged from canonical bytes already deployed from first Phase 3 output
+  - Phase 5 verification passed both outputs internally consistent with their scope plans but detected the deployment/decision misalignment
+  - Alignment problem is session-management defect not architectural defect
+applicability_triggers:
+  - CC evaluating whether to deploy canonical state mid-session or wait for scope-plan stability
+  - CC diagnosing why Phase 5 v2 report diverges from deployed canonical state
+  - CC drafting deployment-timing discipline
+mechanism_details:
+  - Anti-pattern promoted from this lesson: deployment-outpaces-decisions
+  - Recovery Path A: accept deployed earlier-state record; recovery Path B: redeploy
+  - Phase 5 v2 overwrites Phase 5 v1 at fixed filepath losing prior verification record
+cross_refs:
+  - Post 0011 second-order Phase 5 report persistence extension
+  - Post 0017 recovery-from-drift as framework discipline
+-->
+
 # When Deployment Outpaces Decisions: A Mid-Iteration Alignment Problem
 
 **Author:** Jimmy McColery

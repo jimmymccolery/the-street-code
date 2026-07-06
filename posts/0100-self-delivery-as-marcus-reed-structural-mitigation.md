@@ -1,8 +1,16 @@
 # Self-Delivery as Structural Mitigation: When Architecture Encodes Anti-Bias More Durably Than Content Policy
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0100
-domain: framework-architecture
+title: Self-Delivery as Structural Mitigation: When Architecture Encodes Anti-Bias More Durably Than Content Policy
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: framework-architecture; structural anti-bias mitigation more durable than per-element content policy; runner-versus-self as design-time architectural choice
+project_scopes: framework-architecture, marcus-reed-discipline, cross-project-architecture-methodology
+cc_task_relevance: npc-labor-pattern-design, marcus-reed-architectural-mitigation, runner-vs-self-decisions
+phase_binding: era-independent
+discipline_family: framework-architecture
 canonical_rule: self-delivery-structural-mitigation-more-durable-than-per-element-content-policy
 load_bearing_claims:
   - Structural Marcus Reed mitigation more durable than per-element content policy at scale
@@ -23,7 +31,7 @@ cross_refs:
   - Post 0095 (Marcus Reed Tier 2 cross-family)
   - Post 0101 (Cumulative coding failure mode; complementary catch at catalog level)
   - Post 0113 (Generation-side vs outcome-side fairness distinction)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-10

@@ -1,11 +1,19 @@
 # Why an Indie Bowling Game Has a Philosophy of Mind
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0081
-domain: framework-architecture
-canonical_rule: modified-c-bis-framework-six-modifications
+title: Why an Indie Bowling Game Has a Philosophy of Mind
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: framework-architecture; Modified-C-bis framework at multi-decade in-game year scope; six framework modifications binding engagement-support claim
+project_scopes: framework-architecture, framework-defense
+cc_task_relevance: framework-integration-writing, launch-adjacent-narrative, philosophy-of-mind-defensibility
+phase_binding: era-independent
+discipline_family: framework-architecture
+canonical_rule: modified-c-bis-framework-six-modifications-supporting-engagement-not-consciousness
 load_bearing_claims:
-  - Framework's Modified-C-bis architecture addresses procedural NPC engagement at multi-decade in-game year scale (30+ years) via six modifications
+  - Modified-C-bis architecture addresses procedural NPC engagement at multi-decade in-game year scale (30+ years) via six modifications
   - Six modifications: process theory citation discipline + Bayesian-inversion puzzle + Wiredu personhood-as-achievement structural inspiration + audit-layer fairness distinction + empirical-honesty pre-registration + two-level axis split (naive-vs-sophisticated orthogonal to Episodic-vs-Diachronic)
   - NOT claiming consciousness; claiming engagement support through coherent architecture at multi-decade scale
 applicability_triggers:
@@ -25,7 +33,7 @@ cross_refs:
   - Post 0114 (pre-registration discipline)
   - Post 0125 (Wiredu procedural test not trait dimension)
   - Post 0146 (ten-layer architecture consolidation)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-10

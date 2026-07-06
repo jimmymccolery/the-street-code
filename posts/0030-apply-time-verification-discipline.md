@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0030
+title: Apply Time Verification Five Sub Disciplines from One Session
+date_published: 2026-05-11
+status: published
+superseded_by: none
+domain: Apply-time verification discipline with five sub-disciplines emerging from Downloads folder cleanup session that crossed midnight into 2026-05-11 (44 file operations)
+project_scopes: street-code-methodology
+cc_task_relevance: verification-validation, anti-fabrication, discipline-enforcement
+phase_binding: Phase-1, era-independent
+discipline_family: verify-against-canonical-files
+canonical_rule: Pre-asserted values in structured prompts become reference baselines for drift detection not authoritative inputs verification of counts/dates/sizes/content/premises happens at moment work fires not at moment prompt was drafted
+load_bearing_claims:
+  - Real fire caught: file count 19 asserted at draft time but 18 at apply time (duplicate deleted between inventory and prompt)
+  - Five sub-disciplines: count-claim-via-grep, date-claim-via-ls, size-claim-via-stat, content-claim-via-diff, premise-claim-via-explicit-test
+  - Categorization into exactly five is partially post-hoc; unclear if categories collapse cross-session
+applicability_triggers:
+  - CC drafting structured prompts that assert specific counts, dates, sizes, or content
+  - CC deciding whether to embed apply-time verification vs trust pre-asserted values
+  - CC evaluating baseline confirmations vs real fires
+mechanism_details:
+  - Naming convention looks like function signatures for operational precision
+  - First operationalization of count-claim-via-grep caught 19-to-18 drift
+  - Baseline confirmations across multiple per-file verifications rather than fires
+cross_refs:
+  - Post 0031 four things canonical record couldnt tell me about itself (side-findings from same arc)
+  - Post 0017 recovery-from-drift discipline
+-->
+
 # Apply-Time Verification: Five Sub-Disciplines from One Session
 
 **Status:** Self-experimentation by a non-credentialed practitioner. n=1 operator deploying a multi-step disposition arc across a single 2026-05-10 session that crossed midnight into 2026-05-11. The discipline pattern described below has five sub-disciplines that surfaced empirically across the session and were named during the session's observation filing work; the categorization into exactly five is partially post-hoc construction rather than a framing that emerged fully formed during the work itself. Cross-session pattern stability is unverified at filing time. Whether the discipline generalizes beyond this arc, or whether the five sub-disciplines remain stable as separate categories or collapse into fewer, is not the claim of this post. The empirical foundation cited is what I have, not what would settle the question externally. Read accordingly.

@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0159
+title: When Two Survivors Do Not Meet for Six Game-Days Emergent Late Convergence in a Two-Sim Island Simulation at Extended Horizon
+date_published: 2026-07-04
+status: published
+superseded_by: 0161-timing-race (partial refinement for late-convergence framing), 0162-sentiment-persistence (partial extension for sentiment scope)
+domain: emergent-behavior empirical observation from 9.11 game-day two-Sim island simulation session at seed=42 executed 2026-07-04
+project_scopes: framework-methodology, sim-ai
+cc_task_relevance: extended-horizon-empirical-observation, emergent-late-convergence, pair-history-hypothesis-validation, two-sim-island-simulation
+phase_binding: Phase-2
+discipline_family: extended-horizon empirical analysis
+canonical_rule: extends Phase 2 Sequence A pair-history hypothesis validation from 3-5k tick horizon to 13k tick horizon on continuous session; two Sims wander independently on opposite corners of 30x20 grid for 6.44 game-days before random encounter followed by rapid symmetric sentiment growth over 2.7 game-days
+load_bearing_claims:
+  - Two Sims wander independently on opposite corners of 30x20 island grid for 6.44 game-days before random encounter
+  - Random encounter followed by rapid symmetric sentiment growth over subsequent 2.7 game-days
+  - Extends H8 through H11 hypothesis validation from 3-5k tick horizon to 13k tick horizon
+applicability_triggers:
+  - Extended-horizon 2-Sim island empirical session at seed=42
+  - Emergent-behavior observations from pair-history hypothesis validation
+  - Late-convergence framing needs subsequent-post refinement
+mechanism_details:
+  - 30x20 island grid two-Sim seed=42 continuous session
+  - 6.44 game-day independent wander before random encounter
+  - 2.7 game-day rapid symmetric sentiment growth after encounter
+cross_refs:
+  - Post 0136 (empirical BUILD mode as architecture-as-hypothesis; H8-H11 discipline)
+  - Post 0160 (landmark-ripple hypothesis non-firing in same session)
+  - Post 0161 (timing race in landmark co-witness detection; refines late-convergence framing)
+  - Post 0162 (sentiment persistence at 0.78 for 4810 ticks; extends this observation)
+-->
+
 # When Two Survivors Do Not Meet for Six Game-Days: Emergent Late Convergence in a Two-Sim Island Simulation at Extended Horizon
 
 **Author:** Jimmy McColery

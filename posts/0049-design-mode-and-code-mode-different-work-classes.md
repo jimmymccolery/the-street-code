@@ -1,3 +1,31 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0049
+title: Design mode and code mode are different work classes
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: solo AI-assisted indie dev work-class taxonomy design-mode vs code-mode
+project_scopes: street-code-methodology, pin-paradise
+cc_task_relevance: architectural-lock-cycle-methodology, build-phase-transition, solo-dev-workflow-design
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Design mode and code mode are not phases of the same work; they are structurally different work classes with their own transitions
+load_bearing_claims:
+  - 13 architectural-lock cycles closed against 13 V1 design questions between May 20 and May 27 2026
+  - First BUILD day shipped 40 commits with zero broken-main commits after lock arc closed
+  - Cross-Q-lock composition-layer pattern emerged unplanned across cycles preserving textual immutability of prior locks
+applicability_triggers:
+  - When transitioning from architectural-design phase to BUILD execution phase
+  - When accounting for cognitive costs of switching between work classes on solo indie projects
+  - When designing methodology posts on solo AI-assisted dev workflow
+mechanism_details:
+  - Composition discipline held across arc so no prior lock body needed modification
+  - Design mode and code mode differ in cognitive shape, feedback loops, and validation criteria
+cross_refs:
+  - Post 0041 (methodology arc on architectural-lock cycles)
+  - Post 0068 (composition over modification architectural pattern)
+-->
+
 # Design mode and code mode are different work classes
 
 **Author:** Jimmy McColery

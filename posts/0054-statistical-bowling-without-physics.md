@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0054
+title: Statistical bowling: how to simulate background lanes without physics
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: technical engineering physics-vs-statistical split for multi-entity R3F scene rendering
+project_scopes: pin-paradise
+cc_task_relevance: multi-lane-scene-architecture, physics-vs-statistical-split-decision, r3f-performance-optimization
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Split active lanes into physics-lanes running full Rapier plus statistical-lanes running 1Hz RNG-driven state machine with no physics simulation
+load_bearing_claims:
+  - 36 lanes with full Rapier physics is infeasible in browser
+  - Two-class split (small physics count + larger statistical count) produces visually indistinguishable output
+  - Statistical lane runs 1Hz RNG-driven state machine producing bowling-scoring-legal output
+  - Pattern generalizes to any tycoon or simulation with background entities needing to feel alive
+applicability_triggers:
+  - When rendering many interactive entities where full physics is too expensive
+  - When designing tycoon-scene background simulation
+  - When physics-vs-statistical class boundary needs a principled split
+mechanism_details:
+  - Physics class carries real Rapier simulation and full-detail visual output
+  - Statistical class produces the same visual outcomes via RNG-driven state machine indistinguishable at distance
+cross_refs:
+  - Post 0055 (Rapier per-entity collision groups)
+  - Post 0051 (atomic Zustand state machines)
+-->
+
 # Statistical bowling: how to simulate background lanes without physics
 
 **Author:** Jimmy McColery

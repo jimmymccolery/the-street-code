@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0079
+title: Aesthetic as architecture: how an emotional through-line can hold a cross-product portfolio together without shared technical infrastructure
+date_published: 2026-06-09
+status: published
+superseded_by: none
+domain: brand-strategy emotional-through-line coheres cross-product portfolio without shared technical infrastructure
+project_scopes: cross-cutting, pin-paradise
+cc_task_relevance: portfolio-brand-architecture, emotional-through-line-design, cross-product-ecosystem-coherence
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Emotional through-line coheres cross-product portfolio when products do not share codebase engine character-roster or continuous world-state; portfolio coherence lives in shared emotional register memory-and-place
+load_bearing_claims:
+  - Four products under single publisher (tycoon sim cozy 3D-environment simulators physical card game hardware companion)
+  - Products do not share codebase engine character-roster or continuous world-state
+  - Shared emotional through-line memory-and-place is the coherence mechanism
+  - Ratified n=1 case with sustained cascade reuse across 10+ brand and architecture decisions in recent weeks
+applicability_triggers:
+  - When authoring publisher-portfolio brand strategy without shared technical infrastructure
+  - When designing cross-product ecosystem coherence
+  - When making brand-strategy posts on emotional-architecture
+mechanism_details:
+  - Memory-and-place emotional register carries across diverse spaces and periods
+  - Each product is vessel for memory in specific place; places diverse memory-orientation constant
+cross_refs:
+  - Post 0073 (three legitimate play modes)
+  - Post 0080 (per-decade trophy presentation conventions)
+-->
+
 # Aesthetic as architecture: how an emotional through-line can hold a cross-product portfolio together without shared technical infrastructure
 
 **Author:** Jimmy McColery

@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0096
+title: Parity of Record, Singularity of Action: A META-Rule for Dual-Interface Software at the Boundary Between Primary and Accessibility-Fallback
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: dual-interface software architecture; parity-of-record + singularity-of-action META-rule; primary vs accessibility-fallback boundary
+project_scopes: framework-architecture, cross-project-architecture-methodology
+cc_task_relevance: dual-interface-architecture-decisions, accessibility-fallback-design, meta-rule-application
+phase_binding: era-independent
+discipline_family: framework-architecture
+canonical_rule: parity-of-record-singularity-of-action-meta-rule-for-primary-plus-accessibility-fallback-boundary
+load_bearing_claims:
+  - META-rule generalizes beyond games to any dual-interface software with accessibility/admin/alternative view alongside primary
+  - Both interfaces must have parity of record (same underlying state visible to both); only one interface may take action (singularity)
+  - Counterintuitive against intuitive framing that accessibility-fallback should be action-capable
+  - Substrate-emergent from final-pass axis of architectural-closure cycle; ratified as closing architectural lock
+applicability_triggers:
+  - Designing accessibility-fallback UI alongside primary UI
+  - Admin panel plus user-facing interface architecture
+  - Alternative view surface that could take action but should not
+mechanism_details:
+  - Parity-of-record = both interfaces see same underlying state
+  - Singularity-of-action = only one interface commits mutations
+  - Prevents dual-write race conditions plus accessibility-drift from primary
+cross_refs:
+  - Post 0085 (seven-substrate triangulation origin arc)
+  - Post 0094 (substrate-emergent META-rule synthesis)
+  - Post 0088 (architecturally-finished claim correction from same arc)
+-->
+
 # Parity of Record, Singularity of Action: A META-Rule for Dual-Interface Software at the Boundary Between Primary and Accessibility-Fallback
 
 **Author:** Jimmy McColery

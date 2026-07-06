@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0025
+title: Drafting Drift Canonical Promotion Arc From Single Fire to Multi Fire Met
+date_published: 2026-05-09
+status: published
+superseded_by: none
+domain: Drafting-drift accumulation to canonical promotion candidacy at ~19 cumulative session-fires plus citation-precision sub-class at 6 fires (Topic 20 canonized as anti-pattern #24 via Decision 1A)
+project_scopes: street-code-methodology
+cc_task_relevance: canonization-propagation, anti-fabrication, verify-against-canonical-files
+phase_binding: Phase-1
+discipline_family: Rule-20-Family-A-canonization-propagation, verify-against-canonical-files
+canonical_rule: Drafting-drift substrate has canonical access but does not read it before drafting text whose content depends on it verify-canonical-first applies recursively across drafting sites not just initial writing
+load_bearing_claims:
+  - ~19 cumulative session-fires across substantive content drafting, Phase 5 correction prompt drafting, canonical-state-update prompt drafting, banked post work
+  - 6 citation-precision sub-class fires within one banked post established empirically distinct sub-class
+  - Drafting-drift operates one layer down from anti-pattern #10 (memory-of-canonical-state vs canonical-state-read as distinct verification modalities)
+applicability_triggers:
+  - CC drafting revision text against session-memory of canonical state
+  - CC deciding whether to re-read canonical state before drafting a specific edit
+  - CC evaluating citation precision in banked post work
+mechanism_details:
+  - Filed at research_queue.md Topic 20 with preliminary rule verify-canonical-first applies to revision drafting
+  - Original framing at research_queue.md line 865
+  - Cross-session multi-fire bar accumulation tracked
+cross_refs:
+  - Post 0027 Council outcome patterns (Decision 1A path (a) selected)
+  - Post 0026 operational discipline rules (Rules 2 and 4 share drafting-drift foundation)
+-->
+
 # Drafting-Drift Canonical Promotion Arc: From Single-Fire to Multi-Fire-Met
 
 **Author:** Jimmy McColery

@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0091
+title: When the Drift-Fix Drifts: A Counterintuitive Verification-Gate Pattern at n=2
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: fix-cycle surface drift; verification-gate at amendment-cycle output; four surface enumeration extended
+project_scopes: framework-methodology, discipline-canonization
+cc_task_relevance: drift-fix-cycle-execution, verification-gate-discipline, cc-side-drift-prevention
+phase_binding: era-independent
+discipline_family: cc-side-discipline
+canonical_rule: verification-gate-applies-to-amendment-cycle-output-not-just-original-draft
+load_bearing_claims:
+  - Cross-section reference drift discipline operates at four workflow surfaces; fourth is fix-cycle surface
+  - Drift-fixes themselves drift; naive expectation is fixes settle drift but n=2 reproduction contradicts
+  - Two fires across Q14 and Q11 architectural-lock close cycles
+  - Verification gate at amendment-cycle output is load-bearing not just at original-draft output
+applicability_triggers:
+  - Amending prior version to correct known drift
+  - Fix-cycle output about to ship as canonical
+  - When operator assumes drift resolved by fix
+mechanism_details:
+  - Four surfaces: post-landing + pre-deployment self-audit + pre-deployment canonical verification + fix-cycle
+  - Fix-cycle drift small in scope; invisible without explicit verification
+  - Cumulative pattern of two fires warrants naming the surface
+cross_refs:
+  - Post 0086 (freshness amendment drift; adjacent CC-side pattern)
+  - Post 0092 (canonical anchor validation three-arc methodology)
+  - Rule 14 verify-against-canonical-files discipline
+-->
+
 # When the Drift-Fix Drifts: A Counterintuitive Verification-Gate Pattern at n=2
 
 **Author:** Jimmy McColery

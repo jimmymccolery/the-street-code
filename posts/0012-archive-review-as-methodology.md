@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0012
+title: Archive Review as Methodology
+date_published: 2026-05-06
+status: published
+superseded_by: none
+domain: Structured multi-stage archive review discipline (inventory + recovery candidate identification + verification gates + severity calibration + deferral) applied to 109-file archive
+project_scopes: street-code-methodology
+cc_task_relevance: methodology-research, verification-validation, discipline-enforcement
+phase_binding: Phase-1
+discipline_family: verify-against-canonical-files
+canonical_rule: Ad-hoc archive review from memory cherry-picks by salience which correlates poorly with canonical-state-misalignment structured inventory-first pass with verification gates is the reliable alternative
+load_bearing_claims:
+  - 109-file archive review across 8 days produced 8 recovery candidates + 6 rejections + 10 deferrals
+  - Verification discipline caught 3 Claude-side near-misses during recovery deployment that would have produced canonical-state drift
+  - Structural inversion (start from archive contents not from memory) is the key discipline
+applicability_triggers:
+  - CC executing archive/inventory review
+  - CC drafting recovery candidate identification protocol
+  - CC evaluating whether an archive item warrants canonical recovery
+mechanism_details:
+  - Five stages: inventory pass, recovery candidate identification with verification gates, severity calibration with explicit rejection list, deferral discipline, per-stage self-grade
+  - Filename-glance is insufficient (substantive content review requires opening files and cross-checking canonical state)
+  - Memory's salience signal fires on already-preserved items and stays silent on genuinely misaligned items
+cross_refs:
+  - Post 0031 four things canonical record couldnt tell me about itself (side-findings)
+  - Post 0028 cross-session validation sections
+-->
+
 # Archive Review as Methodology
 
 **Author:** Jimmy McColery

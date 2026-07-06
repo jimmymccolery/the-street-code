@@ -1,3 +1,36 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0165
+title: Five Seconds Late When Git Push Landed But Vercel Build Had Not and Session-Close Discipline Needed Deploy Verification
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: canonization-propagation gap sub-shape 18 deployment-vs-build-completion timing gap; push succeeded but Vercel deployment had not yet completed when operator tested
+project_scopes: framework-methodology, roomtolife, the-street-code
+cc_task_relevance: canonization-propagation-verification, session-close-discipline, deploy-verification, github-deployments-api
+phase_binding: era-independent
+discipline_family: Rule 20 candidacy Family A canonization-propagation gap sub-shape 18
+canonical_rule: session-close discipline extension proposal to add build-completion verification via GitHub deployments API as mandatory 6th stage; sub-shape 18 distinct from prior 17th sub-shape (deployment-vs-shipped-code where commits were not pushed)
+load_bearing_claims:
+  - n=1 fire Phase 2.7-A push landed at origin/main but Vercel build not yet complete when operator tested
+  - Operator session at 04:55:35Z ran against pre-Phase-2.7-A code (sha 3a56cea) because deploy for sha 317aa21 completed 5 seconds AFTER export
+  - Sub-shape 18 architecturally distinct from prior sub-shape 17 (that was "not pushed" while this is "pushed but not yet built")
+  - Session-close discipline extension verify Vercel deployment status via GitHub deployments API before declaring fix testable
+  - Rule 20 Family A empirical foundation strengthens to n=12 candidate sub-shapes
+applicability_triggers:
+  - Git push landed but deploy pipeline still building
+  - Operator empirical test window overlaps deploy build window
+  - Session-close discipline needs deploy-verification stage
+mechanism_details:
+  - Push succeeded at commit sha 317aa21
+  - Vercel deploy completed 5 seconds after operator export
+  - Operator session at 04:55:35Z ran against pre-fix sha 3a56cea
+  - Mitigation query GitHub deployments API before declaring fix testable
+cross_refs:
+  - Post 0143 (parent canonization-propagation gap discipline family Family A)
+  - Sub-shape 17 (deployment-vs-shipped-code where commits were not pushed)
+  - Memory feedback_deployment_vs_build_completion_timing_gap_candidate_18th_sub_shape_2026-07-04.md
+-->
+
 # Five Seconds Late: When Git Push Landed But Vercel Build Had Not, and Session-Close Discipline Needed Deploy Verification
 
 **Author:** Jimmy McColery

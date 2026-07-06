@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0074
+title: Cross-player tournaments without central servers: Bitcoin, HD keys, and public-blockchain proof-of-achievement as the aggregation surface
+date_published: 2026-06-09
+status: published
+superseded_by: none
+domain: architectural synthesis cross-player tournament federation without central servers via Bitcoin HD keys OpenTimestamps
+project_scopes: pin-paradise
+cc_task_relevance: federation-architecture, blockchain-primitive-synthesis, existing-infrastructure-scan-before-new-build
+phase_binding: era-independent
+discipline_family: verify-against-canonical-files
+canonical_rule: Cross-player federation aggregation can use Bitcoin HD keys and OpenTimestamps public-blockchain anchoring rather than central servers
+load_bearing_claims:
+  - Genre convention solves federation via central server account system leaderboard and analytics
+  - None of those felt right for indie project without perpetual operational dependencies
+  - Third catch in twelve hours of assuming new infrastructure was needed that already existed
+  - Primitives are old (Bitcoin HD keys OpenTimestamps); synthesis was what was missing
+applicability_triggers:
+  - When designing indie-project federation or tournament architecture
+  - When existing infrastructure scan-before-new-build discipline needs example
+  - When cross-player verification domain generalization needs pattern
+mechanism_details:
+  - HD-key derivation produces per-tournament proof-of-achievement keys
+  - OpenTimestamps anchors achievements to public Bitcoin blockchain for verifiability
+cross_refs:
+  - Post 0071 (orchestrator-class pattern-matching)
+  - Post 0075 (institutional evolution federation constraints)
+-->
+
 # Cross-player tournaments without central servers: Bitcoin, HD keys, and public-blockchain proof-of-achievement as the aggregation surface
 
 **Author:** Jimmy McColery

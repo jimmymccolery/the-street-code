@@ -1,14 +1,22 @@
 # Procedural Persons as a Bayesian Puzzle: Player and NPC as Inferences at Different Layers
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0111
-domain: framework-architecture
+title: Procedural Persons as a Bayesian Puzzle: Player and NPC as Inferences at Different Layers
+date_published: 2026-06-11
+status: published
+superseded_by: none
+domain: framework-architecture; second-order Bayesian inversion binding player and NPC inference at different layers; sophisticated active inference at consolidation boundaries Path A ratification
+project_scopes: framework-architecture, npc-decision-making
+cc_task_relevance: bayesian-puzzle-architecture-design, active-inference-integration-decisions, three-axis-orthogonality-application
+phase_binding: Phase-1
+discipline_family: framework-architecture
 canonical_rule: second-order-bayesian-inversion-player-vs-npc
 load_bearing_claims:
   - Player and NPC run inferences at different layers in different parameter spaces from opposite sides of information asymmetry
   - Second-order Bayesian model inversion keeps inferences computationally separate while binding them (outer inference targets parameters of inner inference)
-  - V1 adopts sophisticated active inference at consolidation boundaries (Path A ratification), not per-frame
-  - Three orthogonal axes: naive-vs-sophisticated (recursive metacognition), temporal-horizon (planning depth), Episodic-vs-Diachronic (self-experience continuity); V1 commits to sophisticated + Episodic with no cross-era self-identity variable
+  - V1 adopts sophisticated active inference at consolidation boundaries (Path A ratification) not per-frame
+  - Three orthogonal axes: naive-vs-sophisticated (recursive metacognition) + temporal-horizon (planning depth) + Episodic-vs-Diachronic (self-experience continuity); V1 commits to sophisticated + Episodic with no cross-era self-identity variable
 applicability_triggers:
   - Designing NPC behavior that supports player mental-model attribution
   - Player-side inference and NPC-side decision-making risk conflation
@@ -16,8 +24,8 @@ applicability_triggers:
   - Designing engagement around emergent NPC unpredictability under Bayesian bounds
 mechanism_details:
   - Sophisticated active inference per Friston 2017 Appendix F process theory
-  - τ ≤ 3 planning depth per V1 spec
-  - Sophisticated active inference deployed at consolidation boundaries (yearly cadence), not per-frame; cached policies drive per-frame decisions
+  - τ le 3 planning depth per V1 spec
+  - Sophisticated active inference deployed at consolidation boundaries (yearly cadence) not per-frame; cached policies drive per-frame decisions
   - Position-(a) structural-only discipline: no cross-era self-identity variable in generative model
 cross_refs:
   - Friston 2017 (sophisticated active inference process theory)
@@ -25,7 +33,7 @@ cross_refs:
   - Bouizegarene et al. 2024 (narrative-as-active-inference)
   - Posts 0112-0128 (architecture implementation details across ten-layer arc)
   - Post 0146 (ten-layer NPC framework; Layer 5 EFE decision-making + Layer 10 audit)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

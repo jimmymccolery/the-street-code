@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0097
+title: When Different Model Lineages Catch What Same-Lineage Verification Misses: Backbone Diversity as Architectural Feature
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: cross-model-family backbone diversity as load-bearing at architectural-boundary discovery; model-family lineage as distinct variable from substrate capability
+project_scopes: framework-methodology, cross-project-substrate-methodology
+cc_task_relevance: substrate-selection-decisions, council-diversity-planning, cross-family-verification
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: cross-model-family-backbone-diversity-load-bearing-at-architectural-boundary-discovery
+load_bearing_claims:
+  - Model-family lineage is distinct variable from substrate capability
+  - Gemini Pro Extended Deep Think substrate actively contradicted Anthropic Claude substrate META observation with specific structural evidence
+  - Same-prompt cross-family substrates produce non-redundant complementary contributions at architectural boundaries
+  - Trained behavioral dispositions distinct across families; produce signal within-family cannot
+applicability_triggers:
+  - Multi-substrate Council design where architectural boundary discovery is at stake
+  - Substrate selection for final-pass verification
+  - When same-lineage verification has already run and boundaries need testing
+mechanism_details:
+  - Four model families in reference arc: xAI + Google + Perplexity-tooling with Anthropic/OpenAI backbones + Anthropic native
+  - Behavioral dispositions load-bearing not tokenized-capability-difference
+  - Cross-family contradiction produces boundary-discovery signal
+cross_refs:
+  - Post 0085 (seven-substrate triangulation origin arc)
+  - Post 0088 (architecturally-finished claim correction; contradiction detail)
+  - Post 0094 (substrate-emergent META-rule synthesis)
+  - Rule 11 substrate-role specialization
+-->
+
 # When Different Model Lineages Catch What Same-Lineage Verification Misses: Backbone Diversity as Architectural Feature
 
 **Author:** Jimmy McColery

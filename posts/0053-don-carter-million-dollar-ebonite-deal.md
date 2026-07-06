@@ -1,3 +1,31 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0053
+title: Don Carter's $1 million Ebonite deal: bowling's forgotten first-million-dollar sports endorsement (1964)
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: bowling history first million-dollar sports endorsement 1964 Don Carter Ebonite
+project_scopes: pin-paradise
+cc_task_relevance: era-progression-design, historical-fidelity-research, cross-substrate-verification-worked-example
+phase_binding: era-independent
+discipline_family: verify-against-canonical-files
+canonical_rule: The first million-dollar sports endorsement in American history was Don Carter's 1964 Ebonite ten-year $1M contract, wrongly attributed to 1970s players in standard sports-history
+load_bearing_claims:
+  - Standard account misattributes first-million endorsement to Namath 1967 or Ryan 1979
+  - Deal was signed 1964 for a bowling ball with 10-year $1,000,000 total structure
+  - Bowling industry was uniquely positioned to support the deal
+  - Cross-substrate verification resolved a year-of-signing discrepancy in the source material
+applicability_triggers:
+  - When authoring era-progression content covering the 1960s
+  - When historical-accuracy research needs cross-substrate triangulation
+  - When counterintuitive-finding posts require primary-source anchoring
+mechanism_details:
+  - Three-substrate cross-verification cycle resolved discrepancy across newspaper museum and industry-archive citations
+cross_refs:
+  - Post 0058 (cross-substrate triangulation discipline)
+  - Post 0061 (substrate roles in multi-substrate research)
+-->
+
 # Don Carter's $1 million Ebonite deal: bowling's forgotten first-million-dollar sports endorsement (1964)
 
 **Author:** Jimmy McColery

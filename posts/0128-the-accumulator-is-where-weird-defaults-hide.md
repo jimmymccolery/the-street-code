@@ -1,8 +1,16 @@
 # The Accumulator Is Where WEIRD Defaults Hide: Henrich, Crenshaw, Cross, and the Schema-Placeholder Discipline the Framework Adopts
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0128
-domain: framework-architecture
+title: The Accumulator Is Where WEIRD Defaults Hide: Henrich, Crenshaw, Cross, and the Schema-Placeholder Discipline the Framework Adopts
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; WEIRD-defaults concealment in accumulator; three-field schema-placeholder discipline (cultural_context_tag + intersectional_position_tags + identity_stage); Henrich + Crenshaw + Cross integration
+project_scopes: framework-architecture, cross-cultural-discipline, marcus-reed-discipline
+cc_task_relevance: weird-defaults-audit, schema-placeholder-authoring, intersectionality-framework-integration
+phase_binding: Phase-1
+discipline_family: cross-cultural-discipline
 canonical_rule: schema-placeholder-discipline-for-weird-defaults-concealment
 load_bearing_claims:
   - Framework's empirical groundings (HEXACO + attachment + Russell circumplex + Gottman sentiment-override) predominantly WEIRD-sample-based per Henrich-Heine-Norenzayan 2010
@@ -29,7 +37,7 @@ cross_refs:
   - Posts 0124-0127 (cross-cultural sequence)
   - Marcus Reed Surface 8 (representational-stakes audit gate)
   - Post 0146 Layer 7 (cultural personhood baselines)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

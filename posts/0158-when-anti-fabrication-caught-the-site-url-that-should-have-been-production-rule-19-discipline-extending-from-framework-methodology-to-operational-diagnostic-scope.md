@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0158
+title: When Anti-Fabrication Caught the Site URL That Should Have Been Production Rule 19 Discipline Extending from Framework Methodology to Operational Diagnostic Scope
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: Rule 19 anti-fabrication empirical validation event at operational-diagnostic scope; Comet script Site URL localhost catch as latent production bug detection
+project_scopes: framework-methodology, roomtolife, the-street-code
+cc_task_relevance: rule-19-anti-fabrication, operational-diagnostic-scope-extension, site-url-verification, comet-diagnostic-script-pattern
+phase_binding: era-independent
+discipline_family: Rule 19 Marcus Reed Protocol anti-fabrication
+canonical_rule: Rule 19 anti-fabrication discipline generalizes from framework methodology scope to operational-diagnostic scope; Comet reporting actual observed value catches latent production bug when actual differs from script-expected
+load_bearing_claims:
+  - n=1 recurrence-prevention side data point parallel to Council #4 anti-fabrication empirical validation non-replication event canonized at Council #5
+  - Comet reported actual Supabase Site URL (localhost:3000) versus script-expected (vercel.app) caught latent production bug
+  - Rule 19 discipline extends from framework methodology scope to operational-diagnostic scope architecturally
+applicability_triggers:
+  - Comet or agent operational-diagnostic script produces observation
+  - Actual observed value differs from script-expected value
+  - Substrate anti-fabrication reporting catches misconfigured production state
+mechanism_details:
+  - Comet script pattern v1 at n=4 within-arc (PKCE + Supabase redirect + implementation + DNS)
+  - Sibling methodology candidacy at 9 pattern elements
+  - Anti-fabrication reporting catches when actual state does not match assumed state
+cross_refs:
+  - Post 0143 (parent canonization-propagation gap discipline family Family A)
+  - Rule 19 Marcus Reed Protocol canonized v1.18
+  - Council #4 anti-fabrication empirical validation non-replication event canonized at Council #5
+  - Memory feedback_rule_19_anti_fabrication_validation_via_site_url_localhost_catch_2026-07-04.md
+  - Memory reference_comet_operational_diagnostic_script_pattern_v1_n4_2026-07-04.md
+-->
+
 # When Anti-Fabrication Caught the Site URL That Should Have Been Production: Rule 19 Discipline Extending from Framework Methodology to Operational Diagnostic Scope
 
 **Author:** Jimmy McColery

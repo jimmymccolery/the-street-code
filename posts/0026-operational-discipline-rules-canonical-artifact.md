@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0026
+title: Operational Discipline Rules Five Canonized From One 2026 05 07 Session
+date_published: 2026-05-09
+status: published
+superseded_by: none
+domain: Five operational rules canonized at operational_discipline_rules_2026-05-07.md from 2026-05-07 substantive session output (standing direction, pre-delivery re-read, A+ calibration, catch-and-fix at point of detection, per-section verification plus Phase 5 combined)
+project_scopes: street-code-methodology
+cc_task_relevance: canonization-propagation, discipline-enforcement, methodology-research
+phase_binding: Phase-1
+discipline_family: operator-realism-check
+canonical_rule: When a substantive session produces empirical evidence of operationally-load-bearing but uncanonized discipline the session's gap-identification step should surface capture explicitly at closeout
+load_bearing_claims:
+  - Rule 1 standing direction: six-component specification governing prompt-delivery work not vague preference
+  - Rules 2 and 4 share empirical foundation with drafting-drift Topic 20 work (Post 25)
+  - Rules 1, 3, 5 stand on their own foundations and do not connect to drafting-drift directly
+applicability_triggers:
+  - CC drafting standing direction for a session
+  - CC evaluating A+ calibration target vs recommended-approach discipline
+  - CC deciding when to canonize discipline that emerged organically vs when to hold as observation
+mechanism_details:
+  - Each rule follows same internal structure: rule statement, operational consequence, empirical foundation with canonical line citation
+  - Empirical foundation at lessons-learned.md line 973 for Rule 1
+  - Canonized as first-class canonical artifact via Decision 1B (Post 28)
+cross_refs:
+  - Post 0025 drafting-drift canonical promotion arc (Bundle B partner)
+  - Post 0028 cross-session validation sections (Decision 1B halt-and-flag)
+  - Post 0039 cross-substrate triangulation as solo-indie methodology (Rule 6 + Rule 7)
+-->
+
 # Operational Discipline Rules: Five Canonized From One 2026-05-07 Session
 
 **Status:** Self-experimentation by a non-credentialed practitioner. n=1 operator across two AI substrates within a single development arc. Generalization beyond this arc is unverified. The five rules described below are operationally load-bearing for the work I do; whether they generalize across other operators, work classes, or substrate compositions is not the claim of this post. The empirical foundation cited is what I have, not what would settle the question externally. Read accordingly.

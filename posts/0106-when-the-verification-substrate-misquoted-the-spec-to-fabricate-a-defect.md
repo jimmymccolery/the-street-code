@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0106
+title: When the Verification Substrate Misquoted the Spec to Fabricate a Defect
+date_published: 2026-06-11
+status: published
+superseded_by: none
+domain: substrate fabricated defect via misquoted spec; verbatim-attested quote with substituted operator; HIGH-severity correction on wrong quote
+project_scopes: framework-methodology, cross-project-substrate-methodology
+cc_task_relevance: verification-substrate-audit, fabrication-axis-canonization, spec-quote-verification
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: verbatim-attested-quote-must-be-string-checked-against-canonical-source
+load_bearing_claims:
+  - New fabrication axis: substrate fabricated defect not citation; misquoted spec verbatim to prove inversion
+  - Substituted one operator for opposite in verbatim-attested quote; built HIGH-severity correction on wrong quote
+  - Spec was correct; substrate had canonical spec uploaded in context window; misquoted file it had access to
+  - Competent-sounding analysis defending misquote; distinct axis from Post 0105 fabricated-citation flag
+applicability_triggers:
+  - Substrate emits verbatim-attested quotes from canonical spec
+  - Substrate produces HIGH-severity correction with quoted evidence
+  - Verification cycle output referencing spec content
+mechanism_details:
+  - Operator-inversion substitution in verbatim quote (structural, not typo)
+  - HIGH-severity correction built on wrong quote survives internal consistency check
+  - String-comparison against canonical source is the catch mechanism
+cross_refs:
+  - Post 0105 (Round 9 R4 fabricated-citation flag adjacent axis)
+  - Post 0110 (framework wrong about itself lead)
+  - Rule 19 substrate-self-attestation discipline
+-->
+
 # When the Verification Substrate Misquoted the Spec to Fabricate a Defect
 
 **Author:** Jimmy McColery

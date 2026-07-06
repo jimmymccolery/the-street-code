@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0062
+title: When the AIs were right: how a multi-substrate council confirmed a game-design intuition
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: positive AI-collaboration case where substrates confirmed operator design intuition
+project_scopes: street-code-methodology, pin-paradise
+cc_task_relevance: multi-substrate-council-methodology, positive-case-documentation, design-intuition-verification
+phase_binding: era-independent
+discipline_family: Rule-14-Madisonian
+canonical_rule: Verification scaffolding also catches success cases where substrate output is correct; positive cases are less narratively interesting but form the majority
+load_bearing_claims:
+  - Verification scaffolding catches both failure and success cases
+  - Successful cases dominate in frequency but under-appear in narrative
+  - This case: substrates got answer right independently across deployments and extended operator intuition
+  - Confirmation flowed without material drift being surfaced
+applicability_triggers:
+  - When documenting multi-substrate council methodology for balance
+  - When authoring counterpoint to failure-mode-emphasis in AI-collaboration discourse
+  - When building operator confidence in the verification workflow
+mechanism_details:
+  - Independent parallel substrate deployment produces cross-substrate convergence
+  - Convergence with specifics-added is stronger signal than convergence-only
+cross_refs:
+  - Post 0050 (self-attestation vs canonical-content)
+  - Post 0058 (catching AI hallucinations)
+  - Post 0060 (recursive 4-layer catch cascade)
+-->
+
 # When the AIs were right: how a multi-substrate council confirmed a game-design intuition
 
 **Author:** Jimmy McColery

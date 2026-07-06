@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0093
+title: Same Substrate, Same Decade, Different Prompts: A Cheap Controlled-Experiment Design for Substrate Behavior
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: within-decade dual-deployment controlled experiment; substrate-intrinsic vs prompt-responsive isolation
+project_scopes: framework-methodology, cross-project-substrate-methodology
+cc_task_relevance: substrate-behavior-research, prompt-engineering-experiments, methodology-refinement
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: within-decade-dual-deployment-isolates-prompt-dimension-holding-substrate-plus-content-constant
+load_bearing_claims:
+  - Cross-decade reproductions vary both decade content and prompt template; cannot isolate substrate-intrinsic vs prompt-responsive properties
+  - Within-decade dual-deployment holds substrate identity plus decade content constant; varies prompt-template scaffolding
+  - Cheapest controlled-experiment design for substrate behavior available
+  - Complements Post 82 two-axis substrate-style preservation model with operational isolation shape
+applicability_triggers:
+  - Research question: is observed substrate property substrate-intrinsic or prompt-responsive
+  - Post-hoc analysis of cross-decade observations wanting isolation refinement
+  - Designing controlled experiments cheaply within existing research arcs
+mechanism_details:
+  - Cross-decade reproduction = cross-decade content variation plus prompt template variation
+  - Within-decade dual = same substrate + same decade + two prompt templates
+  - Empirical fire from bowling-industry seven-decade research arc
+cross_refs:
+  - Post 0082 (two-axis substrate-style preservation model)
+  - Post 0083 (substrate-style differential at n=10+)
+  - Post 0094 (substrate-emergent META-rule synthesis)
+-->
+
 # Same Substrate, Same Decade, Different Prompts: A Cheap Controlled-Experiment Design for Substrate Behavior
 
 **Author:** Jimmy McColery

@@ -1,8 +1,16 @@
 # V1 NPC Memory Spec: What Ships, What Waits
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0120
-domain: framework-architecture
+title: V1 NPC Memory Spec: What Ships, What Waits
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; V1 spec META-level closer with nine locked architectural commitments; scope-line ratifications and deferrals
+project_scopes: framework-architecture, framework-scope-boundaries
+cc_task_relevance: v1-spec-reference, scope-boundary-decisions, architectural-lock-summary
+phase_binding: Phase-1
+discipline_family: framework-architecture
 canonical_rule: v1-npc-memory-spec-meta-level-closer-with-nine-locked-elements
 load_bearing_claims:
   - V1 spec locks nine architectural commitments: three-layer memory + DC1 split affective state + HEXACO H + attachment + occupation traits + pair-relational history with sentiment override + consolidation pass + sophisticated active inference at consolidation boundaries + state-space-content audit invariant + four-audit mandatory test surface
@@ -27,7 +35,7 @@ cross_refs:
   - Rule 14 (Madisonian Gate synthesis)
   - Rule 19 (substrate self-attestation)
   - Post 0146 (ten-layer NPC framework consolidates V1 spec into ten first-class layers)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

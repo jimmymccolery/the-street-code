@@ -1,3 +1,36 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0131
+title: Council #3 Close: The Pattern B Fold Where the Benchmark Already Ruled Out Half the Question
+date_published: 2026-07-01
+status: published
+superseded_by: none
+domain: Council #3 close (second Rule 14 Madisonian Gate deployment); orchestrator independent Pattern B ADOPT-FOLD re-derivation; three riders converting RECOMMEND-FURTHER-BENCHMARK from stall to scheduled decision procedure
+project_scopes: framework-methodology, discipline-canonization
+cc_task_relevance: council-close-planning, rule-14-application, active-inference-tractability-adjudication
+phase_binding: era-independent
+discipline_family: council-methodology
+canonical_rule: rule-14-pattern-b-adopt-fold-empirical-reproduction-n2-plus-branch-factor-discipline-canonization
+load_bearing_claims:
+  - Council #3 second Rule 14 Madisonian Gate deployment; question was audit-first sequencing tractability at 80-100 NPC scale
+  - Three substrates verdict-token converged with one nominal exception; orchestrator independently re-derived Pattern B ADOPT-FOLD
+  - Substrate B chain load-bearing over Substrates A and C (branch-factor discipline gap surfacing)
+  - Terminology refinement from audit-first sequencing to consolidation-pass cadence
+applicability_triggers:
+  - Multi-substrate Council closing on tractability question
+  - Rule 14 Pattern A vs Pattern B classification decision
+  - Active inference at consolidation cadence sizing
+mechanism_details:
+  - Pattern B ADOPT-FOLD = reserve plus operationalize later (contrast Pattern A ADOPT-NOW)
+  - Rider = converts stall into scheduled decision procedure with defined evidence expectations
+  - Three riders address per-frame regime plus branch-factor discipline plus BANK sequencing
+cross_refs:
+  - Post 0129 (Council #1 first empirical fire)
+  - Post 0132 (companion spec post: benchmark harness + Post 0119 operational-contract amendment)
+  - Post 0133 (V1-pause forward-reference amendment)
+  - Post 0119 (audit-first active inference sequencing; amendment target)
+  - Rule 14 Madisonian Gate synthesis
+-->
+
 # Council #3 Close: The Pattern B Fold Where the Benchmark Already Ruled Out Half the Question
 
 **Author:** Jimmy McColery

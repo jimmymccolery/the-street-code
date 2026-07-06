@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0043
+title: 7 Phase Architectural Refactor Decomposition How to Ship Invasive Changes Without Breaking Flow
+date_published: 2026-05-27
+status: published
+superseded_by: none
+domain: Methodology lesson: pre-refactor sub-design proposal decomposing invasive work into 7 commit-sized phases each with acceptance gate contains bugs to phase that introduced them
+project_scopes: pin-paradise, cross-cutting
+cc_task_relevance: methodology-research, empirical-BUILD
+phase_binding: era-independent
+discipline_family: Rule-14-Madisonian
+canonical_rule: Per-phase acceptance gate forces naming what each phase is for before source code commits to decision that would need undoing multi-substrate AI review of proposal surfaces ambiguities in gate definitions
+load_bearing_claims:
+  - Seven phases: prerequisites, module split, state shape transition, scene-tree architecture, subsystem migrations (with 4.A/4.B/4.C/4-full-gate splits), test scaffolding, cleanup
+  - Multi-substrate AI review before BUILD surfaced missing Phase 0 prerequisites and one phase collapsed into another
+  - Visual-test cycle between phases contained bugs like Phase 4.A physics provider relocation bug
+applicability_triggers:
+  - CC drafting phase decomposition for invasive architectural refactor
+  - CC evaluating per-phase acceptance gate (measurable, behavioral, structural)
+  - CC assessing whether a phase should split further mid-BUILD
+mechanism_details:
+  - Acceptance gates mixed: measurable (test count green, type-check pass), behavioral (focused-lane gameplay unchanged), structural (single shared physics world in place)
+  - Phase 4 split into 4.A physics architecture / 4.B placeholder replacement / 4.C background simulation / 4-full-gate
+  - Companion to Posts 41 and 42 explaining design-arc-then-BUILD-execution context
+cross_refs:
+  - Post 0041 architectural lock cycles
+  - Post 0042 multi-lane bowling BUILD day
+  - Post 0044 bowler bug deep dive (Phase 4.A bug)
+-->
+
 # 7-phase architectural refactor decomposition: how to ship invasive changes without breaking flow
 
 **Author:** Jimmy McColery

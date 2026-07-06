@@ -1,3 +1,41 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0140
+title: Council #2 Spec: The Seven-Decision Appraisal-Tag Amendment Package Plus the PDF Template-Placeholder Fabrication-Axis Sub-Shape Canonization
+date_published: 2026-07-02
+status: published
+superseded_by: none
+domain: Council #2 spec output; eight-decision amendment package (appraisal_tags[] slot at Layer 2 + reduced-set composition + per-NPC-philosophy ablation-gate modification + Post 0118 forward-reference + Sim AI ablation-battery + anti-armor discipline + methodology-log entry + rules canonical bump v1.19→v1.20)
+project_scopes: framework-architecture, framework-methodology, discipline-canonization
+cc_task_relevance: council-spec-authoring, appraisal-tag-schema-implementation, rules-file-canonical-bump
+phase_binding: era-independent
+discipline_family: framework-architecture
+canonical_rule: council-2-eight-decision-amendment-package-plus-pdf-template-placeholder-fabrication-axis-canonized-at-v1-20
+load_bearing_claims:
+  - Decision 1 Post 0128 schema-placeholder amendment adds appraisal_tags[] slot at Layer 2 with named nullable members (agency-attribution + coping-control)
+  - Decision 2 reduced-set composition ratified at Option B per-item deliberation
+  - Decision 3 per-NPC-philosophy-profile ablation-gate Condition-2 modification adding appraisal-tag baseline block before profile block
+  - Decision 4 Post 0118 forward-reference noting agency-and-blame absent from named promotion criteria
+  - Decision 5 Sim AI ablation-battery addition
+  - Decision 6 anti-armor discipline extension into appraisal-tag placeholders
+  - Decision 7 methodology-log entry canonizing PDF template-placeholder fabrication-axis sub-shape
+  - Decision 8 operational-discipline-rules canonical file bump v1.19 to v1.20 documenting Rule 14 n=4 empirical foundation plus Rule 19 body extension
+applicability_triggers:
+  - Implementing Council #2 close output
+  - Layer 2 consolidation-cadence appraisal-tag schema authoring
+  - Rule 14 empirical foundation reference
+  - Rule 19 fabrication-axis sub-shape application
+mechanism_details:
+  - OCC appraisal five dimensions: agency + norm violation + expectedness + goal congruence + coping-and-control
+  - Reduced-set = named nullable members (agency-attribution + coping-control) not full five-dimension
+  - Anti-armor discipline = prevents ornamental placeholder that never operationalizes
+cross_refs:
+  - Post 0139 (Council #2 close narrative companion)
+  - Post 0128 (WEIRD schema-placeholder discipline; extension target)
+  - Post 0118 (three-horizon memory + promotion criteria; forward-reference target)
+  - Post 0130 (relationship-mode ablation-gate parallel)
+  - Methodology: appraisal-tag-reservation-and-ablation-gate-v1.md
+-->
+
 # Council #2 Spec: The Seven-Decision Appraisal-Tag Amendment Package Plus the PDF Template-Placeholder Fabrication-Axis Sub-Shape Canonization
 
 **Author:** Jimmy McColery

@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0017
+title: Recovery From Drift as Framework Discipline
+date_published: 2026-05-07
+status: published
+superseded_by: none
+domain: Four-mechanism recovery-from-drift discipline operating downstream of anti-pattern #10 catching what drift-prevention misses at scale
+project_scopes: street-code-methodology
+cc_task_relevance: discipline-enforcement, verification-validation
+phase_binding: era-independent
+discipline_family: verify-against-canonical-files
+canonical_rule: Framework does not prevent errors it produces recovery-from-drift capability faster than drift accumulates and that capability has four-mechanism structural shape
+load_bearing_claims:
+  - Five plus substrate-side false-flag catches in one day; twelve plus Type 5 verify-then-deploy uses with clean execution
+  - Four mechanisms: verify-canonical-first for mutations; Type 5 Phase B baseline checks; reflection-prompt discipline; operator-side catch as backstop
+  - Anti-pattern #10 covers verify-before-stating; recovery layer covers verify-before-correcting, verify-before-mutating, verify-before-claiming-completeness
+applicability_triggers:
+  - CC drafting recovery discipline for sustained-session work
+  - CC deciding whether framework's response to a drift is prevention or recovery
+  - CC evaluating when a mutation should have Phase B baseline verification
+mechanism_details:
+  - Drift-prevention has per-claim overhead structure (each claim pays verification cost upfront)
+  - Recovery-from-drift operates after drift has occurred but before drift cascades
+  - Four mechanisms compose (no single mechanism sufficient in isolation)
+cross_refs:
+  - Post 0018 auto-pilot experiment demonstrating mechanism composition
+  - Post 0019 mechanism #4 extended to cross-substrate audit scope
+  - Post 0034 recovery layer catching substrate's self-reports
+-->
+
 # Recovery-from-Drift as Framework Discipline
 
 **Author:** Jimmy McColery

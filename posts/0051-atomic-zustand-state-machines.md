@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0051
+title: Atomic Zustand state machines: testing multi-entity updates with reference equality
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: technical engineering Zustand state-machine testing pattern
+project_scopes: pin-paradise
+cc_task_relevance: zustand-store-testing, multi-entity-state-transition-verification, reference-equality-assertions
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Reference equality assertions cover both atomicity and cross-entity isolation for per-lane state transitions in a single shared Zustand store
+load_bearing_claims:
+  - Six lanes share a single Zustand store with per-lane state shape covering phase bowler-phase throw-number frames scoring counters game-over
+  - Per-lane transition updates roughly 10 fields via a single set() call
+  - Seven-test pattern covers atomicity and isolation for multi-entity Zustand state machines
+  - Pattern generalizes beyond bowling lanes to any multi-entity Zustand shape
+applicability_triggers:
+  - When testing multi-entity Zustand stores with per-entity state transitions
+  - When per-entity update must compose into a single set() call
+  - When cross-entity isolation must be verified alongside atomicity
+mechanism_details:
+  - Reference equality on unchanged sibling entity references proves isolation
+  - Reference equality on changed entity subtree proves atomicity of the composite update
+cross_refs:
+  - Post 0052 (camera coordinates dont belong in your store)
+  - Post 0055 (Rapier per-entity collision groups)
+-->
+
 # Atomic Zustand state machines: testing multi-entity updates with reference equality
 
 **Author:** Jimmy McColery

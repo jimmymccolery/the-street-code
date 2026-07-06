@@ -1,3 +1,38 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0139
+title: Council #2 Close: When the Orchestrator Caught a Template Placeholder Passed Through Verification
+date_published: 2026-07-02
+status: published
+superseded_by: none
+domain: Council #2 close (fourth Rule 14 Madisonian Gate deployment); n=4 post-canonization Council reproduction; substrate-family cross-diversity widest to date; new fabrication-axis sub-shape (cross-verification substrate importing citation-metadata artifacts from PDF surface it verified)
+project_scopes: framework-methodology, discipline-canonization
+cc_task_relevance: council-close-planning, rule-14-application, fabrication-axis-canonization
+phase_binding: era-independent
+discipline_family: council-methodology
+canonical_rule: rule-14-pattern-b-adopt-fold-empirical-reproduction-n4-plus-pdf-template-placeholder-fabrication-axis-sub-shape
+load_bearing_claims:
+  - Council #2 base question: add OCC-style appraisal tags (agency + norm violation + expectedness + goal congruence + coping-and-control) to Layer 2 encoding pathway at consolidation cadence vs existing decomposition operationally sufficient
+  - Pattern B ADOPT-FOLD via Option B per-item deliberation ratified; Rule 14 empirical foundation now n=4
+  - Substrate-family cross-diversity widest ever: Google Gemini + Perplexity + OpenAI + xAI + Anthropic
+  - Substrate B pre-push vs post-push v1-v2 sequence surfaced framework-state discipline gap CC missed
+  - Orchestrator layer primary-text adjudication surfaced Substrate A' citation-metadata-integrity failure; canonized new fabrication-axis sub-shape adjacent-to-but-distinct-from Rule 19 Condition-3c
+applicability_triggers:
+  - Council methodology deployment on layer-2 encoding decisions
+  - Cross-family substrate deployment planning
+  - PDF-verification substrate output audit
+mechanism_details:
+  - OCC = Ortony-Clore-Collins appraisal framework
+  - Substrate B v1-v2 sequence = pre-push + post-push refinement mechanism
+  - Fabrication sub-shape = substrate imports citation-metadata artifacts (template placeholder text) from PDF surface it verified
+cross_refs:
+  - Post 0140 (companion spec: seven-decision amendment package + Decision 8 rules bump)
+  - Post 0128 (WEIRD schema-placeholder discipline; extension target)
+  - Post 0118 (three-horizon memory + promotion criteria)
+  - Post 0129 + 0131 + 0134 (prior Council closes; Pattern B pattern reproduction)
+  - Rule 14 Madisonian Gate synthesis
+  - Rule 19 Condition-3 fabrication-discipline sub-modes
+-->
+
 # Council #2 Close: When the Orchestrator Caught a Template Placeholder Passed Through Verification
 
 **Author:** Jimmy McColery

@@ -1,3 +1,36 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0162
+title: When Sentiment Held at 0.78 for Three Game-Days Empirical Foundation for Framework Accumulator Persistence Without Decay
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: pair sentiment held at exactly 0.78 for 4810 continuous ticks (approx 3.34 game-days) across ticks 12547 through 17357 without any pair-history event input; extends Post 0159 sentiment observation from 9.11 to 12.05 game-day scope
+project_scopes: framework-methodology, sim-ai
+cc_task_relevance: framework-accumulator-persistence-observation, sentiment-decay-audit, extended-horizon-empirical-foundation
+phase_binding: Phase-2
+discipline_family: extended-horizon empirical analysis surfaces framework accumulator persistence characteristic
+canonical_rule: pair sentiment persists at cap value without decay in absence of pair-history event input; framework accumulator persistence-without-decay is architectural observation distinct from sentiment-cap observation
+load_bearing_claims:
+  - Pair sentiment held at exactly 0.78 for 4810 continuous ticks (approximately 3.34 game-days)
+  - Ticks 12547 through 17357 held without any pair-history event input
+  - Extends Post 0159 sentiment observation from 9.11 game-day scope to 12.05 game-day scope
+  - Framework accumulator persistence-without-decay is architectural observation distinct from sentiment-cap observation
+applicability_triggers:
+  - Extended-horizon 2-Sim session provides empirical foundation for accumulator decay observation
+  - Pair sentiment steady-state observation needed
+  - Sentiment-cap versus persistence-without-decay clarification needed
+mechanism_details:
+  - 4810 continuous ticks at sentiment 0.78
+  - Approximately 3.34 game-days of persistence
+  - No pair-history event input during persistence window
+  - Persistence-without-decay distinguishes from sentiment-cap-with-decay hypothesis
+cross_refs:
+  - Post 0159 (late-convergence emergent behavior at 9.11 game-day scope)
+  - Post 0160 (H15-H22 non-firing analysis in same session extended)
+  - Post 0161 (timing race in landmark co-witness detection)
+  - Memory feedback_extended_horizon_analysis_surfaces_findings_shorter_horizon_missed_2026-07-04.md
+-->
+
 # When Sentiment Held at 0.78 for Three Game-Days: Empirical Foundation for Framework Accumulator Persistence Without Decay
 
 **Author:** Jimmy McColery

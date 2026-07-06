@@ -1,8 +1,16 @@
 # No Single "African View": Menkiti, Wiredu, Gyekye and the Intra-African Dispute the Framework Discloses Publicly
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0127
-domain: framework-architecture
+title: No Single African View: Menkiti, Wiredu, Gyekye and the Intra-African Dispute the Framework Discloses Publicly
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; intra-tradition pluralism disclosure; Wiredu-Gyekye dispute within Akan philosophy; operator-judgment in contested field
+project_scopes: framework-architecture, cross-cultural-discipline, framework-defense
+cc_task_relevance: intra-tradition-dispute-disclosure, operator-judgment-in-contested-field, wiredu-gyekye-mapping
+phase_binding: era-independent
+discipline_family: cross-cultural-discipline
 canonical_rule: intra-tradition-pluralism-disclosure-discipline
 load_bearing_claims:
   - Wiredu (achievement-graded personhood) and Gyekye (birth-conferred plus relationally-enhanced) represent contested field within Akan philosophy; Stanford Encyclopedia of Philosophy gives both equal weight
@@ -27,7 +35,7 @@ cross_refs:
   - Post 0112 (Wiredu engagement structural-borrowing-only)
   - Posts 0124-0128 (cross-cultural sequence)
   - Post 0146 Layer 7 (cultural personhood Baseline C ratified as Wiredu-Menkiti Ghanaian communal-achievement)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

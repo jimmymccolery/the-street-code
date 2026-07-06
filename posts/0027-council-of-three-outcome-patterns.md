@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0027
+title: Council of Three Outcome Patterns Three Structurally Distinct Shapes From One Architecture Revision Session
+date_published: 2026-05-10
+status: published
+superseded_by: none
+domain: Three Council of Three outcome shapes from 2026-05-10 architecture-revision session (minority-position selection Decision 1A, unanimous-with-split Decision 1B, unanimous with per-element split Decision 1C)
+project_scopes: street-code-methodology
+cc_task_relevance: multi-substrate-audit, methodology-research, discipline-enforcement
+phase_binding: Phase-1
+discipline_family: Rule-14-Madisonian, Rule-11-substrate-specialization
+canonical_rule: Council of Three deployments produce structurally distinct convergence shapes and the shape itself is a first-class artifact of Council deployment
+load_bearing_claims:
+  - Pattern 1 (Decision 1A): Gemini path (a) separate row selected over Claude+Grok 2-of-3 majority path (b) refinement
+  - Pattern 2 (Decision 1B): unanimous on path with substrate-side split on implementation strategy
+  - Pattern 3 (Decision 1C): unanimous with same 5/1 per-element split across all three substrates
+applicability_triggers:
+  - CC evaluating minority-position selection basis
+  - CC drafting Council of Three deployment package
+  - CC assessing convergence-shape reporting for architecture-revision session
+mechanism_details:
+  - Canonized at research_queue.md Topic 35 line 1374
+  - Deployment packages preserved at architecture_revision_automation/
+  - Sequencing dependency: Decision 1A must apply before Decision 1B for citation cascade
+cross_refs:
+  - Post 0025 drafting-drift promotion (Decision 1A)
+  - Post 0026 operational discipline rules (Decision 1B)
+  - Post 0028 cross-session validation sections
+  - Post 0029 bundled-canonization-correction (Decision 1C)
+-->
+
 # Council of Three Outcome Patterns: Three Structurally Distinct Shapes From One Architecture-Revision Session
 
 **Status:** Self-experimentation by a non-credentialed practitioner. n=1 operator deploying a three-substrate Council architecture for a single 2026-05-10 architecture-revision session arc. The three outcome patterns described below were observed within this single arc; cross-arc replication of the pattern set is unverified at filing time. Whether the patterns generalize across other architecture-revision sessions, decision question shapes, or substrate compositions is not the claim of this post. The empirical foundation cited is what I have, not what would settle the question externally. Read accordingly.

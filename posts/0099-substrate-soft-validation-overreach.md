@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0099
+title: When Substrates Confirm Sources the Verification Discipline Has Not Accepted: The Soft-Validation Overreach Pattern
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: substrate-self-attestation Rule 19 variant at secondary-source-classification scope; soft-validation overreach; label confidence not verification advancement
+project_scopes: framework-methodology, discipline-canonization
+cc_task_relevance: substrate-output-audit, rule-19-application, secondary-source-classification
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: substrate-secondary-source-CONFIRMED-label-does-not-advance-primary-verification-state
+load_bearing_claims:
+  - Rule 19 substrate-self-attestation variant fires at secondary-source-classification not just primary-claim verification
+  - Substrate authored evidence-validation section beyond audit prompt requirement labeling secondary sources CONFIRMED
+  - Framework canonical verification table still flagged corresponding anchors as primary-source-audit pending
+  - Confident label looks like verification work but is secondary-source-only cannot advance state
+applicability_triggers:
+  - Substrate emits confident CONFIRMED labels on sources
+  - Audit prompt did not request evidence-validation section
+  - Secondary-source classification vs primary-source verification distinction load-bearing
+mechanism_details:
+  - Standard Rule 19 fire = substrate attests primary-claim verification
+  - Variant fire = substrate classifies secondary sources at secondary-source layer
+  - Both structurally unenforceable in same way; variant fires at layer standard framing does not cover
+cross_refs:
+  - Rule 19 substrate-self-attestation discipline (Post 0050 canonization)
+  - Post 0090 (five-substrate methodology)
+  - Post 0099 architectural-lock close cycle context
+-->
+
 # When Substrates "Confirm" Sources the Verification Discipline Has Not Accepted: The Soft-Validation Overreach Pattern
 
 **Author:** Jimmy McColery

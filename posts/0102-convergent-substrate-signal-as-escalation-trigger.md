@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0102
+title: When Two Substrates Independently Surface the Same New Finding: Convergence as Escalation Signal
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: convergent substrate signal as escalation trigger; distinct from diversity signal Council methodology already values
+project_scopes: framework-methodology, cross-project-substrate-methodology
+cc_task_relevance: council-verdict-adjudication, escalation-routing-decisions, rule-11-sub-discipline-candidacy
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: independent-convergence-on-new-finding-as-escalation-signal-distinct-from-diversity-signal
+load_bearing_claims:
+  - Standard Council methodology values diversity of substrate findings; convergence on same new finding is different signal class
+  - Two substrates from different model lineages independently raised same new finding not requested by prompt not appearing in prior axes
+  - Independent convergence warrants escalation routing decisions not standard ratification review
+  - Candidate Rule 11 sub-discipline addition
+applicability_triggers:
+  - Multi-substrate Council with cross-lineage substrates
+  - Substrates emit unexpected new findings without cross-referencing
+  - Adjudication decision between single-substrate finding vs convergent finding
+mechanism_details:
+  - Diversity signal = different angles complementary contributions
+  - Convergence signal = independent raising of same new finding
+  - Escalation trigger = additional verification or immediate ratification depending on quality
+cross_refs:
+  - Post 0090 (five-substrate methodology; Rule 11 foundation)
+  - Post 0094 (substrate-emergent META-rule synthesis; adjacent capability)
+  - Post 0097 (cross-model-family backbone diversity)
+  - Rule 11 substrate-role specialization
+-->
+
 # When Two Substrates Independently Surface the Same New Finding: Convergence as Escalation Signal
 
 **Author:** Jimmy McColery

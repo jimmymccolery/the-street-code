@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0005
+title: How a Personal AI Discipline Framework Earns Its First Rules
+date_published: 2026-05-04
+status: published
+superseded_by: none
+domain: Foundation-period narrative (April 28-May 1 2026 S001-S004) documenting how the framework earned its first dozen canonical rules including anti-patterns #13 (silent-verification-skip) and #14 (archival-completion-claim)
+project_scopes: street-code-methodology
+cc_task_relevance: canonization-propagation, discipline-enforcement, methodology-research
+phase_binding: Phase-1
+discipline_family: Rule-20-Family-A-canonization-propagation
+canonical_rule: Rule promotion requires multi-fire empirical evidence (three fires across two projects) plus canonical file + propagation script infrastructure to bind
+load_bearing_claims:
+  - S001 built Tier 0 canonical layer with project-graph + sync_anti_patterns.py + first canonical anti-patterns file
+  - Anti-patterns #13 and #14 originated from NPI failure-mode observations with multi-fire empirical foundation
+  - NPI role in ecosystem (deploys canonical infrastructure into new projects) is what made it the first proving ground for whether rules actually bind under bootstrap conditions
+applicability_triggers:
+  - CC understanding foundational lineage of anti-pattern numbering
+  - CC evaluating what infrastructure is required for rule propagation (canonical file + sync script + Knowledge bundle)
+  - CC assessing multi-fire empirical bar
+mechanism_details:
+  - sync_anti_patterns.py is 25 lines of Python and the closest thing to a build system
+  - Project-graph documents 17 projects across four tiers with canonical edges
+  - Live-fire session S002 activation verification showed anti-pattern #13 firing repeatedly on Grok substrate
+cross_refs:
+  - Post 0003 recursive rule fire (S005)
+  - Post 0026 operational discipline rules canonization (S008 arc)
+-->
+
 # How a Personal AI Discipline Framework Earns Its First Rules
 
 **Author:** Jimmy McColery

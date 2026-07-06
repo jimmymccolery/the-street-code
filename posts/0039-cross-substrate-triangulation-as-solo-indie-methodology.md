@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0039
+title: Cross Substrate Triangulation as Solo Indie Methodology
+date_published: 2026-05-24
+status: published
+superseded_by: none
+domain: Public-facing articulation of Council of Three cross-substrate triangulation ratified as Rule 6 + Rule 7 + anti-pattern #28 within-substrate verification echo-chamber (2026-05-23)
+project_scopes: street-code-methodology, cross-cutting
+cc_task_relevance: substrate-methodology, multi-substrate-audit, verification-validation
+phase_binding: era-independent
+discipline_family: Rule-11-substrate-specialization, Rule-14-Madisonian
+canonical_rule: Cross-substrate over within-substrate for multi-agent work (Rule 6) with substrate-class-aware task partition (Rule 7) Grok for community-meta access Gemini for long-context synthesis Claude for canonical-state cross-reference
+load_bearing_claims:
+  - Anti-pattern #28 within-substrate verification echo-chamber canonized 2026-05-23 (Hall Monitor checking Nerd on same base weights is partly checking its own claims)
+  - Task partition specific: Grok pulls indie practitioner reality + Gemini holds constraint sets + Claude reads canonical files
+  - Solo-indie-friendly because it costs zero infrastructure beyond three consumer AI substrates and operator willing to route prompts
+applicability_triggers:
+  - CC drafting multi-agent verification architecture
+  - CC deciding which substrate for which task class
+  - CC evaluating within-substrate multi-agent (four Grok agents) vs cross-substrate value
+mechanism_details:
+  - N=7 recent cross-substrate touchpoints in single architectural-decision arc plus cross-session accumulation
+  - Ratified in operational_discipline_rules.canonical.md v1.1 on 2026-05-23
+  - Brand-asset visualization is The Council of Three poster
+cross_refs:
+  - Post 0026 operational discipline rules (Rule 6 and Rule 7 canonization)
+  - Post 0040 what the gang actually does and whats theater
+  - Post 0020 Council of Three third leg fallibility
+-->
+
 # Cross-Substrate Triangulation as Solo-Indie Methodology
 
 **Author:** Jimmy McColery

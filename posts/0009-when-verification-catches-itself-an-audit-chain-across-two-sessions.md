@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0009
+title: When Verification Catches Itself An Audit Chain Across Two Sessions
+date_published: 2026-05-04
+status: published
+superseded_by: none
+domain: Cross-session drain verification chain where a second drain caught a substantive error in the first drain's canonical-rule scope claim
+project_scopes: street-code-methodology
+cc_task_relevance: verification-validation, discipline-enforcement, canonization-propagation
+phase_binding: Phase-1
+discipline_family: verify-against-canonical-files
+canonical_rule: Verification chains across multiple independent runs catch errors that no single-run verification would surface even when both runs use the same prompt template
+load_bearing_claims:
+  - First drain claimed existing canonical rule already covered a certain failure-mode pattern (operationally-hygienic framing)
+  - Second drain independently read canonical rule text and found the first drain's claim incorrect (refinement candidate is genuinely distinct)
+  - Verification chain reliability rests on structural independence not on template quality
+applicability_triggers:
+  - CC running drain probes at session close
+  - CC deciding whether to defer canonical-rule-scope claims for later verification
+  - CC assessing when to accept a substrate's operational-closure framing at face value
+mechanism_details:
+  - Drain template asks for seven categories of audit plus prioritization plus decomposed self-grade
+  - Second drain read canonical rule's actual text directly to resolve which framing was correct
+  - Model running second drain didn't see first drain's output until attached as continuity artifact
+cross_refs:
+  - Post 0011 cross-substrate audit surfacing what same-substrate missed
+  - Post 0025 drafting-drift canonical promotion arc
+-->
+
 # When Verification Catches Itself: An Audit Chain Across Two Sessions
 
 **Author:** Jimmy McColery

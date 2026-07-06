@@ -1,7 +1,15 @@
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0172
-domain: framework-methodology-post-audit-correction-plus-verify-against-canonical-files-discipline
-canonical_rule: post-audit-correction discipline extension per Post 0167 addendum-preserves-immutability pattern; verify-against-canonical-files class-(h) discipline strengthens to n=4 within-Phase-3
+title: When I Published Post 0169 Referencing a Workflow I Retired a Month Ago Post-Audit Correction Fourth Fire of Verify-Against-Canonical-Files Discipline
+date_published: 2026-07-05
+status: published
+superseded_by: none
+domain: post-audit-correction addendum for Post 0169 Item 0334 retirement gap; verify-against-canonical-files class-(h) discipline strengthens to n=4 within-Phase-3; operator-controlled representational-diversity review pathways replacement
+project_scopes: framework-methodology, sim-ai, open-alley, the-street-code
+cc_task_relevance: post-audit-correction-addendum, verify-against-canonical-files-discipline, canonical-retirement-registry, operator-controlled-representational-diversity-review-pathways
+phase_binding: Phase-3
+discipline_family: post-audit-correction addendum-preserves-immutability + class-(h) verify-against-canonical-files-and-operator-retirement-dispositions
+canonical_rule: post-audit-correction discipline extension per Post 0167 addendum-preserves-immutability pattern; verify-against-canonical-files class-(h) discipline strengthens to n=4 within-Phase-3; retirement replaces external-consultant-engagement framing with operator-controlled representational-diversity review pathways
 load_bearing_claims:
   - Post 0169 published 2026-07-05 morning referenced Item 0334 civil-rights consultant pipeline as canonical infrastructure to consult before character authoring
   - That concept and workflow was actually retired 2026-06-08 per polish_queue.md Item 352 Path A canonization

@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0035
+title: Methodology Refinements at the Validation Edge
+date_published: 2026-05-11
+status: published
+superseded_by: none
+domain: Two methodology refinements from same canonical-record arc at different validation edges (outside-view gap in Phase 2 Lucas premortem + evidentiary status of post-formal-validation additional usage)
+project_scopes: street-code-methodology
+cc_task_relevance: methodology-research, verification-validation
+phase_binding: era-independent
+discipline_family: Rule-14-Madisonian
+canonical_rule: Framework's Phase 2 Lucas premortem operates inside-view only; Kahneman 2011 establishes inside-view-only premortem systematically underweights reference-class evidence
+load_bearing_claims:
+  - Refinement candidate at Topic 15: identify 2-3 analogous past sessions and use failure-mode distributions as sanity check on Lucas predictions
+  - Framework hasn't measured Lucas predictions against actual outcomes across enough work to detect optimism bias empirically
+  - Post 07 canonization left two questions hanging (inside-view scope + evidentiary status of validated architecture use)
+applicability_triggers:
+  - CC running Phase 2 Lucas premortem
+  - CC evaluating whether framework's calibration is empirically measured vs theoretically grounded
+  - CC drafting reference-class forecasting addition to premortem discipline
+mechanism_details:
+  - Cobb et al. 2003 humble-theory-must-do-real-work calibration
+  - Klein 2007 pre-mortem method is methodological source
+  - Post 07's two-cycle validation catching real architectural gaps establishes premortem operational usefulness
+cross_refs:
+  - Post 0007 two-cycle validation
+  - Post 0016 design-based research positioning (Klein 2007 source)
+-->
+
 # Methodology Refinements at the Validation Edge
 
 This post documents two methodology refinements that surfaced from the same canonical-record arc but operate at different validation edges. Both are bundle-shape paired components — neither warrants standalone post coverage at current empirical foundation, but together they show how validation discipline evolves at its own boundaries.

@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0155
+title: React Fiber That Was Not There Next.js Dev-Mode HMR Blocks iOS Safari Hydration Plus False-Positive Diagnostic Misdirect
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: technical debugging Next.js Turbopack dev-mode HMR versus iOS Safari WebKit hydration surface
+project_scopes: framework-methodology, sim-ai, roomtolife
+cc_task_relevance: react-hydration-debugging, nextjs-dev-hmr, ios-safari-webkit, false-positive-diagnostic
+phase_binding: era-independent
+discipline_family: cross-device debugging discipline
+canonical_rule: Next.js dev-mode Turbopack HMR blocks iOS Safari WebKit hydration; false-positive diagnostic can misdirect toward unrelated framework fault
+load_bearing_claims:
+  - Next.js Turbopack dev-mode HMR blocks iOS Safari WebKit hydration when accessed via same-WiFi local dev server
+  - False-positive diagnostic can misdirect toward unrelated framework fault
+  - Broadly reproducible for React developers testing cross-device on same-WiFi local dev server
+applicability_triggers:
+  - Cross-device debugging via same-WiFi local dev server
+  - iOS Safari hydration fails but macOS Safari and Chrome DevTools mobile mode succeed
+  - React Fiber not rendered on iOS Safari but SSR HTML delivered
+mechanism_details:
+  - Next.js Turbopack dev-mode HMR uses websocket for hot module reload
+  - iOS Safari blocks websocket in some cases on same-WiFi with self-signed cert
+  - Diagnostic misdirect toward framework code when actual issue is dev-mode tooling
+  - Mitigation next start with production build for iOS device testing
+cross_refs:
+  - Post 0153 (Tier A empirical close with Path A operationalized after resolving this gotcha)
+  - Post 0154 (Path A as fifth path Post 0152 enumeration gap fire)
+-->
+
 # The React Fiber That Was Not There: Next.js Dev-Mode HMR Blocks iOS Safari Hydration Plus the False-Positive Diagnostic Misdirect
 
 **Author:** Jimmy McColery

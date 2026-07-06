@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0004
+title: Three Runs at the Asymptote When Prompt Language Hits a Training Objective
+date_published: 2026-05-03
+status: published
+superseded_by: none
+domain: Diagnostic finding that Grok Phase 1 verbatim-content failure is a training-objective asymptote (grok-4.20-multi-agent parallel dispatch) rather than a prompt-strengthening problem
+project_scopes: street-code-methodology
+cc_task_relevance: substrate-methodology, discipline-enforcement, multi-substrate-audit
+phase_binding: Phase-1
+discipline_family: Rule-11-substrate-specialization, Rule-19-anti-fabrication
+canonical_rule: When three iterations of prompt-strengthening produce migrating rather than eliminated failures, the failure mode is likely at the substrate training-objective layer and can only be closed by substrate routing not prompt engineering
+load_bearing_claims:
+  - Three iterations (Batch 1, v3-final, v3-final-2) showed failure migrating across ellipsis substitution, assertion-only, wrong-source attribution rather than being fixed
+  - xAI documentation shows grok-4.20-multi-agent trains for parallel agent dispatch making phase-gating instructions fight the training objective
+  - MMMT-IF benchmark (Epstein et al. arXiv:2409.18216) shows PIF-4-4 rates 11-28% even for strongest substrates establishing substrate-class evidence
+applicability_triggers:
+  - CC iterating prompt-strengthening on a failure that is not closing
+  - CC deciding whether to swap substrate rather than reword prompt
+  - CC diagnosing whether a substrate's failure is calibration-quirk vs training-objective
+mechanism_details:
+  - PASS rate regressed from 92.9% to 76.9% between v3-final and v3-final-2 despite stronger constraints
+  - Termination Unawareness anti-pattern in framework caught the operator's system-perfectionism compulsion after 3 runs
+  - Literature review across arXiv + xAI docs surfaced substrate-class evidence unavailable from within-substrate iteration
+cross_refs:
+  - Post 0006 substrate routing methodology derived from this finding
+  - Post 0007 two-cycle validation of substrate-routed architecture
+-->
+
 # Three Runs at the Asymptote: When Prompt-Language Hits a Training Objective
 
 **Author:** Jimmy McColery

@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0060
+title: Recursive 4-layer catch cascade: how AI orchestrators catch their own drift
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: positive substrate behavior orchestrator honest uncertainty declaration and downstream self-correction
+project_scopes: street-code-methodology, cross-cutting
+cc_task_relevance: substrate-orchestrator-design, uncertainty-declaration-verification-handoff, positive-behavior-pattern-recognition
+phase_binding: era-independent
+discipline_family: Rule-19-anti-fabrication
+canonical_rule: When substrate operating in orchestrator role honestly declares uncertainty, downstream verification step can act on the declaration and multi-AI workflow self-corrects across layers without operator intervention
+load_bearing_claims:
+  - n=2 cross-cycle reproduction of positive orchestrator behavior
+  - Structural mechanism makes it work; not incidental
+  - Uncertainty must be surfaced not hidden for downstream layer to catch
+  - Complements Post 0050 and Post 0058 failure-mode discussions
+applicability_triggers:
+  - When designing multi-AI orchestrator workflows
+  - When configuring verification handoff between orchestrator and downstream substrates
+  - When positive-behavior patterns need structural naming for repeatability
+mechanism_details:
+  - Orchestrator declares specific-element uncertainty rather than covering with generic hedge
+  - Downstream verification substrate treats declaration as actionable signal
+cross_refs:
+  - Post 0050 (self-attestation vs canonical-content reproduction)
+  - Post 0058 (catching AI hallucinations cross-substrate)
+  - Post 0071 (orchestrator-class pattern-matching from proximal signals)
+-->
+
 # Recursive 4-layer catch cascade: how AI orchestrators catch their own drift
 
 **Author:** Jimmy McColery

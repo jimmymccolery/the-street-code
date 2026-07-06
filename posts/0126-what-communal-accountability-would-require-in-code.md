@@ -1,8 +1,16 @@
 # What Communal Accountability Would Require in Code: The Generosity-Ledger Mechanic the Framework Specced and Banked as a Steam V1.0 Candidate
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0126
-domain: framework-architecture
+title: What Communal Accountability Would Require in Code: The Generosity-Ledger Mechanic the Framework Specced and Banked as a Steam V1.0 Candidate
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; Wireduan communal-accountability generosity-ledger mechanic; Steam V1.0 candidate deferred from iOS V1; ablation-gate discipline
+project_scopes: framework-architecture, cross-cultural-discipline, framework-scope-boundaries
+cc_task_relevance: v1-vs-steam-scope-decisions, communal-accountability-mechanic-design, ablation-gate-application
+phase_binding: Phase-4+
+discipline_family: framework-architecture
 canonical_rule: wireduan-communal-accountability-generosity-ledger-mechanic-steam-v1-candidate
 load_bearing_claims:
   - Wireduan communal-accountability mechanic specced (Option A from Round 7 deliberation) as Steam V1.0 candidate
@@ -27,7 +35,7 @@ cross_refs:
   - Post 0125 (procedural test NOT trait dimension)
   - Methodology: per-npc-philosophy-profile-reservation-and-ablation-gate-v1.md
   - Post 0146 Layer 6 + Layer 7 (relationships + cultural personhood)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

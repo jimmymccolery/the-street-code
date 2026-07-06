@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0092
+title: Three Arcs for One Anchor: A Methodology for Validating Canonical Elements Before Drift Forces You To
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: canonical-anchor validation methodology; three-arc campaign (backward-literature + present-measurement + forward-premortem); Madisonian Gate anchor case
+project_scopes: framework-methodology, discipline-canonization
+cc_task_relevance: canonical-anchor-validation-planning, methodology-canonization-decisions, framework-defensibility
+phase_binding: era-independent
+discipline_family: framework-defense
+canonical_rule: canonical-anchor-elements-warrant-three-arc-validation-campaign-not-fiat-or-drift-response
+load_bearing_claims:
+  - Canonical anchors usually treated framework-canonical-by-fiat or drift-response-driven; neither withstands sustained skepticism
+  - Three-arc structure: backward-literature review + present-measurement empirical + forward-premortem imagination; run in parallel
+  - Methodology framing has independent value regardless of specific anchor validation completing
+  - Committing to methodology publicly binds framework to eventual validation execution
+applicability_triggers:
+  - Operator-side design of canonical-anchor validation for framework methodology
+  - When framework anchor lacks empirical foundation withstanding external skepticism
+  - When drift-response-driven revalidation has already cost something once
+mechanism_details:
+  - Anchor-post at n=1 with retrospective-completion framing
+  - Backward-literature arc = pre-existing literature review for anchor foundation
+  - Present-measurement arc = empirical measurement of anchor operational performance
+  - Forward-premortem arc = imagined failure modes plus mitigations
+cross_refs:
+  - Rule 14 Madisonian Gate synthesis (validation subject)
+  - Post 0091 (fix-cycle surface drift adjacent discipline)
+  - Post 0114 (pre-registration discipline; adjacent validation binding)
+-->
+
 # Three Arcs for One Anchor: A Methodology for Validating Canonical Elements Before Drift Forces You To
 
 **Author:** Jimmy McColery

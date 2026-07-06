@@ -1,8 +1,16 @@
 # Generative Agents Are the Backbone, Not the Runtime: Park 2023 as Conceptual Foundation Without Direct LLM Scaling
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0121
-domain: framework-architecture
+title: Generative Agents Are the Backbone, Not the Runtime: Park 2023 as Conceptual Foundation Without Direct LLM Scaling
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; Park 2023 three-process decomposition as conceptual backbone; rule-based per-frame decision + LLM at consolidation only; hybrid architecture at 80-100 NPC scale
+project_scopes: framework-architecture, npc-decision-making, framework-defense
+cc_task_relevance: llm-scaling-decisions, park-2023-integration, hybrid-architecture-planning
+phase_binding: Phase-1
+discipline_family: framework-architecture
 canonical_rule: park-2023-generative-agents-backbone-not-runtime
 load_bearing_claims:
   - Park 2023 (arXiv:2304.03442) three-process decomposition (observe-reflect-plan) borrowed as CONCEPTUAL BACKBONE, not implementation
@@ -28,7 +36,7 @@ cross_refs:
   - Post 0122 (multi-graph memory implementation)
   - Post 0123 (cached policies + slow consolidation pattern)
   - Post 0146 (ten-layer architecture explicitly NOT LLM-in-the-loop per-frame)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

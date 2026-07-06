@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0028
+title: Cross Session Validation Sections A Substrate Halt and Flag Becomes Canonical Artifact Section Convention
+date_published: 2026-05-10
+status: published
+superseded_by: none
+domain: Cross-Session Validation section convention emerging from substrate halt-and-flag convergence across Claude/Grok/Gemini at Decision 1B + 1C deployments (n=2)
+project_scopes: street-code-methodology
+cc_task_relevance: canonization-propagation, multi-substrate-audit, methodology-research
+phase_binding: Phase-1
+discipline_family: Rule-20-Family-A-canonization-propagation
+canonical_rule: When all three Council substrates halt-and-flag the same gap independently the gap is a first-class scaffolding scope concern not deployment-package oversight the recommended structural remedy should be adopted
+load_bearing_claims:
+  - Cross-Session Validation sections gain open-ended structure for future multi-session evidence accumulation
+  - Substrates were asked to deliberate on canonization but returned structural scaffolding scope recommendations addressing concerns package had not named
+  - Convention now empirically established at n=2 deployments within one architecture-revision session arc
+applicability_triggers:
+  - CC drafting Council deployment package where substrates might halt-and-flag scaffolding scope
+  - CC assessing whether emergent substrate recommendation should be adopted vs held
+  - CC drafting Cross-Session Validation section for a new canonical artifact
+mechanism_details:
+  - Both sections initialized 2026-05-10 from grep-verified canonical record entries
+  - Section structure: framing paragraph, open-ended date/session ID entries with Evidence + Evidence type + Source citation
+  - Canonized at research_queue.md Topic 36 line 1419
+cross_refs:
+  - Post 0026 operational discipline rules (Decision 1B site)
+  - Post 0032 operator-side role architecture (Decision 1C site)
+  - Post 0027 Council outcome patterns
+-->
+
 # Cross-Session Validation Sections: A Substrate Halt-and-Flag Becomes Canonical-Artifact Section Convention
 
 **Status:** Self-experimentation by a non-credentialed practitioner. n=1 operator deploying a three-substrate Council architecture for a single 2026-05-10 architecture-revision session arc. The section convention described below is empirically established at n=2 deployments within this single arc; cross-arc replication is unverified at filing time. Whether the convention generalizes to other architecture-revision sessions or to non-canonical-promotion canonical-artifact updates is not the claim of this post. The empirical foundation cited is what I have, not what would settle the question externally. Read accordingly.

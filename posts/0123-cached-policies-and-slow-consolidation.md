@@ -1,8 +1,16 @@
 # Cached Policies and Slow Consolidation: The Project Zomboid Offscreen Storylet Pattern Applied to Active Inference
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0123
-domain: framework-architecture
+title: Cached Policies and Slow Consolidation: The Project Zomboid Offscreen Storylet Pattern Applied to Active Inference
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; cached policies at runtime + slow consolidation offline; Project Zomboid offscreen storylet pattern formalized for active-inference machinery
+project_scopes: framework-architecture, npc-decision-making
+cc_task_relevance: runtime-vs-offline-computation-split, population-scale-performance-planning, active-inference-caching
+phase_binding: Phase-1
+discipline_family: framework-architecture
 canonical_rule: cached-policies-slow-consolidation-project-zomboid-pattern
 load_bearing_claims:
   - Project Zomboid offscreen-storylet pattern formalized for active-inference machinery
@@ -27,7 +35,7 @@ cross_refs:
   - Post 0121 (Park 2023 backbone; hybrid architecture)
   - Post 0122 (multi-graph memory typed indexes)
   - Post 0146 Layer 5 + Layer 10 (EFE + audit)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

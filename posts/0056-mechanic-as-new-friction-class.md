@@ -1,3 +1,31 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0056
+title: Mechanic-as-new-friction-class: automation doesn't eliminate friction, it transforms it
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: business-history synthesis multi-decade 1956-2026 mechanic role evolution
+project_scopes: pin-paradise
+cc_task_relevance: era-progression-design, industrial-automation-mechanic-modeling, historical-labor-transition-research
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Automation transforms operational friction into a different friction class with different cost structure and skill-requirement profile rather than eliminating friction
+load_bearing_claims:
+  - Standard labor-cost-savings calculation systematically under-counts new friction class the automation introduces
+  - American bowling 1956-2026 is a clean documented case where mechanic labor became new friction class
+  - Sometimes under-count is small, sometimes large enough to make replacement net-negative across operating horizon
+applicability_triggers:
+  - When designing era-progression mechanic that models labor-to-capital transitions
+  - When authoring industrial-automation historical research
+  - When modeling long-horizon consequences of automation decisions
+mechanism_details:
+  - Pinsetter adoption 1956-1962 substituted machines for pinboys but created specialized mechanic labor class
+  - New friction class has different training pipeline different cost structure different failure modes
+cross_refs:
+  - Post 0064 (pinsetter wars 1951-1956)
+  - Post 0069 (pinboy pinsetter mechanic inheritance)
+-->
+
 # Mechanic-as-new-friction-class: automation doesn't eliminate friction, it transforms it
 
 **Author:** Jimmy McColery

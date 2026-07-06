@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0016
+title: Design Based Research on AI Assisted Personal Practice
+date_published: 2026-05-07
+status: published
+superseded_by: none
+domain: Methodology positioning paper mapping the framework to Design Based Research (Brown/Cobb et al. tradition) requirements with Becker-Goffman methodological inheritance
+project_scopes: street-code-methodology
+cc_task_relevance: methodology-research
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Solo-practitioner AI work qualifies as design-research-adjacent solo practitioner-research with empirical record substantive enough to support methodological theory generation not canonical multi-stakeholder DBR
+load_bearing_claims:
+  - Framework maps DBR requirements with substantive depth in 4 of 9 core requirements, loose in 4, honest gaps in 2
+  - Wang & Hannafin 2005 systematic-but-flexible criterion and Cobb et al. 2003 humble-theory-must-do-real-work calibration apply
+  - Solo-operator application requires structural substitutes (cross-substrate verification chain) for the collaboration function DBR normally provides
+applicability_triggers:
+  - CC drafting methodology positioning for framework work
+  - CC assessing methodology-research standards for solo-practitioner AI work
+  - CC evaluating whether a claim rises to methodological theory vs isolated observation
+mechanism_details:
+  - Two formally validated work classes (session-writeup 23/23 + architecture-revision 32/32)
+  - Kahneman inside-view vs outside-view discipline surfaces in Phase 2 Lucas premortem (see Post 35)
+  - Klein 2007 pre-mortem method is methodologically sourced through this positioning
+cross_refs:
+  - Post 0035 methodology refinements at validation edge
+  - Post 0018 auto-pilot session extending Post 17 recovery-from-drift framing
+-->
+
 # Design-Based Research on AI-Assisted Personal Practice
 
 **Author:** Jimmy McColery

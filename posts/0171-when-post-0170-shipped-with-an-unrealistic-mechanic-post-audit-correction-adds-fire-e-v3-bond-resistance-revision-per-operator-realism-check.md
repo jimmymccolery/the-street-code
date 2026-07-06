@@ -1,7 +1,15 @@
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0171
-domain: framework-methodology-post-audit-correction
-canonical_rule: post-audit-correction discipline extension per Post 0167 addendum pattern; Fire E v3 revision per operator-realism-check rejection of v2 cooldown mechanic
+title: When Post 0170 Shipped with an Unrealistic Mechanic Post-Audit Correction Adds Fire E v3 Bond-Resistance Revision Per Operator Realism Check
+date_published: 2026-07-05
+status: published
+superseded_by: none
+domain: post-audit-correction addendum for Post 0170 Fire E v2 rejection; Fire E v3 bond-resistance revision per operator-realism-check
+project_scopes: framework-methodology, sim-ai, the-street-code
+cc_task_relevance: post-audit-correction-addendum, operator-realism-check-canonization, fire-e-v3-bond-resistance, addendum-preserves-immutability
+phase_binding: Phase-3
+discipline_family: post-audit-correction addendum-preserves-immutability + operator-realism-check
+canonical_rule: post-audit-correction discipline extension per Post 0167 addendum pattern; Fire E v3 revision per operator-realism-check rejection of v2 cooldown mechanic; operator-realism-check strengthens to n=12 total within-Phase-3
 load_bearing_claims:
   - Post 0170 shipped Fire E v2 AGGRESSION_COOLDOWN_TICKS mechanic which operator subsequently rejected as unrealistic
   - Real-world logic per operator: one physical attack makes another attack MORE likely (not less; no cooldown); AND friends attacking one another should be much lower baseline probability than strangers

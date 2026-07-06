@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0071
+title: How orchestrator-class AI hides knowledge gaps: pattern-matching from proximal signals as the recovery mechanism that evades detection
+date_published: 2026-06-09
+status: published
+superseded_by: none
+domain: orchestrator-class substrate behavior pattern-matching hides knowledge gap from detection
+project_scopes: street-code-methodology, cross-cutting
+cc_task_relevance: orchestrator-class-substrate-audit, proximal-signal-pattern-matching-detection, verify-against-canonical-files-scope
+phase_binding: era-independent
+discipline_family: verify-against-canonical-files
+canonical_rule: The mechanism that recovers orchestrator from knowledge gap is also the mechanism that hides gap from detection; proximal-signal pattern-matching produces verdicts that look grounded but are not
+load_bearing_claims:
+  - Orchestrator was running against project knowledge 7-9 days stale
+  - 19+ orchestrator-class deployments completed with verdicts that looked correct
+  - Verdicts looked correct because orchestrator pattern-matched from proximal signals not canonical record
+  - No internal signal distinguishes grounded-in-canonical-state from pattern-matched-from-proximal-signals
+  - n=2 cumulative across distinct work classes plus n=13 cumulative broader substrate-self-attestation foundation
+applicability_triggers:
+  - When running persistent-context AI workspace with canonical state across sessions
+  - When orchestrator synthesizes substrate outputs against nominal canonical grounding
+  - When verifying substrate-verdict groundedness requires explicit canonical-file scope check
+mechanism_details:
+  - Substrate audit prompts chat context and multi-substrate response citations serve as proximal signals
+  - Signals carry current information sufficient to look calibrated but not sufficient to actually ground the verdict
+cross_refs:
+  - Post 0050 (self-attestation vs canonical-content)
+  - Post 0060 (recursive 4-layer catch cascade)
+  - Post 0076 (five scopes of canonical-state verification)
+-->
+
 # How orchestrator-class AI hides knowledge gaps: pattern-matching from proximal signals as the recovery mechanism that evades detection
 
 **Author:** Jimmy McColery

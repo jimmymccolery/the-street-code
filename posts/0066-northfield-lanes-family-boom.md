@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0066
+title: The Northfield Lanes Family Boom: how 1960s bowling alleys delivered groceries to housewives' Tuesday-morning leagues
+date_published: 2026-06-01
+status: published
+superseded_by: none
+domain: cultural-history 1960s bundled-services pattern in suburban bowling alleys anticipating contemporary tech-startup framing by 60 years
+project_scopes: pin-paradise
+cc_task_relevance: era-progression-design, bundled-services-mechanic-modeling, cultural-history-research
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: 1960s suburban bowling alleys operated bundled-services arrangements customer experience wise strictly better than 2026 tech-startup bundles in specific dimensions
+load_bearing_claims:
+  - Bundled-services innovation is not a 2010s tech-startup invention
+  - 1960s bowling alleys handled bundling via front-desk plus local-business partnerships
+  - Contemporary framing wrong by approximately 60 years
+  - Non-app operational integration produced customer experience competitive with modern apps
+applicability_triggers:
+  - When designing 1960s era bundled-services mechanic
+  - When authoring cultural-history counter-narrative research
+  - When modeling suburban-bowling-alley business-line diversification
+mechanism_details:
+  - Front-desk partnership with local businesses (grocery delivery, dry cleaning pickup) during league play
+  - Housewives' Tuesday-morning leagues as operational anchor for bundled offerings
+cross_refs:
+  - Post 0046 (1960s Bowling Bubble)
+  - Post 0047 (Volcker Shock 1981)
+-->
+
 # The Northfield Lanes Family Boom: how 1960s bowling alleys delivered groceries to housewives' Tuesday-morning leagues
 
 **Author:** Jimmy McColery

@@ -1,3 +1,36 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0157
+title: tsconfig Alias That Only Broke at Deploy Time Local Dev Green Light Misleading at Vercel Plus the Vendor Pattern Fix
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: NEW candidate sub-shape 9 cross-deployment-environment architecture gap; tsconfig alias resolves locally but fails at Vercel
+project_scopes: framework-methodology, roomtolife, sim-ai
+cc_task_relevance: canonization-propagation-verification, tsconfig-alias-audit, vendor-pattern-fix, cross-deployment-verification
+phase_binding: era-independent
+discipline_family: Rule 20 candidacy Family A canonization-propagation gap sub-shape 9
+canonical_rule: cross-deployment-environment architecture gap sub-shape 9 fires when tsconfig alias resolves locally but fails at Vercel build environment; vendored fix into roomtolife/vendor/sim-ai
+load_bearing_claims:
+  - n=1 fire Path 2 tsconfig alias sim-ai/*: [../sim-ai/src/*] works locally but fails at Vercel
+  - Consumer-deployment build environment scope architecturally distinct from prior 8 sub-shapes
+  - Vendored fix into roomtolife/vendor/sim-ai closes the gap
+  - Rule 20 Family A n=3 candidate sub-shapes strengthening (subshapes 7 + 8 + 9)
+applicability_triggers:
+  - tsconfig alias resolves locally but fails at deployed environment
+  - Cross-consumer shared code needs deployment-environment verification
+  - Vendor pattern preferred over path alias for deployed consumers
+mechanism_details:
+  - Path 2 tsconfig alias sim-ai/* mapped to ../sim-ai/src/* works locally
+  - Vercel build environment does not resolve path outside project root
+  - Vendor pattern copies source into roomtolife/vendor/sim-ai for build isolation
+  - Cross-consumer verification catches this at deploy time not local dev
+cross_refs:
+  - Post 0143 (parent canonization-propagation gap discipline family Family A)
+  - Post 0154 (sub-shape 7 enumeration-completeness)
+  - Post 0158 (Rule 19 discipline extension to operational-diagnostic scope)
+  - Memory feedback_canonization_propagation_gap_cross_deployment_architecture_candidate_9th_sub_shape_2026-07-04.md
+-->
+
 # The tsconfig Alias That Only Broke at Deploy Time: Local Dev Green Light Misleading at Vercel Plus the Vendor Pattern Fix
 
 **Author:** Jimmy McColery

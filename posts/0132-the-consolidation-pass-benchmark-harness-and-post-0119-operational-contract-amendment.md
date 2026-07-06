@@ -1,3 +1,37 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0132
+title: The Consolidation-Pass Benchmark Harness and the Post 0119 Operational-Contract Amendment: What V1 Must Measure Before Building
+date_published: 2026-07-01
+status: published
+superseded_by: none
+domain: Council #3 spec output; Swift on-device benchmark harness for consolidation-pass regime R3 tractability; Post 0119 operational-contract amendment adding branch-factor discipline (B_max) plus probability-threshold pruning plus BTAI/MCTS expansion budget K plus sparse factor-graph interruptible message passing
+project_scopes: framework-architecture, framework-methodology
+cc_task_relevance: benchmark-harness-planning, post-0119-amendment-authoring, active-inference-tractability-measurement
+phase_binding: Phase-1
+discipline_family: framework-architecture
+canonical_rule: benchmark-harness-adjudicates-consolidation-pass-cadence-tractability-before-130-230h-apparatus-build
+load_bearing_claims:
+  - Swift on-device benchmark harness at meta-architecture level adjudicates tractability for V1 target scale
+  - Post 0119 operational-contract amendment adds branch-factor discipline B_max + probability-threshold pruning budget + BTAI/MCTS-style expansion budget K + sparse factor-graph interruptible message passing
+  - Sequencing rationale: run harness pre-V1 before ~130-230h sophisticated-active-inference apparatus build
+  - META-level commitments only; harness-specific mocked-component semantics + candidate-action-set operationalization + generative-model dimensionalities scoped to commercial channels
+applicability_triggers:
+  - Council #3 spec output implementation
+  - Deciding whether sophisticated active inference at consolidation cadence fits V1 target scale
+  - Amending Post 0119 operational contract
+mechanism_details:
+  - Harness at meta-architecture level; standalone-executable Swift on-device procedure
+  - Branch-factor discipline B_max = cap on action-tree branching
+  - Probability-threshold pruning = drop low-probability branches
+  - BTAI/MCTS-style expansion budget K = bounded tree-search expansion cap
+  - Sparse factor-graph interruptible message passing = anytime message-passing under interrupt budget
+cross_refs:
+  - Post 0131 (Council #3 close narrative companion)
+  - Post 0119 (audit-first active inference sequencing; amendment target)
+  - Post 0133 (V1-pause forward-reference amendment; sequencing changes)
+  - Methodology guide: active-inference-tractability-benchmark-harness-v1.md
+-->
+
 # The Consolidation-Pass Benchmark Harness and the Post 0119 Operational-Contract Amendment: What V1 Must Measure Before Building
 
 **Author:** Jimmy McColery

@@ -1,30 +1,38 @@
 # Forward-Reference Amendment for Post 0146 HEXACO Citation-Chain Clarification Plus Council #6 Ratified Bank-For-Audit Disposition
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0150
-domain: methodology-discipline
-canonical_rule: forward-reference-amendment-post-0146-hexaco-citation-chain
+title: Forward-Reference Amendment for Post 0146 HEXACO Citation-Chain Clarification Plus Council #6 Ratified Bank-For-Audit Disposition
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: forward-reference amendment for Post 0146 HEXACO citation-chain clarification plus Council #6 ratified bank-for-audit disposition
+project_scopes: framework-methodology, the-street-code
+cc_task_relevance: post-audit-correction-precedent, citation-chain-verification, forward-reference-amendment, hexaco-attribution
+phase_binding: era-independent
+discipline_family: post-audit-correction addendum-preserves-immutability + Rule 14 Council-ratified disposition
+canonical_rule: forward-reference amendment to Post 0146 HEXACO citation chain via addendum post; Council #6 close ratified BANK-FOR-AUDIT disposition for citation-chain drift
 load_bearing_claims:
-  - Forward-reference amendment to Post 0146 HEXACO citation chain (Hilbig 2009 vs Zettler 2020 attribution correction)
+  - Forward-reference amendment to Post 0146 HEXACO citation chain (Hilbig 2009 vs Zettler 2020 attribution clarification)
   - Council #6 close 2026-07-04 ratified BANK-FOR-AUDIT disposition for citation-chain drift
   - Post-audit-correction discipline (Post 0167 precedent) applies to citation errors in load-bearing methodology posts
   - Amendment preserves Post 0146 immutability while surfacing citation correction
 applicability_triggers:
-  - When Post 0146 HEXACO literature grounding needs precise citation verification
-  - When forward-reference amendment (addendum) is preferred over in-place edit
-  - When BANK-FOR-AUDIT disposition delays operationalization pending audit
-  - When Council methodology deployment closes with pending citation verification
+  - Post 0146 HEXACO literature grounding needs precise citation verification
+  - Forward-reference amendment (addendum) preferred over in-place edit
+  - BANK-FOR-AUDIT disposition delays operationalization pending audit
+  - Council methodology deployment closes with pending citation verification
 mechanism_details:
-  - Forward-reference = addendum post that supersedes prior post's specific claim
-  - Post 0146 HEXACO citation chain: Hilbig and Zettler 2009 for cooperation; Zettler et al 2020 for cumulative empirical foundation
-  - BANK-FOR-AUDIT = defer canonization pending future audit round
+  - Forward-reference equals addendum post that supersedes prior post specific claim
+  - Post 0146 HEXACO citation chain Hilbig and Zettler 2009 for cooperation; Zettler et al 2020 for cumulative empirical foundation
+  - BANK-FOR-AUDIT equals defer canonization pending future audit round
   - Council #6 close 2026-07-04 ratified this disposition per Rule 14 Pattern B ADOPT-FOLD
 cross_refs:
   - Post 0115 (HEXACO to attachment re-source; citation chain grounding)
   - Post 0146 (ten-layer NPC framework; HEXACO Layer 3 with citation)
   - Post 0167 (post-audit-correction discipline; addendum preserves immutability)
-  - Council #6 close memory: project_council_6_close_pattern_b_2026-07-04.md
-CC-OPTIMIZED-SUMMARY -->
+  - Council #6 close memory project_council_6_close_pattern_b_2026-07-04.md
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-04

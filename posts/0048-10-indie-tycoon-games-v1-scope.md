@@ -1,3 +1,31 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0048
+title: What 10 indie tycoon games taught me about V1 scope
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: indie tycoon V1-scope research finding across 10 titles 1994-2018
+project_scopes: pin-paradise, street-code-methodology
+cc_task_relevance: v1-scope-decisioning, tycoon-genre-benchmarking, research-substrate-primary-source-verification
+phase_binding: era-independent
+discipline_family: verify-against-canonical-files
+canonical_rule: Zero counterexamples across n=10 indie tycoon titles for the pattern V1 equals one strong mode plus later versions add modes scenarios or DLC
+load_bearing_claims:
+  - Survey covered RollerCoaster Tycoon 1999 through Two Point Hospital 2018 with intentional mix of clearly-indie plus small-team-or-publisher-backed
+  - Six of ten produced clean reconstructions from primary or near-primary sources; four flagged as vertical-slice-scope-not-directly-documented rather than confabulated
+  - Empirical pattern held across two decades of indie tycoon shipping practice with no counterexamples
+applicability_triggers:
+  - When making V1 scope decisions for a tycoon-genre project
+  - When considering multiple structurally-different modes at first public release
+  - When authoring research posts requiring primary-source substrate verification
+mechanism_details:
+  - Substrate honestly flagged missing primary-source availability rather than confabulating citations
+  - Convergence across two-decade sample provides strong empirical foundation against multi-mode-at-V1 aspiration
+cross_refs:
+  - Post 0049 (design mode vs code mode work classes)
+  - Post 0058 (catching AI hallucinations cross-substrate discipline)
+-->
+
 # What 10 indie tycoon games taught me about V1 scope
 
 **Author:** Jimmy McColery

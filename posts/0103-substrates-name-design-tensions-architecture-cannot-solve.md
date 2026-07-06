@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0103
+title: When Substrates Identify Operator-Judgment Surfaces: The Underrecognized Scope-Work That Determines Where Operator Bandwidth Should Go
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: substrate problem-scoping contribution class; operator-judgment surface identification; four scope classes distinguishing architecture from operator-content-runtime
+project_scopes: framework-methodology, framework-architecture
+cc_task_relevance: operator-bandwidth-routing, substrate-output-interpretation, design-philosophy-decisions
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: substrate-problem-scoping-as-underrecognized-contribution-class-upstream-of-problem-solving
+load_bearing_claims:
+  - Substrate contribution class beyond problem-solving = problem-scoping: which problems are architectural vs operator-judgment vs content-authoring vs runtime-testing
+  - n=2 same-arc cross-substrate cumulative identification of same operator-judgment surface with second substrate naming exact design pixel
+  - Problem-scoping work determines where operator bandwidth should go; operates upstream of problem-solving
+  - Fabric-of-experience concern beyond mechanical design surfaced convergently
+applicability_triggers:
+  - Multi-substrate triangulation with complex design surface
+  - Deciding what to route to operator judgment vs architectural specification
+  - Post-close synthesis identifying non-architectural surfaces
+mechanism_details:
+  - Four scope classes: architectural + operator-judgment + content-authoring + runtime-testing
+  - Substrate contribution at problem-scoping is scope-work not solution-work
+  - Convergent identification signal strengthens routing decision
+cross_refs:
+  - Post 0065 (Real-Time Friction Design Philosophy foundation)
+  - Post 0102 (convergent substrate signal as escalation)
+  - Post 0104 (foundation-first vs momentum-first ratification)
+-->
+
 # When Substrates Identify Operator-Judgment Surfaces: The Underrecognized Scope-Work That Determines Where Operator Bandwidth Should Go
 
 **Author:** Jimmy McColery

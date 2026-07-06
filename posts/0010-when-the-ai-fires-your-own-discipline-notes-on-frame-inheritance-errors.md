@@ -1,3 +1,31 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0010
+title: When the AI Fires Your Own Discipline Notes on Frame Inheritance Errors
+date_published: 2026-05-04
+status: published
+superseded_by: none
+domain: Empirical observation that AI assistance while helping operate the framework fires the framework's own anti-patterns (canonical-source-discipline / anti-pattern #10) with substrate-class regularity
+project_scopes: street-code-methodology
+cc_task_relevance: discipline-enforcement, anti-fabrication, verify-against-canonical-files
+phase_binding: Phase-1
+discipline_family: verify-against-canonical-files, Rule-19-anti-fabrication
+canonical_rule: AI assistance drafts from operator-supplied framing or immediate conversation context rather than checking primary source files in the operator's filesystem and confidence in AI output does not reliably signal whether primary-source verification occurred
+load_bearing_claims:
+  - Three illustrative fires (failure-mechanism drafting from conversation context, archive recommendation without deployment-status check, post-drafting recommendation without bookmark-file check) share same shape
+  - Anti-pattern #10 rule earned from operator failures is substrate-class behavior firing on AI agents at same shape
+  - Operator-side query (asking for primary-source verification) is the countermeasure
+applicability_triggers:
+  - CC drafting content based on operator-supplied framing or session context
+  - CC recommending file operations without verifying current filesystem state
+  - CC evaluating whether primary-source verification has occurred before producing confident output
+mechanism_details:
+  - Each fire followed pattern: AI drafts from context, does not check primary source, produces confident output, operator catches gap
+  - Different surface manifestations (lesson drafting, file recommendations, post drafting) but same underlying pattern
+cross_refs:
+  - Post 0025 drafting-drift canonical promotion arc (anti-pattern #24)
+  - Post 0034 framework's recovery layer catches substrate's self-reports
+-->
+
 # When the AI Fires Your Own Discipline: Notes on Frame-Inheritance Errors
 
 **Author:** Jimmy McColery

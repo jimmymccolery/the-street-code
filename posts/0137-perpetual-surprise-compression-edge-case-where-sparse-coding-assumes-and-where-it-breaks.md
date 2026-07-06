@@ -1,8 +1,16 @@
 # Perpetual-Surprise Compression Edge Case: Where Sparse Coding Assumes and Where It Breaks
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0137
-domain: framework-architecture
+title: Perpetual-Surprise Compression Edge Case: Where Sparse Coding Assumes and Where It Breaks
+date_published: 2026-07-02
+status: published
+superseded_by: none
+domain: framework-architecture; sparse coding perpetual-surprise edge case; structurally-disrupted characters 100% encoding rate; R10d 6.3.1 canonical amendment 5-10x baseline storage budget
+project_scopes: framework-architecture, npc-memory
+cc_task_relevance: memory-budget-sizing-for-disrupted-characters, sparse-coding-edge-case-planning, phase-3-2-combat-trauma-integration
+phase_binding: Phase-1
+discipline_family: framework-architecture
 canonical_rule: sparse-coding-perpetual-surprise-compression-edge-case
 load_bearing_claims:
   - Sparse coding for NPC memory assumes prediction-error distribution follows normal patterns
@@ -25,7 +33,7 @@ cross_refs:
   - Post 0136 (empirical BUILD mode; H4 finding surfaced this edge case)
   - Post 0146 Layer 4 (memory architecture)
   - Open Alley/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md (R10d canonical §6.3.1)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-01

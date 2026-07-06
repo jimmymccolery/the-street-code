@@ -1,3 +1,39 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0149
+title: Executing the Population-Scaling-Foundation Pass Phase A Completes in a Morning Plus Phase B First-Tier Empirical Baseline
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: Council #6 close-ratified population-scaling-foundation pass Phase A completion plus Phase B first-tier scaffolding and empirical baseline
+project_scopes: framework-state-progress, sim-ai, memory-lanes
+cc_task_relevance: population-scaling-execution, session-logger, N-Sim-scaffold, sparse-pair-matrix, phase-B-empirical-baseline
+phase_binding: Phase-2
+discipline_family: Council #6 close-ratified execution + empirical BUILD-mode discipline
+canonical_rule: Council #6 close-ratified population-scaling-foundation pass Phase A completes in a morning demonstrating framework empirical BUILD-mode discipline scaling from ratification to first empirical foundation
+load_bearing_claims:
+  - Phase A Council #6 close-ratified population-scaling-foundation pass session logger completes in a morning
+  - Phase 2.x-8-A N-Sim scaffold shipped
+  - Phase 2.x-8-B sparse pair-matrix shipped with N=500 = 124,750 pairs/tick baseline
+  - Test count extends 278 to 337
+  - N=500 polynomial-cost empirical measurement establishes first-tier baseline
+applicability_triggers:
+  - Council-ratified execution pass first-morning completion
+  - Population-scaling scaffolding shipping to production framework
+  - Sparse pair-matrix implementation with polynomial-cost measurement
+  - Framework empirical BUILD-mode discipline extending from ratification to first empirical foundation
+mechanism_details:
+  - Session logger emission wiring is Phase A
+  - N-Sim scaffold extends framework from 2-Sim to N-Sim
+  - Sparse pair-matrix stores only non-zero sentiment pairs per tick
+  - N=500 yields 124,750 pairs per tick at full sparse baseline
+  - Sparse ratified per Perplexity plus Fable 5 substrate cluster
+cross_refs:
+  - Post 0148 (Council #6 spec that ratified this pass)
+  - Post 0151 (Population-Scaling-Foundation Pass Substantially Complete)
+  - Post 0152 (Phase D empirical scaling close arc at Node tier)
+  - Memory project_population_scaling_foundation_pass_phase_a_b_first_tier_complete_2026-07-04.md
+-->
+
 # Executing the Population-Scaling-Foundation Pass: Phase A Completes in a Morning Plus Phase B First-Tier Empirical Baseline
 
 **Author:** Jimmy McColery

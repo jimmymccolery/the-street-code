@@ -1,8 +1,16 @@
 # Why Active Inference Belongs in the Audit Layer First: Earning the Runtime Promotion Through Empirical Evidence
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0119
-domain: framework-architecture
+title: Why Active Inference Belongs in the Audit Layer First: Earning the Runtime Promotion Through Empirical Evidence
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; sophisticated active inference offline at consolidation boundaries; cached policies at runtime; four mandatory audits (state-space content + amnesia re-init + Markov-blanket isolation + horizon-bound tau le 3)
+project_scopes: framework-architecture, npc-decision-making, framework-defense
+cc_task_relevance: active-inference-sequencing-decisions, audit-test-planning, runtime-vs-audit-layer-split
+phase_binding: Phase-1
+discipline_family: framework-architecture
 canonical_rule: audit-first-active-inference-sequencing
 load_bearing_claims:
   - Sophisticated active inference apparatus deployed OFFLINE at consolidation boundaries (not per-frame)
@@ -31,7 +39,7 @@ cross_refs:
   - Post 0146 (ten-layer Layer 10 audit)
   - Friston 2017 Appendix F (process theory)
   - Friston 2021 Sophisticated Inference (recursive metacognition)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

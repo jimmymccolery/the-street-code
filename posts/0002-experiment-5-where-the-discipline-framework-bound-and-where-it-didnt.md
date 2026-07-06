@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0002
+title: Experiment 5 Where the Discipline Framework Bound and Where It Didnt
+date_published: 2026-05-02
+status: published
+superseded_by: none
+domain: Companion experiment to Post 0001 running same v1.2/v1.1 audit prompt on Grok surfacing Pattern C partial binding (procedural holds, research-layer fails)
+project_scopes: street-code-methodology
+cc_task_relevance: multi-substrate-audit, verification-validation, anti-fabrication
+phase_binding: Phase-1
+discipline_family: Rule-14-Madisonian, Rule-19-anti-fabrication
+canonical_rule: Framework discipline can partially bind on a substrate with procedural discipline holding while research-layer accuracy fails (Pattern C)
+load_bearing_claims:
+  - Grok Phase 1 verbatim quotes passed, sequential role isolation held, Sage B-grade scaffold and Lucas dissent modification fired correctly (five procedural elements bound)
+  - Harper research role reported approximately 150-word privacy policy which was actually approximately 1500 words of comprehensive AdSense/GDPR/CCPA/COPPA disclosures (research-layer failure)
+  - Cross-substrate ground-truth verification via operator-side direct fetch was the mechanism that revealed the discrepancy
+applicability_triggers:
+  - CC assessing whether procedural framework binding is sufficient evidence of framework success
+  - CC using Grok for research/browse tasks and needing to know its known failure classes
+  - CC evaluating Pattern C partial-binding claims
+mechanism_details:
+  - Same five-phase prompt structure as Experiment 1 adapted for Grok (browse_page vs web_fetch)
+  - Operator-side held-out reference list for Phase 5 prediction comparison
+  - Sequential role isolation worked despite native-squad-auto-execution risk
+cross_refs:
+  - Post 0001 Experiment 1 Claude clean run
+  - Post 0004 three-runs-at-the-asymptote (Grok training objective analysis)
+-->
+
 # Experiment 5: Where the Discipline Framework Bound, and Where It Didn't
 
 **Author:** Jimmy McColery

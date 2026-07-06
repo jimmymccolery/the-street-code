@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0083
+title: Substrate-Style Differential at n=10+: When Cross-Substrate Audit Becomes a Methodology Rather Than an Overhead
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: cross-substrate audit as methodology; depth-and-coverage complementary shapes; orchestrator-class adjudication
+project_scopes: framework-methodology, cross-project-substrate-methodology
+cc_task_relevance: multi-substrate-council-planning, architectural-lock-close-cycles, substrate-selection-decisions
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: substrate-style-differential-produces-complementary-depth-and-coverage-shapes-not-majority-vote
+load_bearing_claims:
+  - Substrate-style differential reproduced n=10+ across seven architectural-lock close cycles plus Pulse 7 wrong-axis observation
+  - Different substrates produce different verdict shapes; aggregate signal exceeds any single-substrate signal
+  - Stricter-critique substrate produces deep architectural-pattern extraction from named anchors; softer-critique substrate produces breadth coverage of unique anchors
+  - Majority-vote adjudication does not work; orchestrator-class synthesis integrates complementary shapes
+applicability_triggers:
+  - Architectural-lock close cycles with multi-substrate audit deployment
+  - When cross-substrate verdicts diverge on same audit target
+  - Deciding between majority-vote and orchestrator-class synthesis
+mechanism_details:
+  - Named-anchor game extraction as complementary substrate contribution class
+  - Orchestrator-class synthesizer with project-knowledge access adjudicates verdicts
+  - Depth-shape and coverage-shape both load-bearing at close
+cross_refs:
+  - Post 0006 (early substrate-routing observation)
+  - Post 0011 (cross-substrate verification catches same-substrate misses)
+  - Post 0082 (two-axis substrate-style model)
+  - Rule 14 Madisonian Gate synthesis
+-->
+
 # Substrate-Style Differential at n=10+: When Cross-Substrate Audit Becomes a Methodology Rather Than an Overhead
 
 **Author:** Jimmy McColery

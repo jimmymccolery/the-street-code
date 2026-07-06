@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0069
+title: Pinboy and pinsetter pairings: when game mechanics inherit from labor history
+date_published: 2026-06-01
+status: published
+superseded_by: none
+domain: game design philosophy period-accurate failure-mode modeling as game mechanic
+project_scopes: pin-paradise
+cc_task_relevance: era-progression-design, pinboy-era-mechanic-modeling, historical-labor-mechanic-inheritance
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Period-specific labor relations and equipment failure modes become game-mechanical surfaces producing period-distinctive gameplay rather than visual-decoration period feel
+load_bearing_claims:
+  - Most period-piece games treat historical accuracy as visual flavor only
+  - Chronological-mode 1950s deck models pre-automation pinboy era via period-specific failure-mode probability weights
+  - Failure-mode probabilities inherited from period historical research rather than generic-tycoon NPC error modeling
+  - Design choice produces gameplay arcs universal-mechanic design cannot easily reproduce
+applicability_triggers:
+  - When designing chronological-mode or era-progression content
+  - When historical labor history informs failure-mode mechanics
+  - When authoring game-design-philosophy posts on period-accuracy
+mechanism_details:
+  - Pinboy-era 1950s failure modes (fatigue, injury, absenteeism, pin-reset errors) parameterized from historical research
+  - Pinsetter-era 1960s+ failure modes (mechanical breakdown, mechanic-availability) parameterized from Post 0056 friction class
+cross_refs:
+  - Post 0056 (mechanic as new friction class)
+  - Post 0064 (pinsetter wars 1951-1956)
+  - Post 0080 (per-decade trophy presentation conventions)
+-->
+
 # Pinboy and pinsetter pairings: when game mechanics inherit from labor history
 
 **Author:** Jimmy McColery

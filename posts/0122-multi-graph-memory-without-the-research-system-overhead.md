@@ -1,8 +1,16 @@
 # Multi-Graph Memory Without the Research-System Overhead: Typed Indexes Over a Single Store
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0122
-domain: framework-architecture
+title: Multi-Graph Memory Without the Research-System Overhead: Typed Indexes Over a Single Store
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; MAGMA-style multi-graph memory adapted as typed indexes over single physical store; indie-budget adaptation preserving multi-graph benefits
+project_scopes: framework-architecture, npc-memory
+cc_task_relevance: memory-retrieval-architecture-decisions, indie-budget-adaptation, magma-adaptation-integration
+phase_binding: Phase-1
+discipline_family: framework-architecture
 canonical_rule: multi-graph-memory-typed-indexes-single-store
 load_bearing_claims:
   - MAGMA-style multi-graph agent memory adapted: typed indexes (semantic + temporal + causal + entity retrieval patterns) over SINGLE store
@@ -26,7 +34,7 @@ cross_refs:
   - Post 0123 (cached policies + slow consolidation)
   - Post 0146 Layer 4 (memory architecture consolidation)
   - MAGMA (multi-graph agent memory research precedent)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

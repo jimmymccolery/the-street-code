@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0029
+title: Bundled Canonization Correction Hybrid Ratification as Retroactive Architecture Revision Session Discipline
+date_published: 2026-05-10
+status: published
+superseded_by: none
+domain: Hybrid ratification via Decision 1C correcting one bundled canonization event at S009 Step 2 Stage 1 where file-header self-declaration rode on multi-stage rename arc
+project_scopes: street-code-methodology
+cc_task_relevance: canonization-propagation, discipline-enforcement
+phase_binding: Phase-1
+discipline_family: Rule-20-Family-A-canonization-propagation
+canonical_rule: Bundled file-level decisions like file-header self-declaration during multi-stage rename arc are not equivalent to standalone architecture-revision-session-level deliberation retroactive hybrid ratification with per-element ratification is the corrective mechanism
+load_bearing_claims:
+  - operator_role_archetypes.md v1.0 file-header self-declaration was side-effect of Topic 27 rename arc not product of standalone deliberation
+  - Decision 1C ratified 5 archetypes canonical + 1 held as research with explicit revisit criteria (per-element empirical-foundation asymmetry recognized)
+  - Precedent canonized at research_queue.md Topic 37 line 1464
+applicability_triggers:
+  - CC detecting file-header canonical status declarations that emerged during rename arc
+  - CC drafting hybrid ratification for multi-element canonical artifact
+  - CC assessing whether canonization needs standalone deliberation vs riding on rename arc
+mechanism_details:
+  - Council outcome: 3-of-3 unanimous on path (c) hybrid ratification; same 5/1 split across substrates
+  - v1.0 to v1.1 progression added Provenance section with Bundled-canonization-correction context subsection
+  - Corrective mechanism is structural: file-header changed from self-declared Canonical to Canonical (Hybrid)
+cross_refs:
+  - Post 0027 Council outcome patterns
+  - Post 0032 closing the canonization-scope asymmetry
+-->
+
 # Bundled-Canonization-Correction: Hybrid Ratification as Retroactive Architecture-Revision-Session Discipline
 
 **Status:** Self-experimentation by a non-credentialed practitioner. n=1 operator deploying a three-substrate Council architecture for a single 2026-05-10 architecture-revision session arc. The precedent described below rests on a single empirical fire — Decision 1C apply 2026-05-10 correcting one bundled-canonization event at S009 Step 2 Stage 1 2026-05-08. Cross-fire replication at filing time is zero. Whether the precedent's corrective mechanism (hybrid ratification with per-element ratification) generalizes to other bundled-canonization events that may surface across the canonical record is not the claim of this post. The empirical foundation cited is what I have, not what would settle the question externally. Read accordingly.

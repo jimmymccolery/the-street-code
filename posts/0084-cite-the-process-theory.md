@@ -1,3 +1,37 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0084
+title: Cite the Process Theory, Not the Principle: How to Use Active Inference Without Inheriting Its Falsifiability Problem
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: active-inference citation discipline; process-theory-vs-principle distinction; falsifiability critique response
+project_scopes: framework-architecture, framework-methodology
+cc_task_relevance: active-inference-citation-decisions, framework-defense-writing, primary-text-verification
+phase_binding: era-independent
+discipline_family: framework-defense
+canonical_rule: cite-friston-2017-process-theory-appendix-f-not-fep-broadest-claim
+load_bearing_claims:
+  - Framework cites Friston 2017 process theory (Appendix F POMDP mathematical machinery) NOT Free Energy Principle broadest claim
+  - Colombo-Wright 2021 plus Williams 2021 plus Bowers-Davis 2012 critiques accepted as accurate at broadest-claim scope
+  - Process theory has empirical traction at design layer; principle metaphysics not required
+  - Friston 2017 paper structure itself contains the disclaimer via §4.4 Summary plus §5 Conclusion
+applicability_triggers:
+  - When integrating active inference into design framework defensibly
+  - When responding to FEP falsifiability critique
+  - When citing Friston 2017 for architectural claims
+mechanism_details:
+  - POMDP = partially observable Markov decision processes; Friston 2017 §2-§3 formal machinery
+  - Colombo-Wright 2021 §4.1 preprint page 28 epistemic-pluralism reading endorsed
+  - Bowers-Davis 2012 just-so-story diagnosis structural not dismissive
+  - F-8 flag RESOLVED via Round 8 R2+R4 primary-text verification
+cross_refs:
+  - Friston 2017 Neural Computation 29(1) Appendix F (primary text)
+  - Colombo and Wright 2021 Synthese; Williams 2021 Philosophical Studies; Bowers and Davis 2012 Psychological Bulletin
+  - Post 0081 (framework six modifications)
+  - Post 0119 (audit-first active inference sequencing)
+  - Post 0111 (τ ≤ 3 planning depth)
+-->
+
 # Cite the Process Theory, Not the Principle: How to Use Active Inference Without Inheriting Its Falsifiability Problem
 
 **Author:** Jimmy McColery

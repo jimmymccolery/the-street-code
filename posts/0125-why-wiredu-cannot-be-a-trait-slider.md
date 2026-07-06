@@ -1,8 +1,16 @@
 # Why Wiredu Cannot Be a Trait Slider: The Category Error Procedural Designers Should Avoid Across Multiple Cross-Cultural Traditions
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0125
-domain: framework-architecture
+title: Why Wiredu Cannot Be a Trait Slider: The Category Error Procedural Designers Should Avoid Across Multiple Cross-Cultural Traditions
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; procedural-moral-test vs trait-dimension category error; generalizes to Kantian universalizability + Rawlsian original position + Confucian role ethics + Ubuntu communal accountability
+project_scopes: framework-architecture, cross-cultural-discipline
+cc_task_relevance: philosophical-mapping-decisions, category-error-prevention, procedural-vs-trait-distinction
+phase_binding: era-independent
+discipline_family: cross-cultural-discipline
 canonical_rule: procedural-moral-test-not-equal-to-trait-dimension-category-error
 load_bearing_claims:
   - Procedural moral tests (deliberative procedures producing per-action verdicts) are NOT trait dimensions (statistical tendencies across populations)
@@ -28,7 +36,7 @@ cross_refs:
   - Post 0127 (intra-African dispute)
   - Post 0128 (WEIRD defaults)
   - Post 0146 Layer 3 + Layer 7 (trait vs cultural personhood layer distinction)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

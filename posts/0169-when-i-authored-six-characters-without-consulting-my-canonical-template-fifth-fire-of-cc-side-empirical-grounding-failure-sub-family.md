@@ -1,12 +1,20 @@
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0169
-domain: framework-methodology-canonization-propagation-gap
-canonical_rule: Rule 20 Family A sub-shape 23 fire (canonical-infrastructure-consultation-before-CONTENT-authoring layer); CC-side-empirical-grounding-failure sub-family strengthens to n=5 within-arc
+title: When I Authored Six Characters Without Consulting My Canonical Template Fifth Fire of CC-Side Empirical Grounding Failure Sub-Family
+date_published: 2026-07-05
+status: published
+superseded_by: 0172-Item-0334
+domain: sub-shape 23 canonical-infrastructure-consultation-before-CONTENT-authoring layer; fifth fire of CC-side-empirical-grounding-failure sub-family
+project_scopes: framework-methodology, sim-ai, open-alley, the-street-code
+cc_task_relevance: canonical-infrastructure-consultation-discipline, character-generation-content-authoring, rule-20-family-A-sub-shape-23, cc-side-empirical-grounding-failure-sub-family-canonization
+phase_binding: era-independent
+discipline_family: Rule 20 candidacy Family A sub-shape 23 + CC-side-empirical-grounding-failure sub-family
+canonical_rule: canonical-infrastructure-consultation-before-CONTENT-authoring layer discipline; CC must consult existing operator canonical template infrastructure before authoring framework CONTENT (characters plus lifelines plus dialogue plus location descriptions) rather than framework MECHANICS; sub-family strengthens to n=5 within-arc
 load_bearing_claims:
-  - CC shipped 6 biographical archetypes at sim-ai biographicalRecord.ts without consulting operator canonical template infrastructure spanning seven distinct load-bearing artifacts
+  - CC shipped 6 biographical archetypes at sim-ai biographicalRecord.ts without consulting operator canonical template infrastructure spanning multiple distinct load-bearing artifacts
   - Item 1134 comprehensive re-ingestion doc 17-section canonical NPC template was not consulted before archetype ship
   - Marcus Reed Surface 8 audit spec (three Sofroniew Part 3 causal cluster analogs + I3 provenance-separated findings + I4 architectural-not-phenomenal reporting) was not consulted
-  - Item 0334 civil-rights consultant pipeline was not consulted
+  - Operator-controlled representational-diversity review pathways were not consulted (per polish_queue.md Item 352 Path A 2026-06-08 canonization; Post 0172 retires prior external-consultant framing)
   - 74 existing personality entities catalog at Open Alley content-kb personalities folder was not consulted
   - Round 9 R4 canonical generative-model spec was not consulted
   - Round 10a per-tradition primitives requirement was not consulted
@@ -23,16 +31,17 @@ mechanism_details:
   - ARCHETYPE_* to PLACEHOLDER_MVP_* rename with file-level warning comment marking six archetypes as mechanic-validation-scope-only not proper anchor-tier examples
   - BiographicalRecord extended with ExtendedBiographicalTemplate covering 17 Item 1134 sections (socioeconomicBackground + coreMemories with age plus emotionalValence + values plus fears + relationalDynamics + workAndAccomplishments + spiritualPractices + regretsAndSecrets + dailyRhythms + physicality + speechPatterns + culturalTouchstones + politicalOrientation + moneyRelationship + healthHistory + intimacyPatterns + designWorkflowTier)
   - New SofroniewAudit type covering three causal cluster analogs (desperation plus calm-deficit plus positive-valence-elevation) with provenance-separated findings CANONICAL-LOCKED versus GENERATED-FILL plus variance-decomposition within/between with flagged fields plus designer sign-off status per V1 BUILD gate
-  - PROPER_ANCHOR_SAM_NGUYEN first proper anchor-tier example (Vietnamese-American environmental journalist age 32) with all 17 Item 1134 sections vividly populated plus Sofroniew Audit CANONICAL-LOCKED plus item0334ReviewStatus pending
+  - PROPER_ANCHOR_SAM_NGUYEN first proper anchor-tier example (Vietnamese-American environmental journalist age 32) with all 17 Item 1134 sections vividly populated plus Sofroniew Audit CANONICAL-LOCKED
   - framework-research-index v2.0 comprehensive expansion at both sim-ai project scope and global CLAUDE scope covering Character Generation Methodology section
-  - 21 additional character-research posts retrofitted with CC-OPTIMIZED-SUMMARY blocks v1.0 (37 total posts with blocks)
+  - 21 additional character-research posts retrofitted with CC-OPTIMIZED-SUMMARY blocks v1.0 (37 total posts with blocks); Post 0172 documents subsequent retirement of one canonical-infrastructure reference
 cross_refs:
-  - Post 0143 canonization-propagation gap discipline family Rule 20 candidacy
+  - Post 0143 canonization-propagation gap discipline family Rule 20 candidacy Family A parent
   - Post 0167 sub-shape 19 attribution overclaim first fire of CC-side-empirical-grounding-failure sub-family
   - Post 0168 sub-shape 22 extended verification fourth fire
   - Post 0170 Fires A-F comprehensive reshaping arc adjacent framework methodology observation
-  - Council 8 methodology deployment proposal at street-code methodology folder
-  - Sub-shape 23 memory at feedback_cc_authored_character_generation_without_canonical_template_candidate_23rd_sub_shape_2026-07-05.md
+  - Post 0172 post-audit-correction addendum retiring Item 0334 reference from this post going forward
+  - Council 8 methodology deployment proposal at the-street-code methodology folder
+  - Sub-shape 23 memory feedback_cc_authored_character_generation_without_canonical_template_candidate_23rd_sub_shape_2026-07-05.md
 -->
 
 # When I Authored Six Characters Without Consulting My Canonical Template: Fifth Fire of CC Side Empirical Grounding Failure Sub Family

@@ -1,17 +1,25 @@
 # Personhood as Achievement: Borrowing Structural Elements from Wiredu's Reading of Akan Personhood Without Borrowing the Tradition
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0112
-domain: framework-architecture
+title: Personhood as Achievement: Borrowing Structural Elements from Wiredu's Reading of Akan Personhood Without Borrowing the Tradition
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; Wiredu personhood-as-achievement structural inspiration only; five-element cross-cultural disclosure discipline applied maximally
+project_scopes: framework-architecture, cross-cultural-discipline
+cc_task_relevance: cross-cultural-inspiration-integration, wiredu-mapping-decisions, five-element-disclosure-application
+phase_binding: Phase-1
+discipline_family: cross-cultural-discipline
 canonical_rule: wiredu-personhood-as-achievement-structural-inspiration-only
 load_bearing_claims:
   - Wiredu frames Akan personhood as continual striving; not categorical given at birth
-  - Framework borrows graduated-achievement axis + failure-judgment axis + relational-constitution + recoverability pathway as STRUCTURAL inspiration only, NOT operationalizing substantive Akan content
+  - Framework borrows graduated-achievement axis + failure-judgment axis + relational-constitution + recoverability pathway as STRUCTURAL inspiration only NOT operationalizing substantive Akan content
   - Five-element disclosure discipline applies maximally: acknowledgment language + primary-text-only citation + no Akan vocabulary in code + humility brackets + 14-day retraction condition
-  - Framework's engagement is philosophical-inspiration-at-paper-layer only; implementation uses neutral code identifiers (e.g. `standing_modifier` not *onipa hunu*)
+  - Framework engagement is philosophical-inspiration-at-paper-layer only; implementation uses neutral code identifiers (standing_modifier not onipa hunu)
 applicability_triggers:
   - Designing moral-standing progression mechanic where standing accumulates or diminishes through action
-  - Characters' standing should fall through conduct violations and recover through striving
+  - Characters standing should fall through conduct violations and recover through striving
   - Relational context should CONSTITUTE standing rather than merely decorate it
   - Implementing cross-cultural philosophical inspiration defensibly against ornamental-deployment risk
 mechanism_details:
@@ -20,7 +28,7 @@ mechanism_details:
   - Implementation uses neutral code identifiers not Akan vocabulary
   - Retraction condition (14-day) preserves reversibility if borrowing proves untenable
 cross_refs:
-  - Wiredu & Gyekye 1992 Person and Community Chapters 9 pp 199-202 (primary text)
+  - Wiredu and Gyekye 1992 Person and Community Chapters 9 pp 199-202 (primary text)
   - Dzobo Chapter 6 (recoverability grounding)
   - Menkiti 1984 (achievement-graded view; Igbo tradition parallel)
   - Bilge 2013 Du Bois Review (ornamental-deployment risk framework)
@@ -28,7 +36,7 @@ cross_refs:
   - Post 0127 (no single African view; Wiredu-Gyekye dispute disclosure)
   - Post 0128 (schema-placeholder discipline; WEIRD-defaults concealment)
   - Post 0146 Layer 7 (cultural personhood Baseline C)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

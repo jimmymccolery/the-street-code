@@ -1,3 +1,37 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0164
+title: When Biology Caught the Mechanics Operator Realism Check Reshapes Survival Framework at Three Fires in One Session
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: operator-realism-check discipline reproducing at n=3 empirical fires within single Phase 2.7 empirical BUILD arc
+project_scopes: framework-methodology, sim-ai
+cc_task_relevance: operator-realism-check-discipline, framework-calibration-reshape, canonization-candidacy-threshold, phase-2-7-arc
+phase_binding: Phase-2
+discipline_family: operator-realism-check discipline
+canonical_rule: operator-realism-check discipline reproduces at n=3 empirical fires within single Phase 2.7 BUILD arc; empirical foundation approaches canonization-candidacy threshold at Council #8 methodology deployment scope
+load_bearing_claims:
+  - Fire 1 Phase 2.7-A biology-of-consciousness realism check reshaped sleep priority
+  - Fire 2 Phase 2.7-C variance-preservation realism check ratified 2.5x boost preserving variance
+  - Fire 3 Phase 2.7-D DEFERRAL prevented unnecessary ship because framework already models multi-need trade-off
+  - Each fire materially reshaped a framework calibration decision or prevented an unnecessary constraint
+  - Empirical foundation approaching canonization-candidacy threshold at Council #8 methodology deployment scope
+applicability_triggers:
+  - Framework mechanic ship needs realism check before commit
+  - Operator subject-matter grounding in biology or consciousness or human behavior
+  - Variance-preservation vs magnitude-preservation trade-off surfaces
+  - Multi-need trade-off already modeled but CC proposes redundant constraint
+mechanism_details:
+  - Realism check operates by operator applying subject-matter knowledge to CC-proposed mechanic
+  - Reshape or defer disposition possible outcomes
+  - Discipline strengthens n=1 to n=3 within Phase 2.7 BUILD arc
+cross_refs:
+  - Post 0170 (Fires A-F reshape arc; operator-realism-check strengthens to n=8 within-arc)
+  - Post 0171 (Fire E v3 revision; operator-realism-check strengthens to n=12 total within-Phase-3)
+  - Memory feedback_operator_realism_check_reshapes_framework_calibration_2026-07-04.md
+  - Memory project_phase_2_7_a_b_shipped_2026-07-04.md
+-->
+
 # When Biology Caught the Mechanics: Operator Realism Check Reshapes Survival Framework at Three Fires in One Session
 
 **Author:** Jimmy McColery

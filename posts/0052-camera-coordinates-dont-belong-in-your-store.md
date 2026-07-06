@@ -1,3 +1,30 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0052
+title: Camera coordinates don't belong in your store: discrete state vs continuous position in R3F
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: R3F architecture discipline camera state placement vs Zustand store
+project_scopes: pin-paradise
+cc_task_relevance: r3f-camera-state-management, zustand-vs-refs-decision, discrete-vs-continuous-state-classification
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Continuous camera position lives in refs not in store; discrete camera state (which vantage point is active) lives in store
+load_bearing_claims:
+  - React community default is store-based state which invites putting camera coordinates there too
+  - Store re-render cost on every animation frame breaks R3F performance
+  - Discrete state (active vantage) belongs in store; continuous position belongs in Three.js scene graph or refs
+applicability_triggers:
+  - When building R3F apps with Zustand or Redux
+  - When deciding where camera state lives
+  - When newcomer patterns are being questioned during architectural review
+mechanism_details:
+  - Store subscriptions triggering per-frame re-renders defeat R3F rendering model
+  - Discrete slots vs continuous coordinates is the classification axis
+cross_refs:
+  - Post 0051 (atomic Zustand state machines)
+-->
+
 # Camera coordinates don't belong in your store: discrete state vs continuous position in R3F
 
 **Author:** Jimmy McColery

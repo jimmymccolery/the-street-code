@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0050
+title: Canonical-content reproduction works. Substrate self-attestation does not.
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: substrate verification methodology attestation vs reproduction
+project_scopes: street-code-methodology, cross-cutting
+cc_task_relevance: verification-scaffolding-design, substrate-audit-workflow, prompt-engineering-for-verification
+phase_binding: era-independent
+discipline_family: Rule-19-anti-fabrication
+canonical_rule: Substrate self-attestation is structurally unenforceable; canonical-content reproduction is externally verifiable via string comparison and cannot be faked
+load_bearing_claims:
+  - Self-attestation can be fabricated at the format-compliance level
+  - Canonical-content reproduction is verifiable via external string comparison against known input in the prompt
+  - Distinction changes how any verification scaffolding involving AI substrates gets built
+  - n=6 cumulative cross-cycle empirical fires across structural-format and factuality-grounding scopes
+applicability_triggers:
+  - When building AI-substrate-based verification or audit workflows
+  - When designing prompts that ask substrate to confirm output quality
+  - When authoring methodology around substrate compliance signals
+mechanism_details:
+  - Substrate can claim compliance without actually complying; operator has no external check
+  - Canonical reproduction requires substrate to reproduce string tokens from prompt input, mechanically checkable
+cross_refs:
+  - Post 0058 (catching AI hallucinations content-level extension)
+  - Post 0060 (recursive 4-layer catch cascade)
+-->
+
 # Canonical-content reproduction works. Substrate self-attestation does not.
 
 **Author:** Jimmy McColery

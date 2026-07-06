@@ -1,3 +1,38 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0134
+title: Council #4 Close: When the Orchestrator Caught My Pattern A Read (Again) Plus the First Rule 19 Condition-3 Name-Collision Fire
+date_published: 2026-07-01
+status: published
+superseded_by: none
+domain: Council #4 close (third Rule 14 Madisonian Gate deployment); Pattern B ADOPT-FOLD independent re-derivation; first Rule 19 Condition-3 name-collision empirical fire; n=3 post-canonization Council reproduction empirical foundation
+project_scopes: framework-methodology, discipline-canonization
+cc_task_relevance: council-close-planning, rule-14-application, rule-19-condition-3-canonization
+phase_binding: era-independent
+discipline_family: council-methodology
+canonical_rule: rule-14-pattern-b-adopt-fold-empirical-reproduction-n3-plus-rule-19-condition-3-name-collision-sub-mode
+load_bearing_claims:
+  - Council #4 third Rule 14 deployment; question was five-element cross-cultural disclosure discipline functioning as engagement or protective armor
+  - Five substrates across four evidence layers; verdict-token converged with one calibrated-abstention
+  - CC initial read Pattern A; orchestrator layer independently re-derived Pattern B ADOPT-FOLD
+  - First empirical fire of Rule 19 Marcus Reed Protocol Condition-3 name-collision as new fabrication-discipline sub-mode
+applicability_triggers:
+  - Multi-substrate Council with cross-cultural discipline audit
+  - Pattern A vs Pattern B classification decision
+  - Rule 19 name-collision detection
+mechanism_details:
+  - Cross-family substrate deployment: Perplexity Deep Research + Gemini Deep Research + Claude Web Opus + Grok DeepSearch
+  - Anti-fabrication empirical validation: calibrated prompt discipline prevents Gemini Deep Think Wiredu-citation fabrication recurrence
+  - n=3 reproduction empirical foundation for Rule 14 discipline application
+cross_refs:
+  - Post 0129 (Council #1 first empirical fire)
+  - Post 0131 (Council #3 second empirical fire)
+  - Post 0135 (companion spec: seven-decision amendment package)
+  - Post 0124 (five-element disclosure discipline canonization)
+  - Posts 0112 through 0128 (cross-cultural discipline application scope)
+  - Rule 14 Madisonian Gate synthesis
+  - Rule 19 Marcus Reed Protocol Condition-3
+-->
+
 # Council #4 Close: When the Orchestrator Caught My Pattern A Read (Again) Plus the First Rule 19 Condition-3 Name-Collision Fire
 
 **Author:** Jimmy McColery

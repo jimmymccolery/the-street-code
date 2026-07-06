@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0031
+title: Four Things the Canonical Record Couldnt Tell Me About Itself
+date_published: 2026-05-11
+status: published
+superseded_by: none
+domain: Four side-findings from apply-time verification across Friday Downloads and Saturday archive disposition arcs (operator-work-prompt archival gap, substrate-content-vs-filename mismatch, git-history unavailability, 99.2% canonical absorption rate with subagent-output verification extension)
+project_scopes: street-code-methodology
+cc_task_relevance: verification-validation, methodology-research, discipline-enforcement
+phase_binding: Phase-1
+discipline_family: verify-against-canonical-files
+canonical_rule: Discipline of maintaining a canonical record produces class of structural questions about that record's own state that ordinary canonical-record audit cannot answer apply-time verification of mutation work catches them as side-findings
+load_bearing_claims:
+  - 18 operator-side work prompts at Downloads were unpreserved because canonical record discipline preserved outputs not prompts
+  - Canonical file at council_of_three_research/ had filename indicating Gemini but content opening with SuperGrok Playbook Activated
+  - master-setup/ directory was not under git version control falsifying byte-reconstructibility premise
+applicability_triggers:
+  - CC executing folder disposition arc
+  - CC evaluating whether canonical record can answer structural questions about itself
+  - CC assessing subagent-reported aggregate counts as reference baselines
+mechanism_details:
+  - Four observations filed at lessons-learned.md as separate methodology research entries on four occasions
+  - 131 content items examined across three deep-reads (drains + 78-file text inventory + 26-file binary deep-read)
+  - Subagent classification n=23 was empirically n=17 unambiguous + n=4 ambiguous
+cross_refs:
+  - Post 0030 apply-time verification discipline (methodological foundation)
+  - Post 0012 archive review as methodology
+-->
+
 # Four Things the Canonical Record Couldn't Tell Me About Itself
 
 Self-experimentation by a non-credentialed practitioner. n=1 operator across one multi-day arc. Cross-arc replication is unverified at filing time. Honest framing on scope at the end.

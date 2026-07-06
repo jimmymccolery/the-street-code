@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0080
+title: Per-decade trophy presentation as period-design constraint: 1960s banquet rooms, 1980s industry sponsorship, 2000s digital tokens
+date_published: 2026-06-09
+status: published
+superseded_by: none
+domain: bowling history per-decade trophy presentation conventions across six decades as period-design constraint for trophy mechanic
+project_scopes: pin-paradise
+cc_task_relevance: era-progression-design, trophy-mechanic-per-decade-differentiation, period-design-constraint-research
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Trophy presentation conventions are not culturally invariant across decades; differences reflect institutional priorities broadcast economics sponsorship structures and sanctioning-body relationships not just visual variation
+load_bearing_claims:
+  - 1960s trophy presentation looks materially different from 1980s which differs from 2000s
+  - Single trophy mechanic with cosmetic visual variation fails to represent actual variation
+  - Companion to Post 0075 institutional-evolution argument at trophy-presentation surface
+  - Public-domain sources spanning six decades
+applicability_triggers:
+  - When designing multi-decade trophy or achievement mechanic
+  - When era-conditional flavor needs mechanical instantiation not just visual variation
+  - When authoring per-surface period-design constraint research
+mechanism_details:
+  - 1960s: banquet rooms local ceremonies
+  - 1980s: industry sponsorship television-friendly presentation
+  - 2000s: digital tokens electronic scoring and broadcast
+  - Federation NPC evolves trophy convention alongside institutional evolution per Post 0075
+cross_refs:
+  - Post 0075 (institutional evolution PBA USBC)
+  - Post 0079 (aesthetic as architecture)
+  - Post 0069 (pinboy pinsetter mechanic inheritance)
+-->
+
 # Per-decade trophy presentation as period-design constraint: 1960s banquet rooms, 1980s industry sponsorship, 2000s digital tokens
 
 **Author:** Jimmy McColery

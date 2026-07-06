@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0032
+title: Closing the Canonization Scope Asymmetry Operator Side Role Architecture as Canonical Artifact
+date_published: 2026-05-11
+status: published
+superseded_by: none
+domain: Two paired components from 2026-05-10 arc: canonization of operator_role_archetypes.md v1.0 via Decision 1C closing Topic 14 asymmetry + date-boundary discipline preserving historical narrative through bulk rename
+project_scopes: street-code-methodology
+cc_task_relevance: canonization-propagation, discipline-enforcement
+phase_binding: Phase-1
+discipline_family: Rule-20-Family-A-canonization-propagation
+canonical_rule: When multi-element artifact's components have different empirical foundations ratification fires per-element rather than per-artifact conceptually parallel to multi-fire bar at anti-pattern catalog level
+load_bearing_claims:
+  - AI-side role architecture was canonical at role_output_schemas.md but operator-side roles were observation-level at lessons-learned.md
+  - Decision 1C ratified 5 canonical archetypes (Architect, Helmsman, Sentinel, Cartographer, Steward) plus 1 research-held (Herald)
+  - Substrate's Tarot framing initial recommendation was substrate-side anchoring bias caught by operator query
+applicability_triggers:
+  - CC deciding whether canonization scope has drifted between substrate-led and operator-led work
+  - CC drafting per-element ratification vs per-artifact ratification
+  - CC evaluating substrate-side anchoring bias (Tarot vs archetype framing)
+mechanism_details:
+  - Sage collision avoidance via Cartographer (naming to avoid AI-side embedded function collision)
+  - Hybrid ratification as corrective template for asymmetric empirical foundation
+  - v1.0 to v1.1 progression added per-archetype empirical foundation depth (134 to 223 lines)
+cross_refs:
+  - Post 0018 auto-pilot operator-side role architecture observations
+  - Post 0029 bundled-canonization-correction (Decision 1C)
+-->
+
 # Closing the Canonization-Scope Asymmetry: Operator-Side Role Architecture as Canonical Artifact
 
 Self-experimentation by a non-credentialed practitioner. n=1 operator across one multi-day Master Setup architecture-revision arc. Cross-arc replication is unverified at filing time. Read accordingly.

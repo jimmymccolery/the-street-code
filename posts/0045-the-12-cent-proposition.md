@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0045
+title: The 12 Cent Proposition How AMF Priced Bowling Automation to Eliminate Friction
+date_published: 2026-05-27
+status: published
+superseded_by: none
+domain: Industry-history research on 1957 AMF Pinspotter lease priced at parity with pinboy labor (12 cents per game) as friction-elimination pricing strategy first of three-post arc 1957 through 1981
+project_scopes: pin-paradise
+cc_task_relevance: methodology-research
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Friction-elimination pricing at parity with labor being eliminated is one of cleanest historical examples of adoption pricing strategy and reshaped American bowling industry within five years
+load_bearing_claims:
+  - Pinboy pay ranged 11-13 cents per game in early 1950s with most centers settling around 12 cents
+  - AMF priced at parity not below the labor eliminated
+  - Pinboy labor had two structural problems: supply reliability (teenage boys) plus organized labor emergence (Cleveland Local 48A 1938)
+applicability_triggers:
+  - CC drafting bowling industry historical background for Pin Paradise game design
+  - CC researching adoption-pricing strategy patterns
+  - CC assessing labor-substitution economics for automation
+mechanism_details:
+  - First of three-post arc on bowling industry economics 1957-1981
+  - AMF Pinspotter commercial release 1952; first pinboy-free alley Mount Clemens Michigan 1951
+  - Second post covers 1962 Wall Street financing bubble; third covers 1981 Volcker credit-crunch collapse
+cross_refs:
+  - Posts 46 and 47 (1960s bowling bubble and Volcker shock)
+  - Post 0041 Pin Paradise architectural lock cycles
+-->
+
 # The 12-Cent Proposition: how AMF priced bowling automation to eliminate friction
 
 **Author:** Jimmy McColery

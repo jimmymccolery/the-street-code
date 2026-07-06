@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0018
+title: What Running on Auto Pilot Revealed About Framework Structure
+date_published: 2026-05-07
+status: published
+superseded_by: none
+domain: Experimental session at deliberately-reduced verification-reviewer intensity showing substrate-architectural mechanisms operate independently of operator attention
+project_scopes: street-code-methodology
+cc_task_relevance: methodology-research, discipline-enforcement
+phase_binding: Phase-1
+discipline_family: verify-against-canonical-files
+canonical_rule: Operator-side role architecture is structurally embedded in framework discipline rather than contingent on full-attention operator state (six functional roles fired at reduced intensity)
+load_bearing_claims:
+  - Four recovery-from-drift mechanisms operate independently of operator attention (mechanisms 1-3 substrate-architectural, mechanism 4 operator-side backstop)
+  - Six functional roles fired across the session even with verification-reviewer intensity reduced
+  - Experimental-condition framing (reduced vs typical intensity) is methodologically stronger evidence than typical-state observation
+applicability_triggers:
+  - CC evaluating whether framework requires full operator attention or degrades gracefully
+  - CC drafting experimental design to isolate operator-attention-load-bearing vs substrate-architectural
+  - CC assessing which operator-side roles are load-bearing at framework-fabric level
+mechanism_details:
+  - Sixteen Phase B mutations fired mechanism #1 across session
+  - Twelve Type 5 verify-then-deploy uses fired mechanism #2 with clean execution
+  - Post-session reframe substantively strengthened findings because they are not confounded by typical-state operator attention
+cross_refs:
+  - Post 0017 four-mechanism recovery-from-drift discipline
+  - Post 0032 operator-side role architecture as canonical artifact
+-->
+
 # What Running on Auto-Pilot Revealed About Framework Structure
 
 **Author:** Jimmy McColery

@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0058
+title: How I caught AI hallucinations in my game-research workflow
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: substrate-hallucination detection via cross-substrate triangulation discipline
+project_scopes: street-code-methodology, cross-cutting
+cc_task_relevance: substrate-hallucination-detection, cross-substrate-triangulation, research-workflow-verification
+phase_binding: era-independent
+discipline_family: Rule-19-anti-fabrication
+canonical_rule: Cross-substrate triangulation is the operational mechanism that separates reliable-most-claims from unreliable-specific-minority-claims for substrate research output
+load_bearing_claims:
+  - Public binary framing (AI-reliable vs AI-untrustworthy) is wrong at operational level
+  - AI substrates are reliable on most claims and unreliable on specific minority of claims
+  - Two clusters of specific empirical errors caught via cross-substrate triangulation over multi-week period
+  - Extends Post 0050 self-attestation line to content-level errors requiring different mechanism
+applicability_triggers:
+  - When using AI substrate for research-class or recommendation-class output
+  - When single-substrate verification would miss factual or architectural errors
+  - When authoring methodology posts on substrate-verification discipline
+mechanism_details:
+  - Different substrates have different blind spots so parallel deployment surfaces disagreement
+  - Disagreement surfaces the specific claims that need external verification
+  - Structural mechanism at Post 0050 catches format-compliance; content-level triangulation catches factual content
+cross_refs:
+  - Post 0050 (canonical-content reproduction substrate self-attestation)
+  - Post 0060 (recursive 4-layer catch cascade)
+  - Post 0061 (substrate roles in multi-substrate research)
+-->
+
 # How I caught AI hallucinations in my game-research workflow
 
 **Author:** Jimmy McColery

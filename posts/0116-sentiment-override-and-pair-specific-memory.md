@@ -1,8 +1,16 @@
 # Sentiment Override and Pair-Specific Memory: The Bowling-Alley Tipping Scenario as a Worked Example
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0116
-domain: framework-architecture
+title: Sentiment Override and Pair-Specific Memory: The Bowling-Alley Tipping Scenario as a Worked Example
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; ordered-pair sentiment scalars with override regime; mood-congruent retrieval + Bayesian prior over pair-behavior interpretation
+project_scopes: framework-architecture, npc-relationships
+cc_task_relevance: pair-relational-mechanism-design, sentiment-override-integration, active-inference-decision-scoring
+phase_binding: Phase-1
+discipline_family: framework-architecture
 canonical_rule: ordered-pair-sentiment-with-override-regime
 load_bearing_claims:
   - Pair-relational history accumulates affect sentiment biasing subsequent event interpretation; sentiment-override regime operates as Bayesian prior over pair-behavior interpretation
@@ -28,7 +36,7 @@ cross_refs:
   - Post 0118 (consolidation-pass integration)
   - Post 0136 (BUILD-mode empirical validation)
   - Post 0146 Layer 6 (relationships)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

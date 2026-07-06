@@ -1,8 +1,16 @@
 # When Substrates Carry Your Discipline to Surfaces You Did Not Ask Them To: Marcus Reed Tier 2 at n=3 Cross-Model-Family
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0095
-domain: methodology-discipline
+title: When Substrates Carry Your Discipline to Surfaces You Did Not Ask Them To: Marcus Reed Tier 2 at n=3 Cross-Model-Family
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: methodology-discipline; Marcus Reed Tier 2 substrate-emergent propagation without explicit prompt; cross-model-family invariance n=3
+project_scopes: framework-methodology, marcus-reed-discipline, cross-project-substrate-methodology
+cc_task_relevance: marcus-reed-substrate-validation, discipline-internalization-signal-assessment, canonization-decisions
+phase_binding: era-independent
+discipline_family: substrate-methodology
 canonical_rule: marcus-reed-tier-2-cross-model-family-extension-n3
 load_bearing_claims:
   - Marcus Reed Tier 2 empirical evidence n=3 cross-model-family observation of discipline propagation WITHOUT explicit prompt
@@ -25,7 +33,7 @@ cross_refs:
   - Post 0101 (Cumulative coding failure mode at catalog level)
   - Memory: project_npc_dynamic_evolution_architecture_arc_2026-06-05.md
   - Marcus Reed Surface 8 spec (Open Alley/architecture/marcus-reed-surface-8-canonical-state-2026-06-11.md)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-10

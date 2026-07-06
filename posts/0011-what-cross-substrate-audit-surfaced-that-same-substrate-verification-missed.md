@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0011
+title: What Cross Substrate Audit Surfaced That Same Substrate Verification Missed
+date_published: 2026-05-06
+status: published
+superseded_by: none
+domain: Second-order workflow-ordering pattern where Phase 5 v2 report overwrites Phase 5 v1 at same filepath and deployed canonical state references verification record no longer exists
+project_scopes: street-code-methodology
+cc_task_relevance: multi-substrate-audit, verification-validation, canonization-propagation
+phase_binding: Phase-1
+discipline_family: Rule-14-Madisonian
+canonical_rule: Cross-substrate audit surfaces reconstruction work that same-substrate verification does not trigger even when same-substrate verification passes cleanly
+load_bearing_claims:
+  - Gemini Deep Thinking audit of framework brochure flagged 23/23 and 32/32 PASS numbers as worth scrutinizing (perfect pass rates can indicate post-recovery metrics)
+  - Reconstruction surfaced that Phase 5 v1 report was unrecoverable because Phase 5 v2 overwrote it at same filepath
+  - Independence-as-reliability claim requires structural distance not just multiple runs
+applicability_triggers:
+  - CC receiving perfect PASS rates and evaluating whether they represent first-pass or post-recovery
+  - CC drafting Phase 5 report persistence discipline (versioning + non-overwriting paths)
+  - CC deciding when cross-substrate audit is required vs same-substrate verification is sufficient
+mechanism_details:
+  - S006 architecture-revision Session 1.5 (2026-05-04) + S007 audit-response work (2026-05-05)
+  - Discrepancy: Session Log entry said "labeling-discipline corrected pre-deploy" but actual verification report said "canonical-alignment / workflow-ordering"
+  - Refinement candidacy: Phase 5 report persistence versioning
+cross_refs:
+  - Post 0008 first-order Phase 3 deployment timing
+  - Post 0019 audit substrate independence
+  - Post 0025 drafting-drift promotion arc
+-->
+
 # What Cross-Substrate Audit Surfaced That Same-Substrate Verification Missed
 
 **Author:** Jimmy McColery

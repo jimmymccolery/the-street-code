@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0094
+title: When Substrates Synthesize META-Rules That Subsume the Constraints You Specified: A Cross-Model-Family Capability Observation at n=2
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: substrate-emergent META-rule synthesis; cross-model-family capability observation; higher-abstraction rule subsuming individual constraints
+project_scopes: framework-methodology, cross-project-substrate-methodology
+cc_task_relevance: multi-substrate-council-analysis, substrate-capability-assessment, META-rule-ratification
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: substrate-emergent-META-rule-synthesis-at-sufficient-architectural-density
+load_bearing_claims:
+  - At sufficient architectural density substrates synthesize META-rules at higher abstraction than individual constraints
+  - n=2 same-day cross-model-family observation from seven-axis triangulation
+  - META-rules subsume multiple individual constraints into single testable rules
+  - Cross-model-family reproduction = substrate-emergent capability signal not substrate-specific
+applicability_triggers:
+  - Multi-substrate triangulation with dense architectural ground truth
+  - When substrates emit META observations unprompted
+  - When ratifying substrate-emergent rules into canonical envelope
+mechanism_details:
+  - META-rule = observation about architectural envelope not content claim within it
+  - Emerge without explicit META-synthesis prompt
+  - Cover architectural seams individual constraints address only partially
+cross_refs:
+  - Post 0085 (seven-substrate triangulation methodology)
+  - Post 0096 (Parity of Record META-rule from same arc)
+  - Post 0097 (cross-model-family backbone diversity)
+  - Post 0088 (architecturally-finished claim correction)
+-->
+
 # When Substrates Synthesize META-Rules That Subsume the Constraints You Specified: A Cross-Model-Family Capability Observation at n=2
 
 **Author:** Jimmy McColery

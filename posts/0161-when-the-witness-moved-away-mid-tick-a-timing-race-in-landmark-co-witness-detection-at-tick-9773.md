@@ -1,3 +1,36 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0161
+title: When the Witness Moved Away Mid-Tick A Timing Race in Landmark Co-Witness Detection at Tick 9773
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: framework timing-race condition discovery in H15-H22 landmark-ripple co-witness detection at extended-horizon 12.05 game-day session
+project_scopes: framework-methodology, sim-ai
+cc_task_relevance: framework-timing-race-discovery, co-witness-detection-audit, extended-horizon-analysis-refines-framing
+phase_binding: Phase-2
+discipline_family: extended-horizon empirical analysis surfaces findings shorter-horizon missed
+canonical_rule: co-witness detection timing race where witness at same cell start-of-tick moves during same tick before framework check runs; revises Post 0160 framing from purely coincidence-dependent to also timing-model-dependent
+load_bearing_claims:
+  - Both Sims began tick 9773 at grid cell (1,4) but framework recorded witness list as actor-only
+  - Sim B moved to (2,4) during same tick before framework co-witness check ran
+  - Revises Post 0160 H15 through H22 non-firing framing from purely coincidence-dependent to also timing-model-dependent
+  - Extended-horizon analysis surfaces findings shorter-horizon missed
+applicability_triggers:
+  - Extended-horizon session extends prior post shorter-horizon session
+  - Framework tick-order matters for co-witness detection
+  - Refinement post extends prior post framing without invalidating
+mechanism_details:
+  - Both Sims at (1,4) at start of tick 9773
+  - Sim B move_toward action executes before framework co-witness check
+  - Framework co-witness check reads Sim B position at (2,4) not start-of-tick (1,4)
+  - Extended-horizon analysis to 12.05 game-days (17,357 ticks) surfaced this
+cross_refs:
+  - Post 0159 (late-convergence emergent behavior at 9.11 game-day scope)
+  - Post 0160 (H15-H22 non-firing framing revised by this post)
+  - Post 0162 (sentiment persistence at 0.78 empirical foundation for accumulator persistence)
+  - Memory feedback_extended_horizon_analysis_surfaces_findings_shorter_horizon_missed_2026-07-04.md
+-->
+
 # When the Witness Moved Away Mid-Tick: A Timing Race in Landmark Co-Witness Detection at Tick 9,773
 
 **Author:** Jimmy McColery

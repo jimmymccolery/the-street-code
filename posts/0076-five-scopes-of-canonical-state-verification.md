@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0076
+title: Verification beyond "did this happen": five scopes of canonical-state checking that catch AI drift before it compounds
+date_published: 2026-06-09
+status: published
+superseded_by: none
+domain: verify-against-canonical-files discipline expanded to five distinct scope classes for AI drift catch
+project_scopes: street-code-methodology, cross-cutting
+cc_task_relevance: verification-discipline-taxonomy, ai-drift-catch-methodology, canonical-state-scope-selection
+phase_binding: era-independent
+discipline_family: verify-against-canonical-files
+canonical_rule: Verification is not single discipline; five structurally different drift classes each require different verification operation; wrong-source verification feels rigorous and catches none of intended drift
+load_bearing_claims:
+  - Memory records 13 reproductions across 11 distinct verification-class subdivisions
+  - Five structurally-different drift classes each require different verification operation
+  - Breadth-conscious verification is different discipline from single-scope verification
+  - Existing verification discourse treats verification as single discipline
+applicability_triggers:
+  - When designing verification scaffolding for long-project AI-assisted work
+  - When choosing which canonical source to check against a given claim
+  - When authoring verification-methodology posts on canonization-family candidacy
+mechanism_details:
+  - Five scopes cover different canonical-source classes and different drift shapes
+  - Checking wrong scope produces false confidence in verification
+cross_refs:
+  - Post 0050 (self-attestation vs canonical-content)
+  - Post 0071 (orchestrator-class pattern-matching)
+  - Post 0078 (two-layer scope blindness)
+-->
+
 # Verification beyond "did this happen": five scopes of canonical-state checking that catch AI drift before it compounds
 
 **Author:** Jimmy McColery

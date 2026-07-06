@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0075
+title: Institutional evolution as game constraint: real PBA and USBC history shows why federations work differently in every decade
+date_published: 2026-06-09
+status: published
+superseded_by: none
+domain: bowling history PBA and USBC institutional evolution across seven decades as era-conditional federation NPC behavior
+project_scopes: pin-paradise
+cc_task_relevance: era-progression-design, federation-npc-era-conditional-behavior, historical-institutional-research
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Federation NPC in multi-decade simulation cannot have one constant set of behaviors; sanctioning bodies did different work in 1962 than 1988 than 2015 and NPC must evolve priorities visible actions and player-relationship across eras
+load_bearing_claims:
+  - PBA in 1962 was professionalizing and chasing television
+  - USBC in 2015 was managing consolidation and decline
+  - Institutions were not the same doing same work with different visual presentation
+  - Sources: PBA archive USBC archive ABC WIBC corporate records Bowlers Journal Smithsonian
+applicability_triggers:
+  - When designing federation NPC for multi-decade historical simulation
+  - When era-conditional NPC behavior needs concrete historical anchor per decade
+  - When authoring institutional-evolution research post
+mechanism_details:
+  - Era-conditional federation NPC priorities visible actions and relationship-to-alley change per decade slot
+  - Institutional priorities per era anchor design of federation-facing player experience
+cross_refs:
+  - Post 0074 (cross-player tournaments without central servers)
+  - Post 0080 (per-decade trophy presentation conventions)
+-->
+
 # Institutional evolution as game constraint: real PBA and USBC history shows why federations work differently in every decade
 
 **Author:** Jimmy McColery

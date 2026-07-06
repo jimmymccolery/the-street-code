@@ -1,8 +1,16 @@
 # Recency Collapse and the Need for Consolidation: Tiered Memory Architecture at Multi-Decade Game-Time Scope
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0118
-domain: framework-architecture
+title: Recency Collapse and the Need for Consolidation: Tiered Memory Architecture at Multi-Decade Game-Time Scope
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; three-horizon tiered memory architecture; yearly consolidation cadence; 0.995 anchor decay
+project_scopes: framework-architecture, npc-memory
+cc_task_relevance: memory-architecture-design, storage-budget-sizing, consolidation-cadence-decisions
+phase_binding: Phase-1
+discipline_family: framework-architecture
 canonical_rule: tiered-memory-with-yearly-consolidation-and-0-995-decay-anchor
 load_bearing_claims:
   - Naive raw-event storage at multi-decade scale (1-2M events per NPC times 100 bytes each) exhausts iOS budget by order of magnitude
@@ -27,7 +35,7 @@ cross_refs:
   - Posts 0121-0123 (hybrid-path: cached policies + slow consolidation + multi-graph memory)
   - Project Zomboid offscreen-storylet pattern
   - Post 0146 Layer 4 (three-horizon memory)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

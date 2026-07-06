@@ -1,3 +1,31 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0047
+title: Bowling and the Volcker Shock: how the 1981 credit crunch killed half of an industry that had been declining for 20 years
+date_published: 2026-05-27
+status: published
+superseded_by: none
+domain: bowling-industry macro-economic collapse 1981 Volcker shock consequences
+project_scopes: pin-paradise
+cc_task_relevance: era-progression-design, historical-fidelity-research, macro-economic-mechanic-modeling
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: 1981 Volcker prime-rate hit 21.5% collapsed a bowling industry that had been quietly declining for 20 years by making 1960s-locked debt structures unsustainable
+load_bearing_claims:
+  - League participation peaked 1978-79 at approximately 8.4 million bowlers then contracted 89% to 1.8 million by 2010
+  - Three structural declines compounded through the 1970s (women in workforce reducing daytime leagues + suburban malls competing for family-leisure + cable TV competing for evening time)
+  - Volcker shock did not cause the decline but killed the industry by making 1960s bubble debt unrefinanceable
+applicability_triggers:
+  - When modeling multi-decade tycoon era-progression across 1970s-1980s crisis conditions
+  - When designing macro-economic external-event mechanics
+  - When authoring modern-relevance framing for debt-heavy capital-intensive industry parallels to 2022-2023 Fed tightening
+mechanism_details:
+  - Vulnerability came from 1960s bubble locking in decades of debt-heavy capital structures per Post 0046
+  - Capital intensity of bowling operations made refinancing under high interest rates particularly punishing
+cross_refs:
+  - Post 0045 (12-Cent Proposition)
+  - Post 0046 (1960s Bubble middle post of 3-arc)
+-->
+
 # Bowling and the Volcker Shock: how the 1981 credit crunch killed half of an industry that had been declining for 20 years
 
 **Author:** Jimmy McColery

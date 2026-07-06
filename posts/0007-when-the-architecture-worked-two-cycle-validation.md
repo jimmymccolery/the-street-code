@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0007
+title: When the Architecture Worked Two Cycle Validation
+date_published: 2026-05-04
+status: published
+superseded_by: none
+domain: Two formal validation cycles of substrate-routed architecture (Phase 1 deterministic file-read + Phase 3 generation + Phase 5 file-read verification) at 23/23 and 32/32 PASS
+project_scopes: street-code-methodology
+cc_task_relevance: verification-validation, methodology-research, substrate-methodology
+phase_binding: Phase-1
+discipline_family: Rule-14-Madisonian
+canonical_rule: When canonical content does not pass through the generation step (only through deterministic file-read substrates upstream and downstream) the synthesizing substrate cannot drift because it has no canonical file to drift against
+load_bearing_claims:
+  - Cycle 1 (session-writeup work class) landed 23/23 PASS with Phase 1 surfacing temporal-nuance caveat operator hadn't asked for
+  - Cycle 2 (architecture-revision work class) landed 32/32 PASS validating architecture on canonical-state-changing work
+  - Structural pattern has convergent prior art (Yeung Deterministic Quoting, Anthropic Citations API, Husain eval guidance)
+applicability_triggers:
+  - CC deciding whether to introduce substrate crossing between phases
+  - CC evaluating whether verification chain independence holds
+  - CC drafting phase architecture for a new work class
+mechanism_details:
+  - Phase 1 (Claude Code) produces verified-content document; Phase 3 (Claude web) synthesizes from that document only; Phase 5 (Claude Code) verifies against canonical files
+  - Grade distribution honestly calibrated (12A + 7B on structural limitation + 1C on unrecoverable substance)
+  - Operator-advance protocol between Phase 3 and Phase 5 held cleanly
+cross_refs:
+  - Post 0004 three-runs-at-the-asymptote (design origin)
+  - Post 0035 methodology refinements at validation edge (outside-view gap)
+-->
+
 # When the Architecture Worked: Two-Cycle Validation
 
 **Author:** Jimmy McColery

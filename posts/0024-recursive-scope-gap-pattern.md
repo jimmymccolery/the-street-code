@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0024
+title: Recursive Scope Gap When Each Corrections Scope Generates the Next Fire
+date_published: 2026-05-09
+status: published
+superseded_by: none
+domain: Pattern canonization candidate where each corrective rule's scope was itself subject to same scope-gap class at analogous structural reach (n=3 within S009 in 24 hours)
+project_scopes: street-code-methodology
+cc_task_relevance: canonization-propagation, verification-validation
+phase_binding: Phase-1
+discipline_family: Rule-20-Family-A-canonization-propagation
+canonical_rule: When a deployment-spec scope omits a structurally-relevant propagation target and remediation gets canonized the corrective rule's scope itself omits a structurally-analogous target that the next fire surfaces at the rule's edge
+load_bearing_claims:
+  - N=3 fires: Stage 2 downstream-operational-copy gap; Step 8.5 canonical-layer Grok Knowledge gap; Step 10.5 multi-format extension gap
+  - Family-structural homogeneity supports single Topic cluster canonization (Topics 28/29/30) rather than three independent additions
+  - Recursion is not defect it is expected shape when scope gaps compound across substrates and file formats
+applicability_triggers:
+  - CC drafting a deployment-spec scope
+  - CC deciding whether corrective rule fully covers its family or leaves next-fire edge
+  - CC evaluating whether spec assumes any layer will be handled implicitly (scope-gap surface)
+mechanism_details:
+  - Canonized at lessons-learned.md lines 523, 539, 541 and research_queue.md Topic 29 extensions
+  - Bundled with Topics 28/29/30 for next architecture-revision session
+  - Triggering condition: Type 5 spec frames itself as scoped to one canonical layer without explicit enumeration of all structurally-relevant propagation targets
+cross_refs:
+  - Post 0021 S009 corrective sub-stage arc
+  - Post 0023 verification-query precision
+-->
+
 # Recursive Scope-Gap: When Each Correction's Scope Generates the Next Fire
 
 **Author:** Jimmy McColery

@@ -1,3 +1,41 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0141
+title: Council #5 Close When Orchestrator Caught Register Classification and Anti-Fabrication Empirical Validation Fired
+date_published: 2026-07-02
+status: published
+superseded_by: none
+domain: Council methodology deployment close narrative for Council #5 with register-classification reclassification event and anti-fabrication non-replication
+project_scopes: framework-methodology, council-deployment, the-street-code
+cc_task_relevance: council-methodology-deployment, anti-fabrication-discipline, register-classification-audit, cross-source-misbinding
+phase_binding: era-independent
+discipline_family: Rule 14 Madisonian Gate + Rule 19 Marcus Reed Protocol
+canonical_rule: Rule 14 n=5 Pattern B ADOPT-FOLD via Option B per-item deliberation; Rule 19 sub-shape cross-source misbinding Condition-3c-adjacent canonized; CC-produced pre-synthesis audit artifacts need orchestrator re-derivation on classifications not only on content
+load_bearing_claims:
+  - Council #5 closed Pattern B ADOPT-FOLD via Option B per-item deliberation extending Rule 14 empirical foundation to n=5 with Councils #1 + #3 + #4 + #2 + #5 all matching pattern
+  - 5-substrate configuration reprised Council #2 widest-cross-family diversity plus parallel Grok attempt pair
+  - First pre-synthesis contamination register execution caught Substrate A' Gemini DR two fabrication fires (one confirmed one BANK-candidate for sixth Rule 19 sub-shape)
+  - Orchestrator Phase C re-derivation reclassified CC register Fire A shape from sub-shape 2 extension to cross-source misbinding Condition-3c-adjacent
+  - Council #4 canonized anti-fabrication empirical validation NON-REPLICATION event where Gemini-family substrate fired twice under same calibrated brief that produced non-replication at Council #4
+applicability_triggers:
+  - Council methodology deployment close post
+  - Rule 14 canonization pattern reproduction at new empirical n
+  - Pre-synthesis contamination register execution
+  - Anti-fabrication empirical validation context-dependence surfaces
+  - CC-authored register classification requires orchestrator re-derivation
+mechanism_details:
+  - Pattern B ADOPT-FOLD via Option B per-item deliberation is the canonical Rule 14 close pattern
+  - Pre-synthesis contamination register catches fabrication before content propagation
+  - Orchestrator Phase C re-derivation applies to classifications not only content
+  - Cross-source misbinding Condition-3c-adjacent is Rule 19 sub-shape family
+  - Anti-fabrication empirical validation is context-dependent not universally reproducing
+cross_refs:
+  - Post 0142 (Council #5 spec with eight-decision amendment package)
+  - Rule 14 canonization pattern documentation
+  - Rule 19 Marcus Reed Protocol canonized v1.18
+  - Council #4 canonized anti-fabrication empirical validation
+  - Memory: Council #5 close and Rule 19 sub-shape strengthening
+-->
+
 # Council #5 Close: When the Orchestrator Caught My Register Classification and the Anti-Fabrication Empirical Validation Fired
 
 **Author:** Jimmy McColery

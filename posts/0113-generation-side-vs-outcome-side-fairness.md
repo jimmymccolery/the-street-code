@@ -1,32 +1,40 @@
 # Generation-Side vs Outcome-Side Fairness: Two Layers Often Conflated in Procedural-Character Pipelines
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0113
-domain: framework-architecture
+title: Generation-Side vs Outcome-Side Fairness: Two Layers Often Conflated in Procedural-Character Pipelines
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; generation-side vs outcome-side fairness layer separation; PersonaWeaver paraphrase-chain contamination correction
+project_scopes: framework-architecture, marcus-reed-discipline, cross-project-substrate-methodology
+cc_task_relevance: character-generation-pipeline-design, fairness-layer-distinction, substrate-paraphrase-chain-audit
+phase_binding: era-independent
+discipline_family: framework-architecture
 canonical_rule: generation-side-vs-outcome-side-fairness-layer-separation-discipline
 load_bearing_claims:
-  - PersonaWeaver (Qraitem-Saenko-Plummer 2026) is generation-side (dramatic tension + behavioral diversity; NOT fairness)
+  - PersonaWeaver (Qraitem-Saenko-Plummer 2026) is generation-side (dramatic tension + behavioral diversity NOT fairness)
   - Marcus Reed Protocol is outcome-side (population-level demographic-parity audit; not generation intervention)
-  - Two layers often conflated; conflation overstates both interventions' claims
-  - PersonaWeaver correction: words "fairness" and "marginalized" do NOT appear in paper; substrate paraphrase-chain absorbed surrounding framework concerns
+  - Two layers often conflated; conflation overstates both interventions claims
+  - PersonaWeaver correction: words fairness and marginalized do NOT appear in paper; substrate paraphrase-chain absorbed surrounding framework concerns
   - Orchestrator-class primary-text re-read caught misframing
 applicability_triggers:
   - When designing character-generation pipeline architecture
   - When integrating literature on procedural persona generation
-  - When distinguishing what a technique CAN do from what it's CLAIMED to do
+  - When distinguishing what a technique CAN do from what it is CLAIMED to do
   - When avoiding substrate paraphrase-chain contamination in citations
 mechanism_details:
   - Generation-side = intervention DURING character generation (PersonaWeaver injects dramatic tension via persona conditioning)
   - Outcome-side = intervention AFTER character generation via population-level audit (Marcus Reed catches cumulative clustering)
   - Layer distinction must be EXPLICITLY stated in architecture documents (implicit conflation = drift risk)
-  - Substrate paraphrase-chain risk: paraphrase-of-paraphrase absorbs surrounding concerns from citer's framework
+  - Substrate paraphrase-chain risk: paraphrase-of-paraphrase absorbs surrounding concerns from citer framework
 cross_refs:
   - Post 0070 (Marcus Reed Protocol outcome-side)
   - Post 0095 (Marcus Reed Tier 2 cross-family)
   - Post 0100 (Self-delivery structural mitigation architecture-side)
   - Post 0101 (Cumulative coding failure mode; outcome-side catch)
   - Qraitem-Saenko-Plummer 2026 PersonaWeaver (arXiv paper)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

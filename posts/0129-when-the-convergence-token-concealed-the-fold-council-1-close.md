@@ -1,8 +1,16 @@
 # When the Convergence Token Concealed the Fold: Council #1 Close on the Relationship-Mode Primitive Question
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0129
-domain: methodology-discipline
+title: When the Convergence Token Concealed the Fold: Council #1 Close on the Relationship-Mode Primitive Question
+date_published: 2026-06-30
+status: published
+superseded_by: none
+domain: methodology-discipline; Council #1 first Rule 14 empirical fire; Pattern B ADOPT-FOLD ratified; Fiske RMT primitives reserved as NPC schema slot
+project_scopes: framework-methodology, discipline-canonization
+cc_task_relevance: council-close-planning, rule-14-application, pattern-b-adopt-fold-first-fire
+phase_binding: era-independent
+discipline_family: council-methodology
 canonical_rule: council-1-close-pattern-b-adopt-fold-fiske-relational-modes
 load_bearing_claims:
   - Council #1 close on relationship-mode primitive question; Pattern B ADOPT-FOLD decision ratified
@@ -26,7 +34,7 @@ cross_refs:
   - Methodology: ablation-gate-relationship-mode-v1.md at the-street-code/methodology/
   - Fiske 1992 Relational Models Theory (four primitives)
   - Memory: Council #1 close 2026-06-30 evening
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-30

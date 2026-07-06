@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0061
+title: Substrate roles: why I use different AI substrates for different research phases
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: substrate-role specialization methodology across research phases
+project_scopes: street-code-methodology, cross-cutting
+cc_task_relevance: multi-substrate-workflow-design, substrate-selection-per-phase, research-phase-decomposition
+phase_binding: era-independent
+discipline_family: Rule-11-substrate-specialization
+canonical_rule: Different research phases (brainstorm citation-rigor quantitative-anchoring) require different substrate capabilities; single-substrate approach breaks down when phases need distinct strengths
+load_bearing_claims:
+  - Default single-substrate workflow works for research scopes with adequate output from any capable substrate
+  - Breaks down when phases require different substrate capabilities
+  - n=2 empirical fires from bowling-industry historical research producing measurably better output than single-substrate would have
+applicability_triggers:
+  - When research scope has clearly separable phases with distinct capability needs
+  - When choosing between substrate-role specialization vs single-substrate simplicity
+  - When authoring multi-substrate workflow methodology
+mechanism_details:
+  - Generative-breadth substrate for brainstorm phase
+  - Citation-rigor substrate for verification phase
+  - Quantitative-anchoring substrate for empirical validation phase
+cross_refs:
+  - Post 0058 (catching AI hallucinations)
+  - Post 0053 (Don Carter Ebonite deal cross-substrate resolution)
+  - Post 0071 (orchestrator-class pattern-matching)
+-->
+
 # Substrate roles: why I use different AI substrates for different research phases
 
 **Author:** Jimmy McColery

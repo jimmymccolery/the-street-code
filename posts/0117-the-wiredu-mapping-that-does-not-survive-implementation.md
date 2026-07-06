@@ -1,8 +1,16 @@
 # The Wiredu Mapping That Does Not Survive Implementation: Category Error, Ornamental-Deployment Risk, and Two Canonical-Record Reversals
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0117
-domain: methodology-discipline
+title: The Wiredu Mapping That Does Not Survive Implementation: Category Error, Ornamental-Deployment Risk, and Two Canonical-Record Reversals
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: methodology-discipline; Wiredu mapping category-error correction; two canonical-record reversals (F-17 Wiredu universalist + F-8 Friston Appendix F)
+project_scopes: framework-methodology, cross-cultural-discipline, framework-defense
+cc_task_relevance: canonical-record-reversal, wiredu-mapping-audit, stale-flag-re-read-discipline
+phase_binding: era-independent
+discipline_family: framework-methodology
 canonical_rule: wiredu-mapping-failure-and-canonical-record-reversal-methodology
 load_bearing_claims:
   - Wiredu mapping (sympathetic impartiality + HEXACO H) does not survive primary-text pressure
@@ -26,7 +34,7 @@ cross_refs:
   - Post 0125 (Wiredu procedural test NOT trait dimension category error)
   - Post 0127 (no single African view; intra-tradition dispute)
   - Friston 2017 Appendix F (process theory canonical citation)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

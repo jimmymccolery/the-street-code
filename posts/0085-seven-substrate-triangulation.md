@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0085
+title: Seven Substrates and One Architectural Closure: When Anti-Confirmation-Bias Becomes the Highest-Leverage Prompt-Design Surface
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: seven-axis triangulation; anti-confirmation-bias framing at synthesis pass; prompt-design as highest-leverage surface
+project_scopes: framework-methodology, cross-project-substrate-methodology
+cc_task_relevance: council-prompt-design, orchestrator-class-substrate-deployment, architectural-closure-cycles
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: anti-confirmation-bias-framing-at-synthesis-pass-as-highest-leverage-prompt-design
+load_bearing_claims:
+  - Seven-axis triangulation with substrate-strength assignment closed six axes on working envelope; seventh axis anti-confirmation-bias framing surfaced structural-gap
+  - Without anti-confirmation-bias framing seventh axis would have confirmed prior findings; architectural integrity gap would ship
+  - Prompt-design at synthesis-pass is at least as load-bearing as substrate selection for multi-substrate research
+  - Reinforce-or-contradict-or-extend framing prevents rederivation waste plus consensus-fabrication
+applicability_triggers:
+  - Multi-substrate architectural closure cycles
+  - Designing final-pass synthesizer prompts
+  - When axes-one-through-N-minus-one build toward closure verdict
+mechanism_details:
+  - Each axis prompt bakes prior axes findings as ground-truth context
+  - Substrate-axis pairing chosen for axis-difference not principled taxonomy
+  - Anti-confirmation-bias framing = adversarially-test-prior-META-observation instruction
+cross_refs:
+  - Post 0088 (architecturally-finished claim correction; concrete worked example from same arc)
+  - Post 0094 (substrate-emergent META-rule synthesis; two rules from same arc)
+  - Post 0089 (explicit pre-synthesis verification trail)
+  - Post 0096 (Parity of Record META-rule)
+-->
+
 # Seven Substrates and One Architectural Closure: When Anti-Confirmation-Bias Becomes the Highest-Leverage Prompt-Design Surface
 
 **Author:** Jimmy McColery

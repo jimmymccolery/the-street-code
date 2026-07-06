@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0015
+title: Discipline as Substrate AI Capabilities as Swappable Layer
+date_published: 2026-05-07
+status: published
+superseded_by: none
+domain: Structural-inversion positioning paper arguing discipline (anti-patterns, roles, schemas, phases, verification chains) is the substrate and AI capabilities are the swappable layer above it
+project_scopes: street-code-methodology
+cc_task_relevance: methodology-research, substrate-methodology
+phase_binding: era-independent
+discipline_family: Rule-11-substrate-specialization
+canonical_rule: The investment in an AI infrastructure framework should be in the discipline layer not in any specific substrate's continued availability because substrates evolve and retire while discipline persists
+load_bearing_claims:
+  - Prior art at compiler design (semantics vs target) and databases (query language vs storage engine) establishes structural pattern
+  - Ten days concurrent across three substrates (Grok Claude Gemini) showed discipline caught same failure modes everywhere it ran
+  - Capabilities differ; substrate-class behaviors don't; discipline layer holds steady
+applicability_triggers:
+  - CC evaluating whether to optimize for a specific substrate's capability
+  - CC assessing what parts of a framework are portable across substrate changes
+  - CC drafting substrate-agnostic vs substrate-specific discipline
+mechanism_details:
+  - Discipline layer: anti-pattern catalog, role architecture, schema conventions, phase architecture, verification chains
+  - Capabilities layer: filesystem-aware tooling, reasoning depth, long-context synthesis, deterministic command execution
+  - Portability claim is theoretical-architectural rather than substitution-validated (framework hasn't been ported to a fourth substrate empirically)
+cross_refs:
+  - Post 0016 design-based research positioning
+  - Post 0039 cross-substrate triangulation as solo-indie methodology
+-->
+
 # Discipline as Substrate, AI Capabilities as Swappable Layer
 
 **Author:** Jimmy McColery

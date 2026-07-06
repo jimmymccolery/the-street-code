@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0019
+title: When the Audit Substrate Isnt Independent Enough
+date_published: 2026-05-08
+status: published
+superseded_by: none
+domain: S008 closeout cross-substrate audit showed Grok and Gemini diverged on same canonical state with Phase C-Verify falsifying Grok's Verified consistent claims (substrate-stylistic-priming through canonical-file content)
+project_scopes: street-code-methodology
+cc_task_relevance: multi-substrate-audit, substrate-methodology, verification-validation
+phase_binding: Phase-1
+discipline_family: Rule-11-substrate-specialization
+canonical_rule: Independence between audit substrate and home substrate is not binary structural distance between them is what makes the audit work or not work Council of Three Outcome C calibration is the architectural response
+load_bearing_claims:
+  - Grok adopted framework voice from prior canonical-file exposure (Captain Harper Benjamin Sage Lucas headers) producing uniform-A verified-consistent claims
+  - Gemini structurally distinct from Claude family and had not been deployed for framework role work produced 1 CRIT + 3 HIGH + 1 MED + 2 LOW findings
+  - Phase C-Verify (Claude Code direct file reads) empirically falsified Grok's claims on 4 of 7 surfaces and confirmed all 7 Gemini findings
+applicability_triggers:
+  - CC choosing audit substrate for a canonical-state check
+  - CC evaluating whether an audit substrate has been substrate-stylistically-primed through prior canonical-file exposure
+  - CC drafting Outcome C calibration for Council of Three deployments
+mechanism_details:
+  - Two audit substrates reviewing same canonical state with same uploaded files diverged
+  - Third substrate (Claude Code direct file reads) treated as ground truth because file reads are deterministic
+  - Topic 19 substrate-stylistic-priming bar accumulated to n=3 with canonical-file-content variant
+cross_refs:
+  - Post 0011 cross-substrate audit surfacing what same-substrate missed
+  - Post 0020 Council of Three third leg fallibility
+-->
+
 # When the audit substrate isn't independent enough
 
 **Author:** Jimmy McColery

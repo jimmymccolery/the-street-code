@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0067
+title: The Kegel Sanction Machine 1988: how hospital-precision pumps replaced bowling's hand-buffed oil
+date_published: 2026-06-01
+status: published
+superseded_by: none
+domain: bowling history 1988 Kegel Sanction Machine lane-conditioning precision inflection
+project_scopes: pin-paradise
+cc_task_relevance: era-progression-design, lane-conditioning-mechanic, technology-precision-inflection-research
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: 1988 Kegel Sanction Machine ended craft era of lane oil application and began precision-engineering era via medical-device fluid-metering pumps
+load_bearing_claims:
+  - Pre-1988 lane oil application was a craft with variance from attendant to attendant
+  - Kegel Sanction Machine was first patented fluid metering transfer system for bowling-lane conditioning
+  - Post-1988 competitive bowling sits on the precision substrate the machine produced
+  - Enables 1991 X-Calibur inflation (Post 59), 1991-2000s sport-shot arms race, 2005 PBA Animal pattern catalog
+applicability_triggers:
+  - When designing 1980s-era lane-conditioning mechanic
+  - When modeling technology-precision-inflection era-progression events
+  - When authoring niche-technology historical research
+mechanism_details:
+  - Fluid-metering precision pumps adapted from medical-device technology
+  - Metering delivered microliter-per-board-foot precision replacing tactile buffer-pressure craft
+cross_refs:
+  - Post 0059 (X-Calibur 1991 material-science disruption)
+  - Post 0075 (institutional evolution PBA USBC)
+-->
+
 # The Kegel Sanction Machine 1988: how hospital-precision pumps replaced bowling's hand-buffed oil
 
 **Author:** Jimmy McColery

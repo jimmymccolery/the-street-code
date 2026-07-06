@@ -1,8 +1,16 @@
 # Five Substrates and One Research Question: When the Disagreement Is the Finding
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0090
-domain: methodology-discipline
+title: Five Substrates and One Research Question: When the Disagreement Is the Finding
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: methodology-discipline; five-role substrate specialization; substrate disagreement as load-bearing data; primary-text-above-consensus adjudication
+project_scopes: framework-methodology, cross-project-substrate-methodology
+cc_task_relevance: multi-substrate-council-planning, substrate-role-assignment, orchestrator-adjudication-discipline
+phase_binding: era-independent
+discipline_family: substrate-methodology
 canonical_rule: multi-substrate-research-role-differentiation
 load_bearing_claims:
   - Substrate disagreements are load-bearing methodology data, not noise to resolve toward consensus
@@ -20,11 +28,11 @@ mechanism_details:
   - Orchestrator weights by role contribution + primary-text evidence, NOT by consensus magnitude
   - Madisonian Gate adjudication canonized as Rule 14
 cross_refs:
-  - Rule 19 (substrate-self-attestation discipline canonized post 0050)
-  - Rule 14 (Madisonian Gate synthesis; canonized after this multi-substrate methodology cascade)
+  - Rule 19 substrate-self-attestation discipline canonized post 0050
+  - Rule 14 Madisonian Gate synthesis; canonized after this multi-substrate methodology cascade
   - Post 0146 (ten-layer NPC framework applies multi-substrate methodology at Council #7)
   - Posts 0091-0104 (fourteen-post substrate methodology cascade extending this foundation)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-10

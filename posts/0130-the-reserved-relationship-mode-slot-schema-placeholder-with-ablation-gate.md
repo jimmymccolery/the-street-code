@@ -1,8 +1,16 @@
 # The Reserved Relationship-Mode Slot: A Schema-Placeholder Spec with an Ablation Gate
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0130
-domain: framework-architecture
+title: The Reserved Relationship-Mode Slot: A Schema-Placeholder Spec with an Ablation Gate
+date_published: 2026-06-30
+status: published
+superseded_by: none
+domain: framework-architecture; Fiske RMT relationship-mode reserved as NPC schema field per ordered pair; four-condition ablation gate for V1.x unlock
+project_scopes: framework-architecture, framework-scope-boundaries
+cc_task_relevance: schema-placeholder-authoring, relationship-mode-implementation-decisions, ablation-gate-application
+phase_binding: Phase-1
+discipline_family: framework-architecture
 canonical_rule: relationship-mode-schema-placeholder-with-ablation-gate
 load_bearing_claims:
   - Fiske RMT relationship-mode reserved as NPC schema field per ordered pair; NOT operationalized at V1
@@ -28,7 +36,7 @@ cross_refs:
   - Fiske 1992 Relational Models Theory (four primitives literature)
   - Methodology: ablation-gate-relationship-mode-v1.md
   - Ablation gate methodology: per-npc-philosophy-profile-reservation-and-ablation-gate-v1.md
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-30

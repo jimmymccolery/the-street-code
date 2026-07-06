@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0086
+title: When the AI-Assistant Drift Propagates Through the Audit Council: A Counterintuitive Reproduction Class at n=7
+date_published: 2026-06-10
+status: published
+superseded_by: none
+domain: verify-against-canonical-files discipline (Rule 14 predecessor); CC-side freshness amendment drift; substrate propagation of phantom taxonomy through reproduction-gate
+project_scopes: framework-methodology, discipline-canonization
+cc_task_relevance: canonical-source-file-verification, audit-prompt-authoring, cc-side-drift-prevention
+phase_binding: era-independent
+discipline_family: cc-side-discipline
+canonical_rule: verify-against-canonical-files-before-authoring-audit-prompt-amendments
+load_bearing_claims:
+  - Seventh fire of Rule 14 verify-against-canonical-files discipline at higher-stakes scope of audit-prompt authoring
+  - Three phantom taxonomy items propagated through freshness amendment into multi-substrate Council reproduction-gate
+  - Substrates verbatim-reproduced drifted taxonomy passing gate check because gate compared against amendment not canonical source
+  - Orchestrator-class primary-text re-read caught drift; hybrid disposition preserved substantive content under corrected taxonomy plus surfaced one genuine gap
+applicability_triggers:
+  - Authoring freshness amendments to audit prompts before Council deployment
+  - Working-context assumed to hold canonical taxonomy without grep verification
+  - Reproduction-gate discipline enforcement against amendment content
+mechanism_details:
+  - Reproduction-gate = section requiring substrates to reproduce canonical references verbatim; enforceable via string comparison
+  - Drift signal = phantom items representing adjacent-scope content bleeding into working-context
+  - Orchestrator catch mechanism = raw canonical source file read before synthesizing
+cross_refs:
+  - Rule 14 verify-against-canonical-files discipline (canonized after this seventh fire)
+  - Rule 19 substrate-self-attestation discipline
+  - Post 0090 (five-substrate methodology foundation)
+  - Post 0091 (fix-cycle surface drift adjacent pattern)
+-->
+
 # When the AI-Assistant Drift Propagates Through the Audit Council: A Counterintuitive Reproduction Class at n=7
 
 **Author:** Jimmy McColery

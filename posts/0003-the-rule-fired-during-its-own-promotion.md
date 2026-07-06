@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0003
+title: The Rule Fired During Its Own Promotion
+date_published: 2026-05-03
+status: published
+superseded_by: none
+domain: Recursive fire of anti-pattern #20a (substance-fabrication-via-brackets) during Master Setup S005 session that was itself promoting the rule
+project_scopes: street-code-methodology
+cc_task_relevance: canonization-propagation, discipline-enforcement, empirical-BUILD
+phase_binding: Phase-1
+discipline_family: Rule-20-Family-A-canonization-propagation
+canonical_rule: When a rule fires during the session promoting it, both the rule and the recovery workflow gain strongest empirical foundation possible (real-time in-session evidence)
+load_bearing_claims:
+  - Grok's NPI S005 closeout produced placeholder text `[Full file content here]` in files 2-5 and narrative descriptions in files 6-7 during the exact session promoting the rule against that behavior
+  - Operator pivoted to Layer 2 closeout via Claude formalizing the hybrid Layer 1/2/3 workflow in the same session (rule + recovery empirically demonstrated together)
+  - Real-time recursive fire produces stronger empirical posture than rules promoted from retrospective evidence alone
+applicability_triggers:
+  - CC promoting a rule where the AI substrate might itself violate the rule during promotion
+  - CC evaluating Layer 1 (deliberation) vs Layer 2 (canonical artifact emission) substrate routing
+  - CC assessing empirical bar for rule canonization (retrospective vs in-session)
+mechanism_details:
+  - Substance-fabrication-via-brackets fired 3 prior times across 2 projects before S005 promotion
+  - Layer 1 report (206 paragraphs) came back clean but Layer 2 file emission failed
+  - Operator-side pivot: stop having Grok produce closeout files, switch substrate for Layer 2
+cross_refs:
+  - Post 0033 five fires of anti-pattern #18 (analogous within-response calibration fire pattern)
+  - Post 0005 foundation-period rule promotions establishing multi-fire bar
+-->
+
 # The Rule Fired During Its Own Promotion
 
 **Author:** Jimmy McColery

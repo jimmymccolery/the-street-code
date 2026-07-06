@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0145
+title: Regen-Timing-Gap Re-Fired Within Twelve Hours of Canonization
+date_published: 2026-07-03
+status: published
+superseded_by: none
+domain: single-finding regen-timing-gap n=2 empirical foundation within twelve hours of canonization
+project_scopes: framework-methodology, master-setup, the-street-code
+cc_task_relevance: canonization-propagation-verification, regen-timing-audit, sub-shape-recurrence
+phase_binding: era-independent
+discipline_family: Rule 20 candidacy Family A canonization-propagation gap
+canonical_rule: regen-timing-gap sub-shape 6 re-fires within twelve hours of Post 0143 canonization strengthening empirical foundation from n=1 to n=2 and validating recommended mitigation
+load_bearing_claims:
+  - Regen-timing-gap sub-shape 6 canonized at Post 0143 re-fired within twelve hours of canonization
+  - Empirical foundation strengthens from n=1 to n=2 for the specific regen-timing sub-shape
+  - Recurrence validates the mitigation recommended in Post 0143 canonization
+  - Second-fire within twelve hours of canonization is unusually rapid strengthening
+applicability_triggers:
+  - Recently canonized sub-shape re-fires shortly after canonization
+  - Regen pipeline timing verification needed after canonical file mutation
+  - Empirical foundation strengthening across identical sub-shape at short interval
+mechanism_details:
+  - Regen-timing-gap fires when canonical file mutation lands but regen output has not caught up
+  - Twelve-hour interval between fires demonstrates persistence of the discipline gap
+  - Post 0143 sub-shape 6 explicit canonization did not prevent recurrence at n=2
+cross_refs:
+  - Post 0143 (parent canonization-propagation gap discipline family Family A parent sub-shape 6)
+  - Rule 17 (CW Project Knowledge Refresh Discipline)
+  - master-setup regen_launcher_hashes.py pipeline
+-->
+
 # The Regen-Timing-Gap Re-Fired Within Twelve Hours of Canonization
 
 **Author:** Jimmy McColery

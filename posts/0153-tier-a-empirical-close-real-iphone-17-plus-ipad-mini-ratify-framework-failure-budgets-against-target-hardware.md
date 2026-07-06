@@ -1,3 +1,41 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0153
+title: Tier A Empirical Close Real iPhone 17 Plus iPad Mini Ratify Framework Failure Budgets Against Target Hardware
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: Council #6 close-condition Tier A empirical close arc executed at real iOS device scope covering iPhone 17 plus iPad Mini running population-scale harness via mobile Safari at same-WiFi local dev server pattern
+project_scopes: framework-state-progress, sim-ai, memory-lanes, roomtolife
+cc_task_relevance: tier-a-empirical-close, iphone-17-headroom, ipad-mini-headroom, framework-failure-budgets-ratification, three-tier-close-condition
+phase_binding: Phase-2
+discipline_family: Council #6 close-condition three-tier close condition strategy
+canonical_rule: FRAMEWORK_FAILURE_BUDGETS ratified against real target hardware; three-tier close condition strategy fully closed at algorithmic plus WebKit-runtime plus real-device scope
+load_bearing_claims:
+  - iPhone 17 achieves 66x headroom at N=5000
+  - iPad Mini achieves 33x headroom at N=5000
+  - FRAMEWORK_FAILURE_BUDGETS ratified against real target hardware
+  - Three-tier close condition strategy fully closed at algorithmic + WebKit-runtime + real-device scope
+  - Path A operationalized mobile Safari same-WiFi local dev server closes Tier A at both devices
+  - Council #6 close condition scope substantially complete for operator-side Memory Lanes V1 ship path
+  - Two gotchas resolved Next.js dev HMR blocked hydration + Safari timer granularity clamped 1ms
+  - Path A emerges as 5th operator-executable path (Post 0152 enumerated 4)
+applicability_triggers:
+  - Tier A empirical close arc at real iOS device scope
+  - iPhone 17 or iPad Mini running population-scale harness
+  - Mobile Safari same-WiFi local dev server pattern
+  - Cross-device debugging Next.js Turbopack HMR blocked hydration
+mechanism_details:
+  - Path A mobile Safari same-WiFi local dev server pattern
+  - Next.js dev HMR blocks hydration mitigated
+  - Safari timer granularity clamped to ~1ms per WebKit
+  - iPhone 17 66x headroom + iPad Mini 33x headroom at N=5000
+cross_refs:
+  - Post 0152 (Phase D empirical scaling closes at Node tier; enumerated 4 paths not 5)
+  - Post 0154 (Path A as fifth path Post 0152 enumeration gap fire)
+  - Post 0155 (React Fiber Next.js Turbopack HMR blocks iOS Safari hydration)
+  - Memory project_phase_d_tier_a_empirical_close_iphone_17_ipad_mini_2026-07-04.md
+-->
+
 # Tier A Empirical Close Real iPhone 17 Plus iPad Mini Ratify Framework Failure Budgets Against Target Hardware
 
 **Author:** Jimmy McColery

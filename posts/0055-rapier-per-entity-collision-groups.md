@@ -1,3 +1,31 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0055
+title: Multi-entity Rapier physics in a single shared world: per-lane collision groups
+date_published: 2026-05-31
+status: published
+superseded_by: none
+domain: technical engineering Rapier collisionGroups 32-bit bit-encoding for shared world multi-entity isolation
+project_scopes: pin-paradise
+cc_task_relevance: rapier-physics-architecture, multi-arena-isolation, r3f-rapier-integration
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: Use single shared Rapier World with per-body collisionGroups 32-bit membership+filter encoding rather than multiple Physics providers
+load_bearing_claims:
+  - Multiple World instances work in principle but react-three-rapier assumes single Physics provider
+  - Multiple providers create bridge-reconciliation cost per tick
+  - Collision groups filter at broadphase layer and are fast
+  - Bit-encoding format is thinly documented; this post fills the gap
+applicability_triggers:
+  - When multiple independent physics simulations coexist in same R3F scene
+  - When designing multi-arena or multi-play-area game with Rapier
+  - When per-entity isolation is required without multiple physics worlds
+mechanism_details:
+  - 32-bit integer per body encodes membership mask and interaction filter mask
+  - Bodies with non-overlapping masks never produce collision events
+cross_refs:
+  - Post 0054 (statistical bowling without physics)
+-->
+
 # Multi-entity Rapier physics in a single shared world: per-lane collision groups
 
 **Author:** Jimmy McColery

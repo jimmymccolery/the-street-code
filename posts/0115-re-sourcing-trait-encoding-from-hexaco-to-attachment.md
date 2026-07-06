@@ -1,8 +1,16 @@
 # Re-Sourcing Trait Encoding from HEXACO to Attachment: When One Trait Was Driving Two Different Things and the Literature Said Stop
 
-<!-- CC-OPTIMIZED-SUMMARY v1.0
+<!-- CC-OPTIMIZED-SUMMARY v2.0
 post_id: 0115
-domain: framework-architecture
+title: Re-Sourcing Trait Encoding from HEXACO to Attachment: When One Trait Was Driving Two Different Things and the Literature Said Stop
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: framework-architecture; trait-source routing per cognitive function; HEXACO H for cooperation vs attachment for relational encoding
+project_scopes: framework-architecture, npc-personality-model
+cc_task_relevance: trait-source-decisions, hexaco-vs-attachment-routing, psychometric-literature-check
+phase_binding: Phase-1
+discipline_family: framework-architecture
 canonical_rule: trait-source-routing-per-cognitive-function
 load_bearing_claims:
   - Trait-source routing must ground in psychometric literature for each cognitive function separately; conflating multiple functions under single familiar trait causes failure at architecture scale
@@ -17,7 +25,7 @@ applicability_triggers:
 mechanism_details:
   - HEXACO H (honesty-humility) dimensions: honesty + fairness + greed-avoidance + modesty; feeds cooperation/exploitation/generosity actions
   - Attachment avoidance + anxiety dimensions per ECR-R; feeds Layer 1-2 relational-event encoding filter + pair-history accumulation
-  - Two-dimensional attachment scalar [0,1] × [0,1] per character
+  - Two-dimensional attachment scalar 0-to-1 by 0-to-1 per character
   - Attachment stable but modifiable per Fraley-Hudson 2014
 cross_refs:
   - Hilbig and Zettler 2009 + Thielmann and Hilbig 2015 + Zettler et al 2020 (HEXACO H cooperation validity)
@@ -25,7 +33,7 @@ cross_refs:
   - Mikulincer and Shaver 2016 Attachment in Adulthood (cross-cultural attachment literature + encoding patterns)
   - Post 0116 (pair-relational sentiment override mechanism uses attachment-modulated encoding)
   - Post 0146 Layer 3 (HEXACO + attachment ratified as Layer 3 sub-components)
-CC-OPTIMIZED-SUMMARY -->
+-->
 
 **Author:** Jimmy McColery
 **Date:** 2026-06-29

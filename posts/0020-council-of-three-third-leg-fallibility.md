@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0020
+title: When the Council of Threes Third Leg Is Wrong
+date_published: 2026-05-09
+status: published
+superseded_by: none
+domain: Five fires in ~24 hours where the Council of Three third-leg substrate produced one substantively wrong result alongside two correct catches establishing cross-leg disagreement as verification signal
+project_scopes: street-code-methodology
+cc_task_relevance: multi-substrate-audit, verification-validation, anti-fabrication
+phase_binding: Phase-1
+discipline_family: Rule-14-Madisonian
+canonical_rule: Council of Three third-leg independence is necessary but not sufficient cross-leg disagreement is itself a verification signal and a third-leg FAIL finding always triggers file-state diagnostic before any remediation
+load_bearing_claims:
+  - Third-leg wrong-finding is not a defeat but a different shape of the same architectural value the Council provides
+  - Two outcomes preserved by structure: A (flagged finding real and other gates missed) or B (flagged finding wrong and other gates correctly verify against it)
+  - Autonomous remediation against a third-leg report that has not been ground-truth-verified is what is not allowed
+applicability_triggers:
+  - CC receiving a third-leg FAIL finding and deciding whether to remediate
+  - CC drafting Council of Three outcome discipline
+  - CC evaluating third-leg output for autonomous action bar
+mechanism_details:
+  - Three fires from S009 corrective sub-stage arc (each closed by routing post-mutation stable state to Gemini Deep Think)
+  - Three additional fires on parallel Substack citation audit
+  - One recursive fire during the very work to write up the lesson
+cross_refs:
+  - Post 0021 S009 corrective sub-stage arc (three of the five fires)
+  - Post 0027 Council of Three outcome patterns (three structural shapes)
+-->
+
 # When the Council of Three's Third Leg Is Wrong
 
 **Author:** Jimmy McColery

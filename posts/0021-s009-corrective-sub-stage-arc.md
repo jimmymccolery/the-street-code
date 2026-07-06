@@ -1,3 +1,34 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0021
+title: When a Verification Arc Doesnt Close on the First Try Corrective Sub Stage as Discipline
+date_published: 2026-05-09
+status: published
+superseded_by: none
+domain: S009 arc with three corrective sub-stages + cleanup pass canonizing corrective-sub-stage as first-class recovery discipline within Type 5 verify-then-deploy taxonomy
+project_scopes: street-code-methodology
+cc_task_relevance: verification-validation, discipline-enforcement, canonization-propagation
+phase_binding: Phase-1
+discipline_family: Rule-14-Madisonian
+canonical_rule: Corrective sub-stages are first-class recovery not one-shot exception each must run its own verify-then-deploy discipline at smaller scale and can spawn further corrective sub-stages when their audits surface residual drift
+load_bearing_claims:
+  - S009 deployed Topic 27 promotion across ~17 canonical files via 6-stage Type 5 arc that felt complete but wasn't
+  - Three corrective sub-stages plus cleanup ran before canonical state actually settled
+  - Corrective sub-stages that abandon verify-then-deploy in favor of just-fix-it-quickly reintroduce original drift risk class
+applicability_triggers:
+  - CC recovering from higher-level audit catching drift after arc declared complete
+  - CC deciding whether to re-run closure or execute corrective sub-stage
+  - CC evaluating when corrective-sub-stage recursion is expected shape vs defect
+mechanism_details:
+  - Three structural properties: doesn't re-fire same internal verification, is itself Type 5 verify-then-deploy, can spawn further corrective sub-stages
+  - Canonized at bootstrap_manifest.md v2.2 §Type 5 verify-then-deploy taxonomy
+  - Lessons-learned.md line 474 captures canonical principle
+cross_refs:
+  - Post 0020 Council of Three third leg fallibility (three of five fires from S009)
+  - Post 0022 article-stacking discipline (n=5 from S009 corrective sub-stage)
+  - Post 0023 verification-query precision
+  - Post 0024 recursive scope-gap pattern
+-->
+
 # When a Verification Arc Doesn't Close on the First Try: Corrective Sub-Stage as Discipline
 
 **Author:** Jimmy McColery

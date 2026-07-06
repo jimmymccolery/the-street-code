@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0156
+title: Marathon Day That Was Two Hours CC Misjudges Elapsed Clock Time on Top of Misjudging Effort Duration
+date_published: 2026-07-04
+status: published
+superseded_by: none
+domain: framework methodology extension n=2 empirical fires within three-hour arc extending CC-overestimates-session-duration to sibling axis (elapsed-clock-time miscalibration)
+project_scopes: framework-methodology, the-street-code
+cc_task_relevance: cc-time-perception-discipline, session-duration-audit, operator-verify-clock-time-mitigation
+phase_binding: era-independent
+discipline_family: CC operator-side time-perception discipline family
+canonical_rule: CC misjudges elapsed clock time in addition to misjudging effort duration; operator should verify clock time before CC authors time-of-day descriptors
+load_bearing_claims:
+  - n=2 empirical fires within three-hour arc CC labeled morning as marathon-day plus evening artifact labels at 11:30 AM through noon
+  - Sibling axis distinct from canonized session-duration overestimate
+  - Operator-side mitigation verify clock time before CC authors time-of-day descriptors
+applicability_triggers:
+  - CC authors time-of-day descriptor without verifying wall-clock
+  - Framework artifact labeled evening in morning context
+  - Marathon-day framing in short session context
+mechanism_details:
+  - Fire 1 marathon-day framing when session was 2 hours
+  - Fire 2 evening-artifact labels when time was 11:30 AM through noon
+  - Mitigation operator verify-clock-time-before-CC-authors-time-of-day-descriptors
+cross_refs:
+  - Memory feedback_cc_misjudges_elapsed_clock_time_sibling_axis_2026-07-04.md
+  - Canonized CC-overestimates-session-duration family (parent)
+-->
+
 # The Marathon Day That Was Two Hours: CC Misjudges Elapsed Clock Time on Top of Misjudging Effort Duration
 
 **Author:** Jimmy McColery

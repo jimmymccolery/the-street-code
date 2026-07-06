@@ -1,3 +1,35 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0105
+title: When the Closing-Round Substrate Flagged Two Citations as Fabricated: What the Verification Process Actually Proved
+date_published: 2026-06-11
+status: published
+superseded_by: none
+domain: closing-round Claude Web orchestrator substrate refusing verification ceremony; two false-positive fabrication flags; multi-substrate process holding at moment substrate refused trust
+project_scopes: framework-methodology, cross-project-substrate-methodology
+cc_task_relevance: closing-round-orchestrator-adjudication, fabrication-flag-response, disclosure-adjustment
+phase_binding: era-independent
+discipline_family: substrate-methodology
+canonical_rule: substrate-fabrication-flags-warrant-primary-source-verification-not-dismissal
+load_bearing_claims:
+  - Claude Web orchestrator substrate opened Round 9 R4 synthesis by refusing verification ceremony prior rounds built up
+  - Two methodology framings: cross-substrate agreement is not primary-source verification; two citations look fabricated
+  - Verification process held; both citations real; substrate flagging discipline operationally correct despite false positive
+  - Multi-substrate verification process functioned exactly as designed when substrate refused to trust ceremony
+applicability_triggers:
+  - Closing-round substrate emits fabrication flags on prior canonical record
+  - Substrate refuses to trust verification ceremony built by prior rounds
+  - Cross-substrate agreement conflated with primary-source verification
+mechanism_details:
+  - Cross-substrate agreement != primary-source verification (methodology framing 1)
+  - Primary-text verification is what closes the flag (mechanism)
+  - False-positive flag still operationally correct discipline
+cross_refs:
+  - Post 0087 (arc close retrospective)
+  - Post 0106 (verification substrate misquoted spec fabrication axis)
+  - Post 0110 (framework wrong about itself retraction lead)
+  - Rule 19 substrate-self-attestation discipline
+-->
+
 # When the Closing-Round Substrate Flagged Two Citations as Fabricated: What the Verification Process Actually Proved
 
 **Author:** Jimmy McColery

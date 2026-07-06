@@ -1,3 +1,32 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0036
+title: Why a PKCE Magic Link Needs a Click to Confirm Interstitial
+date_published: 2026-05-24
+status: published
+superseded_by: none
+domain: RoomToLife auth failure diagnosis: PKCE single-use codes consumed by iOS Mail LinkPresentation pre-fetch and corporate gateway scanners breaking magic-link flow on iOS
+project_scopes: pin-paradise, cross-cutting
+cc_task_relevance: empirical-BUILD, verification-validation
+phase_binding: Phase-1
+discipline_family: none-applicable
+canonical_rule: PKCE single-use codes require click-to-confirm interstitial that defers exchangeCodeForSession from GET request handler to explicit user click because email environments pre-fetch URLs before the user does
+load_bearing_claims:
+  - iOS Mail fires GET via LinkPresentation before user tap consuming single-use code
+  - Corporate gateway scanners (Microsoft Defender Safe Links, Outlook, Google Workspace) do similar pre-fetching
+  - Fix is small: interstitial page defers exchange from GET handler to explicit user click
+applicability_triggers:
+  - CC building passwordless auth flow with PKCE
+  - CC diagnosing code already exchanged or invalid grant on iOS specifically
+  - CC evaluating any single-use-token email auth flow
+mechanism_details:
+  - RoomToLife 90s Bedroom project targeting December 2026 V1
+  - Supabase email-OTP code-exchange with PKCE RFC 7636 layered on top
+  - Working end-to-end on desktop within one day; broke on iOS
+cross_refs:
+  - Post 0037 five deploy lessons (adjacent RoomToLife shipping arc)
+  - Post 0038 practitioner-validated patterns
+-->
+
 # Why a PKCE Magic Link Needs a Click-to-Confirm Interstitial
 
 **Author:** Jimmy McColery

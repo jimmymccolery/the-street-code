@@ -1,3 +1,36 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0110
+title: When the Framework Was Wrong About Itself: Eight Rounds, Five Catches, and the Discipline That Earned the Corrections
+date_published: 2026-06-29
+status: published
+superseded_by: none
+domain: retraction lead post; eight rounds of multi-substrate research mid-May to mid-June 2026; five corrections that improved framework grounding; discipline that earned the corrections
+project_scopes: framework-methodology, framework-defense, discipline-canonization
+cc_task_relevance: retraction-arc-lead, framework-correction-writing, multi-substrate-verification-discipline
+phase_binding: era-independent
+discipline_family: framework-methodology
+canonical_rule: multi-substrate-verification-necessary-but-not-sufficient-primary-text-catches-what-substrate-paraphrase-chains-miss
+load_bearing_claims:
+  - Eight rounds of multi-substrate research produced corrections at each round
+  - Corrections include structural not just bibliographic: collapsed emotion variable needing three-way split; wrong trait source for encoding pathway; uncorroborated universalist claim later corroborated by primary-text re-read; stale wrong flags carried four rounds
+  - Cross-substrate convergence is not proof; primary-text grounding catches what substrate paraphrase chains miss
+  - Orchestrator-class substrate is where catches happen most reliably when it actually opens primary sources
+applicability_triggers:
+  - Framework claims accumulated across multi-round research needing retraction pass
+  - Substrate paraphrase chains converged on misreading
+  - Canonical records carrying stale flags constraining current reasoning
+mechanism_details:
+  - Retraction table = substantive contribution of lead post; per-correction posts follow
+  - Publishing openly binds framework to discipline accountability
+  - Primary-text re-read at different reading depths catches what substrate consensus misses
+cross_refs:
+  - Post 0105 (Round 9 R4 fabrication flags; part of arc)
+  - Post 0106 (verification substrate misquoted spec; part of arc)
+  - Posts 0111-0128 (ten-layer framework architecture; substantive corrections implemented)
+  - Post 0117 (Wiredu mapping reversal)
+  - Post 0087 (arc close retrospective)
+-->
+
 # When the Framework Was Wrong About Itself: Eight Rounds, Five Catches, and the Discipline That Earned the Corrections
 
 **Author:** Jimmy McColery

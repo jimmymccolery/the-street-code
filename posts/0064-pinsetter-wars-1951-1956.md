@@ -1,3 +1,33 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0064
+title: The pinsetter wars 1951-1956: how AMF and Brunswick raced to automate American bowling
+date_published: 2026-06-01
+status: published
+superseded_by: none
+domain: bowling history five-year technology-and-strategy race 1951-1956 AMF vs Brunswick
+project_scopes: pin-paradise
+cc_task_relevance: era-progression-design, pre-1957-industry-mechanic-modeling, historical-fidelity-research
+phase_binding: era-independent
+discipline_family: none-applicable
+canonical_rule: The five-year window 1951-1956 was the contested pinsetter-wars period between AMF and Brunswick that resolved by 1957 into an equilibrium shaping American bowling for four decades
+load_bearing_claims:
+  - Compressed narratives obscure what happened during 1951-1956 contested window
+  - Two companies competed across technology commercial-deployment distribution-strategy and cultural framing
+  - Equilibrium settled by 1957 install-count parity ended contested period
+  - Empirical anchors from industry trade press museum archives newspaper coverage
+applicability_triggers:
+  - When designing pre-1957 bowling-tycoon mechanic covering pinboy-to-pinsetter transition
+  - When authoring era-progression research on contested-technology-window dynamics
+  - When mechanic design needs multi-dimensional competition modeling
+mechanism_details:
+  - Competition ran on technology-development commercial-deployment distribution-strategy and cultural framing dimensions
+  - Alley operator class determined which equipment they adopted
+cross_refs:
+  - Post 0045 (12-Cent Proposition AMF pricing)
+  - Post 0056 (mechanic as new friction class)
+  - Post 0069 (pinboy pinsetter mechanic inheritance)
+-->
+
 # The pinsetter wars 1951-1956: how AMF and Brunswick raced to automate American bowling
 
 **Author:** Jimmy McColery
