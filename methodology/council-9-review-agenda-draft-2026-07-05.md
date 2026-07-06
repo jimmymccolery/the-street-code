@@ -193,6 +193,44 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the pattern absorb into Rule 19 as sub-clause (Rule 19 extension for canonical schema surfaces)?
 - Should the pattern remain as METHODOLOGY OBSERVATION only pending strengthening (e.g., n=3 cross-arc reproduction)?
 
+### Item 16 — Post 0176 hypothesis 3 empirical confirmation at n=2000 (Post 0182)
+
+**Filed n=2000 empirical foundation at Post 0182 2026-07-06 Tuesday afternoon.** The Phase 14 100-seed meta-analysis at Bowling Alley Scene (2000 simulations = 20 dyad orderings x 100 seeds) fired Marcus Reed Surface 8 heuristic (observed within variance > observed between variance with characterCount >= 2) at 2000 of 2000 runs at 100.0 percent fire rate. This is the largest-scale empirical confirmation to date of Post 0176 hypothesis 3 (Layer 3 dimensions alone are the wrong observation surface for anchor differentiation at labor-Scene mechanical-repetition-dominance regime). Combined with Phase 11 Item 1 disambiguation between h2 and h3 at Island Scene (Post 0177: both in play at different observation channels; JS divergence 0.0381 to 0.0890) and Phase 14 seed=42 fire (Post 0181), the framework has n=2000 empirical foundation for canonizing observation-surface-triad discipline. Council #9 review questions:
+
+- Does Post 0176 hypothesis 3 promote from disambiguation-triad-in-play to canonical observation-surface-triad specification (sofroniewAuditRuntime + action-frequency-histogram + landmark memory encoding as three complementary observation channels)?
+- Should sofroniewAuditRuntime documentation absorb the canonical spec that Layer 3 pooled variance decomposition alone is insufficient for anchor differentiation at labor-Scene mechanical-repetition-dominance regime?
+- Does the empirical foundation extend to other Scene mechanic regimes (survival + Rooms Tier 2 + 90s Life Builder) OR is it Scene-specific canonization?
+- Should the framework surface an observation-surface-triad usage guide for future substrate consumers evaluating anchor differentiation at their own Scenes?
+
+### Item 17 — Candidate methodology observation single-seed-empirical-claim-anti-pattern (Post 0182 n=1 fire)
+
+**Filed n=1 at Post 0182 2026-07-06 Tuesday afternoon.** The Phase 13 Stas vs Marvin social action rate claim (Stas 4.1 percent chat_with_coworker vs Marvin 0 percent at seed=42) was REVERSED by the 100-seed meta-analysis (Stas 1.79 percent vs Marvin 1.84 percent; delta -0.05pp; bootstrap 95 percent CI [-0.32, 0.23]pp crosses zero). The single-seed observation was seed-specific artifact. Reversal cost is four surfaces of Rule 24 correction propagation (Post 0180 correction notice + Post 0182 correction publication + Post 0181 forward-reference amendment + framework-research-index update). Multi-seed confirmation gate would have cost 1.1 seconds of wall clock time. Candidate discipline: "Any empirical claim promoted to load-bearing scope at CC-OPTIMIZED-SUMMARY v2.0 block or Post 0146-scope architecture reference MUST pass multi-seed confirmation gate (minimum n=100 seeds by default; scaling to n=1000 for framework-methodology-scope claims) before publication." Council #9 review questions:
+
+- Does the single-seed-empirical-claim-anti-pattern promote to canonical discipline at empirical-claim-publication surface?
+- Should the discipline absorb into Rule 20 Family A as sub-shape 28 candidate (empirical-claim-publication-without-multi-seed-confirmation-gate) at canonization-propagation gap scope?
+- What is the minimum multi-seed sample size threshold for canonization compliance (n=100? n=1000?) at different claim scopes (CC-OPTIMIZED-SUMMARY load-bearing vs Post-0146-architecture-reference)?
+- Should the discipline extend to all sim-ai empirical claims OR narrow to framework-methodology-scope claims only?
+- Should the discipline promote at n=1 given empirical foundation is already at n=2000 within the corrective arc itself?
+
+### Item 18 — Candidate methodology observation gaman-observation-channel discovery at anchor-single-channel-obscuring scope (Post 0182 Yuki n=800 empirical foundation)
+
+**Filed n=800 empirical foundation at Post 0182 2026-07-06 Tuesday afternoon.** Yuki Tanaka's biographical mechanism density produces action-signature differentiation on action-histogram observation channel (handle_stuck_pin 12.8 percent vs Cesar 4.2 + Walt 9.6 + Marvin 10.0 + Stas 11.2) while simultaneously producing Marcus Reed Surface 8 FLAG fire at 100 percent rate across 800 Yuki-inclusive runs (pooled Layer 3 within-variance greater than between-variance). This is not a bug; it is a research-worthy discovery of biographical mechanism density producing observation-channel-obscuring behavior consistent with gaman-endurance discipline (conformity + suppress-visible-affect + endurance-under-pressure survival strategy from wartime dispossession). The FLAG interpretation must distinguish this anchor-single-channel-obscuring pattern from framework-scale-observation-channel-inadequacy (Post 0176 hypothesis 3 whole-Scene pattern). Council #9 review questions:
+
+- Does the gaman-observation-channel discovery promote to framework-methodology-scope canonical pattern (sofroniewAuditRuntime FLAG output extended with per-anchor observation-channel-triad breakdown)?
+- Should the pattern route FLAG interpretation to different correction pathways (character biography content review vs framework observation-surface architecture review)?
+- Does the pattern generalize to other biographical mechanism density patterns (stoicism + tribal-conformity + institutional-conformity) beyond gaman-specific instantiation?
+- Should the pattern promote AT n=800 (single-anchor evidence at strong empirical foundation) OR require cross-anchor reproduction (n=2 anchors demonstrating similar pattern)?
+- Related to the meta-analysis-sweep-harness reusable pattern (see Council 9 Item 19 candidate below); the discovery pathway itself required the sweep harness which suggests coupled canonization consideration
+
+### Item 19 — Candidate methodology observation meta-analysis-sweep-harness as reusable pattern for session-close discipline extension (Post 0182 n=1 fire)
+
+**Filed n=1 at Post 0182 2026-07-06 Tuesday afternoon.** The Phase 14 meta-analysis harness at sim-ai/scripts/phase14-pinboy-meta-analysis-sweep.ts executed 2000 simulations at 1.1 second wall clock demonstrating that post-arc empirical confirmation gate is inexpensive session-close discipline extension. Similar in spirit to Post 0178 cross-consumer typecheck extension for session-close (7th stage candidacy). Harness is parameterized on ANCHORS array + SEEDS constant + dyad ordering enumeration; scales linearly to 20-anchor scale at ~20 second wall clock. Candidate discipline: "Any Sim AI comprehensive-arc close involving anchor addition or Scene mechanic modification SHOULD execute meta-analysis sweep as session-close discipline extension analogous to Post 0178 cross-consumer typecheck extension." Council #9 review questions:
+
+- Does the meta-analysis-sweep-harness promote to canonical session-close discipline extension at Sim AI comprehensive-arc scope?
+- Should the harness bake into pre-commit hook OR into CI OR remain operator-manual-invocation only?
+- Is the pattern coupled with Item 17 single-seed-empirical-claim-anti-pattern canonization (harness enables discipline; discipline defines harness usage triggers)?
+- What is the scope discipline boundary (all Sim AI code changes vs only anchor/Scene mechanic changes vs framework-methodology-scope changes only)?
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
