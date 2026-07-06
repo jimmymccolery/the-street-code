@@ -51,6 +51,7 @@ Sim AI substrate — HEXACO + attachment + memory architecture + personality par
 - 0178 Latent LandmarkEvent bug + cross-consumer typecheck discipline (27-day-latent Q56 recurrence; sub-shape 22 n+3; sim-ai pre-commit hook installed)
 - 0179 Phase 12 seven-item comprehensive arc (Layer 3 new state channel + landmark empirical + H-NEW-5 full experiment + dialogue lint + paper-layer refactor + Post 0128 schema + catalog non-duplication)
 - 0180 Phase 13 Pinboy NPC substrate integration (Marvin + Stas anchors + Bowling Alley Scene + injury subsystem + empirical validation; framework-to-product-application)
+- 0181 Phase 14 Open Alley sim-worker integration + 5-pinboy anchor roster (PinboyRunner + Pinboy Observatory + Cesar + Walt + Yuki sibling anchors; 10-dyad experiment; test count 968→1001)
 
 **Framework research (deferred / Phase-4+) — 2 posts (list authoritative):**
 - 0130 Reserved Relationship-Mode Slot Schema Placeholder
