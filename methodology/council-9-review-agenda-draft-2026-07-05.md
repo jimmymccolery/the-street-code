@@ -261,6 +261,46 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Is the pattern coupled with Item 17 single-seed-empirical-claim-anti-pattern canonization (harness enables discipline; discipline defines harness usage triggers)?
 - What is the scope discipline boundary (all Sim AI code changes vs only anchor/Scene mechanic changes vs framework-methodology-scope changes only)?
 
+### Item 20 — Candidate methodology observation retired-workflow-recurrence-anti-pattern (Post 0183 n=1 fire; RETROACTIVE FILING per Post 0185 audit remediation 2026-07-06 Tuesday afternoon)
+
+**Filed n=1 at Post 0183 2026-07-06 Tuesday afternoon (retroactive addition to agenda 2026-07-06 Tuesday late afternoon per Post 0185 audit; original Post 0183 shipment claimed Item 20 filing but did not actually update this agenda file — Rule 19 anti-fabrication defect surfaced at Post 0185 audit).** Post 0183 comprehensive Item 0334 clean-up documented 5-fire within-Phase-3 recurrence of retired Item 0334 external civil-rights consultant workflow across Posts 0177 + 0179 + 0180 + 0182 + polish_queue Items 353-355 + Council #9 agenda Item 11 + sim-ai framework-research-index + verbal operator-facing recurrence. Candidate discipline: "Any workflow that has been RETIRED via canonical registry citation must not appear as active recommendation in subsequent CC-authored content across ANY framework surface (code + posts + memory + polish_queue + indexes + agendas + metadata fields + operator-facing conversation)." Council #9 review questions:
+
+- Does the retired-workflow-recurrence-anti-pattern promote to canonical discipline at framework-methodology scope?
+- Should the pattern absorb into Rule 22 verify-against-canonical-files with retirement-registry-verification protocol extension?
+- Should the pattern promote to standalone Rule 26 (retired-workflow-non-recurrence-discipline) with cross-cutting scope over Rules 19 + 20 + 22 + 24?
+- What enforcement mechanism strengthens the discipline (pre-commit hook scanning for retired-workflow identifiers + memory-write-time canonical-file verification + retirement-registry-first-consultation protocol at framework-research-index routing)?
+- Framework methodology observation from Post 0183 arc: framework empirical discipline scales asymmetrically to write-side vs read-side surfaces; write-side surfaces protected by typecheck + audit + operator-review at commit time; read-side surfaces (memory + CC-OPTIMIZED-SUMMARY distillations + framework-research-index natural-language descriptions + operator-facing conversation recall) lack equivalent protection because CC-side memory recall + generation happens per-session without commit-time review
+
+### Item 25 — Candidate methodology observation substrate-triangulation-as-methodology-adjudication discipline (Post 0185 Arc B n=1 fire)
+
+**Filed n=1 at Post 0185 2026-07-06 Tuesday afternoon.** Arc B Fiske adjudication kit at `~/Desktop/FISKE-RELATIONSHIP-MODE-ADJUDICATION-KIT/` (9 files, 76 KB) deploys Phase 7.1f-analog substrate-triangulation methodology for METHODOLOGY ADJUDICATION QUESTIONS rather than content-authoring questions. Both patterns share substrate-triangulation methodology core (4 substrates + 4-of-4 convergence classification + Marcus Reed audit gate + operator ratification) + differ in target output (content population vs methodology verdict). Council #9 review questions:
+
+- Does substrate-triangulation-as-methodology-adjudication promote to canonical Phase 7.1f-analog methodology for framework methodology-adjudication questions?
+- Should the pattern extend beyond Fiske to other methodology-adjudication questions at framework scope (per-tradition primitives per Round 10a synthesis + culturalBaselines paper-layer vs code-layer canonization decisions per Post 0173 Pattern D + attachment ECR-R continuous vs categorical decision + additional Layer 3 channel candidacies)?
+- Should the pattern absorb into Rule 21 operator-realism-check as substrate-adjudication-before-implementation extension?
+- What is the timing discipline for deploying methodology-adjudication substrate-triangulation (before implementation vs concurrent with implementation vs after empirical validation)?
+- Related to Item 26 meta-prompt-improvement-first-class-output pattern: both are Phase 7.1f-family extensions covering methodology + meta-prompt scopes
+
+### Item 26 — Candidate methodology observation meta-prompt-improvement-first-class-output discipline (Post 0185 Arc A expansion n=1 fire)
+
+**Filed n=1 at Post 0185 2026-07-06 Tuesday afternoon.** Arc A Phase 7.1f deployment kit mid-arc scope expansion added Item 1134 (operator-authored character-creation 17-section meta-prompt) improvement as first-class output alongside 3 anchor populations. Item 1134 was created via Grok single-substrate iterative-refinement 2026-06-04 (15 documented operator-Grok turns) and has NOT been substrate-triangulated. Kit expansion added ITEM_1134_SOURCE_META_PROMPT.md + ITEM_1134_IMPROVEMENT_META_PROMPT.md + 6 additional convergence adjudications (Section-level improvements + cross-section gap candidates + anti-stereotype guardrail refinements + multi-substrate consistency + cross-anchor validation + sample-character regeneration). Council #9 review questions:
+
+- Does meta-prompt-improvement-first-class-output promote to canonical methodology for canonical-infrastructure improvement events?
+- Should the pattern extend to other operator-authored canonical infrastructure (Round 9 R4 canonical generative-model spec + Round 10a per-tradition primitives synthesis + Marcus Reed Surface 8 canonical state spec + operational discipline rules canonical file)?
+- Should the pattern absorb into sub-shape 23 canonical-infrastructure-consultation discipline as improvement-of-canonical-infrastructure extension?
+- What is the ratification pathway for meta-prompt improvements (Rule 24 addendum-preserves-immutability at Item 1134 canonical file OR versioned v1.0 → v1.1 canonical bump)?
+- Related to Item 25 substrate-triangulation-as-methodology-adjudication: both are Phase 7.1f-family extensions
+
+### Item 27 — Candidate methodology observation architectural-foundation-scaffold-with-consumer-deferral discipline (Post 0185 Arc C n=1 fire)
+
+**Filed n=1 at Post 0185 2026-07-06 Tuesday afternoon.** Arc C Wireduan generosity-ledger scaffold shipped at sim-ai commit ee8c247 as ARCHITECTURAL FOUNDATION with consumer sites (Island + Bowling Alley Scene tick logic + community-response gates) NOT SHIPPED (Steam V1.0 arc scope pending V1 ship date pause resolution). Comprehensive design + intent + Steam V1.0 unlock plan preserved in JSDoc at layer3Accumulators.ts `communal_standing_b` field + Post 0185 body + polish_queue Item at Open Alley + memory file for future-work-executor context preservation across calendar-time gap. Council #9 review questions:
+
+- Does architectural-foundation-scaffold-with-consumer-deferral promote to canonical scaffold-then-populate discipline?
+- Should the pattern extend to other framework surfaces where consumer-side unlock depends on external decisions (Post 0130 Fiske + Post 0128 protected-class fields + additional Layer 3 channels per R10d dimensions 5-6 unclaimed)?
+- What is the context-preservation discipline for future-work-executor consumption (JSDoc + Post + memory + polish_queue quadruple-redundancy vs single-source-of-truth vs graduated-detail)?
+- Should the pattern absorb into Post 0184 read-side-vs-write-side asymmetric-protection discipline as write-side-scaffold-plus-read-side-context-preservation extension?
+- Related to Item 20 retired-workflow-recurrence-anti-pattern: context preservation across calendar-time gap is complementary to retired-workflow-non-recurrence discipline (both address multi-session state-preservation problems)
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
