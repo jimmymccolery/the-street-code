@@ -6,7 +6,7 @@
 
 ---
 
-## era-independent (82 posts)
+## era-independent (65 posts; grep-verified)
 
 Posts that apply regardless of framework phase. These are the highest-value posts for cross-context CC scanning because they don't decay with phase progression.
 
@@ -27,7 +27,7 @@ Posts that apply regardless of framework phase. These are the highest-value post
 
 ---
 
-## Phase-1 (45 posts)
+## Phase-1 (51 posts; grep-verified)
 
 Foundation era — framework establishment + Marcus Reed + HEXACO ratification + Item 1134 comprehensive re-ingestion + Round 9-13 substrate research + V1 pause + audit-first sequencing.
 
@@ -42,7 +42,7 @@ Foundation era — framework establishment + Marcus Reed + HEXACO ratification +
 
 ---
 
-## Phase-2 (18 posts)
+## Phase-2 (19 posts; grep-verified)
 
 Empirical BUILD era — Phase 2.x aggression-fleeing + kindness mechanics + pair-relational sentiment + landmark ripple + 2-Sim island simulation + Council #7 candidacy synthesis.
 
@@ -60,7 +60,7 @@ Empirical BUILD era — Phase 2.x aggression-fleeing + kindness mechanics + pair
 
 ---
 
-## Phase-3 (20 posts)
+## Phase-3 (31 posts; grep-verified)
 
 Personality + castaway + Fires A-F reshaping arc + Council #6 close + population-scaling + iOS empirical close.
 
@@ -89,7 +89,7 @@ Personality + castaway + Fires A-F reshaping arc + Council #6 close + population
 
 ---
 
-## Phase-4+ (4 posts)
+## Phase-4+ (3 posts; grep-verified)
 
 Post-V1 deferred scope: cultural personhood baselines A/B/C full deployment + communal accountability mechanic + Nigrescence framework operationalization + perpetual-surprise compression research.
 

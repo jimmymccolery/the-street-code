@@ -6,11 +6,11 @@
 
 ---
 
-## sim-ai (42 posts)
+## sim-ai (44 posts; grep-verified)
 
 Sim AI substrate — HEXACO + attachment + memory architecture + personality parameters + Layer 3 accumulators + island reference Scene + population scaling.
 
-**Foundation (Phase-1) — 20 posts:**
+**Foundation (Phase-1) — 17 posts (list authoritative; verify via `grep "proj:.*sim-ai" POSTS-INDEX.md | grep "phase:Phase-1"`):**
 - 0081 Why an Indie Bowling Game Has a Philosophy of Mind
 - 0084 Cite the Process Theory: Active Inference Falsifiability
 - 0100 Self-Delivery as Marcus Reed Structural Mitigation
@@ -29,7 +29,7 @@ Sim AI substrate — HEXACO + attachment + memory architecture + personality par
 - 0136 What V1 Pause Bought: Empirical BUILD Mode
 - 0146 Ten Layers of Model Not One Layer of Prompt (NPC Architecture)
 
-**Empirical BUILD (Phase-2 + Phase-3) — 15 posts:**
+**Empirical BUILD (Phase-2 + Phase-3) — 15 posts (list authoritative):**
 - 0071 Orchestrator-Class Pattern-Matching from Proximal Signals
 - 0144 Buffer That Overflowed by One
 - 0149 Population-Scaling Phase A Complete + Phase B Baseline
@@ -46,11 +46,11 @@ Sim AI substrate — HEXACO + attachment + memory architecture + personality par
 - 0170 Six Mechanic Failures Fell in One Afternoon: Fires A-F
 - 0171 Post 0170 Shipped with Unrealistic Mechanic: Fire E v3
 
-**Framework research (deferred / Phase-4+) — 3 posts:**
+**Framework research (deferred / Phase-4+) — 2 posts (list authoritative):**
 - 0130 Reserved Relationship-Mode Slot Schema Placeholder
 - 0137 Perpetual Surprise Compression Edge Case
 
-**Sub-shape / methodology observations — 4 posts:**
+**Sub-shape / methodology observations — 9 posts (list authoritative):**
 - 0087 Arc Close Retrospective
 - 0090 Five Substrates and One Research Question
 - 0095 Marcus Reed Tier 2: Substrate Extends Discipline
@@ -63,7 +63,7 @@ Sim AI substrate — HEXACO + attachment + memory architecture + personality par
 
 ---
 
-## pin-paradise (22 posts)
+## pin-paradise (20 posts; grep-verified)
 
 Pin Paradise — bowling tycoon commercial product (V1 ship target 2026-10-31). Disclosure Approach 2 (soft) operative through then.
 
@@ -90,7 +90,7 @@ Pin Paradise — bowling tycoon commercial product (V1 ship target 2026-10-31). 
 
 ---
 
-## street-code-methodology (58 posts)
+## street-code-methodology (66 posts; grep-verified)
 
 The Street Code framework methodology — discipline canonization + Council methodology + verify-against-canonical-files + Marcus Reed Protocol + operator-realism-check + Rule 14 Madisonian + Rule 19 anti-fabrication + Rule 20 canonization-propagation + Rule 11 substrate-specialization.
 
@@ -115,7 +115,7 @@ The Street Code framework methodology — discipline canonization + Council meth
 
 ---
 
-## cross-cutting (62 posts)
+## cross-cutting (54 posts; grep-verified)
 
 Posts that span multiple projects or address framework-methodology surfaces without specific product binding.
 
@@ -150,7 +150,7 @@ Rooms product — 3D cozy simulators + ecosystem substrate consumer.
 
 ---
 
-## open-alley (5 posts)
+## open-alley (6 posts; grep-verified)
 
 Open Alley — Memory Lanes backend codename; bowling alley tycoon research infrastructure.
 

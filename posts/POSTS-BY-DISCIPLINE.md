@@ -6,7 +6,7 @@
 
 ---
 
-## Rule 20 Family A — canonization-propagation gap discipline (24 posts)
+## Rule 20 Family A — canonization-propagation gap discipline (23 posts; grep-verified)
 
 **Canonical rule:** When canonical-state mutations produce updates, mutations must propagate across ALL canonization layers (canonical files + memory files + posts + CI paste-blocks + deploy kits + regen pipeline + tracking surfaces + deployed environments). Layer drift produces stale downstream reference.
 
@@ -44,7 +44,7 @@
 
 ---
 
-## Rule 14 Madisonian — cross-substrate Council verdict discipline (30 posts)
+## Rule 14 Madisonian — cross-substrate Council verdict discipline (36 posts; grep-verified)
 
 **Canonical rule:** When cross-substrate substrates disagree at architectural-lock cycles, adopt stricter-substrate reasoning-chain integrity over softer-substrate hand-waving. Prevents silent-compliance capture.
 
@@ -88,7 +88,7 @@
 
 ---
 
-## Rule 19 — anti-fabrication + Marcus Reed Protocol (20 posts)
+## Rule 19 — anti-fabrication + Marcus Reed Protocol (18 posts; grep-verified)
 
 **Canonical rule:** Substrate self-attestations (procedural-metadata, brought-forward claims) are structurally unenforceable. Canonical-content reproduction with mechanical string comparison is the load-bearing gate. Marcus Reed named guardrail travels across substrates.
 
@@ -115,7 +115,7 @@
 
 ---
 
-## Rule 11 — substrate-role specialization (8 posts)
+## Rule 11 — substrate-role specialization (11 posts; grep-verified)
 
 **Canonical rule:** Substrates specialize by role (brainstorm generative-breadth + citation research-rigor + quantification anchoring + orchestrator synthesis + adversarial calibration). Substrate routing must match task-class not capability-rank.
 
@@ -133,7 +133,7 @@
 
 ---
 
-## operator-realism-check discipline (17 posts)
+## operator-realism-check discipline (7 posts as primary discipline tag; ~17 posts touch operator-realism-check across primary + secondary references)
 
 **Canonical rule (canonization candidate):** When framework calibration decisions require operator judgment on real-world realism, operator's biology/psychology intuition catches CC-proposed blunt interpretations before they ship. Two subtypes: reshape-and-ship (catch simplification) + don't-ship (recognize over-constraint).
 
@@ -164,7 +164,7 @@
 
 ---
 
-## verify-against-canonical-files discipline (10 posts)
+## verify-against-canonical-files discipline (11 posts as primary discipline tag; grep-verified)
 
 **Canonical rule (canonization candidate class-(h)):** CC may not interpret operator's general autonomous-execution authorization as substantive RATIFICATION-LEVEL decision authority for canonical-state changes. Explicit operator signature/ratification gates apply distinctly from execution-direction delegation. Memory-authorship discipline must verify canonical-infrastructure references against polish_queue.md + retirement dispositions before writing.
 
@@ -187,7 +187,7 @@
 
 ---
 
-## post-audit-correction extension discipline (3 posts within-Phase-3-arc)
+## post-audit-correction extension discipline (2 posts as primary tag; 4 posts represent the n=3 within-Phase-3-arc discipline foundation: 0163 + 0167 + 0171 + 0172)
 
 **Canonical rule (extension proposal):** Extends Post 0163 post-synthesis audit from BUILD-time scope to post-publication scope. Formalizes addendum-post-preserves-immutability pattern (Post 0167 first fire; Post 0171 Fire E v3 revision; Post 0172 Item 0334 retirement).
 
@@ -199,7 +199,7 @@
 
 ---
 
-## none-applicable (65 posts)
+## none-applicable (60 posts; grep-verified)
 
 Posts that don't map cleanly to a single discipline family. These include:
 - Bowling industry historical research (Pin Paradise research foundation)
