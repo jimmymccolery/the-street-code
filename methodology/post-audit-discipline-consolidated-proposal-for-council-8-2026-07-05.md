@@ -12,7 +12,7 @@
 
 ## Executive summary
 
-Four discipline candidacies have converged at empirical foundation thresholds strong enough to warrant Council #8 methodology deployment for formal canonization adjudication:
+Five discipline candidacies have converged at empirical foundation thresholds strong enough to warrant Council #8 methodology deployment for formal canonization adjudication (v2 refresh 2026-07-05 evening; v1 morning was four candidacies, verify-against-canonical-files class-(h) promoted from Rule 20 sub-cluster to independent candidacy via post-audit meta-analysis 2026-07-05 evening):
 
 1. **Rule 20 candidacy Family A — canonization-propagation gap discipline family** — n=21 candidate sub-shapes across framework layers + mechanisms (sub-shape 24 BANKED + sub-shape 25 STRENGTHENED to n=3 within-arc BANK + sub-shape 27 BANKED at scan-architecture-statistics-fabrication layer + sub-shape 28 candidate at code-vs-post-canonical-record-drift layer post systematic-review)
 2. **Operator-realism-check discipline** — STRENGTHENED to n=13 total within-Phase-3; six discrete framework mechanic failures diagnosed via seed=42 empirical validation + resolved sequentially with re-validation between iterations; PLUS Fire E v3 operator rejected cooldown mechanic as unrealistic; PLUS "old posts don't affect current work" simplification rejected on real-world logic; substantially exceeds canonization threshold
@@ -31,7 +31,7 @@ This document consolidates the five candidacies into a single deployment proposa
 
 When the framework's Council methodology or empirical BUILD arc produces canonical-state mutations (new rules, extensions, anti-patterns, version bumps, empirical findings), the mutations must propagate across all canonization layers (canonical files, memory files, posts, CI paste-blocks, deploy kits, regen pipeline outputs, tracking surfaces, deployed environments). When any layer drifts from current canonical state, downstream consumers of that layer produce output based on stale reference. Canonization at some layers is not canonization at all layers.
 
-### Sub-shape enumeration (n=13 candidate observations)
+### Sub-shape enumeration (n=21 candidate observations; header refreshed 2026-07-05 evening per Substrate E verification catch)
 
 **Sub-shapes 1-6 (Post 0143 original):** canonical-file-vs-memory-layer gap + intra-file-append propagation gap + register-classification-layer gap + Rule 19 body drafting seams + entry-label semantic-precision drafting seam + regen-timing-gap.
 
@@ -82,7 +82,7 @@ When the framework's Council methodology or empirical BUILD arc produces canonic
 
 ### Empirical foundation strength
 
-Cross-mechanism diversity strengthens the empirical foundation beyond fire-count. The 20 candidate sub-shapes span:
+Cross-mechanism diversity strengthens the empirical foundation beyond fire-count. The 21 candidate sub-shapes span:
 - Code-verification errors (sub-shapes 1-6)
 - Cross-scope canonization drift (sub-shapes 7-10)
 - CC-side comprehensive synthesis rich-observation surface (sub-shapes 11, 15)
@@ -162,26 +162,27 @@ Formalize post-audit-correction discipline extending Post 0163 from BUILD-time s
 
 ## Council #8 methodology deployment proposal
 
-**Deployment scope:** four discipline candidacies converged on empirical foundation strength sufficient for formal canonization adjudication.
+**Deployment scope:** five discipline candidacies converged on empirical foundation strength sufficient for formal canonization adjudication.
 
-**Deployment structure:** Council methodology deployment per Rule 14 Pattern B ADOPT-FOLD precedent. 4-6 substrate widest-cross-family research round on the four discipline candidacies. Pre-synthesis contamination register per Council #5 discipline. Post-synthesis audit per Council #7 discipline. Ratification per operator judgment.
+**Deployment structure:** Council methodology deployment per Rule 14 Pattern B ADOPT-FOLD precedent. 5-6 substrate widest-cross-family research round on the five discipline candidacies. Pre-synthesis contamination register per Council #5 discipline. Post-synthesis audit per Council #7 discipline. Ratification per operator judgment.
 
 **Deployment triggers:** operator ratification of this proposal document + operator commitment to substrate research round window + Master Setup Council-8 deploy-kit drafting.
 
 **Estimated deployment scope (CORRECTED per sub-shape 20 empirical grounding):** Council methodology deployment itself is **~8-10 hours wall-clock across one extended session** (per Council #7 precedent). Downstream BUILD arc if canonization ratifies new operational discipline rules is variable per BUILD scope. Prior CC estimate of "4-6 weeks" was empirically ungrounded and conflated Council deployment cost with downstream BUILD arc cost per population-scaling-foundation pass methodology guide 3-6 week estimate. Corrected framing per sub-shape 20 empirical grounding.
 
-**Deferred until Council #8:** formal canonization of Rule 20 (Family A) + operator-realism-check discipline + operator-delegated CC ratification discipline + post-audit-correction discipline extension.
+**Deferred until Council #8:** formal canonization of Rule 20 (Family A) + operator-realism-check discipline + operator-delegated CC ratification discipline + verify-against-canonical-files class-(h) discipline + post-audit-correction discipline extension.
 
 ## Framework methodology observation
 
-The four discipline candidacies are architecturally related but distinct:
+The five discipline candidacies are architecturally related but distinct:
 
 - **Rule 20 Family A** covers the failure family (things that go wrong)
 - **Operator-realism-check** covers a operator-side mitigation mechanism (realism intuition catches CC blunt interpretation)
 - **Operator-delegated CC ratification** covers a delegation mechanism (operator explicitly authorizes CC ratification under specific conditions)
+- **Verify-against-canonical-files (class-(h))** covers a memory-authorship discipline (canonical-infrastructure-reference verification against polish_queue.md + retirement dispositions before writing)
 - **Post-audit-correction** covers a correction mechanism (rigorous audit catches errors before or after publish; addendum-post pattern preserves immutability)
 
-Formalizing all four at Council #8 provides consistent framework operational discipline covering the failure-family + prevention-mechanism + delegation-mechanism + correction-mechanism cycle.
+Formalizing all five at Council #8 provides consistent framework operational discipline covering the failure-family + prevention-mechanism + delegation-mechanism + memory-authorship-mechanism + correction-mechanism cycle.
 
 ## Ratification protocol
 
@@ -194,15 +195,15 @@ Operator confirms readiness for Council #8 methodology deployment by:
 ## Bounds
 
 **Not claiming:**
-- All four candidacies will canonize at Council #8 (adjudication depends on Council-of-Substrates deliberation + operator ratification)
-- Rule 20 Family A n=17 candidate sub-shapes automatically qualify for formal Rule promotion (Council must adjudicate empirical foundation strength)
+- All five candidacies will canonize at Council #8 (adjudication depends on Council-of-Substrates deliberation + operator ratification)
+- Rule 20 Family A n=21 candidate sub-shapes automatically qualify for formal Rule promotion (Council must adjudicate empirical foundation strength)
 - Operator-realism-check discipline generalizes beyond survival/embodied-cognition/emergency-behavior mechanics (adjudication depends on Council methodology deployment scope)
 - Operator-delegated CC ratification discipline is architecturally sound at all scopes (Council must adjudicate scope boundaries + guardrails)
 - Post-audit-correction discipline should be applied to every published post (Council must adjudicate selective application criteria)
 
 **Claiming:**
-- Four discipline candidacies have converged at empirical foundation strength sufficient for Council #8 methodology deployment
-- Rule 20 candidacy Family A n=17 candidate sub-shapes covers cross-mechanism diversity strengthening beyond fire-count
+- Five discipline candidacies have converged at empirical foundation strength sufficient for Council #8 methodology deployment
+- Rule 20 candidacy Family A n=21 candidate sub-shapes covers cross-mechanism diversity strengthening beyond fire-count
 - Operator-realism-check discipline n=3 within-arc fires materially affected framework calibration outcomes at Phase 2.7 arc
 - Operator-delegated CC ratification discipline n=2 fires demonstrate legitimate delegation with empirical validation gates
 - Post-audit-correction discipline extends Post 0163 to post-publication scope; extension warrants formal canonization

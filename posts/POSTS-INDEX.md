@@ -170,8 +170,8 @@
 
 ## Statistics (verified via grep 2026-07-05 evening post-audit)
 
-**Total posts:** 169 (post_id range 0001-0172; gaps at 0107-0109)
-**v2.0 CC-OPTIMIZED-SUMMARY blocks present:** 169 (100%; all posts retrofitted)
+**Total posts:** 171 (post_id range 0001-0174; gaps at 0107-0109)
+**v2.0 CC-OPTIMIZED-SUMMARY blocks present:** 171 (100%; all posts retrofitted; 0173 + 0174 shipped with v2.0 block at authorship time)
 
 **Project scope distribution (posts tagged with each scope in any position; sum exceeds 169 due to multi-scope tagging):**
 - street-code: 66
