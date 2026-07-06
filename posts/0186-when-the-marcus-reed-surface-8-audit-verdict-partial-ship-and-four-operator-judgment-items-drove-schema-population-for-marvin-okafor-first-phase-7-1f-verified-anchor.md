@@ -50,30 +50,30 @@ mechanism_details:
 - SelfKnowledgeState discipline excludes adult-analytical vocabulary from in-world child self-knowledge (audit strongest dimension per 4-of-4 substrate convergence); consciouslyKnows array holds SIM-legible content; cannotYetSee array holds author-side content excluded from in-world knowledge (adult-analytical labels + academic frameworks + narrative-therapy idioms + contested-historian-analytical readings)
 - Rule 24 correction addendum discipline preserves operator-authored body verbatim above --- separator + appends corrections below with defect diagnosis + remediation + auditor citation; anti-pattern is inline-mutation of body content which violates addendum-preserves-immutability
 cross_refs:
-- Post 0185 (three-arc comprehensive arc parent shipping Phase 7.1f deployment kit + Fiske adjudication kit + Wireduan scaffold) — this Post ships Post 0185 Arc A first-anchor outcome
-- Post 0183 (comprehensive Item 0334 clean-up arc) — retired workflow discipline referenced in Correction 3
-- Post 0184 (schema hygiene arc + provenance module + civilRightsFrameworkApplicable typed field) — enables Marvin schema population's provenance discipline
-- Post 0178 (latent LandmarkEvent bug + cross-consumer typecheck methodology) — pre-commit hook installed here catches sim-ai typecheck issues at commit time
-- Post 0146 (Ten-Layer NPC framework Layer 8 biographical record parent) — parent of BiographicalRecord extension shipping in this Post
-- Sub-shape 23 canonical-infrastructure-consultation-before-character-authoring discipline (n=6 fires within-Phase-3) — meta-substrate for character authoring
-- Rule 19 anti-fabrication n=6 language-model-lineage-invariant discipline (canonized 2026-07-05 evening) — verified at 23 regression tests including anti-drift assertion
-- Rule 22 verify-against-canonical-files class-h pattern — audit-independence discipline applied elevated scrutiny to shared-model-family substrate
-- Rule 24 addendum-preserves-immutability — Item 1135 correction discipline
-- Rule 21 operator-realism-check — CC-side OJ-1 through OJ-4 ratification proceeded from audit reasoning + operator "proceed comprehensively" instruction
-- Council #9 review agenda draft methodology observations (age × era framework rule + child-safety encoding pattern + convergence-is-not-truth confidence semantics + dimension-split-under-audit-scrutiny + operator-delegated CC ratification Fire #7) — filed candidacies pending 60-90 day mandatory review
-- Cross 1971 / Cross 1991 CRIS + Cross & Vandiver 2001 revision — RETIRED for pre-1968 children per age × era rule; retained for adult post-1968 Black-consciousness-movement scope
-- Sellers 1998 Multidimensional Model of Racial Identity (MMRI) — Marvin identity-stage framework citation
-- Boykin & Toms 1985 racial-socialization triple-quandary — Marvin identity-stage framework citation
-- Hughes et al. 2006 Parents' ethnic-racial socialization practices review Developmental Psychology — Marvin identity-stage framework citation
-- Phinney 1990 Psychological Bulletin review + Phinney 1992 JAR MEIM instrument + revised MEIM-R 2007 — Cesar upcoming audit round framework citation
-- Nagata 2015 review Japanese-American internment transgenerational trauma — Yuki upcoming audit round framework citation
-- Cass 1979 sexual-orientation identity stages — RETAINED for adult sexual-orientation dimension; NEVER applied to minors per child-safety discipline
-- Scott 1990 Domination and the Arts of Resistance (hidden transcript) — hidden_transcript_expression band grounding
-- Perplexity Comet substrate 2026-07-06 — origin substrate for child-safety encoding pattern (unknown_do_not_infer LockedProtectedField)
-- Claude Opus Deep Research Max substrate 2026-07-06 — origin substrate for convergence-is-not-truth caveat + narrative-therapy idiom declaration R15 recommendation
-- ChatGPT Deep Research substrate 2026-07-06 — surfaced OWI 1943 D.C. duckpin pinsetter photograph likely-intended-referent + BVL correction + live PubMed archive URLs
-- Marcus Reed Surface 8 §4 audit at Claude Opus Extended Thinking 2026-07-06 — full audit at ~/Desktop/PHASE-7-1F-MARVIN-CESAR-YUKI-DEPLOYMENT-KIT/marcus-reed-s8-audit-marvin-okafor.md
-- Item 1134 comprehensive re-ingestion doc at ~/Projects/Open Alley/content-kb/substrate-reports/item-1134-*.md — operator-authored 17-section canonical meta-prompt whose v1.1 improvements are 15 UNLOCK per audit
+- Post 0185 (three-arc comprehensive arc parent shipping Phase 7.1f deployment kit + Fiske adjudication kit + Wireduan scaffold) -- this Post ships Post 0185 Arc A first-anchor outcome
+- Post 0183 (comprehensive Item 0334 clean-up arc) -- retired workflow discipline referenced in Correction 3
+- Post 0184 (schema hygiene arc + provenance module + civilRightsFrameworkApplicable typed field) -- enables Marvin schema population's provenance discipline
+- Post 0178 (latent LandmarkEvent bug + cross-consumer typecheck methodology) -- pre-commit hook installed here catches sim-ai typecheck issues at commit time
+- Post 0146 (Ten-Layer NPC framework Layer 8 biographical record parent) -- parent of BiographicalRecord extension shipping in this Post
+- Sub-shape 23 canonical-infrastructure-consultation-before-character-authoring discipline (n=6 fires within-Phase-3) -- meta-substrate for character authoring
+- Rule 19 anti-fabrication n=6 language-model-lineage-invariant discipline (canonized 2026-07-05 evening) -- verified at 23 regression tests including anti-drift assertion
+- Rule 22 verify-against-canonical-files class-h pattern -- audit-independence discipline applied elevated scrutiny to shared-model-family substrate
+- Rule 24 addendum-preserves-immutability -- Item 1135 correction discipline
+- Rule 21 operator-realism-check -- CC-side OJ-1 through OJ-4 ratification proceeded from audit reasoning + operator "proceed comprehensively" instruction
+- Council #9 review agenda draft methodology observations (age × era framework rule + child-safety encoding pattern + convergence-is-not-truth confidence semantics + dimension-split-under-audit-scrutiny + operator-delegated CC ratification Fire #7) -- filed candidacies pending 60-90 day mandatory review
+- Cross 1971 / Cross 1991 CRIS + Cross & Vandiver 2001 revision -- RETIRED for pre-1968 children per age × era rule; retained for adult post-1968 Black-consciousness-movement scope
+- Sellers 1998 Multidimensional Model of Racial Identity (MMRI) -- Marvin identity-stage framework citation
+- Boykin & Toms 1985 racial-socialization triple-quandary -- Marvin identity-stage framework citation
+- Hughes et al. 2006 Parents' ethnic-racial socialization practices review Developmental Psychology -- Marvin identity-stage framework citation
+- Phinney 1990 Psychological Bulletin review + Phinney 1992 JAR MEIM instrument + revised MEIM-R 2007 -- Cesar upcoming audit round framework citation
+- Nagata 2015 review Japanese-American internment transgenerational trauma -- Yuki upcoming audit round framework citation
+- Cass 1979 sexual-orientation identity stages -- RETAINED for adult sexual-orientation dimension; NEVER applied to minors per child-safety discipline
+- Scott 1990 Domination and the Arts of Resistance (hidden transcript) -- hidden_transcript_expression band grounding
+- Perplexity Comet substrate 2026-07-06 -- origin substrate for child-safety encoding pattern (unknown_do_not_infer LockedProtectedField)
+- Claude Opus Deep Research Max substrate 2026-07-06 -- origin substrate for convergence-is-not-truth caveat + narrative-therapy idiom declaration R15 recommendation
+- ChatGPT Deep Research substrate 2026-07-06 -- surfaced OWI 1943 D.C. duckpin pinsetter photograph likely-intended-referent + BVL correction + live PubMed archive URLs
+- Marcus Reed Surface 8 §4 audit at Claude Opus Extended Thinking 2026-07-06 -- full audit at ~/Desktop/PHASE-7-1F-MARVIN-CESAR-YUKI-DEPLOYMENT-KIT/marcus-reed-s8-audit-marvin-okafor.md
+- Item 1134 comprehensive re-ingestion doc at ~/Projects/Open Alley/content-kb/substrate-reports/item-1134-*.md -- operator-authored 17-section canonical meta-prompt whose v1.1 improvements are 15 UNLOCK per audit
 -->
 
 # When the Marcus Reed Surface 8 Audit Verdict PARTIAL-SHIP and Four Operator-Judgment Items Drove Schema Population for Marvin Okafor First Phase 7.1f-Verified Anchor
@@ -88,7 +88,7 @@ Post 0185 close 2026-07-06 Tuesday afternoon shipped Arc A Phase 7.1f Marvin + C
 
 ## Marcus Reed Surface 8 §4 audit verdict PARTIAL-SHIP
 
-Auditor Claude Opus Extended Thinking executed the Marcus Reed Surface 8 §4 retrospective canon audit prompt against 4 substrate responses for Marvin at a fresh Claude project separate from the Phase 7.1f research substrate deployments per audit-independence discipline. Auditor flagged the compromise: audit substrate shares model family with 1 of 4 audited substrates (Opus was one of the 4 producing anchor responses). Auditor applied deliberately elevated scrutiny to the Opus response for this reason and concluded net finding: the Opus response is the most epistemically rigorous of the 4 (source-tiering plus the load-bearing convergence-is-not-truth caveat) but it is also the least independently verifiable in-session (its framework citations are labeled "from training knowledge" where ChatGPT supplied live PubMed archive URLs), and it declined to assert the ABC "1916" clause-origin date that is in fact commonly documented — i.e., it was over-cautious in one place, not superhumanly correct. The quality gap over the others is real but narrower than a first read suggests.
+Auditor Claude Opus Extended Thinking executed the Marcus Reed Surface 8 §4 retrospective canon audit prompt against 4 substrate responses for Marvin at a fresh Claude project separate from the Phase 7.1f research substrate deployments per audit-independence discipline. Auditor flagged the compromise: audit substrate shares model family with 1 of 4 audited substrates (Opus was one of the 4 producing anchor responses). Auditor applied deliberately elevated scrutiny to the Opus response for this reason and concluded net finding: the Opus response is the most epistemically rigorous of the 4 (source-tiering plus the load-bearing convergence-is-not-truth caveat) but it is also the least independently verifiable in-session (its framework citations are labeled "from training knowledge" where ChatGPT supplied live PubMed archive URLs), and it declined to assert the ABC "1916" clause-origin date that is in fact commonly documented -- i.e., it was over-cautious in one place, not superhumanly correct. The quality gap over the others is real but narrower than a first read suggests.
 
 The audit verified 6 falsifiable historical anchors against live sources including Lewis Hine death date November 3 1940 confirmed via 5 independent sources establishing that "1943 Hine photograph" is chronologically impossible. Auditor surfaced 3 source-integrity defects at Item 1135 canonical source file requiring Rule 24 correction addendum before schema population reaches player-facing scope: (1) hine_pin_boy_dc_photograph_1943 FAIL fabricated citation; (2) bpaa_pow_petition_1942 FLAG-MAJOR unverifiable citation with verified 1942 bowling wartime effort actually Bowlers Victory Legion (BVL); (3) Anti-stereotype check body references retired Item 0334 consultant review workflow.
 
@@ -96,11 +96,11 @@ Dimension-level verdicts: self-knowledge state UNLOCK (strongest audit tier); ra
 
 Item 1134 improvement audit returned 15 of 16 recommendations UNLOCK + 1 REMEDIATE-then-UNLOCK (R8 covert-coded-expression scope-tag differential across Marvin hidden-transcript humming vs Yuki gaman vs Cesar Spanish-shame contextual variance) + 0 REJECT. Sample-character regeneration deferred as separate arc. Every recommendation preserves or strengthens Item 1134's anti-stereotype guardrails.
 
-Aggregated final recommendation: PARTIAL-SHIP — remediate then ship. No dimension ships as-is; none holds outright. Sequence: (1) fix Item 1135 source integrity; (2) ratify framework-selection rule age × era; (3) encode child-safe orientation unknown_do_not_infer; (4) reconcile or drop scene disclosure percentages; (5) set confidence semantics inter-model-agreement not verified; then Step 5 community input for civil-rights-sensitive shipped surfaces then Step 6 schema population; then run Cesar and Yuki audit rounds.
+Aggregated final recommendation: PARTIAL-SHIP -- remediate then ship. No dimension ships as-is; none holds outright. Sequence: (1) fix Item 1135 source integrity; (2) ratify framework-selection rule age × era; (3) encode child-safe orientation unknown_do_not_infer; (4) reconcile or drop scene disclosure percentages; (5) set confidence semantics inter-model-agreement not verified; then Step 5 community input for civil-rights-sensitive shipped surfaces then Step 6 schema population; then run Cesar and Yuki audit rounds.
 
 ## Four operator-judgment items ratified
 
-The auditor explicitly flagged 4 items requiring operator judgment before schema population could ship. Operator deferred all 4 to CC recommendation with instruction to proceed comprehensively — an operator-delegated CC ratification Fire #7 (candidate methodology observation filed at Council #9).
+The auditor explicitly flagged 4 items requiring operator judgment before schema population could ship. Operator deferred all 4 to CC recommendation with instruction to proceed comprehensively -- an operator-delegated CC ratification Fire #7 (candidate methodology observation filed at Council #9).
 
 OJ-1 age × era framework-selection rule ratified per auditor recommendation. Cross Nigrescence retained for adults post-1968 Black-consciousness-movement scope where CRIS was validated on young-adult samples. MMRI (Sellers 1998) + racial-socialization (Boykin & Toms 1985; Hughes et al. 2006) applied to pre-1968 children where Cross's Immersion/Internalization stages presuppose late-1960s consciousness movement anachronistic to a 1944 12-year-old. Rule applies uniformly to Cesar de la Rosa (Phinney 1992 MEIM + Latinx cultural-identity scholarship for 1970s adolescent) + Yuki Tanaka (Nagata 2015 transgenerational trauma + gaman-endurance frame for 1946 post-Manzanar child). Rule canonized at `~/Projects/the-street-code/methodology/identity-framework-selection-rule-age-era-2026-07-06.md`.
 
@@ -128,6 +128,6 @@ Item 1135 Rule 24 correction addendum shipped at `~/Projects/Open Alley/content-
 
 ## Framework methodology observations filed at Council #9
 
-Four candidate methodology observations filed at `~/Projects/the-street-code/methodology/council-9-review-agenda-draft-2026-07-05.md` from Marvin arc: (a) **age × era framework-selection rule** (n=1 fire; will strengthen to n=3 at Cesar + Yuki rounds if rule holds); (b) **child-safety-unknown-do-not-infer LockedProtectedField pattern** (n=1 fire; applies to any minor character with civil_rights_framework_applicable=true where dimension has zero operator-authored content); (c) **convergence-is-not-truth confidence semantics** (n=1 fire; 4-of-4 substrate agreement is inter_model_agreement_not_verified not verified per Opus caveat); (d) **dimension-split-under-audit-scrutiny** (n=1 fire; auditor dual-reading resolution pattern — disambiguate + split into 2 fields rather than force single field to carry both semantics). Operator-delegated CC ratification Fire #7 strengthens that discipline (n=7 within-framework-history since first application; canonization at Council #8 established the meta-discipline).
+Four candidate methodology observations filed at `~/Projects/the-street-code/methodology/council-9-review-agenda-draft-2026-07-05.md` from Marvin arc: (a) **age × era framework-selection rule** (n=1 fire; will strengthen to n=3 at Cesar + Yuki rounds if rule holds); (b) **child-safety-unknown-do-not-infer LockedProtectedField pattern** (n=1 fire; applies to any minor character with civil_rights_framework_applicable=true where dimension has zero operator-authored content); (c) **convergence-is-not-truth confidence semantics** (n=1 fire; 4-of-4 substrate agreement is inter_model_agreement_not_verified not verified per Opus caveat); (d) **dimension-split-under-audit-scrutiny** (n=1 fire; auditor dual-reading resolution pattern -- disambiguate + split into 2 fields rather than force single field to carry both semantics). Operator-delegated CC ratification Fire #7 strengthens that discipline (n=7 within-framework-history since first application; canonization at Council #8 established the meta-discipline).
 
 Post 0186 completes the first anchor round of Phase 7.1f substrate-triangulation research. Cesar de la Rosa + Yuki Tanaka substrate deployments + Marcus Reed audits + schema populations remain sequenced next. Item 1134 improvement dedicated meta-prompt phase remains sequenced after all 3 anchor rounds close. Fiske adjudication kit deployment remains sequenced separately.
