@@ -301,6 +301,36 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the pattern absorb into Post 0184 read-side-vs-write-side asymmetric-protection discipline as write-side-scaffold-plus-read-side-context-preservation extension?
 - Related to Item 20 retired-workflow-recurrence-anti-pattern: context preservation across calendar-time gap is complementary to retired-workflow-non-recurrence discipline (both address multi-session state-preservation problems)
 
+### Item 28 — Candidate methodology observation age-x-era-framework-selection-rule for civil-rights-framework-applicable anchor identityStage population (Post 0186 n=1 fire)
+
+**Filed n=1 at Post 0186 2026-07-06 Tuesday afternoon.** Marcus Reed Surface 8 §4 audit for Marvin Okafor raised Surface 2 cross-anchor-coherence FLAG: Grok + Perplexity used Cross Nigrescence framework; Opus + ChatGPT argued Cross is anachronistic for a 1944 12-year-old (Immersion/Internalization stages presuppose late-1960s Black-consciousness movement; validated on young adults) and used MMRI (Sellers 1998) + racial-socialization (Boykin & Toms 1985; Hughes et al. 2006) instead. Rule ratified via operator-delegated CC ratification Fire #7: framework-selection keyed to anchor axis (age × era) instead of substrate-preference. Cross retained for adults post-1968; MMRI + racial-socialization applies pre-1968 children + non-Cross-audience anchors; Phinney MEIM (1990/1992 + revised 2007) applies adolescent-emerging-adult multi-ethnic; Nagata 2015 + gaman applies Japanese-American post-Manzanar; Cass 1979 sexual-orientation retained for adults never applied to minors. Rule canonized at `~/Projects/the-street-code/methodology/identity-framework-selection-rule-age-era-2026-07-06.md`. Council #9 review questions:
+- Does the rule warrant Rule 26 promotion tier canonization after n=3 anchor-round strengthening (Marvin + Cesar + Yuki)?
+- What is the pathway for adding new framework families to the selection table without breaking existing anchor citations (backward-compatibility discipline)?
+- Should the rule be enforced at substrate deployment prompt scope (naming required framework family per anchor axis at prompt time) rather than at post-hoc audit scope (fixing framework inconsistency after substrate responses)?
+- Related to Item 20 retired-workflow-recurrence-anti-pattern: framework-selection rule prevents anachronistic framework recurrence at civil-rights-anchor scope
+
+### Item 29 — Candidate methodology observation child-safety-unknown-do-not-infer LockedProtectedField pattern (Post 0186 n=1 fire)
+
+**Filed n=1 at Post 0186 2026-07-06 Tuesday afternoon.** Marcus Reed Surface 8 §4 audit for Marvin Okafor + auditor OJ-2 dimension-disambiguation resolution + Perplexity substrate independent child-safety encoding ratification produced schema-level pattern: any minor character with `civil_rights_framework_applicable=true` where a protected-class dimension has zero operator-authored content is encoded via `LockedProtectedField` `{ status: 'unknown_do_not_infer', reasoning, provenance, provenanceDate }` NOT via SCHEMA-RESERVED-UNPOPULATED (which implies future population pathway) and NEVER via inferred content. Pattern applies to Marvin's sexualOrientationLocked field at 12-year-old age with zero orientation content in Item 1135. Auditor OJ-2 quote: "encode non-disclosure without implying a hidden identity." Council #9 review questions:
+- Does the pattern warrant canonization at Rule 26 promotion tier after n=3 minor anchor rounds validate applicability?
+- Should the LockedProtectedField `status` enum extend to non-orientation locked states (e.g., trauma-content-locked reserved-not-shipped)?
+- Related to Rule 19 anti-fabrication n=6 language-model-lineage-invariant discipline: LockedProtectedField is Rule 19 mechanism specific to minor + civil-rights-framework-applicable intersection
+
+### Item 30 — Candidate methodology observation convergence-is-not-truth confidence semantics (Post 0186 n=1 fire)
+
+**Filed n=1 at Post 0186 2026-07-06 Tuesday afternoon.** Marcus Reed Surface 8 §4 auditor Opus surfaced load-bearing methodological caveat: 4-of-4 substrate agreement is "high inter-model agreement" NOT "high-confidence finding" in schema confidence semantics. Pattern applies to identity-stage + hash-substrate + disclosure-matrix populations for civil-rights-framework-applicable anchors where substrate training-data-lineage overlap can produce consensus artifacts. Marvin schema shipped with `confidenceSemantics: 'inter_model_agreement_not_verified'` at selfDisclosureMatrix. Council #9 review questions:
+- Does the discipline warrant canonization at Rule 26 promotion tier after n=3 anchor rounds strengthen empirical foundation?
+- Should confidenceSemantics enum extend beyond `verified` | `inter_model_agreement_not_verified` | `operator_authored` to include intermediate tiers (e.g., `primary_source_verified` | `substrate_convergent_verified`)?
+- Related to Rule 19 anti-fabrication: convergence-is-not-truth is specific mechanism catching substrate training-corpus consensus artifacts that fabrication discipline would otherwise miss (fabrication = zero source; convergence artifact = shared trained-source bias)
+
+### Item 31 — Candidate methodology observation dimension-split-under-audit-scrutiny (Post 0186 n=1 fire)
+
+**Filed n=1 at Post 0186 2026-07-06 Tuesday afternoon.** Marcus Reed Surface 8 §4 auditor pattern for OJ-2 dimension disambiguation: when substrates diverge on the semantic reading of a schema dimension name (Marvin case: "orientation-disclosure-per-audience" read as self-disclosure-matrix by 2 substrates + as sexual-orientation by 2 substrates), auditor recommends **splitting the single dimension into two schema fields** rather than forcing one field to carry both semantics. Applied at biographicalRecord.ts: `selfDisclosureMatrix` for rich UNLOCK content + `sexualOrientationLocked` for LOCKED child-safety encoding. `threeLayerOrientation` (Phase 11 Item 9 R11 Architecture Spec) remains SCHEMA-RESERVED-UNPOPULATED at Marvin scope because sexual-orientation path is replaced by LockedProtectedField for minors. Council #9 review questions:
+- Does the pattern warrant canonization as substrate-audit-response discipline at Rule 26 promotion tier?
+- What are the compatibility implications for pre-existing schema fields with dual-reading ambiguity (audit backlog scan requirement)?
+- Should the split-vs-rename decision be auditor OJ-gated (auditor recommends OR schema-owner decides) OR canonical (any dual-reading auto-splits)?
+- Related to Item 26 meta-prompt-improvement-first-class-output: dimension-split-under-audit-scrutiny is discovery pattern surfacing at content-authoring research round; audit is discovery surface
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
