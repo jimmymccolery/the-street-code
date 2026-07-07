@@ -524,6 +524,108 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Related to Item 25 substrate-triangulation-as-methodology-adjudication: pattern-adjacent at "deeper research reading via substrate-triangulation could have caught symmetric-default before shipping"
 - Empirical foundation: n=1 within-arc; Fire J empirically resolved cascade at seed=42 while preserving positive Gottman research grounding; test suite updated to reflect asymmetric default
 
+### Item 51 — Candidate methodology observation morality-cognition-scaffolding-absent-from-current-framework-blocks-authentic-social-simulation (Phases 15-18 design conversation vault 2026-07-07 late afternoon n=1 fire)
+
+**Filed n=1 at 2026-07-07 late afternoon per Phases 15-18 vault Part 1 morality section.** Current framework has NO baseline morality: HEXACO H proxy only; values arrays ornamental (not wired into action selection); no norms system; no guilt/shame accumulator; no legal/social deterrence model; no Moral Foundations Theory (Haidt); no dual-process moral cognition (Greene); no deontological-consequentialist reasoning. Aggression fires from proximity + own crisis + (Path A grudge OR Path B desperation) — NO moral evaluation gate. Foundational gap for authentic social simulation. **See Phases 15-18 vault Part 1 for full analysis.**
+
+### Item 52 — Candidate methodology observation fight-escalation-binary-vs-6-stage-progression-per-Collins-2008 (Phases 15-18 vault 2026-07-07 late afternoon n=1 fire)
+
+**Filed n=1 at 2026-07-07 late afternoon per Phases 15-18 vault.** Current framework: binary aggression (single `attacked_by` event with -0.35 sentiment delta). Collins 2008 "Violence: A Micro-sociological Theory" documents 6-stage progression (trigger → verbal → posture → de-escalation window → physical → sustained). Empirically most conflicts DE-ESCALATE naturally due to "confrontational tension/fear." Empirically validated academic model UNIMPLEMENTED.
+
+### Item 53 — Candidate methodology observation ACES-score-modulation-of-aggression-thresholds-per-Felitti-1998 (Phases 15-18 vault 2026-07-07 late afternoon n=1 fire)
+
+**Filed n=1 at 2026-07-07 late afternoon.** ACES (Adverse Childhood Experiences per Felitti 1998 CDC-Kaiser + Anda 2006 + Merrick 2019 + Briggs 2021 interactions) = well-established public health tool. Score ≥4 predicts 2-4× higher aggression perpetration. NOT implemented in current framework. Vault Phase 1 proposes `acesScore: 0-10` biographical field modulating aggression thresholds + de-escalation + emotional regulation.
+
+### Item 54 — Candidate methodology observation product-manifold-with-typed-sub-projections-unifies-existing-scalar-representations (Phases 15-18 vault 2026-07-07 late afternoon n=1 fire; NOVEL contribution per Round 6)
+
+**Filed n=1 at 2026-07-07 late afternoon.** Framework is ~70% coordinate-native declared (HEXACO 6D + Attachment 2D + Layer 3 valence×arousal = Russell Circumplex + physical position 2D Chebyshev) but operated as INDEPENDENT SCALARS not vector operations. Proposed unification per eBICA (Samsonovich 2013) + ALMA (Gebhard 2005) + FAtiMA-Modular + Kelley-Thibaut Atlas + Bourdieu-MCA + Helbing-Molnár SFM + smart-object affordance + UMAP. Round 6 substrate research + n=3 substrate triangulation (Grok + Perplexity + Opus) CONFIRMS no production precedent for unified physical+affective+social+moral coordinate manifold at 1000+ agent scale — **GENUINELY NOVEL ARCHITECTURAL CONTRIBUTION with no precedent**.
+
+### Item 55 — Candidate methodology observation personality-as-attractor-vs-constant-γ-drift-mathematically-guarantees-biographical-baseline-preservation pattern (Fires G-K obsolescence via architectural fix) — **FALSIFIED 2026-07-07 late afternoon per n=3 substrate consensus**
+
+**Filed initially 2026-07-07 morning per Phases 15-18 vault; FALSIFIED same-day late afternoon.** Original claim: ALMA architecture pulls fast affect → slow affect → personality-attractor; biographical archetype BECOMES an attractor mathematically impossible to permanently displace; Fires A + G + H + I + J + K become one architectural fix.
+
+**FALSIFICATION at n=3 substrate consensus:**
+- **Grok Round 1** (item-2016): ALMA scaling to thousands ABSENT from published literature (LOW-MEDIUM confidence)
+- **Perplexity Round 3** (item-2017): No mathematical guarantee in ALMA; would require Lyapunov function or invariance proof
+- **Opus Round 2** (item-2018): RIGOROUS MATHEMATICAL FALSIFICATION via damped-spring dynamics: "Under sustained external forcing, the equilibrium of a pull-toward-default plus constant-push system settles at a displaced point, not at the baseline"; corroborated by 2025 Pull-Push Engine (57-88% saturation without pull term; even with pull, design goal is "bounded PAD trajectories" NOT "zero displacement")
+
+**Reframed as candidacy:** personality-as-attractor is BOUNDED-DRIFT engineering metaphor under sustained forcing; requires rigorous mathematical scaffolding (Lyapunov function or invariance proof) before claiming guarantee. Fires G-K threshold-tuning fixes REMAIN load-bearing (NOT obsolete). **Council #9 review question:** should FALSIFIED candidacy items be retained in agenda as canonization-propagation gap discipline examples (validated cross-substrate falsification methodology) or RETIRED?
+
+### Item 56 — Candidate methodology observation utterance-manifold-per-Grice-Brown-Levinson-Sacks-Schegloff (Phases 15-18 vault Part 3 n=1 fire)
+
+**Filed n=1 at 2026-07-07 late afternoon.** NPCs currently silent. Vault proposes utterance manifold per Grice 1975 cooperative principle + Austin 1962/Searle 1969 speech act theory + Sacks-Schegloff-Jefferson 1974 Conversation Analysis + Brown & Levinson 1987 politeness theory + Labov 1966 sociolinguistic variation + Bakhtin 1930s heteroglossia + Collins 2004 Interaction Ritual Chains. Utterance manifold axes: register + topic + illocutionary force + face-threat + directness + disclosure depth + cultural marker density + emotional valence.
+
+### Item 57 — Candidate methodology observation serial-reproduction-per-Bartlett-1932-leveling-sharpening-assimilation-produces-emergent-folklore (Phases 15-18 vault Part 3 Phase 18 n=1 fire)
+
+**Filed n=1 at 2026-07-07 late afternoon.** Bartlett 1932 War of Ghosts documented 3 specific transformations across ~20 retelling chains: leveling + sharpening + assimilation. Roediger et al. 2014 review + Bergman & Roediger 1999 replication modernly validate. Allport & Postman 1947 rumor formula R ~ i × a. Sperber 1996 Epidemiology of Representations = cultural attractors. Emergent folklore + urban legends fall out mathematically via community biographical seed propagation to cultural attractors. Massive authoring reduction.
+
+### Item 58 — Candidate methodology observation universal-nonverbal-channel-per-Ekman-Ohman-Hatfield-provides-silent-friendship-hostility (Phases 15-18 vault Part 3 Phase 17 n=1 fire)
+
+**Filed n=1 at 2026-07-07 late afternoon.** Universal nonverbal channels always available regardless of language overlap: Ekman 1972 basic emotions (6-7 universal facial expressions cross-culturally) + Ohman-Mineka 2001 threat detection + Mehrabian 1971 nonverbal immediacy + Hatfield 1994 emotional contagion + Chartrand-Bargh 1999 chameleon effect + Isen-Levin 1972 prosocial nonverbal + Hall proxemics. Silent friendship + silent hostility via universal channels. Cultural nonverbal layer on top modulated by habitus.
+
+### Item 59 — Candidate methodology observation nagata-transgenerational-trauma-transmission-via-nonverbal-autonomic-co-regulation (Phases 15-18 vault Part 3 Phase 18 n=1 fire; culturally significant + genuinely novel)
+
+**Filed n=1 at 2026-07-07 late afternoon.** Nagata Kim & Gone 2024 (Annu Rev Clin Psychol 20(1):175-200; DOI: 10.1146/annurev-clinpsy-080822-044522) transgenerational trauma finding for Yuki (Manzanar survivor). Nonverbal channel operating always: autonomic co-regulation (Porges polyvagal) + flinch response absorption + habitus shaping via nonverbal absorption. Yuki's gaman-observation-channel discovery from Post 0182 gets structural home. **CAVEAT per Opus Round 2 + Perplexity Round 3:** specific polyvagal transmission mechanism is EXTRAPOLATIVE; Yehuda & Lehrner 2018 EPIGENETIC mechanism DISTINCT from polyvagal (Porges) autonomic-regulation extensions — do not conflate. Grossman 2023 PubMed 37230290 challenges polyvagal core premises. Use polyvagal as design hypothesis not settled mechanism.
+
+### Item 60 — Candidate methodology observation consultation-gate-scope-extends-to-storytelling-authoring-per-Schema-v0.2-Section-5.4 (Phases 15-18 vault Part 3 n=1 fire; architectural extension)
+
+**Filed n=1 at 2026-07-07 late afternoon.** Every dialogue authoring + folklore seed + emergent-transformation propagation is content-locked identity-linked scope per Schema v0.2 §5.4 consultation-gate policy. Consultant time + operator engagement increases proportionally. Marvin: Rickford + Green + Baugh review. Cesar: Santa Ana + Zentella review. Yuki: Nagata + Kim + Suzuki review. Storytelling content authoring is SAME scope as anchor content authoring — HARD gate.
+
+### Item 61 — Candidate methodology observation bifurcated-confidence-verdict-per-layer-rather-than-blended-MEDIUM (Opus Round 2 methodology observation 2026-07-07 late afternoon n=1 fire)
+
+**Filed n=1 at 2026-07-07 late afternoon per Claude Opus Round 2 cross-substrate triangulation.** Framework methodology observation: single overall confidence value obscures layer-specific certainty. Grok Round 1 (item-2016) single "MEDIUM confidence" masked real bifurcation. Opus Round 2 (item-2018) split verdict: **HIGH confidence on empirical citation layer** (4/4 flagged 2026 citations verified real at n=3 substrates); **LOW confidence on architectural scale-feasibility layer** ("NONE found" production-precedent result at n=3 substrate consensus; outside-view base rates unfavorable per Flyvbjerg reference-class forecasting). Framework should adopt bifurcated confidence framing at cross-substrate verification scope. Council #9 review questions:
+
+- Should bifurcated confidence framing promote to canonical Rule 26 candidacy?
+- Should single-substrate reports mandate bifurcated confidence self-labeling per scope layer?
+- Related to Item 17 single-seed-empirical-claim-anti-pattern: pattern-family adjacent at "single-metric-obscures-multi-dimensional-uncertainty" scope
+- Related to Item 44 retrospective-audit-with-6-dimension-rubric strengthening: pattern-adjacent at "single-grade-obscures-multi-dimension-quality" scope
+- Empirical foundation: n=1 within-arc; cross-substrate methodology observation strengthens with each future substrate deployment
+
+### Item 62 — Candidate methodology observation cross-substrate-divergence-at-citation-availability-is-NOT-fabrication-finding (cross-substrate triangulation arc 2026-07-07 late afternoon n=1 fire; Post 0143 pattern refinement)
+
+**Filed n=1 at 2026-07-07 late afternoon per cross-substrate triangulation arc.** Perplexity Round 3 (item-2017) claimed n=3 fabricated citations (Reidy 2021 + Lyons 2023 + Qian 2025). Opus Round 2 (item-2018) VERIFIED Reidy 2021 as real critiques; confirmed Saqib 2023 verified by Perplexity Round 3 DOI. Only Lyons 2023 + Qian 2025 confirmed unverified at n=2 substrates. **Cross-substrate divergence is INFORMATIVE:** substrate-search-budget + query-strategy-differences produce citation-availability variance. NOT necessarily fabrication finding. **Framework methodology observation:** single-substrate fabrication claims MUST be cross-checked before framework ratification. Post 0143 substrate-fabricates-quotes pattern strengthens n=2 → n=2.5 fires (not n=3 as initially claimed by Perplexity). Council #9 review questions:
+
+- Should cross-substrate-divergence-at-citation-availability-vs-fabrication distinction promote to Rule 25 substrate-behavior extension?
+- What is the empirical threshold for confirmed-fabrication (n=2+ substrates unverified) vs citation-availability-variance (n=1 substrate unverified while n=2+ verify)?
+- Related to Item 17 single-seed-empirical-claim-anti-pattern: pattern-family direct — single-substrate fabrication claims MUST be cross-checked
+- Related to Item 25 substrate-triangulation-as-methodology-adjudication: pattern-family adjacent
+- Empirical foundation: n=1 within-arc; adjacent to Post 0143 pattern strengthening via cross-substrate verification
+
+### Item 63 — Candidate methodology observation adversarial-priming-can-over-correct-fabrication-hypothesis (Opus Round 2 initial framing 2026-07-07 late afternoon n=1 fire)
+
+**Filed n=1 at 2026-07-07 late afternoon per Opus Round 2 initial adversarial framing.** Opus's initial Round 2 warning ("a good fraction of the Section A citations are likely to come back unverifiable or misattributed. Very specific 2026 arXiv papers... have the exact profile of citations that get hallucinated upstream — plausible author+year+topic, no verifiable object") was PARTIALLY CORRECT (Lyons + Qian confirmed unverified) and PARTIALLY OVER-CORRECTED (Li + Zhu + Sofroniew + Schirone all verified real). **Framework methodology observation:** adversarial priming produces useful HYPOTHESIS but requires rigorous verification to distinguish citation-availability variance from actual fabrication. Council #9 review questions:
+
+- Should adversarial-priming-with-verification discipline promote to Rule 25 substrate-behavior extension?
+- What is the empirical threshold for adversarial-priming-hypothesis-accuracy (n=2/4 partial correct in this arc)?
+- Related to Item 25 substrate-triangulation-as-methodology-adjudication: pattern-family direct — adversarial substrate CAN produce over-correction
+- Related to Item 21 CC-authored code bug in closure claim without regression test coverage: pattern-family adjacent at "hypothesis-produces-useful-but-partial-signal" scope
+- Empirical foundation: n=1 within-arc; adversarial-substrate-behavior calibration methodology observation
+
+### Item 64 — Candidate methodology observation reference-class-forecasting-per-Flyvbjerg-canonizes-outside-view-calibration (Opus Round 2 methodology 2026-07-07 late afternoon n=1 fire)
+
+**Filed n=1 at 2026-07-07 late afternoon per Opus Round 2.** Outside-view base rates (Standish CHAOS 2020 + McKinsey-Oxford Bloch/Blumberg/Laartz Oct 2012 + Flyvbjerg-Budzier HBR Sept 2011) provide calibration for inside-view architectural-risk probability estimates. Framework should adopt reference-class forecasting per Flyvbjerg 2006 (Project Management Journal 37(3):5-15) + Flyvbjerg 2008 (European Planning Studies 16(1):3-21) + Kahneman Thinking Fast and Slow 2011 p. 251. **Empirical finding:** Grok Round 1 Paranoid Stoner probabilities (30-55%) may be TOO LOW; Perplexity Round 3 (60-80%) closer to base rates. Council #9 review questions:
+
+- Should reference-class-forecasting promote to canonical architectural-risk-assessment methodology?
+- What reference classes apply to game-industry NPC simulation architecture specifically?
+- Related to Item 20 CC-authored operational-cost framing without empirical grounding: pattern-family direct — inside-view without outside-view calibration
+- Empirical foundation: n=1 within-arc + published outside-view base rates spanning 50,000+ software projects
+
+### Item 65 — Candidate methodology observation pattern-oriented-modeling-per-Grimm-2005-canonizes-multi-decade-agent-simulation-validation (Opus Round 2 methodology 2026-07-07 late afternoon n=1 fire)
+
+**Filed n=1 at 2026-07-07 late afternoon per Opus Round 2.** Grimm et al. 2005 Science 310(5750):987-991 + Railsback & Grimm 2019 Princeton 2nd ed + ODD protocol Grimm 2020 JASSS 23(2):7 provide canonical methodology for validation data poverty mitigation. POM validates by requiring model to reproduce MULTIPLE observed patterns at different scales simultaneously (structural realism vs one-shot output fitting). Concrete move for multi-decade (1944-2020s) NPC simulation: define era-specific empirical patterns (demographic + linguistic + social-attitude time series) as validation filters, rather than validating individual dialogue lines. Council #9 review questions:
+
+- Should Pattern-Oriented Modeling promote to canonical Sim AI validation methodology?
+- Related to Post 0163 6-dimension grading rubric: pattern-family adjacent at "multi-dimension-validation" scope
+- Empirical foundation: n=1 within-arc + published POM methodology with 20+ years of ecology + agent-based modeling deployment
+
+## Council #9 candidacy strengthening 2026-07-07 late afternoon
+
+**Item 17 (single-seed-empirical-claim-anti-pattern):** STRENGTHENED via cross-substrate discipline empirically validated at citation-grounding scope. Single-substrate reports (Grok Round 1) MUST be treated as UNVERIFIED pending cross-substrate reproduction (Perplexity + Opus). n=3 substrate divergence at Reidy + Saqib flagged as citation-availability variance not fabrication.
+
+**Item 34 (invented-methodology substrate refusal → Post 0187 pivot trigger):** STRENGTHENED via n=3 substrate confirmation of "Sofroniew audit" absence from published literature (Grok Round 1 + Perplexity Round 3 + Opus Round 2). Post 0187 discipline empirically validated at cross-substrate scope. Interesting corollary: **Nicholas Sofroniew 2026 Anthropic emotion concepts paper exists SEPARATELY** — real 2026 emotion research from same person (moved from EvolutionaryScale/napari-microscopy to Anthropic interpretability team per Opus LinkedIn/GitHub trace). Item 34 candidacy empirical foundation strengthens.
+
+**Item 47 (gate-reference-inherited-across-close-artifacts-without-pivot-cascade-update):** ADJACENT strengthening via cross-substrate discipline validates inherited-without-cross-check propagates silent risk. Vault Item 55 was inherited from single-substrate anchor (Grok Round 1) without cross-substrate verification; falsified at n=3 substrate consensus. Confirms Rule 20 Family A canonization-propagation gap discipline empirically validates at architectural-claim scope.
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
