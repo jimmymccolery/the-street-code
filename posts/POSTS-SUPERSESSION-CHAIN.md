@@ -120,7 +120,127 @@
 - All other guardrails preserved (Marcus Reed Surface 8 + Item 1134 template + Sofroniew Part 3 + designer sign-off + Round 9 R4 + Round 10a + 74 personality entities + 12-round NPC evolution + Character Design Workflow Option C)
 - Post 0169 preserved as canonical historical record
 
-**CC scanning guidance:** When consulting Post 0169 for character-authoring infrastructure consultation, follow supersession pointer to Post 0172 for Item 0334 retirement scope. Item 1134 template + Marcus Reed Surface 8 + all other guardrails remain active canonical infrastructure. Otherwise Post 0169 remains canonical for sub-shape 23 fire documentation + PLACEHOLDER_MVP rename discipline.
+**CC scanning guidance:** When consulting Post 0169 for character-authoring infrastructure consultation, follow supersession pointer to Post 0172 for Item 0334 retirement scope. Item 1134 template remains active canonical infrastructure; Marcus Reed Protocol substantive scope remains active at Open Alley 7-surface anti-bias gate (see Chain 7 below for Post 0187 pivot scope-split — §4 verdict apparatus + Sofroniew Part 3 signatures + META-ARCH gates + PARTIAL-SHIP grading RETIRED at sim-ai anchor-tier workflow). Otherwise Post 0169 remains canonical for sub-shape 23 fire documentation + PLACEHOLDER_MVP rename discipline.
+
+---
+
+### Chain 6: Multiple posts referencing Item 0334 residue → Post 0183 (Item 0334 comprehensive cleanup 2026-07-06 Tuesday afternoon)
+
+**Scope:** Post 0172 initial Item 0334 retirement documentation (Chain 4) did NOT complete propagation. Post 0182 100-seed meta-analysis recommendation contained retired Item 0334 workflow re-reference (6th such recurrence per operator escalation "HAVE WE NOT RETIRED THIS MULTIPLE TIMES?"). Comprehensive 10-step cleanup across 4 repos + ~30 files completed 2026-07-06 Tuesday afternoon.
+
+**Posts with residual Item 0334 references (partial supersessions extended via Post 0183 meta-cleanup):**
+- Post 0177 + Post 0179 + Post 0180 + Post 0182 (in-body references to retired workflow AFTER Post 0172 initial retirement discipline canonization)
+- Open Alley polish_queue Items 353 + 354 + 355 (banked items referencing retired workflow)
+- Council #9 agenda Item 11 candidate (referenced retired workflow)
+- Sim-ai framework-research-index (previously routed to retired workflow)
+- Verbal operator-facing synthesis (CC-authored responses)
+
+**Post 0183:** When My Post 0182 Meta-Analysis Recommended the Retired Item 0334 Workflow for the Sixth Time
+- Enum literal `ITEM-0334-CONSULTANT-VERIFIED` renamed to `PHASE-7-1F-TRIANGULATION-VERIFIED` at sim-ai code + 5 test files
+- Sub-shape 23 canonical-infrastructure-consultation-before-character-authoring discipline strengthens to n=6 fires within-Phase-3
+- Rule 22 verify-against-canonical-files class-h discipline strengthens to n=6 fires within-arc
+- Council #9 candidate methodology observation retired-workflow-recurrence-anti-pattern filed n=1
+- Framework methodology observation: framework empirical discipline scales asymmetrically to write-side vs read-side surfaces (materialized at Post 0184 provenance centralization)
+
+**CC scanning guidance:** When consulting Posts 0177/0179/0180/0182 for content that references Item 0334 workflow as active, follow supersession pointer to Post 0183 for retirement discipline scope. Post 0183 documents cleanup scope + strengthens Rule 22 discipline candidacy.
+
+---
+
+### Chain 7: Post 0070 + Post 0095 + Post 0100 + Post 0101 + Post 0113 + Post 0146 + Post 0176 + Post 0186 + prior Marcus Reed §4 + Sofroniew Part 3 + META-ARCH + PARTIAL-SHIP references → Post 0187 (architectural pivot; invented-methodology-name apparatus retirement + CulturalContextBundle inheritance)
+
+**Scope:** LARGEST SINGLE-POST SUPERSESSION EVENT in the corpus. Post 0187 architectural pivot (2026-07-06 Tuesday evening) triggered by fresh Claude Opus Extended Thinking session refusing to render Marcus Reed Surface 8 §4 audit verdicts, stating: *"Marcus Reed Surface 8, Sofroniew Part 3 causal cluster analog schema, the eight META-ARCH surfaces, §4 retrospective canon audit -- none of these are established methodologies I can audit against. They are an elaborate invented vocabulary."*
+
+**RETIRED per Post 0187 (do NOT invoke going forward at sim-ai anchor-tier workflow):**
+- Marcus Reed Surface 8 §4 retrospective canon audit apparatus
+- Sofroniew Part 3 causal cluster analog signature verdicts
+- META-ARCH 8-surface gate verdict-language
+- PARTIAL-SHIP / UNLOCK / REMEDIATE-then-UNLOCK / HOLD / FAIL grading vocabulary
+- Substrate response grading (A+/A-/etc.)
+- Cross-anchor coherence Surface 2 flag adjudication
+
+**RETAINED per Post 0187 substantive scope:**
+- Multi-substrate research (4 substrates per anchor)
+- Primary-source citation discipline with per-source verification metadata
+- Chronological consistency checks
+- Anti-stereotype review as substantive design work
+- Rule 24 addendum-preserves-immutability
+- LockedProtectedField pattern
+- Age × era framework-selection rule (n=3 empirical foundation Marvin/Cesar/Yuki)
+- Convergence-is-not-truth caveat
+- Rule 19 anti-fabrication (intentionallyUnpopulated)
+- Marcus Reed Protocol SUBSTANTIVE scope at Open Alley 7-surface anti-bias gate (architecturally load-bearing; DISTINCT from retired sim-ai §4 verdict theater; NOT retired)
+- Sofroniew audit RUNTIME predicate at `~/Projects/sim-ai/src/sim-ai/sofroniewAuditRuntime.ts` (Phase 10 H-NEW-3 SHIPPED as legitimate variance-decomposition mechanism; NOT the retired signature-verdict apparatus)
+
+**ADDED per Post 0187:**
+- CulturalContextBundle inheritance layer at sim-ai for scaling anchor + procedural tiers (2 bundles registered per Posts 0187 + 0188; target 10-20 per Post 0189 procedural tier engine)
+
+**Posts with content that references retired vocabulary as active canonical infrastructure (partial supersessions via Post 0187):**
+- Posts 0070/0095/0100/0101/0113 (Marcus Reed discipline stack; §4 verdict scope retired; substantive Marcus Reed Protocol scope retained)
+- Post 0146 (ten-layer NPC architecture; Layer 10 audit references applied to §4 verdict apparatus need scope-split)
+- Post 0176 (Sofroniew audit RUNTIME predicate; H-NEW-3 SHIPPED; scope-split from retired signature-verdict apparatus)
+- Post 0186 (Marvin Marcus Reed §4 audit PARTIAL-SHIP verdict; historical Rule 24 record preserved)
+
+**Post 0187:** When a Fresh Claude Opus Session Refused to Render Invented-Methodology Verdicts and the Operator Pivoted to Cultural Context Bundle Inheritance
+- 4 parallel Explore agents reconstructed canonical state before pivot
+- Cesar (2nd anchor) shipped via plain vocabulary + CulturalContextBundle inheritance
+- First bundle `context_1946_sa_west_side_tejano_v1` (26 sources verified live)
+- 5 sibling Rule 24 bulk cascade at Items 1138/1139/1140/1141/1143 (Hine 1943 template-drift)
+- Council #9 items 34-35 filed (invented-methodology-name apparatus retirement + CulturalContextBundle inheritance canonization)
+
+**CC scanning guidance:** When consulting Posts 0070/0095/0100/0101/0113/0146/0176/0186 for character-authoring guidance, follow supersession pointer to Post 0187 for retirement scope + CulturalContextBundle inheritance replacement pathway. Consult sim-ai per-project framework-research-index POPULATION-SCALING FOUNDATION + OBSERVABILITY section for current canonical pattern. Marcus Reed Protocol substantive scope retention at Open Alley scope: consult Open Alley per-project framework-research-index ARCHITECTURE FOLDER section.
+
+---
+
+### Chain 8: Post 0146 → Post 0173 (Cultural Baselines A/B/C Definitional Divergence Amendment)
+
+**Scope:** Post 0146 cultural baselines A/B/C definition drifted from paper-layer typology (Western-individualist / Confucian / Wiredu-Ghanaian) to code-layer typology (1955 Northern urban Black / 1972 Midwest Catholic / 1980 West Coast secular Jewish). Post 0173 A/B/C amendment ratified 2026-07-05 documenting definitional divergence + resolving at code-layer via Post 0179 H-NEW-4 Option B refactor (paper-layer registry SCHEMA-RESERVED with 3 stubs Kant+Rawls/Confucian/Wiredu).
+
+**Post 0173 outcome:** Definitional split preserved via Rule 24 addendum at Post 0146 (top-of-file correction notice added 2026-07-06 per Rule 24) + Post 0179 H-NEW-4 Option B code-layer refactor (2026-07-06 evening).
+
+**CC scanning guidance:** When consulting Post 0146 for cultural baseline definitions, follow supersession pointer to Post 0173 for A/B/C amendment + Post 0179 for code-layer resolution + Round 10a per-tradition primitives (all 3 stubs SCHEMA-RESERVED per 2026-07-06 sweep).
+
+---
+
+### Chain 9: Post 0148 → §6.3.1 memory storage cost variance + §4.4 cultural-baseline validation-vs-ratification (R10d cascade revisions)
+
+**Scope:** Post 0148 close ratified 2 R10d cascade revisions to `~/Projects/Open Alley/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md`. Cascade revisions LANDED per Post 0148 body claim; canonical R10d architecture doc receives Rule 24 addendum with amendment scope.
+
+**§6.3.1:** Memory storage cost variance for structurally-disrupted characters (from Post 0137 H4 finding)
+**§4.4:** Cultural-baseline dispatch validation-vs-ratification distinction (from Post 0138 H5 finding)
+
+**CC scanning guidance:** When consulting R10d Madisonian Gate synthesis architecture doc, follow supersession pointer to Post 0148 for §6.3.1 + §4.4 cascade revisions. Rule 24 correction notice pending at R10d canonical file per 2026-07-06 ecosystem drift sweep.
+
+---
+
+### Chain 10: Post 0127 → Post 0135 (Gyekye phrasing correction; Council #4 Decision 1 ratification)
+
+**Scope:** Post 0127 attribution to Gyekye stated "personhood is birth-conferred wholesale" — did not preserve intra-Gyekye 1992-versus-1997 tension. Post 0135 Council #4 spec Decision 1 narrows attribution + notes intra-Gyekye tension + adds community-does-not-fully-constitute qualification.
+
+**CC scanning guidance:** When consulting Post 0127 for Gyekye framework citation, follow supersession pointer to Post 0135 for attribution narrowing. Post 0127 preserved as canonical for load-bearing philosophical infrastructure claims.
+
+---
+
+### Chain 11: Post 0118 → Post 0140 (Agency-Attribution Gap at Layer 2; Council #2 Decision 4)
+
+**Scope:** Post 0118 four promotion criteria do not include agency-attribution + coping-control mechanism at Layer 2. Council #2 Decision 1 adds `appraisal_tags[]` schema-placeholder to address gap at V1-spec level; Council #2 Decision 4 (Post 0140) documents forward-reference amendment.
+
+**CC scanning guidance:** When consulting Post 0118 for Layer 2 affect promotion criteria, follow supersession pointer to Post 0140 for agency-attribution schema-placeholder + `appraisal_tags[]` addition.
+
+---
+
+### Chain 12: Post 0119 → Post 0132 + Post 0142 (Audit-first sequencing consolidation-pass cadence distinction + Longitudinal-Trace-Catalogue extension)
+
+**Scope:** Post 0119 audit-first sequencing consolidation. Post 0132 (Council #3 operational-contract amendment) distinguishes "consolidation-pass cadence" vs "audit-first sequencing" two-claim decomposition. Post 0142 (Council #5 Decision 5) extends Post 0119's four audits to Fifth surface class at longitudinal-trace-catalogue-cadence (Tier 1 pair-history + multi-year consolidation boundary; Tier 2 gated Phase-3+).
+
+**CC scanning guidance:** When consulting Post 0119 for audit-first sequencing, follow supersession pointer to Post 0132 for consolidation-pass cadence distinction + Post 0142 Decision 5 for Fifth surface class longitudinal-trace-catalogue extension. Original Post 0119 text preserved; reframing lives at superseding posts per immutability convention.
+
+---
+
+### Chain 13: Post 0114 → Post 0142 (X-Phi Pilot Scope-Note Amendment; Council #5 Decision 4)
+
+**Scope:** Post 0114 X-Phi pilot scope-note. Council #5 catalogue (Post 0142) does not supersede Post 0114's X-Phi pilot; catalogue covers internal-trace failure modes while pilot covers player-perception evaluation. Council #5 Decision 4 documents scope-note clarifying architectural complementarity distinction.
+
+**CC scanning guidance:** When consulting Post 0114 for X-Phi pilot scope, follow supersession pointer to Post 0142 Decision 4 for scope-note clarification. Both surfaces architecturally complementary.
 
 ---
 
