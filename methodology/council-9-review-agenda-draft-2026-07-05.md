@@ -626,6 +626,46 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 
 **Item 47 (gate-reference-inherited-across-close-artifacts-without-pivot-cascade-update):** ADJACENT strengthening via cross-substrate discipline validates inherited-without-cross-check propagates silent risk. Vault Item 55 was inherited from single-substrate anchor (Grok Round 1) without cross-substrate verification; falsified at n=3 substrate consensus. Confirms Rule 20 Family A canonization-propagation gap discipline empirically validates at architectural-claim scope.
 
+### Item 66 — Candidate methodology observation gap-claim-propagates-across-meta-analysis-cascade-without-content-kb-cross-check pattern (2026-07-07 late afternoon n=5+ propagations within-arc fire; Rule 20 Family A read-side sub-shape n=34 candidate)
+
+**Filed n=5+ propagations within-arc at 2026-07-07 late afternoon per operator critical inquiry.** Morning comprehensive meta-analysis (`~/Projects/Open Alley/architecture/comprehensive-meta-analysis-2026-07-07-post-q65-retirement.md`) claimed "Marvin + Cesar have NO grounding Items (need BSCP + Great Migration + Bracero + LULAC + Double V + 1943 Detroit)" and "H-NEW-1 1972 Midwest Catholic union man = highest-ROI demographic gap-fill" and "3 anchors shipped Marvin+Cesar+Yuki; 9-27 remaining" + "1950s V1-baseline era ZERO coverage" + "Indigenous + Puerto Rican + Middle Eastern + South Asian + Central American + Korean + Chinese-American pre-1970 ZERO coverage." **ALL STALE per content-kb verification** at 2026-07-07 late afternoon:
+
+- **Historical-events items 2001-2009 EXIST** (filed 2026-07-06 23:38-23:41):
+  - item-2001 Bracero Program wartime labor 1942 (Cesar)
+  - item-2002 GI Bill uneven application to Mexican-American veterans (Cesar)
+  - item-2003 American GI Forum Dr. Hector P. Garcia 1948 founding Corpus Christi (Cesar)
+  - item-2005 ABC whites-only membership clause pre-1950 Caucasians-only constitution (Marvin)
+  - item-2006 Philadelphia Double V campaign 1942 Pittsburgh Courier Black press (Marvin)
+  - item-2007 Japanese-American incarceration Manzanar 1942-1945 EO 9066 (Yuki)
+  - item-2008 War Relocation Authority resettlement Chicago 1945 (Yuki)
+  - item-2009 JACL Chicago Chapter 1944 formation (Yuki)
+- **Personality catalog: 63 items** (not 3 anchors). Items 1135-1189 cover: 5 pin-boys 1942-1947 + 5 pin-girls 1943-1945 + 5 proprietors 1955-2015 + 5 pin-chasers 1965-1978 + 5 cocktail waitresses 1973-1978 + 5 cosmic bowlers 1992-1999 + 5 instagram boutique 2014-2018 + 5 post-COVID bowlers 2023-2025 + 5 TikTok bowlers 2023-2024 + 5 nursery attendants 1981-1987 + 5 security guards 1984-1988. Tier: `phase_7_1f_triangulation_reviewed: false` for procedural drafts (Marvin+Cesar+Yuki are PHASE-7-1F-VERIFIED). "3 verified anchors" claim directionally correct at anchor-tier scope; "0 personalities" claim WRONG at procedural draft scope.
+- **1950s era coverage EXISTS:** Anthony Cardinale 1955 Providence proprietor (item-1145)
+- **Diverse ethnic coverage EXISTS:** Aanya Srinivasan (South Asian), Ginny Tran (Vietnamese-American), Mei Zhang (Chinese-American), Rico Velasquez (Cuban), Elena Rivera (Cuban), Marisol Rodriguez (Mexican-American), Naomi Okeke (Nigerian-American), Marcus Pham (Vietnamese-American), Rachel Katz (Jewish-American), Leonard Greenstein (Jewish-American 1972 St Louis proprietor — filed as different concept than "H-NEW-1 1972 Midwest Catholic union man" but SAME ERA + REGION coverage). Indigenous coverage genuinely absent per this check.
+
+**Propagation chain (n=5+ within-arc):**
+1. **Propagation 1:** Morning comprehensive meta-analysis (2026-07-07 morning) claimed absence
+2. **Propagation 2:** Meta-analysis persistence cascade to memory + framework-research-index + master-setup audit archive (2026-07-07 morning; 4 project scopes)
+3. **Propagation 3:** Fires G-K reshape arc + Phases 15-18 vault documents referenced same absence claims
+4. **Propagation 4:** Prior afternoon meta-analysis Agent 3 (character coverage) + Agent 5 (missing elements) BOTH propagated stale claim
+5. **Propagation 5:** Late-afternoon meta-analysis Agent 3 + Agent 5 propagated again; CC passed to operator as P0/P1 recommendations
+6. **Propagation 6:** Comprehensive completion recommendations at 2026-07-07 late afternoon proposed "Marvin + Cesar historical-events grounding 2-4 hours CC autonomous" as P0 action
+
+**Operator surface via critical inquiry 2026-07-07 late afternoon:** "Am I wrong that Marvin + Cesar historical-events grounding has been retired or deprecated at this point?"
+
+**Root cause:** CC meta-analysis workflow has been systematically failing to grep `~/Projects/Open Alley/content-kb/` directories before recommending "gap-fill" work. Read-side propagation continued across 5+ meta-analyses + framework-research-index + memory + audit archive + Council #9 candidacy items filed WITHOUT any agent verifying via canonical files.
+
+Council #9 review questions:
+
+- Does gap-claim-propagates-across-meta-analysis-cascade-without-content-kb-cross-check pattern promote to canonical Rule 22 canonical-file-verification extension?
+- Should CC meta-analysis workflow REQUIRE content-kb directory grep before making any "0 items" or "gap" claims?
+- Related to Item 20 retired-workflow-recurrence-anti-pattern: pattern-family direct at "stale claim propagates without cross-check" scope
+- Related to Item 17 single-seed-empirical-claim-anti-pattern: pattern-family adjacent at "meta-analysis-single-substrate-report-must-be-cross-checked" scope
+- Related to Rule 22 verify-against-canonical-files: **THIS IS RULE 22 DISCIPLINE FIRE** at read-side meta-analysis scope; strengthens Rule 22 empirical foundation
+- Related to feedback_verify_against_canonical_files memory (n=8 cumulative): STRENGTHENS to n=9 with this within-arc n=5+ propagations reproduction
+- Empirical foundation: n=5+ propagations within-arc + 63-item personality catalog + 9 grounding items + 3 cultural context bundles all missed = MASSIVE empirical foundation for canonization at Rule 22 / Rule 20 Family A read-side scope
+- Meta-observation: **Operator's critical inquiry ratio (n=6+ real gaps surfaced this session including Q65 stale-gate + Sam Nguyen framing + Fires G-K post-integration regression + Vault Item 55 falsification + Historical-events stale-claim + this pattern) continues far above CC's independent detection rate.** Rule 21 operator-realism-check discipline strengthens further.
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
