@@ -249,7 +249,7 @@ Note: prior statistics section drafted 2026-07-06 evening carried estimated coun
 - Chain 6: Posts 0177 + 0179 + 0180 + 0182 → Post 0183 (Item 0334 comprehensive cleanup 2026-07-06 Tuesday afternoon)
 - Chain 7: Posts 0070 + 0095 + 0100 + 0101 + 0113 + 0146 + 0176 + 0186 → Post 0187 (architectural pivot; LARGEST single-post supersession event in corpus; retires invented-methodology-name apparatus + adds CulturalContextBundle inheritance)
 - Chain 8: Post 0146 → Post 0173 (Cultural baselines A/B/C definitional divergence amendment)
-- Chain 9: Post 0148 → R10d §6.3.1 + §4.4 cascade revisions (memory storage cost variance + cultural-baseline validation-vs-ratification distinction)
+- Chain 9: [RETIRED — misfitted architecture-doc amendment scope; original wording attributed to Post 0148 was fabrication caught 2026-07-06 evening via rubric audit; see POSTS-SUPERSESSION-CHAIN.md Chain 9 retirement notice for actual R10d cascade revisions state: Posts 0137 + 0138 findings → R10d §6.3.1 + §4.4 subsections landed at architecture file 2026-07-02 late evening]
 - Chain 10: Post 0127 → Post 0135 (Gyekye phrasing correction; Council #4 Decision 1)
 - Chain 11: Post 0118 → Post 0140 (agency-attribution gap Layer 2; Council #2 Decision 4)
 - Chain 12: Post 0119 → Post 0132 + Post 0142 (audit-first sequencing consolidation-pass cadence distinction + longitudinal-trace-catalogue extension)

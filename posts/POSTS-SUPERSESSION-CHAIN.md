@@ -201,14 +201,18 @@
 
 ---
 
-### Chain 9: Post 0148 → §6.3.1 memory storage cost variance + §4.4 cultural-baseline validation-vs-ratification (R10d cascade revisions)
+### Chain 9: [RETIRED — misfitted architecture-doc amendment scope; see updated framing below]
 
-**Scope:** Post 0148 close RATIFIED 2 R10d cascade revisions to `~/Projects/Open Alley/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md`. Cascade revisions ratified at Post scope 2026-07-04 late afternoon; Rule 24 addendum landing at R10d canonical file itself remains PENDING per Phase 3 architecture folder Rule 24 correction-notice sweep per 2026-07-06 ecosystem drift sweep at `~/Projects/master-setup/audits/2026-07-06-ecosystem-drift-sweep/02-architecture-folders-audit.md`.
+**Retirement notice 2026-07-06 evening:** Original Chain 9 wording attributed R10d cascade revisions ratification to Post 0148 close (2026-07-04 late afternoon Council #6 close). Grep verification against Post 0148 CC-OPTIMIZED-SUMMARY confirms Post 0148 does NOT reference R10d cascade revisions. Fabrication caught via Post 0163 6-dimension grading rubric audit application 2026-07-06 evening; class-h fire #10 within 2026-07-06 ecosystem drift sweep session; Rule 22 verify-against-canonical-files discipline strengthens.
 
-**§6.3.1:** Memory storage cost variance for structurally-disrupted characters (from Post 0137 H4 finding)
-**§4.4:** Cultural-baseline dispatch validation-vs-ratification distinction (from Post 0138 H5 finding)
+**Actual R10d cascade revisions state (verified via memory `sim-ai/phase-1-empirical-findings.md` + Sim AI Phase 1 close memory):**
+- **§6.3.1:** Memory storage cost variance for structurally-disrupted characters (Post 0137 H4 finding)
+- **§4.4:** Cultural-baseline dispatch validation-vs-ratification distinction (Post 0138 H5 finding)
+- **Ratification event:** 2026-07-02 late evening per Sim AI Phase 1 close arc (BEFORE Post 0148 Council #6 close 2026-07-04)
+- **Landing status:** Both cascade revisions LANDED at R10d canonical architecture file (`~/Projects/Open Alley/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md`) as new §6.3.1 + §4.4 subsections 2026-07-02 late evening
+- **Chain scope:** This is Post-content → Architecture-doc amendment (Posts 0137 + 0138 findings driving R10d amendment). NOT Post → Post supersession per POSTS-SUPERSESSION-CHAIN pattern taxonomy. Architecture-doc amendment discipline tracked at architecture folder Rule 24 addendum sweep scope (Phase 3 corrective action arc per 2026-07-06 ecosystem drift sweep).
 
-**CC scanning guidance:** When consulting R10d Madisonian Gate synthesis architecture doc, follow supersession pointer to Post 0148 for §6.3.1 + §4.4 cascade revisions. Rule 24 correction notice pending at R10d canonical file per 2026-07-06 ecosystem drift sweep.
+**Separately: R10d canonical file needs Rule 24 correction notice for Post 0187 pivot scope** (retired §4 verdict apparatus + Sofroniew Part 3 signatures + META-ARCH gate references in R10d body) — this is a DIFFERENT scope from cascade revisions above. Phase 3 architecture folder sweep addresses at Rule 24 addendum block application to R10d canonical file.
 
 ---
 
