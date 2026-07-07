@@ -489,6 +489,41 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Related to Item 46 ELI5-then-ratify-with-substrate-discipline-preservation pattern: Q65 retirement used ELI5 then Option A ratify pattern; ratification surface preserved substrate-discipline (Post 0187 retirement) rather than reintroducing retired methodology
 - Empirical foundation: n=1 within-arc; strengthens Rule 20 Family A candidate sub-shape count to n=28 candidate sub-shapes total; adjacent to CC-side-empirical-grounding-failure sub-family (CC + operator both treated Q65 as active pending despite methodological obsolescence within-conversation without independent Post 0187 pivot cross-check)
 
+### Item 48 — Candidate methodology observation empirical-baseline-regression-detected-post-multi-integration-arc-via-delayed-re-validation (Fires G-K reshape arc 2026-07-07 midday n=1 fire; Rule 20 Family A canonization-propagation gap candidate sub-shape n=29)
+
+**Filed n=1 at 2026-07-07 midday per Fires G-K reshape arc.** Phase 3.2-D empirical validation baseline (2026-07-05 late afternoon; 6-of-8 RQ targets met) was NEVER re-validated after Phase 10-14 integration arcs shipped 2026-07-06. Phase 10-14 added Sofroniew audit runtime + HEXACO H bond-resistance + attachment anxiety desperation override + Gottman override + HEXACO H/A channel separation + relational-web integrity STATE + landmark memory encoding + CulturalContextBundle inheritance (~33 items across 61 hours per Item 14 comprehensive-arc-at-scale discipline). Individual unit tests passed at 1219/1219; typecheck clean; empirical end-to-end validation at seed=42 30-game-day scope NOT run. Operator critical inquiry 2026-07-07 midday ("we quickly applied almost all personality research + didn't finish locking in caveman-realistic behavior") triggered re-run + detected 5 severe regressions (RQ7 REVERSED +18.18 → -66.87; Sim A death chronic exposure; aggression cascade 6.5×; sentiment collapse; kindness near-zero). Systematic fix via Fires G-K reshape arc (3 parallel Explore agents + web research at ALMA + DynAffect + Terzi + Vollhardt + Gottman literature). Council #9 review questions:
+
+- Does empirical-baseline-regression-detected-post-multi-integration-arc pattern promote to canonical Rule 26 candidacy?
+- Should Session-Close 7th-Stage extension mandate re-run of Phase 3 empirical harness after any Phase 10+ integration arc that touches Layer 3 + biographical + memory systems?
+- Related to Item 12 cross-consumer-typecheck-as-latent-bug-detection (n=1 27-day latency): pattern-family adjacent at "unit tests pass but end-to-end mechanics regress" scope
+- Related to Item 14 comprehensive-arc-at-scale discipline: pattern-inverse — comprehensive-arc may accelerate integration BUT delayed re-validation risks regressions accumulating
+- Related to Item 47 gate-reference-inherited-across-close-artifacts-without-pivot-cascade-update: pattern-family at "canonical/documented state does not match empirical/runtime state" scope
+- Empirical foundation: n=1 within-arc + 5 severe regressions detected + 5 discrete fires shipped to fix; adjacent Rule 20 Family A n=28 candidate sub-shapes + brings running total to n=29 candidate sub-shapes
+- Falsification threshold: if empirical re-validation post-multi-integration-arc fires on <20% of arcs (too infrequent to warrant Session-Close 7th-Stage extension) OR reveals no regressions when it does fire (verification theater), REBOUND or DEFLATE
+
+### Item 49 — Candidate methodology observation refactor-propagation-missed-scripts-folder-at-cross-directory-scope (Phase 2.9-A Step 2 refactor 2026-07-07 morning + midday n=1 fire; Rule 20 Family A canonization-propagation gap sub-shape n=30)
+
+**Filed n=1 at 2026-07-07 midday per Phase 2.9-A Step 2 refactor propagation gap discovered during Fires G-K reshape arc setup.** Phase 2.9-A Step 2 refactor 2026-07-07 morning moved `src/sim-ai/{worlds/island,worlds/bowling-alley}/ → src/sim-ai/scenes/{island,bowling-alley}/` at sim-ai. Refactor updated imports at 3 consumer sites (sim-ai src + Open Alley + RoomToLife) BUT MISSED `sim-ai/scripts/` folder (6 harness scripts with stale `worlds/` imports). Discovered when attempting to re-run `phase3-empirical-validation-seed42.ts` per operator directive (harness failed with module-not-found). Bonus meta-observation: MORNING AGENT 1 CANONIZATION-PROPAGATION SWEEP declared "PROPAGATION COMPLETE + PROPER" verdict for Scene refactor without checking scripts/ folder — false CLEAN verdict at n=1. Pattern: refactor propagation discipline applied within-project-tree at src/ scope but not extended to sibling folders (scripts/ + tools/ + tests/ + etc.). Council #9 review questions:
+
+- Does refactor-propagation-missed-scripts-folder-at-cross-directory-scope pattern promote to canonical Rule 26 candidacy?
+- Should refactor propagation discipline extend to ALL project sub-directories (scripts/ + tools/ + tests/ + docs/ + config/)?
+- Should Explore agent read-only canonization-propagation sweep prompts explicitly enumerate ALL project sub-directories to check?
+- Related to Item 47 gate-reference-inherited-across-close-artifacts-without-pivot-cascade-update: pattern-family adjacent at "artifact-cascade-completion-gap" scope
+- Related to Item 12 cross-consumer-typecheck-as-latent-bug-detection: pattern-family at "same repo has inconsistent state" scope
+- Related to Item 48 empirical-baseline-regression-detected-post-multi-integration-arc: pattern-family at "delayed detection of arc-completion-gap" scope
+- Empirical foundation: n=1 within-arc; Rule 20 Family A cumulative n=29 (Item 47) + n=30 (Item 49) sub-shape candidates within-session pace
+
+### Item 50 — Candidate methodology observation symmetric-mechanism-defaults-model-pathological-rather-than-healthy-behavior (Gottman override reshape via Fire J 2026-07-07 midday n=1 fire; Rule 21 operator-realism-check candidate)
+
+**Filed n=1 at 2026-07-07 midday per Fire J Gottman override asymmetric reshape.** Gottman override mechanic was implemented as SYMMETRIC positive-momentum + negative-momentum amplification per naive read of Hawkins-Carrere-Gottman 2002 sentiment-override research at Post 0177 Phase 11. Empirical test at Phase 3 seed=42 revealed symmetric override enabled aggression-cascade lock-in: once sentiment dropped negative, positive events dampened + negative events amplified → sentiment cannot recover. Per deeper Gottman research literature (Gottman "The Marriage Clinic" + Gottman & Silver "Seven Principles"): negative-momentum amplification is the PATHOLOGICAL pattern of DISTRESSED marital dynamics; HEALTHY couples show ASYMMETRIC response with repair attempts + time-based cooling that prevent negative cascade lock-in. Framework should default to HEALTHY couple dynamics + expose pathological toggles as extended options. Fire J shipped: asymmetric override blocking negative-momentum amplification when |sentiment| > 0.3. Council #9 review questions:
+
+- Does symmetric-mechanism-defaults-model-pathological-rather-than-healthy-behavior pattern promote to Rule 21 operator-realism-check-inclusive-of-published-research-baseline canonization extension?
+- Should mechanism implementations require explicit "healthy baseline" annotation citing which research population baseline the mechanism models (distressed vs healthy)?
+- What is the empirical threshold for detecting pathological-default fires (n=1 within-arc; requires multi-mechanism combined test)?
+- Related to Item 34 invented-methodology-name apparatus retirement: pattern-adjacent at "research-inspired-mechanism-implementation-error" scope
+- Related to Item 25 substrate-triangulation-as-methodology-adjudication: pattern-adjacent at "deeper research reading via substrate-triangulation could have caught symmetric-default before shipping"
+- Empirical foundation: n=1 within-arc; Fire J empirically resolved cascade at seed=42 while preserving positive Gottman research grounding; test suite updated to reflect asymmetric default
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
