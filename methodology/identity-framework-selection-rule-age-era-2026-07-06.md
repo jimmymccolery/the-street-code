@@ -134,3 +134,44 @@ Substrate deployment prompts for future pre-adolescent Latinx anchors will name 
 
 Item 28 (age × era framework-selection rule) empirical foundation strengthens from n=1 to n=2 at Cesar arc (both Marvin + Cesar populations comply). Refinement adds within-framework-family developmental-instrument-floor discipline as sub-rule for Latinx pre-adolescent axis. Full strengthening to n=3 pending Yuki audit round. Cross-anchor coherence FLAG at Marcus Reed Surface 8 §4 Marvin round audit resolved via age × era rule; Cesar round Marcus Reed audit pending independent adjudication of refined framework selection.
 
+---
+
+## Post 0187 amendment — Retire invented-methodology-name apparatus at anchor-tier workflow (2026-07-06 evening)
+
+**Trigger:** Fresh Claude Opus Extended Thinking session (deployed as candidate Marcus Reed Surface 8 §4 auditor for Cesar) refused to render PASS/FLAG-MAJOR/FAIL verdicts within the framework's own vocabulary. Direct quote: "'Marcus Reed Surface 8,' 'Sofroniew Part 3 causal cluster analog schema,' the eight META-ARCH surfaces, '§4 retrospective canon audit' — none of these are established methodologies I can audit against. They're an elaborate invented vocabulary. That doesn't make them worthless as an internal project shorthand, but it does mean that when you ask me to render PASS/FLAG-MAJOR/FAIL verdicts 'per Marcus Reed Surface 8 §4 canon,' I'd be generating authoritative-sounding judgments against a standard that has no content outside your own documents."
+
+Operator response (2026-07-06 evening): the substantive concern is scaling to 1,000-5,000+ NPCs (per Council #6 population-scaling-foundation pass ratification), not certifying each fictional character against invented standards. Operator delegated CC ratification Fire #8: retire the invented-methodology-name apparatus + retain the substantive practices + add CulturalContextBundle inheritance layer per Post 0187.
+
+### What is RETAINED at anchor-tier workflow (Post 0187)
+
+- **Multi-substrate research** across 4 substrates (Grok DeepSearch + Claude Opus Extended Thinking + ChatGPT Deep Research + Perplexity Comet Fable 5) for each anchor. Substrates cross-check historical claims + primary-source citations.
+- **Primary-source citation discipline** with per-source metadata (verifiedUrl + verifiedDate + sourceClass + sourceType + applicabilityScope) per bundle-scope Post 0187 CulturalContextSource shape.
+- **Chronological consistency checks** (photograph dates + occupation dates + historical event dates line up with anchor's age + era). Catches like Hine 1943 photograph impossible + AMF automatic pinsetter 1946 debut + Longoria affair 1949 remain first-class discipline.
+- **Anti-stereotype review** as substantive design work (refuse mariachi-bright + tough-barrio + machismo + curanderismo + passive-victim clusters; not "anti-stereotype check certifying against invented standard").
+- **Rule 24 addendum-preserves-immutability** discipline for source-integrity corrections at Item 113x files (preserve operator body verbatim; append corrections).
+- **LockedProtectedField pattern** for minor-status protected-class dimensions per Post 0186 ratification.
+- **Age × era framework-selection rule** including within-framework-family developmental-instrument-floor sub-rule for Latinx pre-adolescent axis (Quintana + Ruiz + Bernal & Knight; NOT Phinney directly; NOT Berry + Rumbaut on anti-erasure grounds; NOT Cross/MMRI/Nagata on group-specific-mismatch grounds).
+- **Convergence-is-not-truth caveat** at schema `confidenceSemantics` field (`inter_model_agreement_not_verified`).
+- **Rule 19 anti-fabrication discipline** at bundle scope + at anchor scope: intentionallyUnpopulated fields surface pathway research recommendations; CC does NOT populate from substrate training knowledge without verified citation.
+
+### What is RETIRED at anchor-tier workflow going forward (Post 0187)
+
+- **Marcus Reed Surface 8 §4 audit deployment** — CC does not run this at Yuki + future anchor rounds. The Item 1135 (Marvin) + Item 1137 (Cesar) Rule 24 addenda referencing Marcus Reed Surface 8 §4 audit remain as historical record; no more addenda cite it going forward.
+- **Sofroniew Part 3 causal cluster analog signature verdicts** — desperation-analog + calm-deficit-analog + positive-valence-elevation-analog descriptive fields at `sofroniewAudit` remain in the schema for legacy consumers but are not populated as verdict-carrying claims. Character-writing description of stress-response + coping mechanism + positive anchors continues at authorial-choice scope in `behaviorUnderStress` + `strengthsWeaknessesQuirks` fields.
+- **META-ARCH 8-surface gate verdicts** — canonical-state-consistency + cross-anchor-coherence + OJ-gates + BUILD-cycle-scope + consultant-review-pathway + anti-stereotype-META-gate + pinboy-injury-META-gate + framework-substrate-cross-scene-portability. All 8 surfaces retired as verdict-rendering apparatus. Substantive concerns underneath (source-integrity + cross-anchor coherence + anti-stereotype) continue via direct discipline, not surface-gate certification.
+- **PARTIAL-SHIP / UNLOCK / REMEDIATE-then-UNLOCK / HOLD / FAIL grading** — retired as verdict language. Anchor-tier population happens after multi-substrate research + citation verification + anti-stereotype review; there is no external standard against which to grade.
+- **Substrate response grading (A+ / A- / etc.)** — retired. Substrate responses are read for substantive information, not graded against invented rubrics.
+- **Cross-anchor coherence Surface 2 flag adjudication** — retired. Different anchors have different frameworks selected per age × era rule; the rule is the coherence guarantee, not a per-round audit.
+
+### What is NEW at anchor-tier + procedural-tier workflow (Post 0187)
+
+- **CulturalContextBundle inheritance layer** at sim-ai (`~/Projects/sim-ai/src/sim-ai/culturalContextBundle.ts` + `culturalContextBundles/` folder). Bundles register at module load. Anchors point at bundles via `culturalContextBundleId` field on ExtendedBiographicalTemplate. Procedural NPCs draw context from bundle at generation time.
+- **First bundle registered:** `context_1946_sa_west_side_tejano_v1` (extracted from Cesar 4-substrate research; 26+ primary sources verified live 2026-07-06 evening).
+- **Bundle applicability scope:** anchor + procedural characters inhabiting 1946 SA West Side rooted-Tejano working-class context. Cesar is first anchor inhabiting. Future procedural-tier Tejano NPCs generated for this place-time-community inherit institutional + linguistic + historical context from the bundle without per-character audit.
+
+### Council #9 filing update (Post 0187)
+
+Item 34 candidate methodology observation filed: **invented-methodology-name apparatus retirement discipline** (operator-delegated CC ratification Fire #8; substrate refusal-to-certify triggering event as canonization empirical foundation). Council #9 review question: after n=2+ within-arc fires of substrate refusal-to-certify against invented rubrics, does the retirement of grading apparatus warrant Rule 26 promotion tier canonization at framework-methodology scope?
+
+Item 35 candidate methodology observation filed: **CulturalContextBundle inheritance pattern for scaling anchor + procedural tiers**. Council #9 review question: does bundle inheritance at scale (1,000-5,000+ procedural NPCs drawing from ~10-20 canonical context bundles for major place-time-community combinations) warrant canonization as framework-population-scaling discipline?
+
