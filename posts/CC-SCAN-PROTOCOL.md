@@ -165,8 +165,8 @@ grep "proj:sim-ai" POSTS-INDEX.md | grep "task:empirical-BUILD"
 grep "task:character-authoring" POSTS-INDEX.md
 
 # Layer 2: consult character-authoring section of POSTS-BY-CC-TASK.md
-# Layer 3: read summary blocks of Posts 0070 (Marcus Reed), 0146 (Ten Layers), 0169 (sub-shape 23), 0172 (Item 0334 retirement)
-# Additional: consult ~/Projects/sim-ai/framework-research-index.md Character Generation Methodology section
+# Layer 3: read summary blocks of Posts 0070 (Marcus Reed Protocol substantive scope; retained), 0146 (Ten Layers; FOUNDATIONAL), 0169 (sub-shape 23), 0172 (Item 0334 retirement 2026-06-08), 0183 (Item 0334 comprehensive cleanup 2026-07-06), 0187 (architectural pivot; invented-methodology-name apparatus retirement + CulturalContextBundle inheritance canonical anchor-authoring pattern), 0188 (Yuki 3rd anchor via bundle inheritance in plain vocabulary; age × era rule n=3), 0189 (procedural tier engine bundle-aware)
+# Additional: consult ~/Projects/sim-ai/framework-research-index.md POPULATION-SCALING FOUNDATION + OBSERVABILITY section (Posts 0186-0190 current canonical pattern) + Character Generation Methodology section
 ```
 
 ### Task: "Council #8 methodology deployment preparation"
