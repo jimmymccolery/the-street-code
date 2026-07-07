@@ -331,6 +331,22 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the split-vs-rename decision be auditor OJ-gated (auditor recommends OR schema-owner decides) OR canonical (any dual-reading auto-splits)?
 - Related to Item 26 meta-prompt-improvement-first-class-output: dimension-split-under-audit-scrutiny is discovery pattern surfacing at content-authoring research round; audit is discovery surface
 
+### Item 32 — Candidate methodology observation template-drift-defect-propagation-across-sibling-items (Post 0186 Cesar arc n=1 fire)
+
+**Filed n=1 at Post 0186 Cesar arc extension 2026-07-06 evening.** Perplexity Comet Fable 5 substrate independently caught `hine_pin_boy_dc_photograph_1943` cultural anchor at Item 1137 (Cesar) as anachronistic (Hine died Nov 3 1940). CC verification at file grep 2026-07-06 evening confirmed the same defect propagated across 7 Item 113x personality files: Items 1135 (Marvin, corrected Post 0186 afternoon) + 1137 (Cesar, corrected 2026-07-06 evening) + 1138 (Walt) + 1139 (Yuki) + 1140 (Rose) + 1141 (Bessie) + 1143 (Margie). Template-drift defect at Item 113x authoring level: an anchor ID that is chronologically impossible (Hine died 3 years before the referenced 1943 photograph) was applied uniformly across pin-boy sibling entities without era-appropriateness verification. Candidate discipline: "Any cultural_anchor_id shared across N > 1 sibling entities must be verified at anchor-registry scope not per-entity scope; single-entity Rule 24 correction cascades to N-1 sibling files as bulk correction OR anchor-registry retirement." Council #9 review questions:
+- Does the pattern warrant canonization as anchor-registry-verification discipline at Rule 26 promotion tier?
+- What is the pathway for bulk Rule 24 correction cascade vs anchor-registry retirement (single-file rename semantics) — related to Post 0184 provenance-centralization-anti-drift Item 23 discipline?
+- Should the pre-anchor-content-lock verification gate require cross-entity anchor-registry-consistency check?
+- Related to Item 23 provenance-centralization-anti-drift + Item 20 retired-workflow-recurrence-anti-pattern: template-drift + retired-workflow + anchor-drift form a canonization-propagation-gap family at cross-entity scope
+
+### Item 33 — Candidate methodology observation retired-workflow-recurrence-at-sibling-items (Post 0186 Cesar arc n=1 fire; strengthens Item 20)
+
+**Filed n=1 at Post 0186 Cesar arc extension 2026-07-06 evening.** Item 1137 Anti-stereotype check body carries retired Item 0334 consultant review workflow reference ("Per civil-rights framework applicability TRUE flag: Tejano child labor + Mexican-American veteran father + nun-slap-for-Spanish + American GI Forum context all route through Item 0334 consultant review."). This is the **5th within-Phase-3 recurrence** of retired-workflow-recurrence-anti-pattern (Item 20 candidacy at Post 0183 + Post 0186 Marvin) at Item 113x sibling files. Sibling personality files (Item 1136 Stas + Item 1138 Walt + Item 1139 Yuki + Item 1140 Rose + Item 1141 Bessie + Item 1143 Margie) may carry the same reference — CC-side sweep pending. Yuki Item 1139 confirmed at CC sweep 2026-07-06 evening carries "Item 0334 consultant review" reference. Candidate discipline extends Item 20 canonization scope from within-post recurrence to cross-entity-file recurrence: "Any workflow retirement must trigger cross-entity-file sweep at time of retirement to catch propagated references at sibling entity files." Council #9 review questions:
+- Does the pattern strengthen Item 20 to Rule 26 promotion tier candidacy AT this arc (n=5+ within-Phase-3)?
+- What is the bulk Rule 24 correction cascade pathway for cross-entity retired-workflow-reference sweeps?
+- Should workflow-retirement events (Post 0183-analog) require mandatory cross-entity-file scan discipline as canonization step?
+- Related to Item 32 template-drift-defect-propagation: both are cross-entity canonization-propagation-gap sub-shapes; Item 32 at anchor-registry scope + Item 33 at workflow-reference scope
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).

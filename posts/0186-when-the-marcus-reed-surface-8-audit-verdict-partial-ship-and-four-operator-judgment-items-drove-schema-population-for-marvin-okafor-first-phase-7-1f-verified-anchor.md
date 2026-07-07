@@ -131,3 +131,53 @@ Item 1135 Rule 24 correction addendum shipped at `~/Projects/Open Alley/content-
 Four candidate methodology observations filed at `~/Projects/the-street-code/methodology/council-9-review-agenda-draft-2026-07-05.md` from Marvin arc: (a) **age × era framework-selection rule** (n=1 fire; will strengthen to n=3 at Cesar + Yuki rounds if rule holds); (b) **child-safety-unknown-do-not-infer LockedProtectedField pattern** (n=1 fire; applies to any minor character with civil_rights_framework_applicable=true where dimension has zero operator-authored content); (c) **convergence-is-not-truth confidence semantics** (n=1 fire; 4-of-4 substrate agreement is inter_model_agreement_not_verified not verified per Opus caveat); (d) **dimension-split-under-audit-scrutiny** (n=1 fire; auditor dual-reading resolution pattern -- disambiguate + split into 2 fields rather than force single field to carry both semantics). Operator-delegated CC ratification Fire #7 strengthens that discipline (n=7 within-framework-history since first application; canonization at Council #8 established the meta-discipline).
 
 Post 0186 completes the first anchor round of Phase 7.1f substrate-triangulation research. Cesar de la Rosa + Yuki Tanaka substrate deployments + Marcus Reed audits + schema populations remain sequenced next. Item 1134 improvement dedicated meta-prompt phase remains sequenced after all 3 anchor rounds close. Fiske adjudication kit deployment remains sequenced separately.
+
+---
+
+## Rule 24 correction addendum -- 2026-07-06 evening (Cesar arc empirical validation)
+
+**Discipline:** Rule 24 addendum-preserves-immutability. Post body above is PRESERVED VERBATIM. Corrections are appended below.
+
+**Trigger:** Phase 7.1f Cesar de la Rosa substrate-triangulation research 2026-07-06 evening. 4 substrates (Grok DeepSearch + Claude Opus Extended Thinking + ChatGPT Deep Research + Perplexity Comet Fable 5) independently corrected the wrapper era error at CC session + surfaced framework-selection refinement.
+
+### Correction -- Cesar era references WRONG throughout Post 0186 body (1970s adolescent → 1946 age 11)
+
+**Defect:** Four locations in Post 0186 body reference Cesar as "1970s adolescent" or "for 1970s adolescent" context. All are WRONG per Item 1137 source authority.
+
+- Load-bearing claim line: "Cesar de la Rosa (Phinney MEIM plus Latinx cultural-identity scholarship)" (implied 1970s adolescent context)
+- Applicability triggers line: "Cesar + Yuki upcoming audit rounds trigger age × era framework rule application" (implicit era; not wrong on its face but framework selection was mis-specified downstream)
+- Mechanism details: "OJ-1 age × era framework-selection rule ratification applies uniformly across Marvin ... + Cesar (Phinney MEIM + Latinx cultural-identity scholarship 1970s adolescent) + Yuki"
+- OJ-1 body text: "Rule applies uniformly to Cesar de la Rosa (Phinney 1992 MEIM + Latinx cultural-identity scholarship for 1970s adolescent)"
+
+**Source authority:** Item 1137 at `~/Projects/Open Alley/content-kb/personalities/item-1137-cesar-delarosa-1946-pin-boy-san-antonio.md` -- filename embeds 1946 + `personality_id: pp:personality:cesar-delarosa-1946` + demographic "11-year-old Tejano (Mexican-American) boy in San Antonio 1946" + pin-boy occupation displaced by AMF automatic pinsetters c. 1946 debut so 1970s pin-boy chronologically incoherent.
+
+**Substrate convergence:** 4/4 substrate convergence on 1946 age 11 (Grok silent self-correct + Opus explicit + ChatGPT explicit + Perplexity explicit).
+
+**Corrected framing (applies wherever Post 0186 body references Cesar):**
+
+Age × era framework-selection rule applies uniformly across Marvin (1944, 12yo, Black-American Philadelphia; MMRI + racial-socialization) + **Cesar (1946, age 11, rooted-Tejano San Antonio; Quintana 1994 + 1998 ethnic-perspective-taking primary + Ruiz 1990 Chicano/Latino Crisis-Resolution shame-axis + Bernal & Knight 1990 childhood ethnic identity components; Phinney MEIM below instrument floor at age 11 retained as construct-and-developmental-horizon only)** + Yuki (1946, age 16, Japanese-American post-Manzanar Chicago; Nagata 2015 transgenerational trauma + gaman-endurance frame + Phinney MEIM within instrument floor at 16).
+
+**Framework refinement:** Cesar arc 3/4 substrate convergence (Opus + ChatGPT + Perplexity) proposed Quintana + Ruiz + Bernal for age-11 rooted-Tejano subject, INSTEAD OF Phinney MEIM directly. Refined framework selection now canonized at `~/Projects/the-street-code/methodology/identity-framework-selection-rule-age-era-2026-07-06.md` Rule 24 correction addendum. Age × era rule extended with within-framework-family developmental-instrument-floor discipline for Latinx pre-adolescent axis.
+
+**Discipline family this correction strengthens:**
+- Sub-shape 23 canonical-infrastructure-consultation-before-character-authoring: n+6 within-Phase-3 (my Post 0185 kit deployment authored Cesar as 1970s adolescent without cross-verifying Item 1137 source; Rule 22 class-h verify-against-canonical-files pattern)
+- Retired-workflow-recurrence-anti-pattern (Council #9 Item 20 candidacy strengthens; Item 1137 Anti-stereotype check body carried retired Item 0334 consultant review reference -- 5th within-Phase-3 recurrence caught during Cesar Rule 24 correction cascade sweep)
+
+### Sofroniew Part 3 signature Marvin-vs-Cesar cross-anchor coherence resolved AT SUBSTRATE TIME (not audit time)
+
+Claude Opus Extended Thinking Cesar substrate independently declined to manufacture a Marvin-vs-Cesar developmental-maturity hierarchy: "decline to manufacture a maturity gradient in which Marvin is 'ahead'. The difference is temperamental characterization plus a marginal near-transition age effect." Resolves Marcus Reed Surface 8 §4 Surface 2 cross-anchor coherence flag preemptively for the Marvin-vs-Cesar pair. **This is Rule-24-canonization-worthy substrate behavior** -- surfaces the coherence question at research time rather than deferring to audit-time adjudication.
+
+### Cesar Rule 24 addendum at Item 1137
+
+Item 1137 file received Rule 24 correction addendum 2026-07-06 evening covering 3 defects:
+- Correction 1: `hine_pin_boy_dc_photograph_1943` cultural anchor FAIL (Hine died Nov 3 1940; template-drift defect across 7 sibling Item 113x files including Marvin's Item 1135 already corrected)
+- Correction 2: Anti-stereotype check retired Item 0334 workflow reference (retired-workflow-recurrence n+5 within-Phase-3)
+- Correction 3: Cultural anchors list requires per-anchor verification metadata (verified_url + date_range + primary_or_secondary + confidence + source_type + applicability_scope per Item 1134 v1.1 improvements from Cesar arc)
+
+### Post 0186 methodology observations status update
+
+Item 28 (age × era framework-selection rule) empirical foundation strengthens n=1 → n=2 (Marvin + Cesar). Refinement extends rule with developmental-instrument-floor sub-rule for Latinx pre-adolescent axis. Council #9 review will adjudicate whether to canonize as Rule 26 promotion tier or maintain as candidate methodology observation pending n=3 (post-Yuki round).
+
+Additional Council #9 candidate methodology observations filed 2026-07-06 evening at Cesar arc:
+- **Item 32** -- template-drift-defect-propagation-across-sibling-items (Hine 1943 defect across 7 Item 113x files; systemic authoring defect requiring bulk Rule 24 correction cascade)
+- **Item 33** -- retired-workflow-recurrence-at-sibling-items (Item 1137 Anti-stereotype check retired Item 0334 reference; n+5 within-Phase-3 recurrence; sibling files may carry same reference; sweep pending)
