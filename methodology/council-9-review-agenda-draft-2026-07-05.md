@@ -467,6 +467,17 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Related to Item 34 invented-methodology-name apparatus retirement: pattern-inverse — retirement discipline catches substrate refusal-to-certify against invented rubrics; recognition discipline catches substrate identification of legitimate novelty gap
 - Empirical foundation: Round 6 finding is single-substrate but references verifiable academic-literature which can be independently cross-checked at cost bounded to ~30-60 minutes per contribution recognition
 
+### Item 46 — Candidate methodology observation ELI5-then-ratify-with-substrate-discipline-preservation pattern (Family/Kinship aspect 12 Option B ratification 2026-07-07 morning n=1 fire)
+
+**Filed n=1 at 2026-07-07 morning per Family/Kinship candidate aspect 12 Option B ratification arc.** Schema Architecture v0.2 canonization ~6 hours prior surfaced Family/Kinship gap at Section 15.2 (Grok Round 1 item-2010 originally proposed as first-class shelf; Rounds 5-6 collapsed into aspect 4 group memberships or made implicit). Operator requested ELI5 of 4 options (A: add as aspect 12 to v0.2.1 amendment / B: defer to Round 7 targeted research pass / C: collapse into aspect 4 formalized / D: accept as scope gap). CC recommendation: Option B — preserving Rule 11 multi-substrate discipline (aspect 12 requires n=3+ substrate validation matching 11-aspect matrix rigor) + Rule 20 canonization-propagation gap discipline (same-day v0.2.1 amendment ~6 hours post-v0.2 risks propagation gap) + Rule 21 operator-realism-check (Family/Kinship architecturally non-trivial: patrilineal/matrilineal + fictive kin + Bourdieu inheritance transmission warrants substantive research not pre-canonization architectural gymnastics). Operator ratified Option B. Pattern: ELI5 decision surface with numbered options + CC recommendation + substrate-discipline preservation via deferral option rather than same-day amendment temptation. Council #9 review questions:
+
+- Does ELI5-then-ratify-with-substrate-discipline-preservation pattern promote to canonical decision-surface methodology?
+- Should CC recommendation always favor substrate-discipline preservation (deferral) over same-day amendment when new-aspect canonization is on the table?
+- Related to Item 39 explicit-vs-implicit-ratification-drift-checklist-item: pattern-family is decision-surface-hygiene at ratification-scope
+- Related to Item 41 multiple-ratification-cascade: this ratification adds a 6th ratification to 2026-07-07 morning cascade demonstrating cascade sustainability under substrate-discipline preservation
+- Empirical foundation: n=1 within-arc; adjacent to n=5 prior ELI5-then-ratify surfaces this session (Marcus Reed Path α + Q63 Path (c) + Option D + Marvin bundle Option A + framework-research-index Option A)
+- Meta-observation: 6-of-6 operator ratifications this session preferred CC recommendation; may indicate CC recommendation quality or may indicate operator-CC alignment on substrate-discipline preservation as default judgment
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
