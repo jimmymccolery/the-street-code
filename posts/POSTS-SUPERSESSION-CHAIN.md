@@ -203,7 +203,7 @@
 
 ### Chain 9: Post 0148 → §6.3.1 memory storage cost variance + §4.4 cultural-baseline validation-vs-ratification (R10d cascade revisions)
 
-**Scope:** Post 0148 close ratified 2 R10d cascade revisions to `~/Projects/Open Alley/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md`. Cascade revisions LANDED per Post 0148 body claim; canonical R10d architecture doc receives Rule 24 addendum with amendment scope.
+**Scope:** Post 0148 close RATIFIED 2 R10d cascade revisions to `~/Projects/Open Alley/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md`. Cascade revisions ratified at Post scope 2026-07-04 late afternoon; Rule 24 addendum landing at R10d canonical file itself remains PENDING per Phase 3 architecture folder Rule 24 correction-notice sweep per 2026-07-06 ecosystem drift sweep at `~/Projects/master-setup/audits/2026-07-06-ecosystem-drift-sweep/02-architecture-folders-audit.md`.
 
 **§6.3.1:** Memory storage cost variance for structurally-disrupted characters (from Post 0137 H4 finding)
 **§4.4:** Cultural-baseline dispatch validation-vs-ratification distinction (from Post 0138 H5 finding)
