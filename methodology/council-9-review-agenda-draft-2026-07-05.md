@@ -666,6 +666,46 @@ Council #9 review questions:
 - Empirical foundation: n=5+ propagations within-arc + 63-item personality catalog + 9 grounding items + 3 cultural context bundles all missed = MASSIVE empirical foundation for canonization at Rule 22 / Rule 20 Family A read-side scope
 - Meta-observation: **Operator's critical inquiry ratio (n=6+ real gaps surfaced this session including Q65 stale-gate + Sam Nguyen framing + Fires G-K post-integration regression + Vault Item 55 falsification + Historical-events stale-claim + this pattern) continues far above CC's independent detection rate.** Rule 21 operator-realism-check discipline strengthens further.
 
+### Item 67 — Candidate methodology observation operator-terminology-translation-drift-CC-imposes-monolithic-framing-on-operator-pluralistic-proposal pattern (2026-07-07 late afternoon Phases 15-18 vault framing mis-representation n=1 fire; Rule 21 operator-realism-check strengthening n+1)
+
+**Filed n=1 fire at 2026-07-07 late afternoon per operator critical inquiry.** Operator proposed "Cartesian coordinate **planes**" (PLURAL — multiple coordinate planes) at Phases 15-18 vault design conversation. CC translated to "product manifold with typed sub-projections" + "unified coordinate space" (SINGULAR — one high-dimensional Cartesian product manifold). Framing propagated downstream across:
+- Vault Part 2 documented as "Cartesian Coordinate Architecture (Product Manifold)" — singular
+- Vault Item 54 candidacy filed as "product-manifold-with-typed-sub-projections-unifies-existing-scalar-representations" — singular unification
+- Cross-substrate validation ran against unified-manifold hypothesis at n=3 substrates
+- ELI5 explanation to operator collapsed to "into ONE coordinate space" — explicit singular
+- Phase 15 sequencing treated as unified refactor commit
+
+Operator critical inquiry 2026-07-07 late afternoon ("'into ONE coordinate space' Did I? I thought I proposed multiple spaces? ELI5 and be critical") surfaced the mis-framing.
+
+**Cross-substrate validation IRONICALLY VALIDATED operator's original framing:**
+- Grok Paranoid Stoner premortem: "Opposite framing: Modular loose-coupled subsystems (ALMA personality attractor + separate Bourdieu field layer) preserve nuance"
+- Opus Round 2 Section E18: "modular loose-coupling is the lower-risk default; full manifold unification should be treated as a research bet"
+- Perplexity Round 3: BEN architecture (JASSS 23(4):12) MODULAR precedent better than monolithic
+
+All 3 substrates recommended modular > monolithic. Which is closer to operator's PLURAL PLANES original framing than CC's UNIFIED PRODUCT MANIFOLD framing.
+
+**Pattern name:** operator-terminology-translation-drift-CC-imposes-monolithic-framing-on-operator-pluralistic-proposal.
+
+Council #9 review questions:
+
+- Does operator-terminology-translation-drift pattern promote to Rule 21 operator-realism-check canonical extension?
+- Should CC translation of operator terminology into CC-canonical vocabulary REQUIRE explicit operator confirmation before propagating downstream?
+- Related to Item 34 invented-methodology-name apparatus retirement (Post 0187 pivot): pattern-family adjacent at "CC-invents-vocabulary-not-honoring-operator-original-framing" scope
+- Related to Item 66 gap-claim-propagates-across-meta-analysis-cascade: pattern-family direct at "CC-framing-propagates-across-downstream-artifacts-without-operator-verification" scope
+- Related to Rule 21 operator-realism-check discipline (canonized Council #8): pattern-family DIRECT strengthening at framework-methodology-scope
+- Empirical foundation: n=1 within-arc + Item 55 falsification (n=3 substrate consensus validated modular over monolithic + operator's original framing)
+- Meta-observation: CC's product-manifold vocabulary is mathematically equivalent to plural planes (Cartesian product of typed sub-spaces) BUT downstream framing collapsed to unified interpretation. The vocabulary translation was TECHNICALLY faithful; the downstream INTERPRETATION was monolithic. Suggests framework methodology should distinguish vocabulary-translation from framing-interpretation at operator-proposal ingestion.
+
+**Corrective actions applied:**
+- Rule 24 addendum applied at Phases 15-18 vault documenting mis-framing correction chain
+- Vault Item 54 REFRAMED as "Multi-plane-modular-coordinate-architecture-per-BEN-precedent" (supersedes original product-manifold-with-typed-sub-projections framing)
+- Vault Item 55 falsification SURVIVES correction (monolithic-attractor-guarantee falsified; modular-multi-plane doesn't require attractor-guarantee across manifold)
+- Phase 15-A through 15-G sequencing REFRAMED as separate plane implementations with typed cross-plane interfaces (NOT unified refactor commit)
+- Council #9 Item 67 filed (this item; strengthens Rule 21 operator-realism-check discipline)
+- Rule 21 feedback memory strengthened (n+1 within-session fire)
+
+**Operator critical inquiry ratio this session strengthens to n=7+ real gaps surfaced** (Q65 stale-gate + Sam Nguyen framing + Fires G-K post-integration regression + Vault Item 55 falsification + historical-events stale-claim + character-catalog stale-claim + unified-vs-plural framing mis-representation). Rule 21 operator-realism-check discipline continues far above CC's independent detection rate.
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
