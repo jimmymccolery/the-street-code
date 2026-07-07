@@ -1,8 +1,9 @@
 # Council #9 Review Agenda — Draft Document
 
-**Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep)
+**Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
 **Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
+**Total candidacy items:** 39 (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session)
 **Ratification protocol:** Per Council #8 canonization outcome — orchestrator synthesis Section 5 empirical validation gate + Section 6.6 falsification meta-canonization discipline + ChatGPT proposal adopted
 **Cross-references:**
 - `~/Desktop/COUNCIL-8-DEPLOY/SYNTHESIS-DRAFT.md` — Council #8 orchestrator synthesis
@@ -362,6 +363,109 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - What is the bulk Rule 24 correction cascade pathway for cross-entity retired-workflow-reference sweeps?
 - Should workflow-retirement events (Post 0183-analog) require mandatory cross-entity-file scan discipline as canonization step?
 - Related to Item 32 template-drift-defect-propagation: both are cross-entity canonization-propagation-gap sub-shapes; Item 32 at anchor-registry scope + Item 33 at workflow-reference scope
+
+### Item 36 — Candidate methodology observation CC-drafts-cultural-context-bundle-autonomously-with-operator-review pattern (Marvin bundle 2026-07-07 n=1 fire; parallel to sub-shape 20)
+
+**Filed n=1 at 2026-07-07 morning session per `project_marvin_culturalcontextbundle_shipped_2026-07-07.md`.** Marvin CulturalContextBundle (`context_1944_philadelphia_north_philly_african_american_v1`) authored autonomously by CC to Yuki + Cesar bundle parity + 33 primary sources + framework selection per canonized age × era rule + Rule 24 audit corrections preserved (Prince Hall Masons FAMILY exposure not 12yo Marvin himself) — approximately 2-3 hours CC autonomous execution before operator review. Meta-analysis had originally framed as "operator authoring bandwidth constrained" (parallel to sub-shape 20 CC-authored-operational-cost-framing-without-empirical-grounding family from Post 0175). ELI5 correction identified: CC can draft 70-80% autonomously using template + framework-selection rules + primary source research; operator's role becomes REVIEW rather than authoring-from-scratch. Council #9 review questions:
+
+- Does the CC-drafts-cultural-context-bundle-autonomously pattern promote to canonical procedural-tier-bundle-authoring discipline at ~10-20 bundle target scale?
+- Should the pattern absorb into Rule 21 operator-realism-check as CC-authored-operational-cost-framing sub-clause requiring empirical grounding before framing operator bandwidth as constraint?
+- What is the operator-review discipline for CC-authored bundle drafts (line-by-line review vs sample-check vs holistic acceptance)?
+- Should bundle registry expansion adopt CC-drafts-then-operator-review as canonical workflow for procedural tier scaling toward 10-20 target?
+- Related to Item 25 substrate-triangulation-as-methodology-adjudication + Item 26 meta-prompt-improvement-first-class-output: both are Phase 7.1f-family extensions covering CC-authored-content-with-operator-review scopes; bundle-drafting fits within family
+
+### Item 37 — Candidate methodology observation vendor-sync-reminder-post-commit-discipline (Option D 2026-07-07 n=1 fire)
+
+**Filed n=1 at 2026-07-07 morning session per `project_option_d_vendor_sync_reminder_hook_ratified_2026-07-07.md`.** Post-commit hook at `~/Projects/sim-ai/.git/hooks/post-commit` installed via `bash scripts/install-hooks.sh` prints unmissable reminder + copy-pasteable rsync command + destination commit-message with auto-SHA-substitution after every sim-ai commit. Hook does NOT auto-execute (preserves operator control over WHEN to propagate to RoomToLife scope; internal-only refactors + test-only + docs-only changes skip vendor sync). Option B git submodule BLOCKED by local-only repo discipline (sim-ai has NO REMOTE per `project_local_only_git.md`); Option A auto-execute rejected because it removes deliberate propagation control that was proven useful during Phase 2.9-A Step 2 refactor 2026-07-07 morning (tests + typecheck at Open Alley alias verified BEFORE RoomToLife vendor rsync executed). New operational discipline pattern: automate the REMINDER not the ACTION. Council #9 review questions:
+
+- Does vendor-sync-reminder-post-commit-discipline promote to canonical cross-repo-propagation pattern applicable beyond sim-ai (any project where auto-execute would sacrifice deliberate-control value)?
+- Should the pattern absorb into Rule 25 substrate-behavior standalone discipline as cross-repo-vendored-content-verification extension?
+- What is the enforcement mechanism strengthening (must the reminder be UNMISSABLE at operator interactive-terminal scope OR is background stdout output acceptable at CI-mediated commit scope)?
+- Related to Item 27 architectural-foundation-scaffold-with-consumer-deferral: reminder-hook pattern is consumer-side hook for scaffold-then-populate discipline
+- Falsification threshold: if operator systematically ignores reminder + drift accumulates >2 weeks between sim-ai commits + RoomToLife vendor sync, discipline is empirically falsified as ineffective
+
+### Item 38 — Candidate methodology observation index-freshness-preemptive-refresh-before-Council-review-cycle discipline (framework-research-index v2.1 refresh 2026-07-07 n=1 fire)
+
+**Filed n=1 at 2026-07-07 morning session per `project_framework_research_index_v2_1_round_6_refresh_2026-07-07.md`.** 3 framework-research-indexes (global `~/.claude/framework-research-index.md` + Open Alley + sim-ai) refreshed to v2.1 with entries for 4 Round 6 concepts (Schwartz values backbone + Bourdieu habitus + CIDOC-CRM authoring-runtime + first-class intersection nodes) + 6-round substrate arc + audit corrections — completed BEFORE Council #9 review window (2026-09-05 → 2026-10-05). Meta-analysis had flagged the gap (Agent 5 report; substrate reports items 2010-2015 post-date last index update). Pattern: refresh framework-research-index entries as soon as Round N substrate research concludes (before subsequent Council review). Avoids meta-analysis-flagged "did we already research this?" duplication + read-side drift risk that Item 20 retired-workflow-recurrence family surfaced. Council #9 review questions:
+
+- Does index-freshness-preemptive-refresh promote to canonical read-side-canonization-propagation discipline?
+- Should the pattern absorb into Rule 20 canonization-propagation gap discipline as read-side-index-freshness sub-shape (parallel to Rule 22 write-side canonical-file verification)?
+- Should the pattern promote to standalone Rule 27 (index-freshness-preemptive-refresh-before-major-review-cycle-deployment)?
+- What is the trigger threshold (per-round vs per-Council-cycle vs per-shipped-substrate-artifact)?
+- Related to Item 20 retired-workflow-recurrence-anti-pattern: read-side drift is common root cause of both patterns (write-side canonical files updated + read-side navigation surfaces stale)
+
+### Item 39 — Candidate methodology observation explicit-vs-implicit-ratification-drift-checklist-item discipline (Marcus Reed Path α 2026-07-07 n=1 fire)
+
+**Filed n=1 at 2026-07-07 morning session per `project_marcus_reed_path_alpha_explicit_ratification_2026-07-07.md`.** Phase 7.1f Stage 5 cascade plan (`architecture/phase-7-1f-stage-5-cascade-application-plan-2026-06-09.md`) contained line 165 "[ ] Operator chooses Marcus Reed surface-taxonomy reconciliation path (α/β/γ; CC recommends α)" as unchecked checklist item. Path α was INFERRED via Stage 4 Path A 30-lock ratification 2026-06-10 PM (L19 + L29 lock body references to "briefing-authoritative §2.3 surface naming") + canonization-candidate.md L73 documented "🔄 RECONCILED Path α 2026-06-10 PM" annotation + Stage 5 Steps 1-2-4-5 shipped 2026-06-09/10 evening. But the specific Stage 5 checklist item remained UNCHECKED for 28 days despite substantive completion. Explicit operator ratification 2026-07-07 morning closed the loop. Pattern: cascade-plan checklists at unratified state can drift into "inferred-but-not-explicit" limbo across sessions; downstream deliberation may pause waiting for explicit ratification that upstream inference already substantively delivered. Council #9 review questions:
+
+- Does explicit-vs-implicit-ratification-drift promote to canonical cascade-plan-checklist-hygiene discipline?
+- Should the pattern absorb into Rule 22 verify-against-canonical-files as checklist-item-status-verification sub-shape?
+- What is the enforcement mechanism (session-close discipline sweeps checklist items OR pre-cascade-authoring-phase checklists get explicit ratification requirement OR post-inference addendum requirement)?
+- Related to Item 20 retired-workflow-recurrence-anti-pattern + Item 38 index-freshness-preemptive-refresh: all three at read-side-drift family scope
+- Falsification threshold: if similar checklist-item-drift pattern observed n≥3 times across Council #8-Council #9 window, discipline warrants promotion
+
+### Item 40 — Candidate methodology observation meta-analysis-count-comparison-surfacing-false-gaps sub-shape (Item 8 historical-events grounding 2026-07-07 n=1 fire)
+
+**Filed n=1 at 2026-07-07 morning session** (embedded within multi-agent meta-analysis + operator correction dialogue). Meta-analysis Agent 3 (content-kb research + substrate arcs) flagged "historical-event grounding for Marvin + Cesar" as coverage gap comparing Yuki (Items 2007-2009 exist per Chicago Nikkei bundle grounding) vs Marvin + Cesar (no equivalent items exist). CC propagated as Item 8 recommendation in synthesis without cross-referencing operator's stated systematic-research intent (schemas populated via Schema Architecture v0.2 Phase A-F systematic pipeline; per-anchor ad-hoc historical-event creation would duplicate that work). Operator correctly caught the recommendation as false-gap: Items 2007-2009 exist as PRE-Schema-v0.2 canonization artifact + reference pattern, NOT as ad-hoc-per-anchor discipline that should be replicated. Count-comparison surfaced "gap" without cross-referencing intent. Pattern: meta-analysis surfaces false gaps when read-side asymmetry has valid systematic-resolution pathway that count-comparison methodology cannot see. Council #9 review questions:
+
+- Does meta-analysis-count-comparison-surfacing-false-gaps sub-shape promote to canonical meta-analysis-methodology-discipline?
+- Should the sub-shape absorb into Rule 20 Family A read-side sub-shape (parallel to sub-shape 27 statistics-fabrication under scan-architecture-scope but at gap-identification scope)?
+- What is the mitigation discipline (meta-analysis agent prompt requires cross-referencing operator's stated intent BEFORE surfacing count-comparison gaps)?
+- Related to Item 20 retired-workflow-recurrence-anti-pattern + Item 38 index-freshness-preemptive-refresh: all three at read-side-navigation-surface-drift family; count-comparison surfacing false gaps is read-side-analysis-drift specifically
+- Related to sub-shape 20 CC-authored-operational-cost-framing-without-empirical-grounding: meta-analysis count-comparison is CC-authored-gap-identification-without-intent-verification analog
+
+### Item 41 — Candidate methodology observation multiple-ratification-cascade-in-single-morning-session discipline (2026-07-07 morning n=1 fire; strengthens Item 14 comprehensive-arc-at-scale)
+
+**Filed n=1 at 2026-07-07 morning session per `project_2026_07_07_morning_comprehensive_session_arc.md`.** Single morning session ~4 hours wall-clock shipped 7 substantial ratifications: Schema Architecture v0.2 canonization + Marvin CulturalContextBundle (3rd bundle 33 sources) + Marcus Reed Path α explicit ratification + Q63 Path (c) + Option D vendor sync reminder hook + Sim AI Scene abstraction refactor Phase 2.9-A Step 2 + framework-research-index v2.1 Round 6 refresh. Council #6 close gates 3 + 4 fully cleared + Gate 5 pathway-unblocked. Test suites stable at all 3 consumers (sim-ai 1219 + Open Alley 1890 + RoomToLife typecheck clean). Similar in spirit to Post 0181 comprehensive-arc-at-scale n=5 fire but at RATIFICATION-CASCADE scope (multiple decisions crystallized) rather than ARC-SHIPPING scope (comprehensive research→code integration). Pattern: operator-directive "cutting no corners" + 5-6 ELI5 decision surfaces + operator-ratification cascade produces high ratification velocity under Rule 21 operator-realism-check discipline. Council #9 review questions:
+
+- Does multiple-ratification-cascade-in-single-morning-session promote to canonical decision-velocity-discipline?
+- Should the pattern absorb into Item 14 comprehensive-arc-at-scale discipline as RATIFICATION-scope sibling (comprehensive-arc-at-scale covers implementation; multiple-ratification-cascade covers decision-crystallization)?
+- What are the enabling conditions (operator-delegated CC ratification policy + ELI5 decision-surface pattern + fresh session context + framework maturity supporting rapid decision synthesis)?
+- Should the pattern promote at n=1 given operator-attention-cost measurement is straightforward + pattern is reproducible?
+- Related to sub-shape 20 CC-authored-operational-cost-framing: multiple-ratification-cascade challenges CC's default "operator bandwidth constrained" framing at ratification-cost scope (parallel to Marvin bundle authoring-cost challenge)
+
+### Item 42 — Candidate methodology observation AUTHORING-vs-RUNTIME compilation discipline (Round 6 Schema v0.2 canonization 2026-07-07 n=1 fire; empirical foundation across 6-round substrate arc)
+
+**Filed n=1 at 2026-07-07 morning per `project_schema_architecture_v0_2_canonization_2026-07-07.md` Section 2 canonical.** Round 4-6 substrate arc converged on AUTHORING-vs-RUNTIME distinction as LOAD-BEARING architectural pattern for Memory Lanes at 1,000-5,000 NPC scale: CIDOC-CRM RDF graph queries at gameplay-loop scale are "staggering" per ResearchSpace CRM-FR search paper; raw graph CANNOT be queried in tick loop. 4-layer authoring/runtime pattern: (1) AUTHORING GRAPH (CIDOC-CRM + PROV-O) + (2) VOCABULARY LAYER (SKOS + Getty AAT + 8-vocab supplement stack) + (3) COMPILED RUNTIME TABLES + (4) CONSULTATION-DERIVED PERMISSIONS. 11 compiled runtime tables + 5-attribute minimum row schema canonized. Pattern generalizes beyond CIDOC-CRM to any high-scale simulation architecture where authoring semantics + runtime performance are orthogonal concerns. Council #9 review questions:
+
+- Does AUTHORING-vs-RUNTIME compilation discipline promote to canonical framework-architecture pattern at high-scale-simulation scope?
+- Should the pattern absorb into Post 0146 ten-layer NPC architecture as cross-cutting compilation-layer canonical addition?
+- What is the compilation-layer canonization for existing sim-ai substrate modules (a7Memory + Layer 3 accumulators + biographicalRecord already effectively runtime-optimized; do they need explicit AUTHORING-vs-RUNTIME formalization)?
+- Related to Item 27 architectural-foundation-scaffold-with-consumer-deferral: AUTHORING-vs-RUNTIME distinction is compilation-layer specification for architectural-foundation scaffolding
+- Related to Item 35 CulturalContextBundle inheritance: bundles function as AUTHORING-layer artifacts; procedural NPC provisioner functions as compilation-to-runtime pathway; pattern extends naturally
+
+### Item 43 — Candidate methodology observation 4-source ISBN triangulation methodology (Bourdieu La Distinction French ISBN 2026-07-07 n=1 fire)
+
+**Filed n=1 at 2026-07-07 morning per Schema Architecture v0.2 Section 14.1 canonical + `content-kb/substrate-reports/item-2015-*.md` Round 6 verification.** Bourdieu *La Distinction* French ISBN 9782707302755 verified via 4-source triangulation: BnF (Bibliothèque nationale de France) + WorldCat OCLC 6486740 + Internet Archive + French Wikipedia. Task-supplied original 9782707302753 caught as INVALID via ISBN-13 check-digit validation (check-digit for prefix `978270730275` mathematically requires `5` not `3`; terminal `3` is single-digit mis-transcription error signature — NOT an OCR block error which would corrupt interior digits). Pattern: primary-source verification through cross-authority triangulation + mathematical validation (check-digit) catches errors that any single source might propagate. Cost: modest (10-15 minutes across 4 sources per verification). Council #9 review questions:
+
+- Does 4-source ISBN triangulation methodology promote to canonical citation-verification-discipline for load-bearing citations?
+- Should the pattern absorb into Rule 19 anti-fabrication as citation-verification sub-clause (parallel to substrate-self-attestation unenforceable discipline)?
+- What is the threshold for triangulation (load-bearing citations REQUIRE 4-source triangulation OR only citations flagged as suspicious via mathematical/logical validation)?
+- Should the pattern extend beyond ISBN to other identifier types (DOI + PubMed ID + ORCID + trademark registration number + Getty AAT URI + LC Name Authority ID)?
+- Related to sub-shape 20 CC-authored-operational-cost-framing: 4-source triangulation cost is empirically bounded ~10-15 minutes; discipline empirically bounds operator/CC cost estimation
+- Empirical foundation strengthener: Round 6 canonical doc Section 14.1 lists 5 divergence resolutions (Bourdieu ISBN + Cosmic Bowling trademark + HABS collection size + Getty ULAN + Kohlberg critique) — 5 concrete verification arcs
+
+### Item 44 — Candidate methodology observation retrospective-audit-with-6-dimension-rubric strengthening (Post 0163 6-dim rubric applied to 6 substrate reports + Schema v0.2 canonical doc 2026-07-07 n=6+ arcs cumulative)
+
+**Filed n=6+ cumulative at 2026-07-07 morning per Rounds 1-6 substrate ingestion at `content-kb/substrate-reports/item-{2010,2011,2012,2013,2014,2015}-*.md` + Schema Architecture v0.2 canonical doc Section 18 audit record.** Post 0163 6-dimension grading rubric (D1 factual accuracy + D2 Rule 19 anti-fabrication + D3 internal consistency + D4 framework alignment + D5 actionability + D6 scope discipline) applied at each Round 1-6 substrate report ingestion — aggregate A/A+ across all 6 substrates. Then applied to Schema Architecture v0.2 canonical doc itself producing 4 audit corrections (Marvin Prince Hall Masons age-appropriateness + Family/Kinship gap flag + item-2012 substrate identity inference caveat + Yuki literacy claim calibration). Rubric functioning as reproducible-verification-discipline across substrate ingestion + canonical-doc authoring scope. Council #9 review questions:
+
+- Does retrospective-audit-with-6-dimension-rubric at n=6+ arcs strengthen Rule 24 post-audit-correction discipline from n=1-origination + 4-applications to n=6+-cumulative-scope?
+- Should Rule 24 promote to Rule 26 candidacy with 6-dim rubric as embedded methodology?
+- What is the enforcement mechanism strengthening (6-dim rubric application required at all substrate ingestions + canonical-doc completions vs opt-in per operator discretion)?
+- Should the rubric evolve based on empirical observation (e.g., D6 scope discipline seldom fires empirically — is it necessary or can it absorb into D3 internal consistency)?
+- Related to Item 42 AUTHORING-vs-RUNTIME + Item 43 4-source ISBN triangulation: all three are Round 6-emergent verification-discipline strengthening candidates
+- Falsification threshold: if 6-dim rubric application produces zero corrections across n≥6 consecutive substrate ingestions, rubric is empirically theatrical (or substrate quality is uniformly A+); requires investigation
+
+### Item 45 — Candidate methodology observation novel-contribution-recognition-in-academic-literature-gap discipline (Round 6 first-class intersection nodes 2026-07-07 n=1 fire)
+
+**Filed n=1 at 2026-07-07 morning per Schema Architecture v0.2 Section 3.4 canonical + `content-kb/substrate-reports/item-2015-*.md` Round 6 finding.** Round 6 Claude Web Fable-5-direct substrate explicitly recognized that Memory Lanes' proposal to model Bourdieu habitus as in-NPC typed relations is under-theorized in existing academic literature. Direct quote: "This literature applies Bourdieu to gaming COMMUNITIES/PLAYERS, NOT to modeling habitus INSIDE NPCs. There is a genuine gap, meaning Memory Lanes' proposal to model habitus as in-NPC typed relations is relatively novel and under-theorized in the design literature." Academic references verified: Consalvo *Cheating: Gaining Advantage in Videogames* MIT Press 2007 ISBN 9780262033657 (gaming capital foundational) + Kirkpatrick gamer habitus + Walsh & Apperley + Mäyrä + DiGRA 2023 Pitroso + Games and Culture 2026 Torres-Díaz et al. — all apply Bourdieu to gaming COMMUNITIES/PLAYERS not NPCs. First-class curated intersection nodes similarly recognized: "No production knowledge graph implements descendant-consultation-populated first-class intersection nodes." Pattern: substrate-driven identification of academic-literature gap where framework contribution is genuinely novel — provides operator-facing recognition of research contribution + scholarly-publication candidacy. Council #9 review questions:
+
+- Does novel-contribution-recognition-in-academic-literature-gap discipline promote to canonical framework-contribution-attribution methodology?
+- Should the pattern absorb into publication-track methodology (framework contributions warranting scholarly publication should receive explicit substrate-driven academic-literature-gap verification)?
+- What is the empirical threshold for "novel" (single-substrate recognition vs multi-substrate convergence vs external peer-review verification)?
+- Related to Item 25 substrate-triangulation-as-methodology-adjudication + Item 26 meta-prompt-improvement-first-class-output: pattern-family is substrate-driven research-methodology-strengthening at framework-scope
+- Related to Item 34 invented-methodology-name apparatus retirement: pattern-inverse — retirement discipline catches substrate refusal-to-certify against invented rubrics; recognition discipline catches substrate identification of legitimate novelty gap
+- Empirical foundation: Round 6 finding is single-substrate but references verifiable academic-literature which can be independently cross-checked at cost bounded to ~30-60 minutes per contribution recognition
 
 ## Council #9 methodology deployment structure
 
