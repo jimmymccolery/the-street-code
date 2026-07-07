@@ -178,14 +178,15 @@
 0186 | 2026-07-06 | When the Marcus Reed Surface 8 Audit Verdict PARTIAL-SHIP and Four Operator-Judgment Items Drove Schema Population for Marvin Okafor First Phase 7 1f Verified Anchor | proj:sim-ai,open-alley,street-code,cross-cutting | task:marcus-reed-surface-8-audit-ingestion,schema-population-with-provenance,framework-selection-age-era-rule,child-safety-locked-encoding,rule-24-correction-notice | phase:phase-14-post-close-marvin-schema-population-arc | discipline:substrate-triangulation-content-authoring,identity-framework-selection-age-era-rule,child-safety-encoding-do-not-infer,convergence-is-not-truth-caveat,rule-24-addendum-preserves-immutability | status:published | supersedes:none
 0187 | 2026-07-06 | When a Fresh Claude Opus Session Refused to Render Invented-Methodology Verdicts and the Operator Pivoted to Cultural Context Bundle Inheritance for Scaling to Thousands | proj:sim-ai,open-alley,street-code,cross-cutting | task:cultural-context-bundle-schema,anchor-population-plain-vocabulary,framework-methodology-retirement,bulk-rule-24-cascade | phase:phase-14-post-close-post-0187-architectural-pivot | discipline:invented-methodology-name-retirement,cultural-context-bundle-inheritance,anchor-plus-procedural-hybrid,convergence-is-not-truth-caveat,rule-24-addendum-preserves-immutability | status:published | supersedes:none
 0188 | 2026-07-06 | When Yuki Tanaka Shipped as 3rd Phase 7 1f Verified Anchor via 2nd Cultural Context Bundle and Age × Era Rule Strengthened n2 to n3 | proj:sim-ai,open-alley,street-code,cross-cutting | task:yuki-schema-population-plain-vocabulary,japanese-american-post-manzanar-bundle,age-x-era-rule-n3-strengthening,rule-24-addendum-item-0334-residue | phase:phase-14-post-close-post-0188-yuki-arc | discipline:cultural-context-bundle-inheritance,age-x-era-rule-within-framework-family-instrument-floor,invented-methodology-name-retirement,rule-24-addendum-preserves-immutability | status:published | supersedes:none
+0189 | 2026-07-06 | When the Procedural Tier Engine Shipped and 100 NPCs Per Bundle Became Empirically Tractable | proj:sim-ai,roomtolife,open-alley,street-code,cross-cutting | task:procedural-npc-provisioner,bundle-aware-lifeline-generator,cultural-context-bundle-inheritance-scaling,council-6-decision-1-operationalization | phase:phase-14-post-close-post-0189-procedural-engine | discipline:procedural-tier-engine-build,cultural-context-bundle-inheritance-scaling,population-scaling-foundation-pass-operationalization,deterministic-replay-verification,hexaco-distribution-variance-discipline | status:published | supersedes:none
 ```
 
 ---
 
 ## Statistics (verified via grep 2026-07-05 evening post-audit)
 
-**Total posts:** 185 (post_id range 0001-0188; gaps at 0107-0109)
-**v2.0 CC-OPTIMIZED-SUMMARY blocks present:** 185 (100%; all posts retrofitted; 0173-0188 shipped with v2.0 block at authorship time)
+**Total posts:** 186 (post_id range 0001-0189; gaps at 0107-0109)
+**v2.0 CC-OPTIMIZED-SUMMARY blocks present:** 186 (100%; all posts retrofitted; 0173-0189 shipped with v2.0 block at authorship time)
 
 **Project scope distribution (posts tagged with each scope in any position; sum exceeds 169 due to multi-scope tagging):**
 - street-code: 66
