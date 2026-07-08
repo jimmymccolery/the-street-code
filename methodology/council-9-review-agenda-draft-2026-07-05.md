@@ -1211,6 +1211,51 @@ Framing B (context-sensitive stratification): Application-arc posts SUBSTANTIVEL
 
 **Recommendation:** Rule 26 canonization candidacy READY for Council #9 review scope. Item 100 supersedes Items 20 + 33 as consolidated candidacy per split/retire/reduce mechanism ratified Council #8.
 
+### Item 102 — Phase 15 Stage 4 pair-relational plane architectural extension candidacy (Kelley-Thibaut + Rusbult + Wieselquist + Reis-Shaver + Gottman + attachment × pair-relational)
+
+**Filed:** 2026-07-08 morning (same session as Item 99 Stage 3 filing; Stage 4 shipped end-to-end following Stage 3 velocity pattern)
+
+**Trigger:** Phase 15 v3 Stage 1-9 pilot execution advancing per operator ratification "proceed with the entire plan"; next week plan Day 2-3 executed Stage 4 within same-session compression.
+
+**Architectural extension shipped:**
+- `sim-ai/src/sim-ai/pairRelationalPlane.ts` — PairRelationalCoordinates (17 fields) + PairRelationalEventType (14 event types grounded in peer-reviewed literature) + updatePairRelational deterministic function + asymmetric sentiment override (Fires G-K discipline preserved) + computeBondHistoryFloor (Fire I migration to derived property per Phase 15-E vault recommendation) + inferSituationType (Kelley et al. 2003 Atlas 6 situation types) + attachment sentiment/trust modulators (Mikulincer & Shaver 2007) + dyadic attachment typology + demandWithdrawProbability + expectedSentimentVolatility
+- Extended `CulturalContextBundle` with `pairRelationalCulturalExpectations` field
+- Extended 3 cultural bundles (A/D/E) with cultural expectations per Marshall 2008 East Asian intimacy asymmetry + Kito et al. 2017 RCI cross-cultural variance + Rothbaum et al. 2002 attachment behavioral expression variance
+
+**Empirical validation harness shipped parallel per Post 0197 discipline (recursive n=5+ instance):**
+- `sim-ai/scripts/stage-4-empirical-hypotheses/` — 7 hypothesis tests + run-all master runner + shared utilities
+- H1 Rusbult investment model replication (Le & Agnew 2003 meta-analysis N > 8,000): **PASS**
+- H2 Wieselquist accommodation → trust → commitment path: **PASS**
+- H3 Rusbult entrapment dissociation (Rusbult et al. 1998): **PASS** after commitment formula fix (added Wieselquist trust-mediated path + baseline institutional attachment)
+- H4 Kelley situation-structure typology (Kelley et al. 2003 Atlas): **PASS**
+- H5 Reis-Shaver intimacy spiral (Laurenceau et al. 1998 SEM parameters): **PASS** after synergy criterion calibration
+- H6 Gottman 4-Horsemen cascade (Gottman 1994): **PASS** after 4-horseman trust-erosion + turning-away encoding fix
+- H7 Anxious-Avoidant demand-withdraw (Feeney & Noller 1990): **PASS** after attachment sentiment-encoding modulation fix
+- Total wall clock 5.29 seconds. Sim-ai 1385/1386 tests pass. Synthesis report at `sim-ai/scripts/output/stage-4-synthesis-<timestamp>.report.md`.
+
+**Three architectural fixes uncovered by empirical harness before authoritative citation:**
+1. Attachment style needed active sentiment-encoding modulation (H7 root cause) — added `attachmentSentimentMultiplier` function per Mikulincer & Shaver 2007
+2. Gottman four-horseman events needed active trust erosion + turning-away encoding (H6 root cause) — 4-horseman events now count as turning-away in Driver & Gottman 2004 sliding window + reduce trust
+3. Rusbult commitment formula needed Wieselquist trust-mediated path + baseline institutional attachment (H3 root cause) — added 0.20 × trust contribution + 30/100 baseline
+
+**Fire I bond-history migration:** from HEXACO-plane scalar to pair-relational-derived property per Phase 15-E vault §15-E recommendation. Fires G-K threshold-tuning production discipline preserved; storage location migrated; value equivalence maintained.
+
+**Council #9 review-scope question:** Should Stage 4 architectural extension be canonized as framework methodology commitment given (a) 4-agent empirical foundation richness (Kelley-Thibaut + Rusbult + Wieselquist + Reis-Shaver + Gottman + Bartholomew-Mikulincer-Shaver + attachment × pair-relational), (b) Marcus Reed cross-cultural pair-relational commitment per Marshall 2008 + Kito 2017 + van IJzendoorn-Sagi-Schwartz 2008, (c) Post 0197 recursive discipline application at n=5+, (d) 7/7 hypothesis PASS verdict after 3 architectural fixes surfaced by harness, (e) Fire I production discipline preserved through migration?
+
+**Framework methodology commitments the extension makes (extending Stage 3 M1-M7):**
+- **M8: Pair-relational as SEPARATE plane not scalar aggregation** — loose sentiment scalars pre-Stage-4 subsumed under formal PairRelationalCoordinates 17-field structure
+- **M9: Fire I bond-history as DERIVED property** — retention as production discipline preserved; storage location migrated
+- **M10: Cultural bundle mediation of pair-relational dynamics** — empirical evidence backs bundle-level cultural expectations
+- **M11: Empirical harness before authoritative citation** — Post 0197 recursive at n=5+
+
+**Adjacent items strengthened:** Item 89 (empirical-integration-harness); Item 95 (empirical-validation-harness-parallel-to-diagnostic-UI); Item 98 (recursive discipline n=3); Item 99 (Stage 3 architectural extension); Item 100 (Rule 26 candidacy — retired-workflow-recurrence discipline aligns with Post 0197 discipline promotion pathway).
+
+**Post 0199 methodology capture:** `~/Projects/the-street-code/posts/0199-when-stage-four-pair-relational-plane-migrated-fire-i-bond-history-from-hexaco-scalar-to-derived-property-while-preserving-production-discipline.md`
+
+**Architectural spec:** `~/Projects/Open Alley/architecture/phase-15-stage-4-pair-relational-plane-architecture-2026-07-10.md`
+
+**Recommendation:** Retain as candidacy at Council #9 review scope for canonization consideration. Empirical harness verdict + 4-substrate empirical foundation + Marcus Reed cross-cultural pair-relational alignment + Fire I production discipline preservation through migration + Post 0197 recursive discipline application at n=5+ make Item 102 a load-bearing framework methodology extension candidate.
+
 ### Item 101 — Cycle 12 Steps 6-9 disposition (30+ day threshold exceeded per meta-analysis; RETIRE recommendation)
 
 **Filed:** 2026-07-08 morning (Day 1 loose-end closure per meta-analysis-recommended disposition)
