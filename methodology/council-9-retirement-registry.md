@@ -97,6 +97,29 @@ Five-surface propagation clean; no Rule 20 Family A canonization-propagation gap
 - Transparent deferral rather than silent backlog
 - Council #6 Decision 3 (session logger emission wiring) already operationalized at Post 0190; a7Memory integrates with existing observability infrastructure
 
+### Council #9 Item 87 (Sam-Stas Attachment duplication) — REMEDIATED 2026-07-07 late evening (Option 1)
+
+**Not a RETIRE move**; logged here for cross-reference with retirement-adjacent operator-delegated CC ratification dispositions.
+
+**Ratification:** Option 1 (retain Sam Nguyen values; re-author Stas Novak) EXECUTED at sim-ai commit `24f9f1c`. Stas Novak Attachment {avoidance: 55, anxiety: 45} → {avoidance: 62, anxiety: 58} per Main-Solomon disorganized attachment empirical correlates.
+
+**Effect:**
+- Sam-Stas duplication ELIMINATED at Attachment 2D (distance ~14.76 > pairwise-distinct threshold 5.0)
+- Council #9 Item 87 empirical foundation preserved via test rename + remediation documentation
+- Council #9 Item 88 (mechanical anchor audit catches authoring drift) empirically strengthened at Item 87 REMEDIATED state
+- First Council #9 pre-review empirical remediation instance (analogous to Item 55 first pre-Council RETIRE compliance)
+
+### Council #9 Item 87.1 (4-pinboy Schwartz collapse) — Option (c) RATIFIED 2026-07-07 late evening
+
+**Not a RETIRE move**; logged here for cross-reference.
+
+**Ratification:** Option (c) — accept as expected Stage-1-scaffolding limitation until Stage 2 authoring extension.
+
+**Effect:**
+- Item 87.1 REMAINS-ACTIVE at Council #9 candidacy (empirical signal preserved for methodological review)
+- Remediation trigger: Stage 2 v3 §3.3 anchor-authored Schwartz profile substitution
+- No code changes required; documentation-only ratification at agenda body Rule 24 addendum
+
 ### Loose End #12: Gemini Deep Think Round 5 RETIRED as OBSOLETED — RATIFIED
 
 **Original candidacy:** Gemini Deep Think Round 5 substrate deployment (failed twice 2026-07-07 late afternoon)
