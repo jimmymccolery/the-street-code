@@ -932,6 +932,32 @@ Council #9 review questions:
 
 **Adopted for Phase 15 v3 §14 (design principles section):** Provisionally adopted for Phase 15 v3 canonical implementation proposal; Stage 1 empirical gate 6 audits compliance. Council #9 empirical-review determination pending Stage 1 gate results.
 
+### Item 87 — duplicated-numeric-encoding-across-anchors-with-divergent-clinical-narrative pattern (Stage 1 Week 1 Day 1 empirical finding)
+
+**Filed:** 2026-07-07 late evening (Stage 1 Week 1 Day 1 UMAP diagnostic empirical run)
+**Type:** Framework methodology observation (Rule 20 Family A canonization-propagation gap sub-shape candidate; anchor-authoring-scope discipline)
+**Empirical foundation:** n=1 at Stage 1 Week 1 Day 1 UMAP diagnostic; distance-metric-detected
+
+**Observation:** Sam Nguyen (contemporary Vietnamese-American) and Stas Novak (1940s Polish-American) at biographicalRecord.ts have IDENTICAL `attachment: { avoidance: 55, anxiety: 45 }` despite substantively different clinical narratives per code comment:
+- **Sam:** "dismissive-avoidant leaning fearful; grew up caretaker for widowed mother"
+- **Stas:** "disorganized-leaning-toward-secure; over-functions to maintain attachment safety"
+
+These narratives describe attachment profiles that should map to different numeric encodings per Fraley-Waller-Brennan ECR-R 2000 canonical: dismissive-avoidant → high avoidance / low anxiety; disorganized → high avoidance + high anxiety (or Main-Solomon oscillating pattern). Both anchors currently encoded as `{55, 45}` — mid-avoidance + mid-anxiety.
+
+**Discovery mechanism:** Stage 1 Week 1 15-A UMAP diagnostic (Day 1 execution 2026-07-07 late evening). `anchorNearestNeighbors` metric revealed distance 0.0000 between Sam + Stas at Attachment direct-projection plane — coincidence detected by mechanical proximity computation, not by manual review.
+
+**Framework methodology implication:** Anchor-authoring workflow at sim-ai/biographicalRecord.ts allows clinical narrative to diverge from numeric encoding without cross-check. Marcus Reed methodology candidate discovery pattern. Adjacent to Council #9 Item 66 gap-claim-propagates-across-meta-analysis-cascade + Rule 22 read-side canonical-file-verification discipline.
+
+**Council #9 assessment question:** Should anchor-authoring workflow canonize a numeric-narrative-consistency-check step? Should Stage 1 UMAP diagnostic distance-metric outputs be canonized as authoring-audit surface? Adjacent to Item 78 (substrate-tool-augmented-source-verification) — this is CC-tool-augmented anchor-authoring-verification via mechanical distance detection.
+
+**Remediation options** (operator disposition; not Council-scope):
+1. Retain Sam values + re-author Stas
+2. Retain Stas values + re-author Sam
+3. Both retain + document numeric-is-canonical-source alignment
+4. Escalate to Schema v0.2 §5.4 consultation-gate if identity-linked scope requires cultural consultation
+
+**Value of Stage 1 empirical diagnostic pattern:** This finding validates the pilot plan's zero-risk framing of 15-A UMAP diagnostic. Week 1 Day 1 detected a real authoring-scope canonization-propagation gap before any Stage 2+ implementation started.
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
