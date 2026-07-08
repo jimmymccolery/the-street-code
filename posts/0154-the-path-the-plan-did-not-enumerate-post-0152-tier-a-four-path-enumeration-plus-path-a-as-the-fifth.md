@@ -96,7 +96,7 @@ Post 0152 shipped documenting the three-tier close condition strategy at Tier D 
 
 The framework's operational memory added a project record for the Path A empirical close arc plus a candidate sub-shape observation for the canonization-propagation gap discipline family. The record cross-references Post 0143 as the discipline family's canonical anchor plus Post 0152 as the enumeration-incompleteness fire plus this post as the meta-architecture-level publication.
 
-The framework's Open Alley test-suite state is unchanged at 472 tests passing. Path A deployment required instrumentation additions at the ScaleRunHarness UI component plus a server-side API endpoint for result capture but no changes to the Sim AI core code. The instrumentation additions ship at the population-scaling-foundation-pass close arc commits.
+The framework's primary backend project test-suite state is unchanged at 472 tests passing. Path A deployment required instrumentation additions at the ScaleRunHarness UI component plus a server-side API endpoint for result capture but no changes to the Sim AI core code. The instrumentation additions ship at the population-scaling-foundation-pass close arc commits.
 
 ## What I'm not claiming
 

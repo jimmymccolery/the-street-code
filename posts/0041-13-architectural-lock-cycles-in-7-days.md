@@ -4,8 +4,8 @@ title: 13 Architectural Lock Cycles in 7 Days the Phase 6 0 Design Arc Closes
 date_published: 2026-05-27
 status: published
 superseded_by: none
-domain: Bowling-alley tycoon (Pin Paradise) pre-BUILD design intensive: 13 architectural-lock cycles across 7 days closed Phase 6.0 design arc enabling 40-commit Phase 6.1 BUILD day
-project_scopes: pin-paradise
+domain: Bowling-tycoon simulation project pre-BUILD design intensive: 13 architectural-lock cycles across 7 days closed Phase 6.0 design arc enabling 40-commit Phase 6.1 BUILD day
+project_scopes: bowling-tycoon-simulation-project
 cc_task_relevance: methodology-research, empirical-BUILD, multi-substrate-audit
 phase_binding: Phase-1
 discipline_family: Rule-14-Madisonian, Rule-11-substrate-specialization
@@ -38,7 +38,7 @@ cross_refs:
 
 ---
 
-Between May 20 and May 27, I closed 13 architectural-lock cycles for a bowling-alley tycoon sim I've been building solo. Each cycle resolved one major V1 design question that had been blocking BUILD-stage work. The cycles ran across three working sessions, produced thirteen lock-body sections at the design document, and consumed roughly seven full days of focused operator time.
+Between May 20 and May 27, I closed 13 architectural-lock cycles for a bowling-tycoon simulation project I've been building solo. Each cycle resolved one major V1 design question that had been blocking BUILD-stage work. The cycles ran across three working sessions, produced thirteen lock-body sections at the design document, and consumed roughly seven full days of focused operator time.
 
 Then on the eighth day I shipped Phase 6.1 BUILD execution. Multi-lane refactor. Single shared Rapier physics world, per-lane collision groups, four active lanes rendering simultaneously, full test scaffolding. 40 commits across the day. Zero broken-main commits. Operator-side visual test cycle between each phase, bug-fix iteration when the visual test caught something, then the next phase.
 
@@ -102,7 +102,7 @@ The pattern matters for two reasons. First, it lets the design document grow wit
 
 The standard indie-dev advice is to ship fast and iterate. Don't over-design; design as you go; the code teaches you what the design should be. The advice is correct for a wide class of projects, especially projects whose architectural decisions are local (one feature at a time, no cascading invariants) or projects whose iteration cycle is cheap (small codebase, fast test suite, easy rollback).
 
-The advice breaks down for projects whose architectural decisions cascade. A bowling-alley tycoon sim has cascading decisions: how time ticks affects how state serializes affects how citizens persist affects how pricing works affects how marketing inherits from pricing affects how lane oil simulation reaches into pricing and environment entropy and citizen reaction sensitivity. Decide time ticks wrong on day one and you eat the cascade cost across every downstream system every time you change a downstream system.
+The advice breaks down for projects whose architectural decisions cascade. A bowling-tycoon simulation project has cascading decisions: how time ticks affects how state serializes affects how citizens persist affects how pricing works affects how marketing inherits from pricing affects how lane oil simulation reaches into pricing and environment entropy and citizen reaction sensitivity. Decide time ticks wrong on day one and you eat the cascade cost across every downstream system every time you change a downstream system.
 
 Pre-BUILD architectural lock-in is the way to pay the cascade cost up front, before any source code commits to a decision that will need to be undone. The seven days of cycle work locked the cascades. The 40-commit BUILD day on day eight was possible because none of the BUILD commits were eating a cascade-cost surprise. Each commit could focus on its own scope without re-litigating an architectural decision that should have been settled.
 

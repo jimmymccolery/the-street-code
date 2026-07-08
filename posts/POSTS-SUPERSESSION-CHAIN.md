@@ -96,7 +96,7 @@
 
 **Scope:** Extended via 2026-07-05 evening post-audit meta-analysis. Two posts reference sim-ai scale files at pre-extraction path.
 
-**Post 0152** (2026-07-04): Lines 90, 123, 124, 125 reference `~/Projects/Open Alley/src/lib/sim-ai/worlds/island/scale/`.
+**Post 0152** (2026-07-04): Lines 90, 123, 124, 125 reference `~/Projects/primary-backend-project/src/lib/sim-ai/worlds/island/scale/`.
 **Post 0153** (2026-07-04): Lines 155 + 159 reference same pre-extraction path.
 
 **Current path:** `~/Projects/sim-ai/src/sim-ai/worlds/island/scale/` per Post 0157 vendor pattern extraction.
@@ -115,12 +115,12 @@
 
 **Post 0172:** Published Post 0169 Referencing a Workflow I Retired a Month Ago: Post-Audit Correction Fourth Fire of Verify-Against-Canonical-Files Discipline
 - Documents Item 0334 retirement disposition
-- Retirement scope: removed field from ExtendedBiographicalTemplate + Sam Nguyen instance + regression test + all sim-ai docs + global framework-research-index + sub-shape 23 memory + Council #8 proposal
+- Retirement scope: removed field from ExtendedBiographicalTemplate + Anchor C instance + regression test + all sim-ai docs + global framework-research-index + sub-shape 23 memory + Council #8 proposal
 - Verify-against-canonical-files class-(h) discipline strengthens to n+4
 - All other guardrails preserved (Marcus Reed Surface 8 + Item 1134 template + Sofroniew Part 3 + designer sign-off + Round 9 R4 + Round 10a + 74 personality entities + 12-round NPC evolution + Character Design Workflow Option C)
 - Post 0169 preserved as canonical historical record
 
-**CC scanning guidance:** When consulting Post 0169 for character-authoring infrastructure consultation, follow supersession pointer to Post 0172 for Item 0334 retirement scope. Item 1134 template remains active canonical infrastructure; Marcus Reed Protocol substantive scope remains active at Open Alley 7-surface anti-bias gate (see Chain 7 below for Post 0187 pivot scope-split — §4 verdict apparatus + Sofroniew Part 3 signatures + META-ARCH gates + PARTIAL-SHIP grading RETIRED at sim-ai anchor-tier workflow). Otherwise Post 0169 remains canonical for sub-shape 23 fire documentation + PLACEHOLDER_MVP rename discipline.
+**CC scanning guidance:** When consulting Post 0169 for character-authoring infrastructure consultation, follow supersession pointer to Post 0172 for Item 0334 retirement scope. Item 1134 template remains active canonical infrastructure; Marcus Reed Protocol substantive scope remains active at the primary backend project 7-surface anti-bias gate (see Chain 7 below for Post 0187 pivot scope-split — §4 verdict apparatus + Sofroniew Part 3 signatures + META-ARCH gates + PARTIAL-SHIP grading RETIRED at sim-ai anchor-tier workflow). Otherwise Post 0169 remains canonical for sub-shape 23 fire documentation + PLACEHOLDER_MVP rename discipline.
 
 ---
 
@@ -130,7 +130,7 @@
 
 **Posts with residual Item 0334 references (partial supersessions extended via Post 0183 meta-cleanup):**
 - Post 0177 + Post 0179 + Post 0180 + Post 0182 (in-body references to retired workflow AFTER Post 0172 initial retirement discipline canonization)
-- Open Alley polish_queue Items 353 + 354 + 355 (banked items referencing retired workflow)
+- the primary backend project polish_queue Items 353 + 354 + 355 (banked items referencing retired workflow)
 - Council #9 agenda Item 11 candidate (referenced retired workflow)
 - Sim-ai framework-research-index (previously routed to retired workflow)
 - Verbal operator-facing synthesis (CC-authored responses)
@@ -165,10 +165,10 @@
 - Anti-stereotype review as substantive design work
 - Rule 24 addendum-preserves-immutability
 - LockedProtectedField pattern
-- Age × era framework-selection rule (n=3 empirical foundation Marvin/Cesar/Yuki)
+- Age × era framework-selection rule (n=3 empirical foundation Anchor A/Anchor D/Anchor E)
 - Convergence-is-not-truth caveat
 - Rule 19 anti-fabrication (intentionallyUnpopulated)
-- Marcus Reed Protocol SUBSTANTIVE scope at Open Alley 7-surface anti-bias gate (architecturally load-bearing; DISTINCT from retired sim-ai §4 verdict theater; NOT retired)
+- Marcus Reed Protocol SUBSTANTIVE scope at the primary backend project 7-surface anti-bias gate (architecturally load-bearing; DISTINCT from retired sim-ai §4 verdict theater; NOT retired)
 - Sofroniew audit RUNTIME predicate at `~/Projects/sim-ai/src/sim-ai/sofroniewAuditRuntime.ts` (Phase 10 H-NEW-3 SHIPPED as legitimate variance-decomposition mechanism; NOT the retired signature-verdict apparatus)
 
 **ADDED per Post 0187:**
@@ -178,16 +178,16 @@
 - Posts 0070/0095/0100/0101/0113 (Marcus Reed discipline stack; §4 verdict scope retired; substantive Marcus Reed Protocol scope retained)
 - Post 0146 (ten-layer NPC architecture; Layer 10 audit references applied to §4 verdict apparatus need scope-split)
 - Post 0176 (Sofroniew audit RUNTIME predicate; H-NEW-3 SHIPPED; scope-split from retired signature-verdict apparatus)
-- Post 0186 (Marvin Marcus Reed §4 audit PARTIAL-SHIP verdict; historical Rule 24 record preserved)
+- Post 0186 (Anchor A Marcus Reed §4 audit PARTIAL-SHIP verdict; historical Rule 24 record preserved)
 
 **Post 0187:** When a Fresh Claude Opus Session Refused to Render Invented-Methodology Verdicts and the Operator Pivoted to Cultural Context Bundle Inheritance
 - 4 parallel Explore agents reconstructed canonical state before pivot
-- Cesar (2nd anchor) shipped via plain vocabulary + CulturalContextBundle inheritance
+- Anchor D (2nd anchor) shipped via plain vocabulary + CulturalContextBundle inheritance
 - First bundle `context_1946_sa_west_side_tejano_v1` (26 sources verified live)
 - 5 sibling Rule 24 bulk cascade at Items 1138/1139/1140/1141/1143 (Hine 1943 template-drift)
 - Council #9 items 34-35 filed (invented-methodology-name apparatus retirement + CulturalContextBundle inheritance canonization)
 
-**CC scanning guidance:** When consulting Posts 0070/0095/0100/0101/0113/0146/0176/0186 for character-authoring guidance, follow supersession pointer to Post 0187 for retirement scope + CulturalContextBundle inheritance replacement pathway. Consult sim-ai per-project framework-research-index POPULATION-SCALING FOUNDATION + OBSERVABILITY section for current canonical pattern. Marcus Reed Protocol substantive scope retention at Open Alley scope: consult Open Alley per-project framework-research-index ARCHITECTURE FOLDER section.
+**CC scanning guidance:** When consulting Posts 0070/0095/0100/0101/0113/0146/0176/0186 for character-authoring guidance, follow supersession pointer to Post 0187 for retirement scope + CulturalContextBundle inheritance replacement pathway. Consult sim-ai per-project framework-research-index POPULATION-SCALING FOUNDATION + OBSERVABILITY section for current canonical pattern. Marcus Reed Protocol substantive scope retention at the primary backend project scope: consult the primary backend project per-project framework-research-index ARCHITECTURE FOLDER section.
 
 ---
 
@@ -209,7 +209,7 @@
 - **§6.3.1:** Memory storage cost variance for structurally-disrupted characters (Post 0137 H4 finding)
 - **§4.4:** Cultural-baseline dispatch validation-vs-ratification distinction (Post 0138 H5 finding)
 - **Ratification event:** 2026-07-02 late evening per Sim AI Phase 1 close arc (BEFORE Post 0148 Council #6 close 2026-07-04)
-- **Landing status:** Both cascade revisions LANDED at R10d canonical architecture file (`~/Projects/Open Alley/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md`) as new §6.3.1 + §4.4 subsections 2026-07-02 late evening
+- **Landing status:** Both cascade revisions LANDED at R10d canonical architecture file (`~/Projects/primary-backend-project/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md`) as new §6.3.1 + §4.4 subsections 2026-07-02 late evening
 - **Chain scope:** This is Post-content → Architecture-doc amendment (Posts 0137 + 0138 findings driving R10d amendment). NOT Post → Post supersession per POSTS-SUPERSESSION-CHAIN pattern taxonomy. Architecture-doc amendment discipline tracked at architecture folder Rule 24 addendum sweep scope (Phase 3 corrective action arc per 2026-07-06 ecosystem drift sweep).
 
 **Separately: R10d canonical file needs Rule 24 correction notice for Post 0187 pivot scope** (retired §4 verdict apparatus + Sofroniew Part 3 signatures + META-ARCH gate references in R10d body) — this is a DIFFERENT scope from cascade revisions above. Phase 3 architecture folder sweep addresses at Rule 24 addendum block application to R10d canonical file.

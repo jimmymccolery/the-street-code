@@ -5,22 +5,22 @@ date_published: 2026-07-07
 status: published
 superseded_by: none
 domain: framework-architecture schema-canonization multi-substrate-research-arc-close cross-cutting-facets
-project_scopes: open-alley sim-ai the-street-code cross-cutting
+project_scopes: primary-backend-project sim-ai the-street-code cross-cutting
 cc_task_relevance: schema-architecture-v0-2 six-round-multi-substrate-research-arc cidoc-crm-authoring-runtime-distinction eleven-aspect-life-modeling-matrix eleven-compiled-runtime-tables schwartz-values-backbone bourdieu-habitus-typed-relations first-class-intersection-nodes compiled-epistemic-state-pattern eight-vocabulary-supplement-stack consultation-gate-first-class-policy-object npc-authoring-guidance-shipped-anchors
 phase_binding: schema-architecture-v0-2-canonization-2026-07-07
 discipline_family: multi-substrate-research-arc convergence-is-not-truth rule-24-post-audit-correction cross-cutting-facets-as-typed-state-relations authoring-runtime-compilation-discipline novel-contribution-recognition
 canonical_rule: schema-architecture-v0-2-canonical-2026-07-07
 load_bearing_claims:
-- Six-round multi-substrate research arc across n=3 unique substrate families produced Schema Architecture v0.2 canonization at Open Alley architecture folder 2026-07-07 morning covering three-axis Time Place Subject architecture with typed cross-cutting facets, CIDOC-CRM authoring backbone with four-layer runtime compilation, curated first-class intersection nodes, BIBFRAME-inspired CulturalContextBundle versioning, and consultation gate as first-class policy object
-- Round 6 recognized Memory Lanes proposal to model Bourdieu habitus as in-NPC typed relations and first-class curated intersection nodes as genuinely novel and under-theorized in existing academic literature; Consalvo Cheating MIT Press 2007, Kirkpatrick gamer habitus, Walsh and Apperley, Mayra, DiGRA 2023 Pitroso, Games and Culture 2026 Torres-Diaz all apply Bourdieu to gaming communities and players not to modeling habitus inside NPCs
+- Six-round multi-substrate research arc across n=3 unique substrate families produced Schema Architecture v0.2 canonization at primary-backend-project architecture folder 2026-07-07 morning covering three-axis Time Place Subject architecture with typed cross-cutting facets, CIDOC-CRM authoring backbone with four-layer runtime compilation, curated first-class intersection nodes, BIBFRAME-inspired CulturalContextBundle versioning, and consultation gate as first-class policy object
+- Round 6 recognized the bowling-tycoon simulation project's proposal to model Bourdieu habitus as in-NPC typed relations and first-class curated intersection nodes as genuinely novel and under-theorized in existing academic literature; Consalvo Cheating MIT Press 2007, Kirkpatrick gamer habitus, Walsh and Apperley, Mayra, DiGRA 2023 Pitroso, Games and Culture 2026 Torres-Diaz all apply Bourdieu to gaming communities and players not to modeling habitus inside NPCs
 - Schwartz Theory of Basic Human Values ratified as new values backbone analogous to HEXACO for personality (ten basic values plus four higher-order dimensions plus PVQ-RR and HOVS17 instruments); Kohlberg moral development treated as historical context only with Schwartz plus Haidt Moral Foundations as replacements
 - CIDOC-CRM AUTHORING-vs-RUNTIME distinction is load-bearing at 1000-5000 NPC scale because raw CIDOC RDF graph queries at gameplay-loop scale are "staggering" per ResearchSpace CRM-FR search paper; four-layer authoring/runtime pattern (CIDOC-CRM plus PROV-O authoring graph, SKOS plus Getty AAT vocabulary layer, compiled runtime tables, consultation-derived permissions) canonized
 - Eleven compiled runtime tables plus five-attribute minimum row schema canonized (npc_drive_state plus npc_value_profile plus npc_routine_template plus npc_affiliation_edge plus npc_condition_state plus npc_financial_state plus npc_language_register plus npc_belief_packet plus npc_interaction_norm plus npc_inventory_summary plus npc_time_budget; every row valid_time plus place_scope plus evidence_quality plus consultation_policy_id plus display_transform_id)
-- Rule 24 convergence-is-not-truth caveat applied via four audit corrections (Marvin Prince Hall Masons age-appropriateness plus Family Kinship gap flag plus item-2012 substrate identity inference caveat plus Yuki literacy claim calibration) documented at Section 18 audit record
+- Rule 24 convergence-is-not-truth caveat applied via four audit corrections (Anchor A Prince Hall Masons age-appropriateness plus Family Kinship gap flag plus item-2012 substrate identity inference caveat plus Anchor E literacy claim calibration) documented at Section 18 audit record
 - Post 0163 six-dimension grading rubric applied at each Round 1-6 substrate report ingestion plus Schema Architecture v0.2 canonical doc itself producing aggregate A A+ scores across all substrate contributions and four canonical-doc audit corrections
 applicability_triggers:
-- Any Memory Lanes schema architecture work at ecosystem scope should route to Schema Architecture v0.2 canonical doc for architectural pivots plus eleven-aspect matrix plus vocabulary supplement stack plus consultation gate policy
-- Any anchor-tier character authoring at sim-ai scope should consult Schema Architecture v0.2 Section 13 NPC-authoring guidance for shipped anchors (Marvin plus Cesar plus Yuki) preserving Rule 24 audit corrections
+- Any bowling-tycoon-simulation schema architecture work at ecosystem scope should route to Schema Architecture v0.2 canonical doc for architectural pivots plus eleven-aspect matrix plus vocabulary supplement stack plus consultation gate policy
+- Any anchor-tier character authoring at sim-ai scope should consult Schema Architecture v0.2 Section 13 NPC-authoring guidance for shipped anchors (Anchor A plus Anchor D plus Anchor E) preserving Rule 24 audit corrections
 - Any procedural tier bundle authoring should route via CulturalContextBundle inheritance pattern (Post 0187 canonization) with vocabulary references to eight-vocabulary supplement stack
 - Any multi-substrate research arc closure should follow the six-round pattern with per-round Post 0163 six-dimension rubric application plus convergence-is-not-truth caveat plus retrospective audit at arc close
 - Any framework contribution flagged as novel by substrate research should route to novel-contribution-recognition-in-academic-literature-gap discipline (Council #9 Item 45 candidacy)
@@ -33,7 +33,7 @@ mechanism_details:
 - Divergence resolutions per Rule 24 convergence-is-not-truth: Bourdieu La Distinction French ISBN 9782707302755 four-source triangulation (BnF plus WorldCat OCLC 6486740 plus Internet Archive plus French Wikipedia); Cosmic bowling Brunswick trademark Registration 2702269 popularized 1995 not unique invention; HABS 46000 sites (2026) public domain; Getty ULAN NOT for general orgs (art-world authority approximately 650K names); Kohlberg moral development historical context only
 cross_refs:
 - Post 0187 (architectural pivot; invented-methodology retirement plus CulturalContextBundle inheritance) -- Schema Architecture v0.2 extends Post 0187 substantive-not-ceremonial discipline to ecosystem-tier architectural canonization
-- Post 0186 (Marvin arc extension plus age-x-era rule) -- Schema Architecture v0.2 Section 13 NPC-authoring guidance preserves age-x-era rule for Marvin plus Cesar plus Yuki
+- Post 0186 (Anchor A arc extension plus age-x-era rule) -- Schema Architecture v0.2 Section 13 NPC-authoring guidance preserves age-x-era rule for Anchor A plus Anchor D plus Anchor E
 - Post 0189 (procedural tier engine) -- Schema Architecture v0.2 eleven compiled runtime tables extends Post 0189 procedural NPC provisioner surface
 - Council #6 close 2026-07-04 (population-scaling foundation pass) -- Schema Architecture v0.2 canonization builds on Council #6 Decision 1+2+3 operationalization at code layer
 - Council #9 candidacy items 34 plus 35 plus 42 (invented-methodology retirement plus CulturalContextBundle inheritance plus AUTHORING-vs-RUNTIME compilation discipline) filed for framework-methodology-scope review
@@ -53,7 +53,7 @@ CC-OPTIMIZED-SUMMARY -->
 
 I started this arc because my schema thinking was broken.
 
-Memory Lanes is a bowling alley tycoon simulation with characters spanning 1949 through 2025 plus. Each character needs personality (HEXACO), attachment style (ECR-R), memory (three-horizon), and a cultural context matching their time and place. What I had before was a shelf model. Cultural facts lived in shelves: Legal, Economic, Culture, Health, and so on. Different aspects of a person's life mapped to different shelves.
+The bowling-tycoon simulation project has characters spanning 1949 through 2025 plus. Each character needs personality (HEXACO), attachment style (ECR-R), memory (three-horizon), and a cultural context matching their time and place. What I had before was a shelf model. Cultural facts lived in shelves: Legal, Economic, Culture, Health, and so on. Different aspects of a person's life mapped to different shelves.
 
 The problem: the shelves overlapped. A 1946 civil rights context was both Legal and Cultural. A pinboy's wage was both Economic and Work. When I tried to put facts into shelves I kept putting the same fact in multiple shelves, and when I tried to query the shelves I got the same fact back multiple times.
 
@@ -75,13 +75,13 @@ Round 4 was ChatGPT 5.5 via Perplexity. Round 4 introduced the AUTHORING-vs-RUNT
 
 Round 5 was ChatGPT 5.5 via Perplexity again but with empirical probe files. Round 5 ran a live Getty AAT SPARQL probe against forty terms across five domains and shipped the probe results as a companion JSONL file. Round 5 also introduced the eleven-aspect life-modeling matrix and eleven compiled runtime tables with five-attribute minimum row schema.
 
-Round 6 was Claude Web with Fable-5 direct configuration. Round 6 upgraded several prior citations to Tier-1 evidence (Cosmic Bowling trademark Registration 2702269, 1000xRESIST Peabody Award, Consalvo Cheating ISBN 9780262033657, HABS public-domain confirmation). Round 6 also introduced Schwartz Theory of Basic Human Values as new values backbone analogous to HEXACO for personality, Homosaurus vocabulary for LGBTQ terms, and a ULAN correction (Getty ULAN is art-world authority, not general org authority). Round 6 recognized the Memory Lanes proposal to model Bourdieu habitus as in-NPC typed relations, and first-class curated intersection nodes, as genuinely novel and under-theorized in existing academic literature.
+Round 6 was Claude Web with Fable-5 direct configuration. Round 6 upgraded several prior citations to Tier-1 evidence (Cosmic Bowling trademark Registration 2702269, 1000xRESIST Peabody Award, Consalvo Cheating ISBN 9780262033657, HABS public-domain confirmation). Round 6 also introduced Schwartz Theory of Basic Human Values as new values backbone analogous to HEXACO for personality, Homosaurus vocabulary for LGBTQ terms, and a ULAN correction (Getty ULAN is art-world authority, not general org authority). Round 6 recognized the bowling-tycoon simulation project's proposal to model Bourdieu habitus as in-NPC typed relations, and first-class curated intersection nodes, as genuinely novel and under-theorized in existing academic literature.
 
 ## The three-axis fix
 
 Under the canonized architecture, Time is one indexing axis, Place is another indexing axis, Subject is a family of entity types. Cross-cutting facets (Legal, Economic, Health, Gender, Cultural regimes) are not shelves at all. They are typed state relations scoped over Time by Place by Subject.
 
-This means a 1946 civil rights fact is not stored twice. It is stored once as a Legal-regime state relation scoped to Time 1946 by Place San Antonio by Subject Cesar de la Rosa. Queries traverse the state relations. Overlap disappears because the same fact never lives in two places.
+This means a 1946 civil rights fact is not stored twice. It is stored once as a Legal-regime state relation scoped to Time 1946 by Place San Antonio by Subject Anchor D. Queries traverse the state relations. Overlap disappears because the same fact never lives in two places.
 
 Getting there required setting aside seven candidate shelves that seemed natural at first pass (the ones Grok surfaced in Round 1). Some absorbed into cross-cutting facets. Some (Family Kinship) still might warrant their own axis and are flagged as Round 7 candidates in the canonical document.
 
@@ -99,13 +99,13 @@ The authoring graph is where the humanities work happens. The runtime tables are
 
 ## The first-class intersection nodes
 
-The canonical document worked out Cesar de la Rosa as the reference example. Cesar is eleven years old, working-poor Tejano, Catholic, boy, with an undiagnosed disability, in West Side San Antonio, 1946.
+The canonical document worked out Anchor D as the reference example. Anchor D is eleven years old, working-poor Tejano, Catholic, boy, with an undiagnosed disability, in West Side San Antonio, 1946.
 
-A naive tag-union model would represent Cesar as a set of tags and try to derive his behavior from the tags. That approach produces stereotype. It also cannot represent the emergent property that matters most in his case: his disability is invisible to systems around him precisely because he is working-poor plus Tejano plus 1946 equals no diagnostic access. That property belongs to the intersection. It does not belong to disability alone, or class alone, or ethnicity alone, or era alone.
+A naive tag-union model would represent Anchor D as a set of tags and try to derive his behavior from the tags. That approach produces stereotype. It also cannot represent the emergent property that matters most in his case: his disability is invisible to systems around him precisely because he is working-poor plus Tejano plus 1946 equals no diagnostic access. That property belongs to the intersection. It does not belong to disability alone, or class alone, or ethnicity alone, or era alone.
 
-Under first-class intersection nodes, Cesar has a node named `pre_adolescent_working_poor_tejano_catholic_boy_with_undiagnosed_disability_west_side_sa_1946`. That node references the component identities (composition, not copy). It carries its own attributes (properties true only of the combination). It is scoped by Time and Place. It carries salience weighting (which intersections matter for which contexts). It is populated by descendant-community consultation, not auto-inferred.
+Under first-class intersection nodes, Anchor D has a node named `pre_adolescent_working_poor_tejano_catholic_boy_with_undiagnosed_disability_west_side_sa_1946`. That node references the component identities (composition, not copy). It carries its own attributes (properties true only of the combination). It is scoped by Time and Place. It carries salience weighting (which intersections matter for which contexts). It is populated by descendant-community consultation, not auto-inferred.
 
-Round 6 checked whether any production knowledge graph implements this pattern. None does. Wikidata can partially approximate it via qualifier reification, but intersection remains a derived qualified statement, never a first-class entity carrying emergent attributes. The academic Bourdieu-and-games literature (Consalvo Cheating MIT Press 2007, Kirkpatrick gamer habitus, Walsh and Apperley, Mayra, DiGRA 2023 Pitroso, Games and Culture 2026 Torres-Diaz) applies Bourdieu to gaming communities and players, not to modeling habitus inside NPCs. So the Memory Lanes proposal is genuinely novel.
+Round 6 checked whether any production knowledge graph implements this pattern. None does. Wikidata can partially approximate it via qualifier reification, but intersection remains a derived qualified statement, never a first-class entity carrying emergent attributes. The academic Bourdieu-and-games literature (Consalvo Cheating MIT Press 2007, Kirkpatrick gamer habitus, Walsh and Apperley, Mayra, DiGRA 2023 Pitroso, Games and Culture 2026 Torres-Diaz) applies Bourdieu to gaming communities and players, not to modeling habitus inside NPCs. So the bowling-tycoon simulation project's proposal is genuinely novel.
 
 ## The values backbone
 
@@ -115,9 +115,9 @@ Round 6 also recommended treating Kohlberg moral development as historical conte
 
 ## What this arc actually produced
 
-An eighteen-section canonical architecture document at 862 lines. A companion Getty AAT SPARQL empirical probe (forty terms across five domains). Six substrate reports in the content-kb with full Post 0163 six-dimension rubric grades and per-round convergence analysis. Four audit corrections applied at Section 18 audit record (Marvin Prince Hall Masons age-appropriateness catch, Family Kinship gap flag, item-2012 substrate identity inference caveat, Yuki literacy claim calibration).
+An eighteen-section canonical architecture document at 862 lines. A companion Getty AAT SPARQL empirical probe (forty terms across five domains). Six substrate reports in the content-kb with full Post 0163 six-dimension rubric grades and per-round convergence analysis. Four audit corrections applied at Section 18 audit record (Anchor A Prince Hall Masons age-appropriateness catch, Family Kinship gap flag, item-2012 substrate identity inference caveat, Anchor E literacy claim calibration).
 
-An eleven-aspect life-modeling matrix that Memory Lanes NPCs get populated against. Eleven compiled runtime tables plus a five-attribute minimum row schema (valid_time, place_scope, evidence_quality, consultation_policy_id, display_transform_id) enforcing that every fact-in-runtime carries its own provenance and its own permission-to-display.
+An eleven-aspect life-modeling matrix that the bowling-tycoon simulation project's NPCs get populated against. Eleven compiled runtime tables plus a five-attribute minimum row schema (valid_time, place_scope, evidence_quality, consultation_policy_id, display_transform_id) enforcing that every fact-in-runtime carries its own provenance and its own permission-to-display.
 
 An eight-vocabulary supplement stack that covers everything Getty AAT does not (O NET for occupational skills, MusicBrainz for music, Wikidata for open film identifiers, VIAF plus LC Name Authorities for named organizations, LCSH FAST for subjects, Homosaurus for LGBTQ terms, ISO 639-2 plus Glottolog plus Ethnologue for languages, ATUS plus AHTUS for time-use, ICD for health, Pew Religious Landscape for lived religion).
 
@@ -125,11 +125,11 @@ A six-layer economy simulation architecture with named transmission functions an
 
 ## What I'm not claiming
 
-I am not claiming the canonization completes the work. Schema Architecture v0.2 is architecture. Implementation is a separate three to six months of focused engineering per Section 15.1 (Phase A CIDOC application profile plus 100-NPC prototype, Phase B aspect population, Phase C vocabulary integration, Phase D runtime integration, Phase E economy integration, Phase F consultation workflow). Sim AI substrate is architecturally complete for 1-5 NPC procedural sandbox scope. Everything above that scope is Memory Lanes ecosystem-tier work.
+I am not claiming the canonization completes the work. Schema Architecture v0.2 is architecture. Implementation is a separate three to six months of focused engineering per Section 15.1 (Phase A CIDOC application profile plus 100-NPC prototype, Phase B aspect population, Phase C vocabulary integration, Phase D runtime integration, Phase E economy integration, Phase F consultation workflow). Sim AI substrate is architecturally complete for 1-5 NPC procedural sandbox scope. Everything above that scope is bowling-tycoon-simulation ecosystem-tier work.
 
 I am not claiming the six rounds prove the architecture is right. Rule 24 convergence-is-not-truth caveat applies. Convergence across substrates is high inter-model agreement, not verified truth. The audit corrections in Section 18 are examples of that discipline firing.
 
-I am not claiming the first-class intersection nodes will ship without further work. The pattern is architecturally novel and its behavior at 1000-5000 NPC scale is unverified. Consultation gate as first-class policy object requires named consulting reviewer identification for each shipped anchor (Marvin, Cesar, Yuki) before any of them ships to procedural tier.
+I am not claiming the first-class intersection nodes will ship without further work. The pattern is architecturally novel and its behavior at 1000-5000 NPC scale is unverified. Consultation gate as first-class policy object requires named consulting reviewer identification for each shipped anchor (Anchor A, Anchor D, Anchor E) before any of them ships to procedural tier.
 
 I am not claiming Schema Architecture v0.2 is the final state. Round 7 candidates are already flagged: Family Kinship as candidate aspect 12, item-2012 substrate identity verification, HathiTrust and other unverified NOT-INDEPENDENTLY-VERIFIED items from Round 5. Some of those will move; some will stay flagged.
 

@@ -5,7 +5,7 @@ date_published: 2026-07-04
 status: published
 superseded_by: none
 domain: Council #6 close-condition Tier A empirical close arc executed at real iOS device scope covering iPhone 17 plus iPad Mini running population-scale harness via mobile Safari at same-WiFi local dev server pattern
-project_scopes: framework-state-progress, sim-ai, memory-lanes, roomtolife
+project_scopes: framework-state-progress, sim-ai, bowling-tycoon-simulation, companion-product-workspace
 cc_task_relevance: tier-a-empirical-close, iphone-17-headroom, ipad-mini-headroom, framework-failure-budgets-ratification, three-tier-close-condition
 phase_binding: Phase-2
 discipline_family: Council #6 close-condition three-tier close condition strategy
@@ -16,7 +16,7 @@ load_bearing_claims:
   - FRAMEWORK_FAILURE_BUDGETS ratified against real target hardware
   - Three-tier close condition strategy fully closed at algorithmic + WebKit-runtime + real-device scope
   - Path A operationalized mobile Safari same-WiFi local dev server closes Tier A at both devices
-  - Council #6 close condition scope substantially complete for operator-side Memory Lanes V1 ship path
+  - Council #6 close condition scope substantially complete for operator-side the bowling-tycoon simulation project V1 ship path
   - Two gotchas resolved Next.js dev HMR blocked hydration + Safari timer granularity clamped 1ms
   - Path A emerges as 5th operator-executable path (Post 0152 enumerated 4)
 applicability_triggers:
@@ -36,13 +36,13 @@ cross_refs:
   - Memory project_phase_d_tier_a_empirical_close_iphone_17_ipad_mini_2026-07-04.md
 CC-OPTIMIZED-SUMMARY -->
 
-> **CORRECTION NOTICE (added 2026-07-05 evening; post-audit meta-analysis):** Lines 155 + 159 reference sim-ai scale files at `~/Projects/Open Alley/src/lib/sim-ai/worlds/island/scale/`. The sim-ai codebase was extracted from Open Alley to `~/Projects/sim-ai/` on 2026-07-04 per Post 0157 vendor pattern. Current file paths: `~/Projects/sim-ai/src/sim-ai/worlds/island/scale/` and `~/Projects/sim-ai/src/sim-ai/worlds/island/bowling-alley-action-space-scope-draft-2026-07-04.md`. See Post 0157 for extraction detail.
+> **CORRECTION NOTICE (added 2026-07-05 evening; post-audit meta-analysis):** Lines 155 + 159 reference sim-ai scale files at `~/Projects/primary-backend-project/src/lib/sim-ai/worlds/island/scale/`. The sim-ai codebase was extracted from the primary backend project to `~/Projects/sim-ai/` on 2026-07-04 per Post 0157 vendor pattern. Current file paths: `~/Projects/sim-ai/src/sim-ai/worlds/island/scale/` and `~/Projects/sim-ai/src/sim-ai/worlds/island/bowling-tycoon-domain-action-space-scope-draft-2026-07-04.md`. See Post 0157 for extraction detail.
 
 # Tier A Empirical Close Real iPhone 17 Plus iPad Mini Ratify Framework Failure Budgets Against Target Hardware
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-04
-**Status:** Framework state progress post documenting Council #6 close-condition Tier A empirical close arc executed at real iOS device scope covering iPhone 17 plus iPad Mini running the population-scale harness via mobile Safari at same-WiFi local dev server pattern; `FRAMEWORK_FAILURE_BUDGETS` ratified against real target hardware; three-tier close condition strategy fully closed at algorithmic plus WebKit-runtime plus real-device scope; Council #6 close condition scope substantially complete for operator-side Memory Lanes V1 ship path
+**Status:** Framework state progress post documenting Council #6 close-condition Tier A empirical close arc executed at real iOS device scope covering iPhone 17 plus iPad Mini running the population-scale harness via mobile Safari at same-WiFi local dev server pattern; `FRAMEWORK_FAILURE_BUDGETS` ratified against real target hardware; three-tier close condition strategy fully closed at algorithmic plus WebKit-runtime plus real-device scope; Council #6 close condition scope substantially complete for operator-side the bowling-tycoon simulation project V1 ship path
 
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
@@ -54,7 +54,7 @@ This post documents Tier A empirical close arc executed via Path A (mobile Safar
 
 ## Path A execution overview
 
-Path A operationalizes the observation that iOS Safari and iOS Capacitor WKWebView both use the same underlying WebKit rendering engine plus JavaScriptCore JavaScript engine. Testing on iOS Safari from mobile device to Mac dev server at same-WiFi network scope covers approximately 90 percent of Tier A concerns. What Path A does NOT cover is Capacitor JS-to-native IPC bridge overhead plus iOS memory pressure and WKWebView killer thresholds plus thermal throttling under sustained load. Those three gaps only matter when actually shipping the Capacitor iOS app and can be closed at actual Memory Lanes ship prep with Path B or continued Path A extended-duration testing.
+Path A operationalizes the observation that iOS Safari and iOS Capacitor WKWebView both use the same underlying WebKit rendering engine plus JavaScriptCore JavaScript engine. Testing on iOS Safari from mobile device to Mac dev server at same-WiFi network scope covers approximately 90 percent of Tier A concerns. What Path A does NOT cover is Capacitor JS-to-native IPC bridge overhead plus iOS memory pressure and WKWebView killer thresholds plus thermal throttling under sustained load. Those three gaps only matter when actually shipping the Capacitor iOS app and can be closed at actual the bowling-tycoon simulation project ship prep with Path B or continued Path A extended-duration testing.
 
 Deployment method covered production Next.js build via `npm run build` plus `npm start -- -H 0.0.0.0` on Mac plus iPhone 17 plus iPad Mini navigation via mobile Safari to `http://10.0.0.91:3000/sim-ai-test/scale-run` at same-WiFi network scope plus server-side result capture via `/api/tier-a-results` POST endpoint newly added at 2026-07-04 early afternoon plus Mac Safari Web Inspector attached to iOS Safari via cable for diagnostic console.log visibility.
 
@@ -116,9 +116,9 @@ Tier A (real iPhone 17 plus iPad Mini) closed 2026-07-04 early afternoon at 66 t
 
 Path A does not cover three iOS-app-lifecycle concerns that surface at actual Capacitor ship rather than at framework foundational-readiness scope.
 
-Capacitor JS-to-native IPC bridge overhead not exercised. Real Capacitor build with WKWebView instead of Safari would add this overhead. Estimated impact: less than 1 millisecond per bridge call plus batch-able. Deferred to actual iOS Capacitor build for Memory Lanes ship prep.
+Capacitor JS-to-native IPC bridge overhead not exercised. Real Capacitor build with WKWebView instead of Safari would add this overhead. Estimated impact: less than 1 millisecond per bridge call plus batch-able. Deferred to actual iOS Capacitor build for the bowling-tycoon simulation project ship prep.
 
-iOS memory pressure plus WKWebView killer thresholds not exercised. Requires sustained-load testing over hours. Deferred to actual Memory Lanes ship prep or continued Path A extended-duration testing.
+iOS memory pressure plus WKWebView killer thresholds not exercised. Requires sustained-load testing over hours. Deferred to actual the bowling-tycoon simulation project ship prep or continued Path A extended-duration testing.
 
 Thermal throttling under sustained load not exercised. Requires extended-duration testing at real device scope. Deferred.
 
@@ -136,7 +136,7 @@ The operator learning is that framework's Post 0143 canonization-propagation gap
 
 Prior Phase D empirical close: 472 tests passing. Tier A close arc adds: 0 new tests. No code changes to Sim AI core (instrumentation only at UI harness plus new API endpoint). Post-Tier A total: 472 tests passing.
 
-Additional artifacts landed at Open Alley scope:
+Additional artifacts landed at primary backend project scope:
 - `/api/tier-a-results` route at `src/app/api/tier-a-results/route.ts` with server-side JSONL result capture (gitignored)
 - `ScaleRunHarness.tsx` instrumentation adding `console.log` at every state transition plus `fetch POST` to results endpoint plus `?autorun=1` URL parameter for hands-free auto-run
 - Server-side result artifact at `tier-a-results/tier-a-results.jsonl` (local dev only; gitignored per operator local-only repo discipline)
@@ -145,17 +145,17 @@ Additional artifacts landed at Open Alley scope:
 
 Framework-side algorithmic close condition met with substantial headroom (Tier D Node.js). Framework-side WebKit-runtime close condition met with substantial headroom (Tier B Safari WebKit). Operator-side target-hardware close condition MET with substantial headroom (Tier A iPhone 17 plus iPad Mini). All three tiers of the Council #6 close condition strategy ratified.
 
-Memory Lanes V1 ship gate now advances from Phase D full close plus Room to Life Universe Phase C full production implementation plus operator scope-out decisions per Council #6 close fold-set. Phase D full close: MET. Room to Life Universe Phase C full: approximately 3 to 4 weeks backend engineering estimated. Operator scope-out decisions: pending per Council #6 fold-set adjudication.
+the bowling-tycoon simulation project V1 ship gate now advances from Phase D full close plus the ecosystem's canonical entity registry Phase C full production implementation plus operator scope-out decisions per Council #6 close fold-set. Phase D full close: MET. the ecosystem's canonical entity registry Phase C full: approximately 3 to 4 weeks backend engineering estimated. Operator scope-out decisions: pending per Council #6 fold-set adjudication.
 
-The framework's next operator-judgment decisions cover Room to Life Universe Phase C full production implementation scope at 3 to 4 week estimated backend engineering scope plus Memory Lanes semantic sufficiency Council-vs-continue-observation adjudication at Decision 4 conditionally-foundational status plus character design workflow ratification (Options A through E per CC critical response 2026-07-04 late morning) plus bowling alley action space design (per Open Alley scope draft filed 2026-07-04 evening).
+The framework's next operator-judgment decisions cover canonical entity registry Phase C full production implementation scope at 3 to 4 week estimated backend engineering scope plus the bowling-tycoon simulation project semantic sufficiency Council-vs-continue-observation adjudication at Decision 4 conditionally-foundational status plus character design workflow ratification (Options A through E per CC critical response 2026-07-04 late morning) plus bowling-tycoon-domain action space design (per primary backend project scope draft filed 2026-07-04 evening).
 
 ## Cross-references
 
 - Council #6 close post 0147 plus post 0148
 - Phase D empirical scaling close arc Post 0152
 - Council #6 methodology guide at `~/Projects/the-street-code/methodology/population-scaling-foundation-pass-methodology-guide-v1.md`
-- Phase D empirical scaling findings artifact updated with Tier A section at `~/Projects/Open Alley/src/lib/sim-ai/worlds/island/scale/phase-d-empirical-scaling-findings-2026-07-04.md`
-- Tier B route at `~/Projects/Open Alley/src/app/sim-ai-test/scale-run/page.tsx` plus `~/Projects/Open Alley/src/components/sim-ai/ScaleRunHarness.tsx`
-- Tier A results endpoint at `~/Projects/Open Alley/src/app/api/tier-a-results/route.ts`
+- Phase D empirical scaling findings artifact updated with Tier A section at `~/Projects/primary-backend-project/src/lib/sim-ai/worlds/island/scale/phase-d-empirical-scaling-findings-2026-07-04.md`
+- Tier B route at `~/Projects/primary-backend-project/src/app/sim-ai-test/scale-run/page.tsx` plus `~/Projects/primary-backend-project/src/components/sim-ai/ScaleRunHarness.tsx`
+- Tier A results endpoint at `~/Projects/primary-backend-project/src/app/api/tier-a-results/route.ts`
 - Framework canonical rules at `~/Projects/master-setup/operational_discipline_rules.canonical.md` v1.23
-- Bowling alley action space scope draft at `~/Projects/Open Alley/src/lib/sim-ai/worlds/island/bowling-alley-action-space-scope-draft-2026-07-04.md`
+- Bowling-tycoon-domain action space scope draft at `~/Projects/primary-backend-project/src/lib/sim-ai/worlds/island/bowling-tycoon-domain-action-space-scope-draft-2026-07-04.md`

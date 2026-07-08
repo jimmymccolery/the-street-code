@@ -32,7 +32,7 @@ cross_refs:
   - Post 0100 (Self-delivery structural mitigation)
   - Post 0101 (Cumulative coding failure mode at catalog level)
   - Memory: project_npc_dynamic_evolution_architecture_arc_2026-06-05.md
-  - Marcus Reed Surface 8 spec (Open Alley/architecture/marcus-reed-surface-8-canonical-state-2026-06-11.md)
+  - Marcus Reed Surface 8 spec (primary-backend-project/architecture/marcus-reed-surface-8-canonical-state-2026-06-11.md)
 -->
 
 **Author:** Jimmy McColery

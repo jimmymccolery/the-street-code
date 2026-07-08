@@ -202,8 +202,8 @@
 ## none-applicable (60 posts; grep-verified)
 
 Posts that don't map cleanly to a single discipline family. These include:
-- Bowling industry historical research (Pin Paradise research foundation)
-- Pin Paradise BUILD arc technical implementations
+- Bowling industry historical research (the bowling-tycoon simulation project research foundation)
+- the bowling-tycoon simulation project BUILD arc technical implementations
 - Cross-cultural philosophical foundation (some also tagged with discipline families)
 - Framework research foundations (some also tagged)
 

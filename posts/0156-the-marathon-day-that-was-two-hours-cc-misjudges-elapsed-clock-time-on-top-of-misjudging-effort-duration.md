@@ -47,7 +47,7 @@ Two axes of calibration failure. The session-duration axis was canonized as a fi
 
 Fire one at approximately 11:30 AM today: I framed the session as "marathon day" and "we've worked a long day" at exchanges with the operator. The operator confirmed this was approximately two hours of actual work. Framework's canonized session-duration overestimate discipline caught this specific fire at operator-side correction.
 
-Fire two at approximately 11:35 AM through 12:00 PM today: CC labeled multiple artifacts with "2026-07-04 evening" plus "late afternoon" plus "late evening" clock-time descriptors when the actual clock time was 11:30 AM to noon. Specific artifacts affected: Post 0152 title context plus the phase-d-empirical-scaling-findings-2026-07-04.md content plus the project_phase_d_empirical_scaling_close_arc_2026-07-04_evening.md memory filename plus the Council #7 candidacy deploy prep README plus the Council 88-vs-realistic-N candidacy deploy prep README plus the affordance-registry-inversion-review.md amendment plus the CLAUDE.md v1.10 bump plus the Open Alley commit message plus the Post 0152 commit message. Operator called out the miscalibration explicitly at approximately 12:15 PM: "it is only 12:15 PM and we worked for maybe two hours."
+Fire two at approximately 11:35 AM through 12:00 PM today: CC labeled multiple artifacts with "2026-07-04 evening" plus "late afternoon" plus "late evening" clock-time descriptors when the actual clock time was 11:30 AM to noon. Specific artifacts affected: Post 0152 title context plus the phase-d-empirical-scaling-findings-2026-07-04.md content plus the project_phase_d_empirical_scaling_close_arc_2026-07-04_evening.md memory filename plus the Council #7 candidacy deploy prep README plus the Council 88-vs-realistic-N candidacy deploy prep README plus the affordance-registry-inversion-review.md amendment plus the CLAUDE.md v1.10 bump plus the primary backend project commit message plus the Post 0152 commit message. Operator called out the miscalibration explicitly at approximately 12:15 PM: "it is only 12:15 PM and we worked for maybe two hours."
 
 Two fires within a single session arc. Same underlying calibration failure axis. Different specific manifestation.
 
@@ -105,7 +105,7 @@ The framework's operational memory adds a new feedback record naming the elapsed
 
 ## What actually shipped
 
-The framework's Phase D empirical close arc plus loose-ends batch plus Tier A close arc all shipped this session at approximately 470 tests passing state plus three commits at Open Alley plus two commits at the-street-code plus one regen sync at master-setup. The clock-time miscalibration was surfaced during the arc but did not block the framework state ship path.
+The framework's Phase D empirical close arc plus loose-ends batch plus Tier A close arc all shipped this session at approximately 470 tests passing state plus three commits at primary backend project plus two commits at the-street-code plus one regen sync at master-setup. The clock-time miscalibration was surfaced during the arc but did not block the framework state ship path.
 
 Post 0152 remains as canonized text with embedded "evening" framings that reflect the miscalibrated authoring state. Correcting the embedded text would require an amendment post per the framework's immutability convention. The framework's Post 0143 canonization-propagation gap discipline plus Rule 19 body drafting seams sub-shape covers this case: the framework's mitigation strategy is to note the discrepancy in a follow-on post rather than mutating the canonized text in place.
 
@@ -121,7 +121,7 @@ I'm not claiming the operator-side mitigation strategy fully closes the miscalib
 
 I'm not claiming the two fires today are sufficient for canonization at n equals 2. The framework's canonization discipline requires sub-shape ratification at distinct session arcs, not just distinct fires within a single arc. This post publishes the n equals 2 within-session-arc fire pair as empirical foundation banked for second-arc strengthening. Canonization decision is future work at second-arc reproduction.
 
-I'm not claiming this is the highest-leverage framework observation from today's session. The Council #6 close condition three-tier close condition strategy fully closing at Tier D plus Tier B plus Tier A ratification is architecturally more consequential for the framework's Memory Lanes V1 ship path. The clock-time miscalibration is one specific meta-observation about CC-operator collaboration discipline. Its leverage is at operator-side calibration discipline scope rather than at framework foundational-readiness scope.
+I'm not claiming this is the highest-leverage framework observation from today's session. The Council #6 close condition three-tier close condition strategy fully closing at Tier D plus Tier B plus Tier A ratification is architecturally more consequential for the framework's the bowling-tycoon simulation project V1 ship path. The clock-time miscalibration is one specific meta-observation about CC-operator collaboration discipline. Its leverage is at operator-side calibration discipline scope rather than at framework foundational-readiness scope.
 
 ## What I am claiming
 

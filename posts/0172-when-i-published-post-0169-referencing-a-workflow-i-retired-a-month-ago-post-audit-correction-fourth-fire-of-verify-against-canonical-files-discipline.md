@@ -5,7 +5,7 @@ date_published: 2026-07-05
 status: published
 superseded_by: none
 domain: post-audit-correction addendum for Post 0169 Item 0334 retirement gap; verify-against-canonical-files class-(h) discipline strengthens to n=4 within-Phase-3; operator-controlled representational-diversity review pathways replacement
-project_scopes: framework-methodology, sim-ai, open-alley, the-street-code
+project_scopes: framework-methodology, sim-ai, primary-backend-project, the-street-code
 cc_task_relevance: post-audit-correction-addendum, verify-against-canonical-files-discipline, canonical-retirement-registry, operator-controlled-representational-diversity-review-pathways
 phase_binding: Phase-3
 discipline_family: post-audit-correction addendum-preserves-immutability + class-(h) verify-against-canonical-files-and-operator-retirement-dispositions
@@ -16,7 +16,7 @@ load_bearing_claims:
   - Retirement replaced external civil-rights consultant engagement with operator-controlled pathways Phase 7.1f substrate-triangulation cycle plus independent operator research plus community input at r/AskHistorians r/LaborHistory r/IndieGameDev
   - CC failed to check polish_queue.md before authoring sub-shape 23 memory 2026-07-05 morning which then propagated stale reference to Phase 3.2-C code plus Post 0169 plus Post 0171 plus framework-research-index plus Council 8 proposal
   - This is fourth fire of verify-against-canonical-files class-(h) reproduction pattern per feedback_verify_against_canonical_files.md
-  - Retirement executed 2026-07-05 evening removing item0334ReviewStatus field from schema plus Sam Nguyen instance plus regression test plus all sim-ai docs plus global framework-research-index plus sub-shape 23 memory plus Council 8 proposal
+  - Retirement executed 2026-07-05 evening removing item0334ReviewStatus field from schema plus Anchor C instance plus regression test plus all sim-ai docs plus global framework-research-index plus sub-shape 23 memory plus Council 8 proposal
   - All other canonical guardrails preserved per operator directive Marcus Reed Surface 8 plus Item 1134 template plus Sofroniew Part 3 causal cluster plus designer sign-off plus Round 9 R4 plus Round 10a plus 74 personality entities catalog plus 12-round NPC dynamic evolution arc plus Character Design Workflow Option C
 applicability_triggers:
   - CC about to reference any external consultant engagement or civil rights consultant workflow
@@ -25,9 +25,9 @@ applicability_triggers:
   - Fourth-or-higher fire of same verify-against-canonical-files reproduction class within short window
 mechanism_details:
   - Removed item0334ReviewStatus optional field from ExtendedBiographicalTemplate at biographicalRecord.ts line 209
-  - Removed item0334ReviewStatus pending value from PROPER_ANCHOR_SAM_NGUYEN instance at biographicalRecord.ts line 515
+  - Removed item0334ReviewStatus pending value from PROPER_ANCHOR_C instance at biographicalRecord.ts line 515
   - Removed regression test verifying the field at phase32Biographical.test.ts line 156
-  - Removed Item 0334 references from biographicalRecord.ts file-level warning comment and Sam Nguyen composition comment
+  - Removed Item 0334 references from biographicalRecord.ts file-level warning comment and Anchor C composition comment
   - Removed Item 0334 references from culturalBaselines.ts file-level comment
   - Removed Item 0334 reference from survivorBaseline.ts file-level comment
   - Removed Item 0334 references from framework-research-index.md at both sim-ai project scope and global CLAUDE scope
@@ -75,7 +75,7 @@ That was four weeks before Post 0169. I authored Post 0169 without checking poli
 
 The propagation chain that produced Post 0169 traces to sub-shape 23 memory authorship on 2026-07-05 morning. That memory entry itself carried the stale Item 0334 reference. Once composed, CC subsequently consulted the sub-shape 23 memory as source material for:
 
-- Phase 3.2-C code (biographicalRecord.ts `item0334ReviewStatus` field added to ExtendedBiographicalTemplate + PROPER_ANCHOR_SAM_NGUYEN instantiated with `item0334ReviewStatus: 'pending'` + regression test at phase32Biographical.test.ts verifying the field + file-level warning comment listing Item 0334 as unconsulted infrastructure)
+- Phase 3.2-C code (biographicalRecord.ts `item0334ReviewStatus` field added to ExtendedBiographicalTemplate + PROPER_ANCHOR_C instantiated with `item0334ReviewStatus: 'pending'` + regression test at phase32Biographical.test.ts verifying the field + file-level warning comment listing Item 0334 as unconsulted infrastructure)
 - Framework research index at both sim-ai project scope and global CLAUDE scope (Item 0334 listed as MANDATORY review scope for character work under Character Generation Methodology section + routing note under Round 10a synthesis reference)
 - Post 0169 body (six explicit references to Item 0334 across sub-shape detail + canonical infrastructure list + reference bibliography + epistemic humility statement)
 - Post 0171 cross-references (`item0334ReviewStatus pending` mentioned in mechanism_details CC-OPTIMIZED-SUMMARY block)
@@ -102,7 +102,7 @@ Not "cited retired artifacts as ready" but "asserted retired workflow as MANDATO
 
 ## What Fire 4 retirement executed
 
-Removed `item0334ReviewStatus` optional field from `ExtendedBiographicalTemplate` at biographicalRecord.ts line 209. Removed `item0334ReviewStatus: 'pending'` value from `PROPER_ANCHOR_SAM_NGUYEN` instance at biographicalRecord.ts line 515. Removed regression test verifying the field at phase32Biographical.test.ts line 156. Removed Item 0334 references from biographicalRecord.ts file-level warning comment and Sam Nguyen composition comment. Removed Item 0334 references from culturalBaselines.ts file-level comment. Removed Item 0334 reference from survivorBaseline.ts file-level comment.
+Removed `item0334ReviewStatus` optional field from `ExtendedBiographicalTemplate` at biographicalRecord.ts line 209. Removed `item0334ReviewStatus: 'pending'` value from `PROPER_ANCHOR_C` instance at biographicalRecord.ts line 515. Removed regression test verifying the field at phase32Biographical.test.ts line 156. Removed Item 0334 references from biographicalRecord.ts file-level warning comment and Anchor C composition comment. Removed Item 0334 references from culturalBaselines.ts file-level comment. Removed Item 0334 reference from survivorBaseline.ts file-level comment.
 
 Removed Item 0334 references from framework-research-index.md at both sim-ai project scope and global CLAUDE scope. Removed Item 0334 references from sim-ai README.md character-authoring discipline section. Removed Item 0334 references from sim-ai tasks.md Q61 plus marked Q64 as RETIRED.
 
@@ -114,13 +114,13 @@ Replacement language used consistently across all canonical files: "operator-con
 
 Per operator directive: "I STILL WANT ALL OTHER INTERNAL GUARDRAILS FOR THE PROJECT." Preserved intact:
 
-- Marcus Reed Surface 8 canonical audit spec at `~/Projects/Open Alley/architecture/marcus-reed-surface-8-canonical-state-2026-06-11.md`
+- Marcus Reed Surface 8 canonical audit spec at `~/Projects/primary-backend-project/architecture/marcus-reed-surface-8-canonical-state-2026-06-11.md`
 - Item 1134 comprehensive re-ingestion doc 17-section VERBATIM canonical NPC template
 - Sofroniew Part 3 causal cluster audit signature schema (desperation-analog + calm-deficit-analog + positive-valence-elevation-analog)
 - Designer sign-off status per V1 BUILD gate (`designerSignOff` field remains in ExtendedBiographicalTemplate)
-- Round 9 R4 canonical generative-model spec at `~/Projects/Open Alley/architecture/round-9-r4-canonical-generative-model-spec-2026-06-11.md`
+- Round 9 R4 canonical generative-model spec at `~/Projects/primary-backend-project/architecture/round-9-r4-canonical-generative-model-spec-2026-06-11.md`
 - Round 10a per-tradition primitives requirement + Round 10d Madisonian Gate synthesis
-- 74 existing personality entities catalog at `~/Projects/Open Alley/content-kb/personalities/` (Items 0946-0964 Tier 3 + Items 1135-1176 era-specific role archetypes)
+- 74 existing personality entities catalog at `~/Projects/primary-backend-project/content-kb/personalities/` (Items 0946-0964 Tier 3 + Items 1135-1176 era-specific role archetypes)
 - 12-round NPC dynamic evolution arc memory (v4.0 VERIFIED cross-backbone; 7-domain cross-domain matrix; 3-layer orientation architecture)
 - Character Design Workflow Option C hybrid anchor-plus-procedural pattern ratified 2026-07-05 morning
 

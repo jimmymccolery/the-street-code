@@ -122,7 +122,7 @@ I'm not claiming all Post 0146 citations were audit-verified. Substrate A slash 
 
 I'm not claiming the framework's canonical citation chain is exhaustive of the HEXACO literature. Ashton and Lee 2007 remains a valid HEXACO reference in the broader literature; the framework selected 2004 plus 2009 as canonical anchors before Post 0146 was drafted; future methodology posts referencing HEXACO should use the framework canonical anchors while remaining free to cite additional HEXACO literature at operator election.
 
-I'm not claiming forward-reference amendments are frequent framework events. The framework's immutability convention makes forward-reference amendment relatively rare; this Post 0150 amendment is the third forward-reference amendment in framework corpus (Post 0133 for V1-pause empirical resolution; a memory-layer amendment for OCEAN-to-HEXACO trait vocabulary shift at Room to Life Universe architecture memory; this Post 0150 for Post 0146 HEXACO citation-chain drift). Frequency low; discipline honored.
+I'm not claiming forward-reference amendments are frequent framework events. The framework's immutability convention makes forward-reference amendment relatively rare; this Post 0150 amendment is the third forward-reference amendment in framework corpus (Post 0133 for V1-pause empirical resolution; a memory-layer amendment for OCEAN-to-HEXACO trait vocabulary shift at canonical entity registry architecture memory; this Post 0150 for Post 0146 HEXACO citation-chain drift). Frequency low; discipline honored.
 
 ## What I am claiming
 

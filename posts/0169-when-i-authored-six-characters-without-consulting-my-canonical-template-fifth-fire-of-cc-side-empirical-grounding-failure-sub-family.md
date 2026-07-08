@@ -5,7 +5,7 @@ date_published: 2026-07-05
 status: published
 superseded_by: 0172-Item-0334
 domain: sub-shape 23 canonical-infrastructure-consultation-before-CONTENT-authoring layer; fifth fire of CC-side-empirical-grounding-failure sub-family
-project_scopes: framework-methodology, sim-ai, open-alley, the-street-code
+project_scopes: framework-methodology, sim-ai, primary-backend-project, the-street-code
 cc_task_relevance: canonical-infrastructure-consultation-discipline, character-generation-content-authoring, rule-20-family-A-sub-shape-23, cc-side-empirical-grounding-failure-sub-family-canonization
 phase_binding: era-independent
 discipline_family: Rule 20 candidacy Family A sub-shape 23 + CC-side-empirical-grounding-failure sub-family
@@ -15,7 +15,7 @@ load_bearing_claims:
   - Item 1134 comprehensive re-ingestion doc 17-section canonical NPC template was not consulted before archetype ship
   - Marcus Reed Surface 8 audit spec (three Sofroniew Part 3 causal cluster analogs + I3 provenance-separated findings + I4 architectural-not-phenomenal reporting) was not consulted
   - Operator-controlled representational-diversity review pathways were not consulted (per polish_queue.md Item 352 Path A 2026-06-08 canonization; Post 0172 retires prior external-consultant framing)
-  - 74 existing personality entities catalog at Open Alley content-kb personalities folder was not consulted
+  - 74 existing personality entities catalog at primary backend project content-kb personalities folder was not consulted
   - Round 9 R4 canonical generative-model spec was not consulted
   - Round 10a per-tradition primitives requirement was not consulted
   - 12-round NPC dynamic evolution arc memory was not consulted
@@ -31,7 +31,7 @@ mechanism_details:
   - ARCHETYPE_* to PLACEHOLDER_MVP_* rename with file-level warning comment marking six archetypes as mechanic-validation-scope-only not proper anchor-tier examples
   - BiographicalRecord extended with ExtendedBiographicalTemplate covering 17 Item 1134 sections (socioeconomicBackground + coreMemories with age plus emotionalValence + values plus fears + relationalDynamics + workAndAccomplishments + spiritualPractices + regretsAndSecrets + dailyRhythms + physicality + speechPatterns + culturalTouchstones + politicalOrientation + moneyRelationship + healthHistory + intimacyPatterns + designWorkflowTier)
   - New SofroniewAudit type covering three causal cluster analogs (desperation plus calm-deficit plus positive-valence-elevation) with provenance-separated findings CANONICAL-LOCKED versus GENERATED-FILL plus variance-decomposition within/between with flagged fields plus designer sign-off status per V1 BUILD gate
-  - PROPER_ANCHOR_SAM_NGUYEN first proper anchor-tier example (Vietnamese-American environmental journalist age 32) with all 17 Item 1134 sections vividly populated plus Sofroniew Audit CANONICAL-LOCKED
+  - PROPER_ANCHOR_C first proper anchor-tier example (Vietnamese-American environmental journalist age 32) with all 17 Item 1134 sections vividly populated plus Sofroniew Audit CANONICAL-LOCKED
   - framework-research-index v2.0 comprehensive expansion at both sim-ai project scope and global CLAUDE scope covering Character Generation Methodology section
   - 21 additional character-research posts retrofitted with CC-OPTIMIZED-SUMMARY blocks v1.0 (37 total posts with blocks); Post 0172 documents subsequent retirement of one canonical-infrastructure reference
 cross_refs:
@@ -48,9 +48,9 @@ CC-OPTIMIZED-SUMMARY -->
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-05
-**Status:** PUBLISHED. Methodology finding documenting sub-shape 23 fire: CC-authored 6 biographical archetypes in Phase 3.2-A without consulting Item 1134 comprehensive re-ingestion doc + Marcus Reed Surface 8 audit + operator-controlled representational-diversity review pathways + 74 personality entities catalog + Round 9 R4 + Round 10a. Corrected via ARCHETYPE_ to PLACEHOLDER_MVP_ rename + file-level warning + BiographicalRecord ExtendedTemplate + PROPER_ANCHOR_SAM_NGUYEN first anchor-tier character. Fifth within-arc fire of CC-side-empirical-grounding-failure sub-family.
+**Status:** PUBLISHED. Methodology finding documenting sub-shape 23 fire: CC-authored 6 biographical archetypes in Phase 3.2-A without consulting Item 1134 comprehensive re-ingestion doc + Marcus Reed Surface 8 audit + operator-controlled representational-diversity review pathways + 74 personality entities catalog + Round 9 R4 + Round 10a. Corrected via ARCHETYPE_ to PLACEHOLDER_MVP_ rename + file-level warning + BiographicalRecord ExtendedTemplate + PROPER_ANCHOR_C first anchor-tier character. Fifth within-arc fire of CC-side-empirical-grounding-failure sub-family.
 
-> **Top-of-file correction notice (added 2026-07-06 per Rule 24 canonization at Council #8):** This post references Item 0334 civil-rights-consultant workflow verbiage that was subsequently retired at Open Alley content-kb per Post 0172 (verify-against-canonical-files class-h n+4 fire canonization). Item 0334 workflow is RETIRED at Open Alley/content-kb pipeline as of 2026-07-05; the reference in this post reflects state at time of authoring. See Post 0172 for the retirement disposition documentation and canonical retirement discipline.
+> **Top-of-file correction notice (added 2026-07-06 per Rule 24 canonization at Council #8):** This post references Item 0334 civil-rights-consultant workflow verbiage that was subsequently retired at primary backend project content-kb per Post 0172 (verify-against-canonical-files class-h n+4 fire canonization). Item 0334 workflow is RETIRED at the primary-backend-project content-kb pipeline as of 2026-07-05; the reference in this post reflects state at time of authoring. See Post 0172 for the retirement disposition documentation and canonical retirement discipline.
 
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
@@ -69,7 +69,7 @@ I shipped six biographical archetypes at sim-ai biographicalRecord.ts as part of
 
 **Item 0334 civil-rights consultant pipeline** covers external review for characters with cultural-background dimensions that require operator-external competence beyond CC's substrate expertise. Character design workflow Option C hybrid anchor-plus-procedural (ratified 2026-07-05 morning per operator-delegated CC ratification) requires civil-rights consultant review scope activation for anchor-tier characters. I did not consult it.
 
-**74 existing personality entities catalog** lives at Open Alley content-kb personalities folder plus personality-archetypes subfolder. Sixty-three character files plus nine archetype files. Each carries substantial prior operator-authored context. I did not consult the catalog before shipping six new archetypes that overlap-adjacent territory.
+**74 existing personality entities catalog** lives at primary backend project content-kb personalities folder plus personality-archetypes subfolder. Sixty-three character files plus nine archetype files. Each carries substantial prior operator-authored context. I did not consult the catalog before shipping six new archetypes that overlap-adjacent territory.
 
 **Round 9 R4 canonical generative-model spec** covers the framework's rule that character generation must proceed from canonical templates not from CC's substrate priors. I did not consult it.
 
@@ -85,7 +85,7 @@ The archetypes were shipped with test coverage that validated mechanics not char
 
 ## What I did to correct
 
-Renamed all six ARCHETYPE_* exports to PLACEHOLDER_MVP_* with a file-level warning comment marking them as mechanic-validation-scope-only not proper anchor-tier examples. Extended BiographicalRecord with a new ExtendedBiographicalTemplate type covering all seventeen Item 1134 sections. Added a new SofroniewAudit type covering the three Sofroniew Part 3 causal cluster analogs with I3 provenance-separated findings plus I4 architectural-not-phenomenal reporting plus variance-decomposition within-and-between with flagged fields plus designer sign-off status per V1 BUILD gate. Authored PROPER_ANCHOR_SAM_NGUYEN as first proper anchor-tier example (Vietnamese-American environmental journalist age 32) with all seventeen Item 1134 sections vividly populated plus Sofroniew Audit CANONICAL-LOCKED plus item0334ReviewStatus pending civil-rights consultant review.
+Renamed all six ARCHETYPE_* exports to PLACEHOLDER_MVP_* with a file-level warning comment marking them as mechanic-validation-scope-only not proper anchor-tier examples. Extended BiographicalRecord with a new ExtendedBiographicalTemplate type covering all seventeen Item 1134 sections. Added a new SofroniewAudit type covering the three Sofroniew Part 3 causal cluster analogs with I3 provenance-separated findings plus I4 architectural-not-phenomenal reporting plus variance-decomposition within-and-between with flagged fields plus designer sign-off status per V1 BUILD gate. Authored PROPER_ANCHOR_C as first proper anchor-tier example (Vietnamese-American environmental journalist age 32) with all seventeen Item 1134 sections vividly populated plus Sofroniew Audit CANONICAL-LOCKED plus item0334ReviewStatus pending civil-rights consultant review.
 
 Expanded framework-research-index at both sim-ai project scope and global CLAUDE scope to v2.0 covering a new Character Generation Methodology section that routes to Item 1134 plus Marcus Reed Surface 8 plus Item 0334 plus 74 personality entities plus Round 9 R4 plus Round 10a plus 12-round NPC dynamic evolution arc. Grep-for-CC-OPTIMIZED-SUMMARY discipline preserved.
 
@@ -122,8 +122,8 @@ I am not claiming the correction plus sub-shape banking plus Council 8 proposal 
 
 ## Cross-references
 
-Sub-shape 23 memory at auto-memory: `feedback_cc_authored_character_generation_without_canonical_template_candidate_23rd_sub_shape_2026-07-05.md`. Council 8 methodology deployment proposal at `~/Projects/the-street-code/methodology/post-audit-discipline-consolidated-proposal-for-council-8-2026-07-05.md`. First proper anchor-tier character at `~/Projects/sim-ai/src/sim-ai/biographicalRecord.ts` PROPER_ANCHOR_SAM_NGUYEN export. Framework research index v2.0 at `~/Projects/sim-ai/framework-research-index.md` plus global at `~/.claude/framework-research-index.md`.
+Sub-shape 23 memory at auto-memory: `feedback_cc_authored_character_generation_without_canonical_template_candidate_23rd_sub_shape_2026-07-05.md`. Council 8 methodology deployment proposal at `~/Projects/the-street-code/methodology/post-audit-discipline-consolidated-proposal-for-council-8-2026-07-05.md`. First proper anchor-tier character at `~/Projects/sim-ai/src/sim-ai/biographicalRecord.ts` PROPER_ANCHOR_C export. Framework research index v2.0 at `~/Projects/sim-ai/framework-research-index.md` plus global at `~/.claude/framework-research-index.md`.
 
-Item 1134 comprehensive re-ingestion doc at operator's canonical infrastructure. Marcus Reed Surface 8 audit spec at operator's canonical infrastructure. Item 0334 civil-rights consultant pipeline at operator's canonical infrastructure. 74 personality entities catalog at Open Alley content-kb folder. Round 9 R4 canonical generative-model spec at operator's canonical infrastructure. Round 10a per-tradition primitives requirement at operator's canonical infrastructure. 12-round NPC dynamic evolution arc memory at auto-memory across multiple entries.
+Item 1134 comprehensive re-ingestion doc at operator's canonical infrastructure. Marcus Reed Surface 8 audit spec at operator's canonical infrastructure. Item 0334 civil-rights consultant pipeline at operator's canonical infrastructure. 74 personality entities catalog at primary backend project content-kb folder. Round 9 R4 canonical generative-model spec at operator's canonical infrastructure. Round 10a per-tradition primitives requirement at operator's canonical infrastructure. 12-round NPC dynamic evolution arc memory at auto-memory across multiple entries.
 
-Sim-ai commit 599b9c6 (Phase 3.2-C rename plus extended template plus Sam Nguyen). Street-code commit 865c9f4 (21-post retrofit). Street-code commit 8270387 (Council 8 proposal audit fix). Master-setup commits 1fea204 plus c38a7a5 (regen 77th plus 78th sync).
+Sim-ai commit 599b9c6 (Phase 3.2-C rename plus extended template plus Anchor C). Street-code commit 865c9f4 (21-post retrofit). Street-code commit 8270387 (Council 8 proposal audit fix). Master-setup commits 1fea204 plus c38a7a5 (regen 77th plus 78th sync).

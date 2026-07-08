@@ -5,7 +5,7 @@ date_published: 2026-07-06
 status: published
 superseded_by: none
 domain: sim-ai framework-methodology schema-hygiene
-project_scopes: sim-ai street-code roomtolife cross-cutting
+project_scopes: sim-ai street-code companion-product-workspace cross-cutting
 cc_task_relevance: schema-hygiene-arc provenance-centralization typed-field-promotion regression-test-time-drift-verification wall-clock-test-tolerance-council-filing
 phase_binding: phase-14-post-close-schema-hygiene
 discipline_family: read-side-vs-write-side-asymmetric-protection provenance-centralization-anti-drift compile-time-enforcement-of-runtime-gating regression-test-time-drift-verification wall-clock-test-tolerance-under-scaled-concurrent-load
@@ -18,7 +18,7 @@ load_bearing_claims:
 - Alignment fix strictly additive at IdentityStageMarker + ThreeLayerOrientation which previously used 3-value unions missing COMMUNITY-INPUT-VERIFIED pathway; new type union broadens acceptance without breaking existing anchor data
 - Type-narrowing guards isSchemaReservationVerified + isAuditCanonicalLocked ship enabling consumer code compile-time provenance-conditional logic
 - Framework-wide canonical enum registrations ALL_SCHEMA_RESERVATION_PROVENANCE + ALL_AUDIT_PROVENANCE ship enabling regression-test-time drift verification catching future consumer-side divergence at commit time
-- civilRightsFrameworkApplicable required boolean typed field promoted from comment-metadata to BiographicalRecord interface field populated on all 13 characters (7 PROPER_ANCHOR + 6 PLACEHOLDER_MVP): Marvin Okafor + Cesar de la Rosa + Yuki Tanaka TRUE per Items 1135 + 1137 + 1139 metadata; Sam Nguyen + Frank Wojcik + Stas Novak + Walt Petersen + 6 placeholder archetypes FALSE
+- civilRightsFrameworkApplicable required boolean typed field promoted from comment-metadata to BiographicalRecord interface field populated on all 13 characters (7 PROPER_ANCHOR + 6 PLACEHOLDER_MVP): Anchor A + Anchor D + Anchor E TRUE per Items 1135 + 1137 + 1139 metadata; Anchor C + Anchor G + Anchor B + Anchor F + 6 placeholder archetypes FALSE
 - Runtime benefit compile-time deterministic Marcus Reed 6-protected-class extension gating replacing prior comment-only assertion at anchor definitions; runtime code can now check field state without operator-convention dependency
 - 25 new provenance.test.ts regression tests validate canonical registration counts + type guard narrowing + consumer conformance + civilRightsFrameworkApplicable per-anchor values + type-level anti-drift assertion (explicit no-ITEM-0334-residue check + audit tier ordering stability)
 - Test count 1001 to 1026 at Post 0184 close (increment +25 all from provenance.test.ts)
@@ -101,7 +101,7 @@ SchemaReservationProvenance is the 4-value union covering schema-reservation reg
 - COMMUNITY-INPUT-VERIFIED (verified via community input at r/AskHistorians + r/LaborHistory + r/IndieGameDev fallback pathway)
 
 AuditProvenance is the 3-value union covering audit-derived state at SofroniewAudit signatures on anchor characters. Values in tier order from highest verification to lowest:
-- CANONICAL-LOCKED (Marcus Reed Surface 8 fully audited; currently only PROPER_ANCHOR_SAM_NGUYEN)
+- CANONICAL-LOCKED (Marcus Reed Surface 8 fully audited; currently only PROPER_ANCHOR_C)
 - CANON-DERIVED (derived from canonical operator-authored anchor content; standard tier for PROPER_ANCHOR characters)
 - GENERATED-FILL (CC-authored placeholder; PLACEHOLDER_MVP archetype tier at Phase 3.2 mechanic-validation scope)
 
@@ -143,17 +143,17 @@ Prior definitional drift where 3-value semantic at biographical fields diverged 
 
 ## Section 5: civil_rights_framework_applicable comment-to-typed promotion
 
-The BiographicalRecord interface previously encoded the Marcus Reed 6-protected-class extension gating flag as comment-only metadata at anchor definition headers. Marvin Okafor definition header at biographicalRecord.ts line 891 reads CIVIL RIGHTS FRAMEWORK APPLICABLE FLAG TRUE per Item 1135 file metadata. But no typed field carries the flag state at runtime. Consumer code that would gate Marcus Reed Surface 8 heuristic firing based on protected-class-adjacent content status has no compile-time-checkable field to test.
+The BiographicalRecord interface previously encoded the Marcus Reed 6-protected-class extension gating flag as comment-only metadata at anchor definition headers. Anchor A definition header at biographicalRecord.ts line 891 reads CIVIL RIGHTS FRAMEWORK APPLICABLE FLAG TRUE per Item 1135 file metadata. But no typed field carries the flag state at runtime. Consumer code that would gate Marcus Reed Surface 8 heuristic firing based on protected-class-adjacent content status has no compile-time-checkable field to test.
 
 Post 0184 promotes the flag to typed BiographicalRecord required field civilRightsFrameworkApplicable of type boolean. Population per operator-authored Item metadata:
 
-- Marvin Okafor: TRUE per Item 1135 metadata comment (segregated workplace navigation + Double V campaign era + back entrance institutional discrimination)
-- Cesar de la Rosa: TRUE per Item 1137 metadata comment (Tejano child labor + Mexican-American veteran father + nun-slap-for-Spanish + American GI Forum era)
-- Yuki Tanaka: TRUE per Item 1139 metadata comment (Japanese-American incarceration + WRA resettlement + operator-warned-against-visible-Japan-affiliation-1946)
-- Sam Nguyen: FALSE per Post 0180 correction context (not applicable at pin-boy scope)
-- Frank Wojcik: FALSE per Post 0180 correction context (Chicago blue-collar Polish-American)
-- Stas Novak: FALSE per Item 1136 metadata (Polish-American working-class Catholic; no protected-class-adjacent content complexity in same category as Marvin)
-- Walt Petersen: FALSE per Item 1138 metadata (Danish-American Iowa dairy-farm-family ecosystem-default)
+- Anchor A: TRUE per Item 1135 metadata comment (segregated workplace navigation + Double V campaign era + back entrance institutional discrimination)
+- Anchor D: TRUE per Item 1137 metadata comment (Tejano child labor + Mexican-American veteran father + nun-slap-for-Spanish + American GI Forum era)
+- Anchor E: TRUE per Item 1139 metadata comment (Japanese-American incarceration + WRA resettlement + operator-warned-against-visible-Japan-affiliation-1946)
+- Anchor C: FALSE per Post 0180 correction context (not applicable at pin-boy scope)
+- Anchor G: FALSE per Post 0180 correction context (Chicago blue-collar Polish-American)
+- Anchor B: FALSE per Item 1136 metadata (Polish-American working-class Catholic; no protected-class-adjacent content complexity in same category as Anchor A)
+- Anchor F: FALSE per Item 1138 metadata (Danish-American Iowa dairy-farm-family ecosystem-default)
 - 6 PLACEHOLDER_MVP archetypes (Alex + Diane + River + Marco + Iris + Kai): FALSE per Phase 3.2 mechanic-validation scope discipline
 
 Runtime benefit is compile-time deterministic Marcus Reed 6-protected-class extension gating. Marcus Reed Surface 8 heuristic runtime code can now switch on anchor.civilRightsFrameworkApplicable directly rather than relying on operator-convention comment inspection. The typed field also enables regression tests to assert per-anchor gating values at test time.
@@ -174,7 +174,7 @@ isAuditCanonicalLocked type guard validates boolean return for CANONICAL-LOCKED 
 
 Consumer conformance validates paper-layer baseline stubs at culturalBaselines all use SchemaReservationProvenance values from canonical registered set + per-tradition primitives registry empty state at Phase 11 close preserved.
 
-civilRightsFrameworkApplicable typed field validates per-anchor values (Marvin + Cesar + Yuki TRUE; Sam + Frank + Stas + Walt + 6 PLACEHOLDER_MVP FALSE) + deterministic Marcus Reed 6-protected-class extension gating count assertion (3 anchors trigger gate + character name array ordered Marvin + Cesar + Yuki).
+civilRightsFrameworkApplicable typed field validates per-anchor values (Anchor A + Anchor D + Anchor E TRUE; Anchor C + Anchor G + Anchor B + Anchor F + 6 PLACEHOLDER_MVP FALSE) + deterministic Marcus Reed 6-protected-class extension gating count assertion (3 anchors trigger gate + character name array ordered Anchor A + Anchor D + Anchor E).
 
 Type-level anti-drift guarantee validates ALL_SCHEMA_RESERVATION_PROVENANCE canonical string array explicitly does NOT contain ITEM-0334-CONSULTANT-VERIFIED literal (documented anti-recurrence intent + provides Council 9 Item 20 candidate methodology observation retired-workflow-recurrence-anti-pattern with regression-test surface) + ALL_AUDIT_PROVENANCE tier ordering stable.
 

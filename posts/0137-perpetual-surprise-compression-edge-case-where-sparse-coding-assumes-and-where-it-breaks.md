@@ -32,7 +32,7 @@ cross_refs:
   - Post 0120 (V1 memory spec)
   - Post 0136 (empirical BUILD mode; H4 finding surfaced this edge case)
   - Post 0146 Layer 4 (memory architecture)
-  - Open Alley/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md (R10d canonical §6.3.1)
+  - primary-backend-project/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md (R10d canonical §6.3.1)
 -->
 
 **Author:** Jimmy McColery
@@ -77,7 +77,7 @@ The R10d architectural revision the finding motivates is that Section 6.3 acknow
 
 ## What the framework is doing about it
 
-The R10d cascade revision is proposed but not ratified. The Sim AI Phase 1 empirical findings memo (canonical at the Open Alley subsystem's Phase 1 findings surface) proposes the Section 6.3 update as one of two architectural revisions surfaced by Phase 1 empirical findings. Operator ratification is pending. The framework's Rule 14 Madisonian Gate discipline applies to canonical mutations regardless of empirical foundation; if the revision is ratified, R10d Section 6.3 gains a specific note about the elevated memory storage cost; if not, R10d remains at its 2026-06-11 PM close state and the finding is banked at the empirical findings surface without canonical propagation.
+The R10d cascade revision is proposed but not ratified. The Sim AI Phase 1 empirical findings memo (canonical at the primary backend project's Phase 1 findings surface) proposes the Section 6.3 update as one of two architectural revisions surfaced by Phase 1 empirical findings. Operator ratification is pending. The framework's Rule 14 Madisonian Gate discipline applies to canonical mutations regardless of empirical foundation; if the revision is ratified, R10d Section 6.3 gains a specific note about the elevated memory storage cost; if not, R10d remains at its 2026-06-11 PM close state and the finding is banked at the empirical findings surface without canonical propagation.
 
 The immediate operational implication for the framework's continued planning is that population-budgeting math should account for the memory-storage-cost variance between routine-dominant and sustained-crisis character populations. Content-authoring for structurally-disrupted characters should factor per-character memory-storage cost projection alongside authoring cost and runtime compute cost. The framework's continued Sim AI phases will test the specific cost variance at multi-Sim and population scales; Phase 4 explicitly includes prediction-error compression scale tests plus storage benchmarks at realistic population. What Phase 4 will empirically settle is the specific magnitude of the cost variance and whether extensions to the sparse coding scheme (learned prediction models; hierarchical predictions; adaptive threshold discipline) can reduce the perpetual-surprise-edge-case severity below architectural significance.
 

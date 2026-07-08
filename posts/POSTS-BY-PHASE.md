@@ -40,7 +40,7 @@ Foundation era — framework establishment + Marcus Reed + HEXACO ratification +
 **Framework foundation posts:**
 0001-0003, 0005, 0008-0010, 0012-0013, 0016-0018, 0022-0026, 0030-0033
 
-**Pin Paradise architecture arc (V1 lock-in):**
+**the bowling-tycoon simulation project architecture arc (V1 lock-in):**
 0041, 0042, 0043, 0057, 0062, 0065, 0068, 0069, 0073, 0079, 0080
 
 **Sim AI Phase 1 foundational:**
@@ -56,7 +56,7 @@ Empirical BUILD era — Phase 2.x aggression-fleeing + kindness mechanics + pair
 - 0006 What Auditing the Audit Taught Me
 - 0036 PKCE Magic Link
 - 0044 Bowler-Off-Lane-Spawn Bug
-- 0051, 0052, 0054, 0055 Pin Paradise Zustand + physics
+- 0051, 0052, 0054, 0055 the bowling-tycoon simulation project Zustand + physics
 - 0074 Cross-Player Tournaments
 - 0096 Parity of Record, Singularity of Action
 - 0144 Buffer That Overflowed by One
@@ -111,7 +111,7 @@ Post-V1 deferred scope: cultural personhood baselines A/B/C full deployment + co
 ## Phase binding decision heuristics
 
 **When to consult "Phase-1" posts:**
-- Working on V1 architecture lock-in decisions (Pin Paradise + Sim AI foundational)
+- Working on V1 architecture lock-in decisions (the bowling-tycoon simulation project + Sim AI foundational)
 - Marcus Reed audit scope decisions
 - Item 1134 canonical template consultation
 - Framework foundation discipline canonization

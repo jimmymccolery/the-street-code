@@ -31,7 +31,7 @@ mechanism_details:
   - tickSimB return simB object added memory field memory equals simBResult.memory or simB.memory matching Phase 3 discipline for skills waterStorageLevel foodCacheLevel heldWood
   - processMemoryTickPipeline added defensive fallback next.simB.memory or priorState.simB.memory or createEmptyMemory recovering from perspective-swap architecture propagation failure at pipeline scope
   - Regression test added specifically checks state.simB.memory.lastConsolidationTick greater than or equal to 1440 which would be 0 if memory reset each tick
-  - Test count corrected from claimed 780 to actual 776 with delta 9 not 13 (Frank Wojcik regression tests plus 4 plus a7Memory integration tests plus 5 equals 9)
+  - Test count corrected from claimed 780 to actual 776 with delta 9 not 13 (Anchor G regression tests plus 4 plus a7Memory integration tests plus 5 equals 9)
   - Sub-shape 27 statistics fabrication caught and corrected via grep-verified count reporting
 cross_refs:
   - Post 0163 post-synthesis audit discipline at BUILD-time scope introducing 6-dimension grading rubric
@@ -51,7 +51,7 @@ CC-OPTIMIZED-SUMMARY -->
 **Date:** 2026-07-05
 **Status:** PUBLISHED. Methodology finding documenting Path B a7Memory tick loop integration Q56 shipped 2026-07-05 evening recreated sub-shape 22 within-same-session. memory field added to SimStateSnapshot but perspective-swap architecture in tickSimB not extended. Silent bug: Sim B memory reset each tick. Operator-requested rigorous audit caught bug. Fix landed in 3 places matching sub-shape 22 discipline. Sub-shape 22 strengthens to n+2 within-Phase-3.
 
-> **Top-of-file correction notice (added 2026-07-06 per Rule 24 canonization at Council #8):** The Q56 a7Memory tick loop integration this post documents also contained a THIRD latent bug at the landmark-encoding pathway  --  LandmarkEvent field-name mismatch (subjectSimId/type/valenceImpact where schema uses actorSimId/eventType/affectiveMagnitude) silently degrading landmark memory encoding to baseValenceImpact=0. Bug went undetected for 27 days until unrelated Open Alley pre-commit typecheck hook caught it during Post-Phase-11 loose-end sweep. See Post 0178 for the discovery pathway + fix + sub-shape 22 strengthening to n+3 within-Phase-3. See Post 0179 Item 1 for empirical validation of the fix at seed=42 Sam+Frank dyad showing landmark memory encoding produces 17 vs 7 traces with 13.95 valence delta between characters  --  a THIRD complementary observation surface for Sofroniew audit runtime.
+> **Top-of-file correction notice (added 2026-07-06 per Rule 24 canonization at Council #8):** The Q56 a7Memory tick loop integration this post documents also contained a THIRD latent bug at the landmark-encoding pathway  --  LandmarkEvent field-name mismatch (subjectSimId/type/valenceImpact where schema uses actorSimId/eventType/affectiveMagnitude) silently degrading landmark memory encoding to baseValenceImpact=0. Bug went undetected for 27 days until unrelated primary backend project pre-commit typecheck hook caught it during Post-Phase-11 loose-end sweep. See Post 0178 for the discovery pathway + fix + sub-shape 22 strengthening to n+3 within-Phase-3. See Post 0179 Item 1 for empirical validation of the fix at seed=42 Anchor C + Anchor G dyad showing landmark memory encoding produces 17 vs 7 traces with 13.95 valence delta between characters  --  a THIRD complementary observation surface for Sofroniew audit runtime.
 
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
@@ -94,7 +94,7 @@ New regression test specifically checks `state.simB?.memory?.lastConsolidationTi
 
 Same audit caught sub-shape 27 statistics fabrication recurrence.
 
-Ship summary claimed "Test count 776 to 780 with 13 additions." Grep-verified actual counts: before session 767 tests, Frank Wojcik regression tests plus 4, a7Memory integration tests plus 5, after session 776 tests. Delta plus 9 not plus 13.
+Ship summary claimed "Test count 776 to 780 with 13 additions." Grep-verified actual counts: before session 767 tests, Anchor G regression tests plus 4, a7Memory integration tests plus 5, after session 776 tests. Delta plus 9 not plus 13.
 
 I fabricated the 780 count and the plus 13 delta from educated estimation rather than grep-verification. This exactly matches sub-shape 27 canonization candidacy from the earlier scan-architecture-audit session where I fabricated 24 count discrepancies across POSTS-INDEX and view files.
 
@@ -144,7 +144,7 @@ I am not claiming Post 0173 A/B/C divergence + Post 0172 Item 0334 retirement + 
 
 Sub-shape 22 memory at `~/.claude/projects/-Users-jimmy/memory/feedback_cc_authored_perspective_swap_gap_for_phase_3_mechanical_layer_candidate_22nd_sub_shape_2026-07-05.md`. Sub-shape 27 memory at `~/.claude/projects/-Users-jimmy/memory/feedback_cc_authored_statistics_fabrication_under_scan_architecture_scope_candidate_27th_sub_shape_2026-07-05.md`. Council 8 methodology deployment proposal at `~/Projects/the-street-code/methodology/post-audit-discipline-consolidated-proposal-for-council-8-2026-07-05.md` sub-shape 22 detail plus sub-shape 27 detail.
 
-Sim-ai commit f82b8b4 (Path B audit correction; three-place fix + regression test). Sim-ai commit 05b843b (original Path B a7Memory integration + Frank Wojcik second anchor + H-NEW-5 cross-archetype variance script). Street-code commit 07da26b (Post 0173 A/B/C divergence addendum).
+Sim-ai commit f82b8b4 (Path B audit correction; three-place fix + regression test). Sim-ai commit 05b843b (original Path B a7Memory integration + Anchor G second anchor + H-NEW-5 cross-archetype variance script). Street-code commit 07da26b (Post 0173 A/B/C divergence addendum).
 
 Post 0168 remains canonical for ORIGINAL sub-shape 22 fire documentation with extended-verification-five-bugs-mine-missed pattern. Post 0174 supersedes empirical foundation count going forward. Both posts preserved per Post 0167 addendum-preserves-immutability discipline.
 

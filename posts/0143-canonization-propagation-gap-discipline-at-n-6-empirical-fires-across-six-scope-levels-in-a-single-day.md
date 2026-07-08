@@ -7,7 +7,7 @@ date_published: 2026-07-03
 status: published
 superseded_by: none
 domain: parent canonization-propagation gap discipline family Rule 20 candidacy Family A
-project_scopes: framework-methodology, the-street-code, sim-ai, roomtolife, master-setup
+project_scopes: framework-methodology, the-street-code, sim-ai, companion-product-workspace, master-setup
 cc_task_relevance: rule-20-candidacy, canonization-propagation-verification, cross-scope-audit, family-A-parent-shape
 phase_binding: era-independent
 discipline_family: Rule 20 candidacy Family A canonization-propagation gap
@@ -81,7 +81,7 @@ The canonization-propagation gap discipline names this failure family. The disci
 
 **Fire 5  --  Entry-label semantic-precision drafting seam (late evening, caught at CW second verification).** v1.21 fix-forward hygiene commit `6409ee0` introduced a NEW drafting seam at the Rule 19 body preamble entry #2 substrate-fabricates-quotes-when-source-inaccessible label. The label read "n=2; empirically at BANK-pending-second-fire until n=3+ strengthening"  --  contradictory because n=2 IS the second fire that BANK-pending-second-fire refers to. CW verification against loaded file caught the semantic-precision issue as "slightly odd, reporting as written"; operator ratified fix-forward at Option A; fix-forward at v1.21 commit `ee2017a` replacing the contradictory label with the semantically-precise "n=2; empirically at n=2 pending n=3+ further reproduction for canonization-candidacy strengthening at empirical-strength layer."
 
-**Fire 6  --  Regen-timing-gap (late evening, caught at Treasure Map consultation query).** Regen 19th sync commit `ece191f` ran the regen_launcher_hashes.py script BEFORE Open Alley R10d ratifications commit `849aba2` landed AND BEFORE the regen 19th sync master-setup commit itself landed. The regen script produces the CC-nav payload at run-time snapshot of git log state at moment of script execution; if commits land after regen runs but before the regen commit itself lands, CC-nav payload is stale by N commits until next regen. Operator's Treasure Map consultation query 2026-07-02 late evening caught the staleness (Treasure Map top-of-Open-Alley section still showed `4308df6` from 2026-06-11 instead of `849aba2` from 2026-07-02). Fix-forward at regen 20th sync commit `8062708` picking up both missing commits at top of respective project recent-commits enumeration.
+**Fire 6  --  Regen-timing-gap (late evening, caught at Treasure Map consultation query).** Regen 19th sync commit `ece191f` ran the regen_launcher_hashes.py script BEFORE the primary backend project R10d ratifications commit `849aba2` landed AND BEFORE the regen 19th sync master-setup commit itself landed. The regen script produces the CC-nav payload at run-time snapshot of git log state at moment of script execution; if commits land after regen runs but before the regen commit itself lands, CC-nav payload is stale by N commits until next regen. Operator's Treasure Map consultation query 2026-07-02 late evening caught the staleness (Treasure Map top-of-primary-backend-project section still showed `4308df6` from 2026-06-11 instead of `849aba2` from 2026-07-02). Fix-forward at regen 20th sync commit `8062708` picking up both missing commits at top of respective project recent-commits enumeration.
 
 ## Six scope levels in a single day; six architecturally-distinct catches
 

@@ -35,7 +35,7 @@ cross_refs:
   - Post 0128 (accumulator hides WEIRD defaults)
   - Post 0136 (empirical BUILD mode; H1-H7 hypothesis validation)
   - Post 0146 Layer 7 (cultural personhood baselines)
-  - Open Alley/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md (R10d canonical §4.4)
+  - primary-backend-project/architecture/round-10d-madisonian-gate-synthesis-2026-06-11.md (R10d canonical §4.4)
 -->
 
 **Author:** Jimmy McColery

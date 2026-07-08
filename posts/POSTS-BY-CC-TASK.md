@@ -38,7 +38,7 @@ Posts informing empirical BUILD arc discipline: architecture-as-hypothesis + ite
 **Sim AI empirical BUILD:**
 - 0071, 0119, 0120, 0121, 0123, 0132, 0136, 0144, 0149, 0151-0153, 0159-0162, 0166, 0170
 
-**Pin Paradise empirical BUILD:**
+**the bowling-tycoon simulation project empirical BUILD:**
 - 0042, 0043, 0044, 0051, 0052, 0054, 0055, 0074
 
 **Cross-cutting empirical BUILD:**

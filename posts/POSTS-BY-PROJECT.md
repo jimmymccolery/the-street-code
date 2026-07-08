@@ -33,7 +33,7 @@ Sim AI substrate — HEXACO + attachment + memory architecture + personality par
 - 0071 Orchestrator-Class Pattern-Matching from Proximal Signals
 - 0144 Buffer That Overflowed by One
 - 0149 Population-Scaling Phase A Complete + Phase B Baseline
-- 0151 Population-Scaling Complete + Room-to-Life Phase C
+- 0151 Population-Scaling Complete + parent-ecosystem Phase C
 - 0152 Phase D Empirical Scaling
 - 0153 Tier A Empirical Close: iPhone 17 + iPad Mini
 - 0159 Two Survivors Do Not Meet for Six Game-Days
@@ -50,8 +50,8 @@ Sim AI substrate — HEXACO + attachment + memory architecture + personality par
 - 0177 Phase 11 Nine-Item Comprehensive Research to Code Integration Arc (9 items; 52 tests; JS divergence 0.0381 → 0.0890; H2+H3 both in play)
 - 0178 Latent LandmarkEvent bug + cross-consumer typecheck discipline (27-day-latent Q56 recurrence; sub-shape 22 n+3; sim-ai pre-commit hook installed)
 - 0179 Phase 12 seven-item comprehensive arc (Layer 3 new state channel + landmark empirical + H-NEW-5 full experiment + dialogue lint + paper-layer refactor + Post 0128 schema + catalog non-duplication)
-- 0180 Phase 13 Pinboy NPC substrate integration (Marvin + Stas anchors + Bowling Alley Scene + injury subsystem + empirical validation; framework-to-product-application)
-- 0181 Phase 14 Open Alley sim-worker integration + 5-pinboy anchor roster (PinboyRunner + Pinboy Observatory + Cesar + Walt + Yuki sibling anchors; 10-dyad experiment; test count 968→1001)
+- 0180 Phase 13 Pinboy NPC substrate integration (Anchor A + Anchor B anchors + a domain-specific Scene (bowling-tycoon domain) + injury subsystem + empirical validation; framework-to-product-application)
+- 0181 Phase 14 the primary backend project sim-worker integration + 5-pinboy anchor roster (PinboyRunner + Pinboy Observatory + Anchor D + Anchor F + Anchor E sibling anchors; 10-dyad experiment; test count 968→1001)
 
 **Framework research (deferred / Phase-4+) — 2 posts (list authoritative):**
 - 0130 Reserved Relationship-Mode Slot Schema Placeholder
@@ -70,9 +70,9 @@ Sim AI substrate — HEXACO + attachment + memory architecture + personality par
 
 ---
 
-## pin-paradise (20 posts; grep-verified)
+## bowling-tycoon-simulation (20 posts; grep-verified)
 
-Pin Paradise — bowling tycoon commercial product (V1 ship target 2026-10-31). Disclosure Approach 2 (soft) operative through then.
+the bowling-tycoon simulation project — bowling tycoon commercial product (V1 ship target 2026-10-31). Disclosure Approach 2 (soft) operative through then.
 
 **V1 architecture + BUILD arcs:**
 - 0041 13 Architectural-Lock Cycles in 7 Days
@@ -107,7 +107,7 @@ The Street Code framework methodology — discipline canonization + Council meth
 - Multi-substrate audit patterns (0019, 0027, 0034)
 - Article-stacking + drafting-drift (0022-0026, 0030-0033)
 - Discipline promotion + anti-pattern #18 (0021, 0033-0035)
-- Bowling industry history (0045-0047, 0053, 0056, 0059, 0064, 0066-0067) — Pin Paradise historical research
+- Bowling industry history (0045-0047, 0053, 0056, 0059, 0064, 0066-0067) — the bowling-tycoon simulation project historical research
 
 **Methodology deployment era (Phase-3) — Posts 0141-0148:**
 - Council #5 (0141-0142) — longitudinal-trace catalogue + cross-source-misbinding fabrication axis
@@ -146,20 +146,20 @@ Posts that span multiple projects or address framework-methodology surfaces with
 
 ---
 
-## roomtolife (4 posts)
+## companion-product-workspace (4 posts)
 
-Rooms product — 3D cozy simulators + ecosystem substrate consumer.
+a companion Rooms product — 3D cozy simulators + ecosystem substrate consumer.
 
 - 0036 PKCE Magic Link Interstitial
 - 0038 Practitioner-Validated Patterns Beat Research Verdicts (PS1-shader)
 - 0079 Aesthetic as Architecture: Cross-Product Ecosystem Coherence
-- 0151 Population-Scaling Complete + Room-to-Life Phase C
+- 0151 Population-Scaling Complete + parent-ecosystem Phase C
 
 ---
 
-## open-alley (6 posts; grep-verified)
+## primary-backend-project (6 posts; grep-verified)
 
-Open Alley — Memory Lanes backend codename; bowling alley tycoon research infrastructure.
+the primary backend project — the bowling-tycoon simulation project backend codename; bowling alley tycoon research infrastructure.
 
 - 0096 Parity of Record, Singularity of Action (dual-interface architecture; also sim-ai)
 - 0155 React Fiber That Was Not There: Next.js HMR iOS Safari
@@ -169,9 +169,9 @@ Open Alley — Memory Lanes backend codename; bowling alley tycoon research infr
 
 ---
 
-## 90s-life-builder (1 post)
+## companion-life-builder-product (1 post)
 
-90s Life Builder — character state + cross-product ecosystem substrate consumer.
+a companion life-builder product — character state + cross-product ecosystem substrate consumer.
 
 - 0079 Aesthetic as Architecture: Cross-Product Ecosystem Coherence (cross-scoped)
 
@@ -180,18 +180,18 @@ Open Alley — Memory Lanes backend codename; bowling alley tycoon research infr
 ## Cross-project citation patterns
 
 Multi-scoped posts (appearing in 2+ project sections above):
-- 0079 (roomtolife + pin-paradise + 90s-life-builder + street-code)
-- 0081 (pin-paradise + sim-ai)
+- 0079 (companion-product-workspace + bowling-tycoon-simulation + companion-life-builder-product + street-code)
+- 0081 (bowling-tycoon-simulation + sim-ai)
 - 0087 (sim-ai + cross-cutting)
 - 0090 (sim-ai + cross-cutting)
 - 0095 (sim-ai + cross-cutting)
-- 0096 (sim-ai + open-alley)
+- 0096 (sim-ai + primary-backend-project)
 - 0105 (sim-ai + cross-cutting)
 - 0141-0142 (sim-ai + street-code)
 - 0147-0148 (sim-ai + street-code)
-- 0151 (sim-ai + roomtolife)
-- 0158 (open-alley + street-code)
+- 0151 (sim-ai + companion-product-workspace)
+- 0158 (primary-backend-project + street-code)
 - 0164 (sim-ai + street-code)
 - 0168 (sim-ai + street-code)
-- 0169 (sim-ai + open-alley + street-code)
-- 0170-0172 (sim-ai + street-code, 0169+0172 also open-alley)
+- 0169 (sim-ai + primary-backend-project + street-code)
+- 0170-0172 (sim-ai + street-code, 0169+0172 also primary-backend-project)

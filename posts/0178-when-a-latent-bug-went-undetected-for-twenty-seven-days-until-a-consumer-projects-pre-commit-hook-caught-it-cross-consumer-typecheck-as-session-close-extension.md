@@ -5,19 +5,19 @@ date_published: 2026-07-06
 status: published
 superseded_by: none
 domain: framework-methodology
-project_scopes: sim-ai open-alley street-code cross-cutting
+project_scopes: sim-ai primary-backend-project street-code cross-cutting
 cc_task_relevance: pre-commit-hook-discipline cross-consumer-typecheck latent-bug-detection sub-shape-22-strengthening session-close-discipline-extension
 phase_binding: era-independent
 discipline_family: sub-shape-22-architectural-extension-awareness cross-consumer-typecheck-candidate-methodology-observation session-close-discipline-7th-stage-candidacy
 canonical_rule: pre-commit-typecheck-discipline
 load_bearing_claims:
 - Sim-ai LandmarkEvent field-name mismatch shipped at Phase 3.2-D H-NEW-2 Q56 a7Memory tick loop integration on 2026-07-05 evening commit 05b843b silently degraded landmark memory encoding to baseValenceImpact zero for twenty-seven days
-- Discovery pathway was an unrelated post-Phase-11 loose-end sweep polish_queue Item 353 commit at Open Alley whose pre-commit hook runs tsc against aliased sim-ai code and surfaced eight typecheck errors including the three landmark field-name references
-- Sim-ai has NO pre-commit hook while Open Alley DOES have one running full typecheck creating asymmetric bug-detection surface where consumer's stricter enforcement catches upstream bugs the direct project silently accepts
+- Discovery pathway was an unrelated post-Phase-11 loose-end sweep polish_queue Item 353 commit at the primary backend project whose pre-commit hook runs tsc against aliased sim-ai code and surfaced eight typecheck errors including the three landmark field-name references
+- Sim-ai has NO pre-commit hook while the primary backend project DOES have one running full typecheck creating asymmetric bug-detection surface where consumer's stricter enforcement catches upstream bugs the direct project silently accepts
 - Fix path shipped landmarkValenceSign helper mapping LandmarkEventType to signed valence (exposure_crisis negative-valence; others positive) plus corrected all three field references (subjectSimId to actorSimId + type to eventType + valenceImpact to affectiveMagnitude scaled by sign map)
 - Framework methodology observation cross-consumer-typecheck-as-latent-bug-detection-surface candidate discipline filed for Council #9 Item 12 review with n=1 empirical foundation
 - Fire n+3 within-Phase-3 for sub-shape 22 architectural-extension-awareness discipline (Post 0168 origination + Post 0174 within-session recurrence at a7Memory Phase 3 extension surface + this post at a7Memory landmark-encoding surface twenty-seven-day-latent recurrence)
-- Prevention actions shipped at Phase 12 Item 1 include sim-ai pre-commit hook installation matching Open Alley pattern via scripts/install-hooks.sh plus package.json typecheck script plus CLAUDE.md documentation of the hook plus fix of five additional latent typecheck errors surfaced by the newly-installed hook (state.simB null assertion + IslandWorldState type widening on fires field + IslandWorldState type on E-emotionality test + node types reference on measurePhaseDEmpirical script)
+- Prevention actions shipped at Phase 12 Item 1 include sim-ai pre-commit hook installation matching the primary backend project pattern via scripts/install-hooks.sh plus package.json typecheck script plus CLAUDE.md documentation of the hook plus fix of five additional latent typecheck errors surfaced by the newly-installed hook (state.simB null assertion + IslandWorldState type widening on fires field + IslandWorldState type on E-emotionality test + node types reference on measurePhaseDEmpirical script)
 - Full test suite 863 of 863 pass post-fix confirming landmark memory encoding correctness restoration and hook installation
 applicability_triggers:
 - Any sim-ai commit event now runs pre-commit typecheck automatically
@@ -49,7 +49,7 @@ CC-OPTIMIZED-SUMMARY -->
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-06
-**Status:** PUBLISHED. Methodology finding documenting a twenty-seven-day-latent LandmarkEvent field-name mismatch bug at sim-ai that silently degraded landmark memory encoding to baseValenceImpact zero across Phase 3.2-D H-NEW-2 Q56 a7Memory tick loop integration since 2026-07-05 evening ship. Bug caught only when unrelated post-Phase-11 loose-end sweep at Open Alley invoked a polish_queue Item 353 commit and Open Alley's pre-commit hook ran typecheck against aliased sim-ai code surfacing the errors. Prevention actions shipped: sim-ai pre-commit hook installation matching Open Alley discipline plus five additional latent typecheck errors fixed plus Council #9 Item 12 candidate methodology observation filed for cross-consumer-typecheck discipline.
+**Status:** PUBLISHED. Methodology finding documenting a twenty-seven-day-latent LandmarkEvent field-name mismatch bug at sim-ai that silently degraded landmark memory encoding to baseValenceImpact zero across Phase 3.2-D H-NEW-2 Q56 a7Memory tick loop integration since 2026-07-05 evening ship. Bug caught only when unrelated post-Phase-11 loose-end sweep at the primary backend project invoked a polish_queue Item 353 commit and the primary backend project's pre-commit hook ran typecheck against aliased sim-ai code surfacing the errors. Prevention actions shipped: sim-ai pre-commit hook installation matching the primary backend project discipline plus five additional latent typecheck errors fixed plus Council #9 Item 12 candidate methodology observation filed for cross-consumer-typecheck discipline.
 
 *Note: I'm a tech professional documenting my work in personal AI-assisted projects. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The implementation, the diagnosis, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
@@ -64,9 +64,9 @@ The semantic impact was worse than a simple constant-zero degradation. LandmarkE
 
 ## The discovery pathway
 
-The discovery came via an unrelated arc. Post-Phase-11 loose-end sweep at the-street-code produced a polish_queue Item 353 entry at Open Alley documenting the Item 0334 consultant workflow gate for sim-ai Phase 11 schema-reserved registries. When I invoked `git commit` on the polish_queue.md mutation at Open Alley, Open Alley's pre-commit hook ran `npm run typecheck`. The typecheck ran full tsc across Open Alley source AND the tsconfig-aliased sim-ai substrate consumed via the `sim-ai/*` path alias. That typecheck surfaced the LandmarkEvent field-name errors at sim-ai lines 1338, 1341, 1343, 1344, 1384, 1386, 1388, and 1389 alongside a few additional pre-existing errors in test files and a scale measurement script.
+The discovery came via an unrelated arc. Post-Phase-11 loose-end sweep at the-street-code produced a polish_queue Item 353 entry at the primary backend project documenting the Item 0334 consultant workflow gate for sim-ai Phase 11 schema-reserved registries. When I invoked `git commit` on the polish_queue.md mutation at the primary backend project, the primary backend project's pre-commit hook ran `npm run typecheck`. The typecheck ran full tsc across the primary backend project source AND the tsconfig-aliased sim-ai substrate consumed via the `sim-ai/*` path alias. That typecheck surfaced the LandmarkEvent field-name errors at sim-ai lines 1338, 1341, 1343, 1344, 1384, 1386, 1388, and 1389 alongside a few additional pre-existing errors in test files and a scale measurement script.
 
-The critical observation is that the pre-existing errors had been visible to any manual tsc invocation at sim-ai for weeks  --  but no manual invocation had been made because sim-ai had no pre-commit hook enforcing it. Every Phase 3.2-D, Phase 10, and Phase 11 commit landed with the errors intact. Only Open Alley's pre-commit typecheck, running as a side effect of an unrelated hygiene commit, caught them.
+The critical observation is that the pre-existing errors had been visible to any manual tsc invocation at sim-ai for weeks  --  but no manual invocation had been made because sim-ai had no pre-commit hook enforcing it. Every Phase 3.2-D, Phase 10, and Phase 11 commit landed with the errors intact. Only the primary backend project's pre-commit typecheck, running as a side effect of an unrelated hygiene commit, caught them.
 
 ## Sub-shape 22 architectural-extension-awareness fire n+3 within-Phase-3
 
@@ -86,7 +86,7 @@ The empirical foundation for canonization currently sits at n=1 (this incident).
 
 Phase 12 comprehensive execution alongside this post shipped:
 
-1. Sim-ai pre-commit hook install script at `scripts/install-hooks.sh` following the Open Alley two-section pattern (local-only guard + typecheck). Idempotent; safe to run after fresh clone or after unrelated `.git/hooks/` mutation.
+1. Sim-ai pre-commit hook install script at `scripts/install-hooks.sh` following the the primary backend project two-section pattern (local-only guard + typecheck). Idempotent; safe to run after fresh clone or after unrelated `.git/hooks/` mutation.
 2. Sim-ai `package.json` new script `"typecheck": "tsc --noEmit"` matching the ecosystem convention.
 3. Fix of the LandmarkEvent field-name mismatches at both consumption sites in processMemoryTickPipeline with new `landmarkValenceSign` helper mapping `LandmarkEventType` to signed integer (-1 for `exposure_crisis`, +1 for others) so `signedValence = sign * affectiveMagnitude` computed correctly. Landmark memory encoding now produces intended signed valence traces for the first time since Q56 shipped.
 4. Fix of five additional latent typecheck errors surfaced when the newly-installed pre-commit hook ran the first time. Errors were: `state.simB` null-assertion needed at phase210Kindness.test.ts line 440-441; explicit `IslandWorldState` type on `noFireState` and `withFireState` at phase30Fire.test.ts lines 220-221 so the `fires` field widens correctly; explicit `IslandWorldState` type on `sHighE` and `sLowE` plus `IslandWorldState` import at phase3AuditSimBBehavior.test.ts lines 299-300; and `/// <reference types="node" />` triple-slash directive at scale/measurePhaseDEmpirical.ts for `process.version` and `process.platform` references.

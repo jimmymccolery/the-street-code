@@ -31,7 +31,7 @@ cross_refs:
   - Post 0095 (Marcus Reed Tier 2 cross-family; sixth-axis substrate caught this pattern)
   - Post 0100 (Self-delivery structural mitigation)
   - Post 0113 (Generation-side vs Outcome-side Fairness)
-  - Open Alley content-kb/personalities/ (74 named entities catalog)
+  - primary-backend-project content-kb/personalities/ (74 named entities catalog)
 -->
 
 **Author:** Jimmy McColery
