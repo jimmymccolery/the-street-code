@@ -3,7 +3,7 @@
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
 **Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
-**Total candidacy items:** 94+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Item 55 RETIRED per split/retire/reduce mechanism)
+**Total candidacy items:** 97+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc: empirical-validation-harness-parallel-to-diagnostic-UI pattern + natural-vs-scripted-scenario-pair-as-empirical-methodology + storm-procedural-generation-rate Phase 1 architecture calibration observation + Item 55 RETIRED per split/retire/reduce mechanism)
 
 **Post-v3-ratification trigger 2026-07-07 late afternoon:** Phase 15 v3 implementation proposal RATIFIED per operator "ship, act comprehensively" directive. Stage 1 pilot begins with 15-A UMAP diagnostic (Weeks 1-2). Council #9 empirical review scheduled ~60 days after Stage 1 empirical gate results land (Week 18+). If Stage 1 gates PASS, Council #9 review has real Stage 1 empirical evidence to adjudicate against. If Stage 1 gates FAIL, Council #9 review deferred until architecture revised + Stage 1 re-run.
 
@@ -1072,6 +1072,48 @@ Framing B (context-sensitive stratification): Application-arc posts SUBSTANTIVEL
 **Council #9 assessment question:** At methodology-scope framework review, which framing better serves operator's IP-defense + framework-transparency dual objectives? Empirical grounding available at retroactive abstraction outcome (12 posts abstracted; framework methodology preserved; cultural context intact).
 
 **Recommendation:** Route this question at Council #9 methodology-deployment review; NOT filed as canonization candidacy at candidacy-item scope (this is a discipline-stratification review question, not a discipline-shape candidacy). Adjacent to Post 0143 canonization-propagation gap Family A + Post 0124 five-element cross-cultural disclosure discipline.
+
+### Item 95 — Empirical-validation-harness-parallel-to-diagnostic-UI pattern (candidate discipline extension adjacent to Item 89)
+
+**Filed:** 2026-07-08 morning (from Path 1 diagnostic overlay + empirical harness ship arc)
+**Type:** Framework methodology observation (empirical-validation-methodology discipline candidacy)
+**Empirical foundation:** n=1 fire at 2026-07-08 morning (Path 1 elevator pitch made theoretical-not-empirical claims; empirical harness corrected multiple claims via 100000-tick sweep)
+
+**Observation:** Path 1 Island Sim Phase 15 diagnostic overlay shipped 2026-07-08 morning with an operator-facing elevator pitch claiming specific empirical properties: cross-architecture divergence during storms; live comparison charts producing diagnostic signal; falsification-scope preservation for Vault Item 55 basin-of-attraction sense. All claims were theoretically-derived from architecture but not empirically-validated. Subsequent empirical harness build + run (100000 total simulated ticks; 5 seeds × 10000 ticks × 2 scenarios; 20 controlled storm periods) corrected multiple claims: storms CONVERGE cross-architecture divergence not amplify (2.7× convergence during storms); baseline valence correlation is near-zero (0.02) not merely noisy; arousal channels track much better than valence (0.55 vs 0.02); action bias coherence is signal-strength-dependent (0/5 baseline COHERENT vs 3/5 during storms COHERENT). Vault Item 55 basin recovery DID empirically validate at 5/5 seeds PASS with clean exponential decay matching design tau=60 min.
+
+**Structural distinction from Item 89 (empirical-integration-harness-validates-multi-plane-coherence-under-canonical-narrative-scenario):** Item 89 fires at single-anchor canonical-narrative-scenario scope. Item 95 fires at operator-facing-UI shipment scope. Both are empirical-validation-harness discipline but at different operational surfaces: Item 89 validates BUILD-time architectural-coherence; Item 95 validates SHIP-time operator-facing-claim-empirical-defensibility.
+
+**Council #9 assessment question:** Should the discipline "any operator-facing UI shipment with implied empirical properties MUST ship a matching empirical validation harness before the UI's claims can be authoritatively cited" be canonized as candidacy for framework methodology discipline extension? Adjacent to Post 0136 empirical BUILD-mode-as-hypothesis discipline (which operates at architecture scope; Item 95 extends to operator-facing-UI-claims scope). Adjacent to Item 91 CI-only failure mode invisibility (both are "verify at real target scope before shipping claims" disciplines at different verification surfaces).
+
+**Recommendation:** Retain as candidacy at Council #9 review scope; empirical foundation n=1 warrants tracking. Post 0136 empirical-BUILD-mode-as-hypothesis discipline provides precedent framework at architecture scope; Item 95 extends to UI-claim scope. Consider promotion to discipline-extension status if n=2+ recurrence sites observed at subsequent UI-shipment arcs.
+
+### Item 96 — Natural-vs-scripted-scenario-pair as empirical methodology pattern (candidate paired-scenario methodology)
+
+**Filed:** 2026-07-08 morning (from Path 1 empirical harness two-scenario design)
+**Type:** Framework methodology observation (empirical-methodology-pattern candidacy)
+**Empirical foundation:** n=1 fire at 2026-07-08 morning (natural + scripted-storm scenario pair produced complementary diagnostic signal in Path 1 empirical run)
+
+**Observation:** Path 1 empirical harness deployed two scenarios per seed: **Natural** (procedural Island dynamics; 0 storms across 5 seeds × 10000 ticks) provides baseline-drift measurement with minimal event-response signal. **Scripted-storm** (4 injected storm windows per seed with sustained perception forcing) provides controlled event-response measurement with known-timing events. Complementary diagnostic value: natural surfaces architecture-drift-dominated divergence; scripted-storm surfaces basin-of-attraction recovery + storm-convergence patterns + falsification-scope preservation. Neither scenario alone would have surfaced both signal classes.
+
+**Framework methodology observation:** Empirical validation methodology should default to paired-scenario deployment (baseline drift measurement + controlled event-response measurement) rather than single-scenario deployment. Single-scenario runs risk conflating architecture-drift with event-response OR producing insufficient event signal for cross-architecture stress testing.
+
+**Council #9 assessment question:** Should paired-scenario-deployment (natural + scripted) be canonized as default empirical-validation-harness methodology? Adjacent to Item 65 (pattern-oriented-modeling-per-Grimm-2005) at empirical-methodology-scope. Adjacent to Item 21 (operator-realism-check) at instrument-design-scope.
+
+**Recommendation:** Retain as candidacy at Council #9 review scope; empirical foundation n=1 warrants tracking but not canonization-triggering. Additional recurrence sites at subsequent empirical harness deployments would strengthen empirical foundation.
+
+### Item 97 — Storm procedural-generation rate as latent Phase 1 empirical finding
+
+**Filed:** 2026-07-08 morning (Path 1 empirical harness natural-scenario finding)
+**Type:** Empirical observation (Phase 1 architecture calibration observation; NOT framework methodology observation)
+**Empirical foundation:** n=1 fire; 0 procedural storms observed across 50000 total simulated ticks (5 seeds × 10000 ticks) in natural scenario
+
+**Observation:** Path 1 empirical harness natural scenario ran 50000 total ticks with pure procedural Island dynamics + default RNG. Zero storm periods generated across all seeds. This is BELOW the frequency needed for cross-architecture stress testing at 10000-tick horizons. Path 1 diagnostic overlay UI implicitly assumes operators will observe storm events during typical viewing sessions; empirical measurement shows operators would need to manually force storms OR wait extended horizons.
+
+**Structural distinction from Council #9 methodology observations:** Items 91-96 fire at framework-methodology-scope. Item 97 fires at Phase 1 architecture-calibration-scope. Filing at Council #9 agenda scope for cross-reference visibility not because Council #9 review will adjudicate Phase 1 architecture; more useful for future Phase 1 storm-generation calibration arcs to have this empirical finding referenceable.
+
+**Council #9 assessment question:** Should Phase 1 architecture-calibration observations at empirical-scope be filed at Council #9 agenda for cross-visibility OR routed to sim-ai/tasks.md OR to Phase 1 architecture doc? This is a routing question for future empirical findings that surface framework-adjacent but not framework-methodology observations.
+
+**Recommendation:** Preserve at Council #9 agenda for now (empirical finding is cross-framework-relevant); route architecture-calibration recommendation separately to sim-ai/tasks.md when operator ratifies Phase 1 storm-rate calibration. NOT filed as framework methodology candidacy.
 
 ## Council #9 methodology deployment structure
 
