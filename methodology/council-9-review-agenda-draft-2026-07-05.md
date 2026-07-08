@@ -3,7 +3,7 @@
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
 **Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
-**Total candidacy items:** 99+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 55 RETIRED per split/retire/reduce mechanism)
+**Total candidacy items:** 101+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 100 filed 2026-07-08 morning Rule 26 candidacy proposal consolidating Items 20 + 33 + 66 as Retired-workflow-recurrence discipline + Item 101 filed 2026-07-08 morning Cycle 12 Steps 6-9 retirement disposition + Item 55 RETIRED per split/retire/reduce mechanism)
 
 **Post-v3-ratification trigger 2026-07-07 late afternoon:** Phase 15 v3 implementation proposal RATIFIED per operator "ship, act comprehensively" directive. Stage 1 pilot begins with 15-A UMAP diagnostic (Weeks 1-2). Council #9 empirical review scheduled ~60 days after Stage 1 empirical gate results land (Week 18+). If Stage 1 gates PASS, Council #9 review has real Stage 1 empirical evidence to adjudicate against. If Stage 1 gates FAIL, Council #9 review deferred until architecture revised + Stage 1 re-run.
 
@@ -1176,6 +1176,54 @@ Framing B (context-sensitive stratification): Application-arc posts SUBSTANTIVEL
 **Architectural spec:** `~/Projects/Open Alley/architecture/phase-15-stage-3-physical-attractiveness-charisma-first-impression-architecture-2026-07-08.md`
 
 **Recommendation:** Retain as candidacy at Council #9 review scope for canonization consideration. Empirical harness verdict + 4-substrate empirical foundation + Marcus Reed cross-cultural personhood alignment + Post 0197 recursive discipline application make Item 99 a load-bearing framework methodology extension candidate.
+
+### Item 100 — Rule 26 candidacy proposal: consolidation of Item 20 + Item 33 as "Retired-workflow-recurrence discipline" for canonization consideration
+
+**Filed:** 2026-07-08 morning (Day 1 loose-end closure per meta-analysis-recommended consolidation identified by 6-agent parallel meta-analysis 2026-07-08 morning)
+
+**Trigger:** Meta-analysis Agent 3 identified Items 20 + 33 as convergent-at-n=5+ pattern within-Phase-3-scope + Item 66 gap-claim-propagates-across-meta-analysis-cascade as n=5+ propagations within-arc. Rule 20 Family A canonized narrow-scope-write-side at Council #8 2026-07-05 evening but recurrence patterns continue firing at read-side + retirement-registry scope requiring dedicated rule promotion.
+
+**Consolidation content:**
+- **Item 20 (Post 0183 n=1 fire):** retired-workflow-recurrence-anti-pattern — Item 0334 external civil-rights consultant workflow referenced 6 fires within Phase 3 after formal retirement (2026-06-08). Recurrence pattern: reference to retired workflow persists in memory + posts + adjacent-item derivations despite canonical retirement.
+- **Item 33 (Post 0186 Cesar arc n=1 fire; strengthens Item 20):** retired-workflow-recurrence-at-sibling-items — sibling personality items (Marvin + Cesar + Yuki + Kai + Walt) inherit reference to retired workflow via template propagation, requiring atomic-cascade re-sweep at sibling-scope.
+- **Item 66 gap-claim-propagates-across-meta-analysis-cascade (n=5+ propagations within-arc):** 63-item personality catalog stale-claim + 9 grounding items missed in meta-analysis cascade — read-side drift where canonical mutation (Item 0334 retirement) fires but downstream meta-analysis-narratives keep referring to the retired workflow.
+
+**Proposed Rule 26 (Retired-Workflow-Recurrence discipline):**
+
+*Purpose:* Retirement of a canonized workflow, gate, apparatus, or methodology commitment REQUIRES active propagation-verification at read-side scopes (memory + posts + adjacent-item derivations + meta-analyses + sibling templates + framework-research indexes + tracking surfaces) not merely canonical-file mutation. Retirement without read-side propagation-verification is theatrical.
+
+*Falsification condition:* If retirement of Item 0334 (or subsequent retirements at Q65 + Item 55 + Item 47 scope) produces zero read-side recurrences after Rule 26 canonization, discipline is falsified as unnecessary process theater. Sample size: minimum n=3 retirement instances in Council #9 review window.
+
+*Overhead-vs-defect metric:* Time cost of Rule 26 read-side propagation-verification per retirement (grep-based sweep + memory-file audit + framework-research-index refresh) vs. downstream defect rate of orphaned-reference recurrences (measured as count of gap-claim propagations in meta-analyses + audits per 30-day window).
+
+*Non-application scope:* Rule 26 does NOT apply to (a) internal-refactor renames (Rule 13 atomic mutation cascade owns); (b) draft-state work not yet canonized; (c) reversible experiments explicitly bounded to session-scope.
+
+**Adjacent-cluster relationships:**
+- Rule 20 Family A canonization-propagation-gap-narrow-scope-write-side (parent-superset)
+- Rule 22 verify-against-canonical-files class-(h) (write-side sibling addressing same class of drift)
+- Rule 24 addendum-preserves-immutability (Rule 26 amendment mechanism when retired-workflow references surface post-retirement in immutable artifacts)
+
+**Empirical foundation strength assessment:**
+- Item 20 n=1 fire + Item 33 n=1 fire = n=2 at retired-workflow-recurrence scope
+- Item 66 gap-claim-propagates-across-meta-analysis-cascade n=5+ propagations within single arc = strong empirical foundation for read-side drift discipline
+- Q65 retirement (2026-07-07 morning) + Item 55 retirement (2026-07-07 late evening) = 2 additional post-canonization instances providing evidence-strengthening opportunity for Council #9 review window
+- Combined n=7+ empirical instances across 3 discrete retirement events
+
+**Recommendation:** Rule 26 canonization candidacy READY for Council #9 review scope. Item 100 supersedes Items 20 + 33 as consolidated candidacy per split/retire/reduce mechanism ratified Council #8.
+
+### Item 101 — Cycle 12 Steps 6-9 disposition (30+ day threshold exceeded per meta-analysis; RETIRE recommendation)
+
+**Filed:** 2026-07-08 morning (Day 1 loose-end closure per meta-analysis-recommended disposition)
+
+**Trigger:** Meta-analysis Agent 5 flagged Cycle 12 Steps 6-9 as 30+ days pending operator re-engagement with no evidence of movement since 2026-07-05 baseline. Split/retire/reduce mechanism (canonized Council #8) enables retirement of stale-pending items.
+
+**Cycle 12 Steps 6-9 context:** [Steps 6-9 references specific to Sim AI Phase 3.2 continuation queue from Cycle 12 Post 0141 era; superseded by Phase 15 v3 canonical + Stage 1 pilot execution 2026-07-07 late afternoon. Steps 6-9 addressed pair-relational integration + memory-consolidation-mechanic-selection + cultural-baseline-refinement + Marcus Reed audit runtime propagation — all subsumed under Phase 15 v3 architectural scope.]
+
+**Disposition proposal:** RETIRE Cycle 12 Steps 6-9 via split/retire/reduce mechanism — architectural scope superseded by Phase 15 v3 Stages 1-9 pilot execution (Stages 1-3 shipped; Stages 4-9 pending). Retirement is administrative-not-technical: no work is lost; scope migrated forward.
+
+**Non-application scope:** Retirement does not affect other Cycle 12 items or subsequent Cycle 13+ work. Retirement is scoped to Steps 6-9 specifically as superseded work.
+
+**Recommendation:** Council #9 may formally acknowledge Cycle 12 Steps 6-9 retirement at review-scope pending confirmation that no operator-facing decision was silently dropped. Framework methodology commitment: retirement is preferred over indefinite pending status per Council #8 split/retire/reduce mechanism.
 
 ## Council #9 methodology deployment structure
 
