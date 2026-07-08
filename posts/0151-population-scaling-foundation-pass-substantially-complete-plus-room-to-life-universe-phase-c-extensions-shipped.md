@@ -34,7 +34,7 @@ cross_refs:
   - Post 0149 (Phase A and Phase B first-tier scaffolding shipped)
   - Post 0152 (Phase D empirical scaling close arc at Node tier)
   - Memory project_population_scaling_foundation_pass_phase_a_b_first_tier_complete_2026-07-04.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 > **CORRECTION NOTICE (added 2026-07-05 evening; post-audit meta-analysis):** Line 117 references "external consultant pipeline routing" as production-scope requirement per Gemini Council #6 substrate specification. The external consultant review workflow was retired 2026-06-08 per polish_queue.md Item 352 Path A canonization (predating this post by ~1 month). Retirement replaced external civil-rights consultant engagement with operator-controlled representational-diversity review pathways (Phase 7.1f substrate-triangulation + independent operator research + community input at r/AskHistorians + r/LaborHistory + r/IndieGameDev). See Post 0172 for full retirement documentation.
 

@@ -37,7 +37,7 @@ cross_refs:
   - Council 8 methodology deployment proposal at the-street-code methodology folder
   - Phase 3.2-D memory project_phase_3_2_d_fires_a_f_reshaping_arc_shipped_2026-07-05.md
   - Sub-shape 24 memory feedback_isolation_test_passes_but_multi_day_integration_reveals_suppressed_mechanic_candidate_24th_sub_shape_2026-07-05.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When Six Mechanic Failures Fell in One Afternoon: Empirical Fires A Through F Strengthen Operator Realism Check to n=8 Within Arc
 

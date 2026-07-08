@@ -45,7 +45,7 @@ cross_refs:
   - Post 0150 (forward-reference amendment for Post 0146 HEXACO citation-chain clarification)
   - Post 0169 (canonical-infrastructure-consultation sub-shape 23 fire for character content authoring)
   - Memory project_phase_3_caveman_castaway_progression_shipped_2026-07-05.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-03

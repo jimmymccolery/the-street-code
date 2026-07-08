@@ -117,18 +117,22 @@ Manually verify each H2 has content paragraphs before the next H2. The Posts 81-
 
 ### 7. CC-OPTIMIZED-SUMMARY block verification (applies post 0146 retrofit + all posts 2026-07-05 onward)
 
-Every load-bearing framework methodology post from Post 0163 onward MUST carry a `CC-OPTIMIZED-SUMMARY` HTML-comment block immediately after the title. Format spec at `~/Projects/substack/post_template.md` v2 (2026-07-05 amendment; folder rename to `~/Projects/publishing/` deferred as separate operational task). Structured 7 fields: `post_id + domain + canonical_rule + load_bearing_claims + applicability_triggers + mechanism_details + cross_refs`. Reader-invisible on GitHub (HTML comments do not render in Markdown display); grep-accessible for CC session context.
+Every load-bearing framework methodology post from Post 0163 onward MUST carry a `CC-OPTIMIZED-SUMMARY` HTML-comment block immediately after the title. Format spec at `~/Projects/substack/post_template.md` v2 (2026-07-05 amendment; folder rename to `~/Projects/publishing/` deferred as separate operational task). Structured 7 required fields: `post_id + domain + canonical_rule + load_bearing_claims + applicability_triggers + mechanism_details + cross_refs`. v2.0 extended fields (added at 2026-07-04+ posts): `title + date_published + status + superseded_by + project_scopes + cc_task_relevance + phase_binding + discipline_family`. Reader-invisible on GitHub (HTML comments do not render in Markdown display); grep-accessible for CC session context.
+
+**Closing marker convention (canonized 2026-07-07 late evening per corpus audit + operator back-annotation ratification):** Closing marker MUST be `CC-OPTIMIZED-SUMMARY -->` (not bare `-->` alone). Posts 0146-0190 originally shipped with bare `-->` closing marker; back-annotated to canonical `CC-OPTIMIZED-SUMMARY -->` on 2026-07-07 late evening per corpus audit finding. `grep -c "CC-OPTIMIZED-SUMMARY" posts/NNNN-*.md >= 2` is now enforced across all posts 0146+.
+
+**Word-count target REVISED 2026-07-07 late evening (audit finding):** Original 200-400 target was calibrated pre-v2.0 (7 fields; 200-400 words). v2.0 extended fields (15 total) mechanically add ~200 words baseline; substantive load-bearing methodology posts naturally reach 500-1000 words. Empirical corpus range at 2026-07-07: 379-1776 words with median ~900. REVISED TARGET: **500-900 words (soft target), 1200 words (hard ceiling triggering split-post consideration)**. Below 500 words → block probably missing load-bearing detail. Above 1200 words → block probably packing multiple discrete framework findings; post-should-have-been-multiple-posts assessment triggered.
 
 Verify per post drafted 2026-07-05 onward:
 
 ```bash
-# Block presence (must equal 2: opening + closing tags)
+# Block presence (must equal 2 minimum: opening + closing tags; > 2 = body-prose mentions)
 grep -c "CC-OPTIMIZED-SUMMARY" posts/NNNN-*.md
 
 # Domain field present
 grep -A 1 "CC-OPTIMIZED-SUMMARY" posts/NNNN-*.md | grep -E "^(domain):"
 
-# Word count 200-400 words
+# Word count REVISED target 500-900 (hard ceiling 1200)
 awk '/<!-- CC-OPTIMIZED-SUMMARY/,/CC-OPTIMIZED-SUMMARY -->/' posts/NNNN-*.md | wc -w
 
 # Em-dashes: must be zero across whole file including block

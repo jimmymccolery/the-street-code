@@ -29,7 +29,7 @@ cross_refs:
   - Post 0160 (H15-H22 non-firing analysis in same session extended)
   - Post 0161 (timing race in landmark co-witness detection)
   - Memory feedback_extended_horizon_analysis_surfaces_findings_shorter_horizon_missed_2026-07-04.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When Sentiment Held at 0.78 for Three Game-Days: Empirical Foundation for Framework Accumulator Persistence Without Decay
 

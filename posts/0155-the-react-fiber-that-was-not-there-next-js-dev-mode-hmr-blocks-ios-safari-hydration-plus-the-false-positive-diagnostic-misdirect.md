@@ -26,7 +26,7 @@ mechanism_details:
 cross_refs:
   - Post 0153 (Tier A empirical close with Path A operationalized after resolving this gotcha)
   - Post 0154 (Path A as fifth path Post 0152 enumeration gap fire)
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # The React Fiber That Was Not There: Next.js Dev-Mode HMR Blocks iOS Safari Hydration Plus the False-Positive Diagnostic Misdirect
 

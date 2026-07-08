@@ -27,7 +27,7 @@ cross_refs:
   - Post 0160 (landmark-ripple hypothesis non-firing in same session)
   - Post 0161 (timing race in landmark co-witness detection; refines late-convergence framing)
   - Post 0162 (sentiment persistence at 0.78 for 4810 ticks; extends this observation)
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When Two Survivors Do Not Meet for Six Game-Days: Emergent Late Convergence in a Two-Sim Island Simulation at Extended Horizon
 

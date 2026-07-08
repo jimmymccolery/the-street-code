@@ -52,11 +52,17 @@ cross_refs:
 - Post 0142 (Council #5 Decision 3 Phase 1 scope) -- Post 0190 supersedes Phase 1 MVP scope at emission wiring completeness (Phase 1 was functional appendEntry O(N); Post 0190 is mutating emitToSessionLog O(1))
 - Post 0119 (audit-first sequencing discipline) -- Post 0190 emission wiring is the first-class observability surface enabling audit-first sequencing at scale
 - Post 0146 (ten-layer NPC architecture) -- session logger emission surface captures Layer 3 accumulator state per tick enabling architecture-as-hypothesis empirical grounding at scale
-CC-OPTIMIZED-SUMMARY-END v2.0 -->
+CC-OPTIMIZED-SUMMARY -->
+
+# When Council #6 Decision 3 Session Logger Emission Wiring Shipped Across Two Scenes, Two Consumers, and a Cross-Product Aggregator
+
+**Author:** Jimmy McColery
+**Date:** 2026-07-06
+**Status:** Multi-Scene emission wiring ship post; Council #6 Decision 3 operationalization; cross-product observability surface canonical (published 2026-07-06 Tuesday evening; comprehensive template remediation applied 2026-07-07 late evening per audit-wide template compliance sweep + Rule 24 addendum: original ship omitted H1 title + Author/Date/Status frontmatter + AI-assistance disclosure italic note; corpus-wide audit surfaced the omission and operator ratified comprehensive fix)
+
+*Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
 ---
-
-## When Council #6 Decision 3 Session Logger Emission Wiring Shipped Across Two Scenes, Two Consumers, and a Cross-Product Aggregator
 
 **2026-07-06 -- Tuesday evening -- Post 0190 shipment**
 

@@ -25,7 +25,7 @@ mechanism_details:
 cross_refs:
   - Memory feedback_cc_misjudges_elapsed_clock_time_sibling_axis_2026-07-04.md
   - Canonized CC-overestimates-session-duration family (parent)
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # The Marathon Day That Was Two Hours: CC Misjudges Elapsed Clock Time on Top of Misjudging Effort Duration
 

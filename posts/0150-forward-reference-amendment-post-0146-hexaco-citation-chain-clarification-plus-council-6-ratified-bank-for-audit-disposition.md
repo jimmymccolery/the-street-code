@@ -32,7 +32,7 @@ cross_refs:
   - Post 0146 (ten-layer NPC framework; HEXACO Layer 3 with citation)
   - Post 0167 (post-audit-correction discipline; addendum preserves immutability)
   - Council #6 close memory project_council_6_close_pattern_b_2026-07-04.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-04

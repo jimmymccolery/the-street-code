@@ -34,7 +34,7 @@ cross_refs:
   - Post 0167 (post-audit-correction; extends this discipline from BUILD-time to post-publication scope)
   - Post 0168 (extended-verification; third-layer discipline via directed agent scan)
   - Memory feedback_council_7_candidacy_synthesis_ratified_2026-07-04.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-04

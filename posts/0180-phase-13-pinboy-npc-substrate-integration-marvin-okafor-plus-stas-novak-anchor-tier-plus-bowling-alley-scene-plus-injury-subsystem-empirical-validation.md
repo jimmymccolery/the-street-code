@@ -51,7 +51,7 @@ cross_refs:
 - Post 0178 landmark memory encoding fix (bowlingAlleyLandmarkValenceSign pattern reused)
 - Post 0175 Council 8 canonization outcome (Rule 21 operator-realism-check + Rule 19 anti-fabrication + Rule 24 correction discipline all exercised)
 - Marcus Reed Surface 8 canonical spec Open Alley architecture folder
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # Phase 13 Pinboy NPC Substrate Integration: Marvin Okafor Plus Stas Novak Anchor Tier Plus Bowling Alley Scene Plus Injury Subsystem Empirical Validation
 

@@ -72,7 +72,7 @@ cross_refs:
 - Ramos 1998 The American GI Forum Arte Público Press -- corrected citation for AGIF book; catalogue at bundle sources
 - Rule 24 correction addendum applied to 5 sibling files (Items 1138 + 1139 + 1140 + 1141 + 1143) -- template-drift-defect-propagation-across-sibling-items pattern n=1 → n=6 within-arc strengthening (Council #9 Item 32 candidacy)
 - Council #9 review agenda draft -- Items 34-35 candidate methodology observations filed at Post 0187
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When a Fresh Claude Opus Session Refused to Render Invented-Methodology Verdicts and the Operator Pivoted to Cultural Context Bundle Inheritance for Scaling to Thousands
 

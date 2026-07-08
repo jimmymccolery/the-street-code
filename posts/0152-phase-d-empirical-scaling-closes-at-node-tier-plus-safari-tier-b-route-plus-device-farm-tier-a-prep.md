@@ -31,7 +31,7 @@ cross_refs:
   - Post 0151 (Population-Scaling-Foundation Pass Substantially Complete)
   - Post 0153 (Tier A Empirical Close Real iPhone 17 Plus iPad Mini)
   - Post 0154 (Path A as fifth path Post 0152 enumeration gap fire)
--->
+CC-OPTIMIZED-SUMMARY -->
 
 > **CORRECTION NOTICE (added 2026-07-05 evening; post-audit meta-analysis):** Lines 90, 123, 124, 125 reference sim-ai scale files at `~/Projects/Open Alley/src/lib/sim-ai/worlds/island/scale/`. The sim-ai codebase was extracted from Open Alley to `~/Projects/sim-ai/` on 2026-07-04 per Post 0157 vendor pattern. Current file paths: `~/Projects/sim-ai/src/sim-ai/worlds/island/scale/`. See Post 0157 for extraction detail.
 

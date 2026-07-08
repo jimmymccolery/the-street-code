@@ -29,7 +29,7 @@ cross_refs:
   - Post 0167 (post-audit-correction; corrects attribution overclaim in this post)
   - Memory project_phase_2_8_aggression_fleeing_shipped_2026-07-05.md
   - Memory feedback_cc_authored_empirical_attribution_overclaim_candidate_19th_sub_shape_2026-07-05.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When Seven Commits in Two Hours Shipped a Framework Mechanic: Narrow-Ship Pattern Empirically Strengthens at n=7 Within-Arc
 

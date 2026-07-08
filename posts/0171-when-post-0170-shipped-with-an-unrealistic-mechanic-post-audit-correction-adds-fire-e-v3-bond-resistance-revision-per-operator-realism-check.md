@@ -39,7 +39,7 @@ cross_refs:
   - Council 8 methodology deployment proposal at street-code methodology folder
   - Sub-shape 25 memory at feedback_multi_iteration_reshape_without_diagnostic_instrumentation_candidate_25th_sub_shape_2026-07-05.md
   - Phase 3.2-D memory extended with Fire E v3 detail at project_phase_3_2_d_fires_a_f_reshaping_arc_shipped_2026-07-05.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When Post 0170 Shipped with an Unrealistic Mechanic: Post Audit Correction Adds Fire E v3 Bond Resistance Revision per Operator Realism Check
 

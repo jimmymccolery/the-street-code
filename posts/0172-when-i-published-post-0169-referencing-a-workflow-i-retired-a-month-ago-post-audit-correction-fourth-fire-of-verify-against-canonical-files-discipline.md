@@ -46,7 +46,7 @@ cross_refs:
   - Sub-shape 23 memory entry updated
   - Council 8 methodology deployment proposal at street-code methodology folder
   - polish_queue.md Item 352 Path A 2026-06-08 canonization is authoritative retirement record
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When I Published Post 0169 Referencing a Workflow I Retired a Month Ago: Post Audit Correction Fourth Fire of Verify Against Canonical Files Discipline
 

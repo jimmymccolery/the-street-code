@@ -29,7 +29,7 @@ cross_refs:
   - Post 0143 (parent canonization-propagation gap discipline family Family A)
   - Sub-shape 17 (deployment-vs-shipped-code where commits were not pushed)
   - Memory feedback_deployment_vs_build_completion_timing_gap_candidate_18th_sub_shape_2026-07-04.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # Five Seconds Late: When Git Push Landed But Vercel Build Had Not, and Session-Close Discipline Needed Deploy Verification
 

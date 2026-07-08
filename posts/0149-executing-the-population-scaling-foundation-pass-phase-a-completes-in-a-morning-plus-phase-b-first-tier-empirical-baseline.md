@@ -32,7 +32,7 @@ cross_refs:
   - Post 0151 (Population-Scaling-Foundation Pass Substantially Complete)
   - Post 0152 (Phase D empirical scaling close arc at Node tier)
   - Memory project_population_scaling_foundation_pass_phase_a_b_first_tier_complete_2026-07-04.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # Executing the Population-Scaling-Foundation Pass: Phase A Completes in a Morning Plus Phase B First-Tier Empirical Baseline
 

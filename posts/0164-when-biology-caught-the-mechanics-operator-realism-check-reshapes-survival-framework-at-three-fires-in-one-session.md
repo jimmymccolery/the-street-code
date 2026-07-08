@@ -30,7 +30,7 @@ cross_refs:
   - Post 0171 (Fire E v3 revision; operator-realism-check strengthens to n=12 total within-Phase-3)
   - Memory feedback_operator_realism_check_reshapes_framework_calibration_2026-07-04.md
   - Memory project_phase_2_7_a_b_shipped_2026-07-04.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When Biology Caught the Mechanics: Operator Realism Check Reshapes Survival Framework at Three Fires in One Session
 

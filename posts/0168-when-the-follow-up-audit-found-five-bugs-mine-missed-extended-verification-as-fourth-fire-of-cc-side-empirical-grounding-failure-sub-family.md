@@ -37,7 +37,7 @@ cross_refs:
   - Memory feedback_cc_authored_perspective_swap_gap_for_phase_3_mechanical_layer_candidate_22nd_sub_shape_2026-07-05.md
   - Memory feedback_cc_authored_code_bug_in_closure_claim_without_regression_test_candidate_21st_sub_shape_2026-07-05.md
   - Council #8 proposal at the-street-code methodology folder
--->
+CC-OPTIMIZED-SUMMARY -->
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-05

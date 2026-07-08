@@ -56,7 +56,7 @@ cross_refs:
 - Rule 24 addendum-preserves-immutability -- bundle-aware LifelineGenerator refactor is additive to existing Phase C code; original Phase C implementation preserved with backward-compatibility path via fallback ERA_TEMPLATES
 - Bartholomew 1990 attachment style 4-cluster model (Adult Attachment Interview) + Mikulincer & Shaver 2016 attachment across lifespan -- Post 0189 attachment sampling distribution grounding
 - Sim AI biographicalRecord.ts culturalContextBundleId field + Post 0187 CulturalContextBundle infrastructure -- Post 0189 procedural tier inherits from same registry as anchor tier
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When the Procedural Tier Engine Shipped and 100 NPCs Per Bundle Became Empirically Tractable
 

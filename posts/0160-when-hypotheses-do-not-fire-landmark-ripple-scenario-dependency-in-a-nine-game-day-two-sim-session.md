@@ -28,7 +28,7 @@ cross_refs:
   - Post 0159 (late-convergence emergent behavior; same session)
   - Post 0161 (timing race in landmark co-witness detection at tick 9773; revises this post framing)
   - Post 0136 (empirical BUILD mode as architecture-as-hypothesis)
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When Hypotheses Do Not Fire: Landmark-Ripple Scenario Dependency in a Nine-Game-Day Two-Sim Session
 

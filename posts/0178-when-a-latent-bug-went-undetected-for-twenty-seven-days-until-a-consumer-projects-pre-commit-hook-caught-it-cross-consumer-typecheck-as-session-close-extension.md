@@ -43,7 +43,7 @@ cross_refs:
 - Council #9 review agenda draft Item 12 candidate methodology observation
 - Sim-ai scripts/install-hooks.sh
 - Sim-ai .git/hooks/pre-commit
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When a Latent Bug Went Undetected for Twenty-Seven Days Until a Consumer Project's Pre-Commit Hook Caught It Cross-Consumer Typecheck as Session-Close Extension
 

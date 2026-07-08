@@ -29,7 +29,7 @@ cross_refs:
   - Post 0160 (H15-H22 non-firing framing revised by this post)
   - Post 0162 (sentiment persistence at 0.78 empirical foundation for accumulator persistence)
   - Memory feedback_extended_horizon_analysis_surfaces_findings_shorter_horizon_missed_2026-07-04.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When the Witness Moved Away Mid-Tick: A Timing Race in Landmark Co-Witness Detection at Tick 9,773
 

@@ -29,7 +29,7 @@ cross_refs:
   - Post 0154 (sub-shape 7 enumeration-completeness)
   - Post 0158 (Rule 19 discipline extension to operational-diagnostic scope)
   - Memory feedback_canonization_propagation_gap_cross_deployment_architecture_candidate_9th_sub_shape_2026-07-04.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # The tsconfig Alias That Only Broke at Deploy Time: Local Dev Green Light Misleading at Vercel Plus the Vendor Pattern Fix
 

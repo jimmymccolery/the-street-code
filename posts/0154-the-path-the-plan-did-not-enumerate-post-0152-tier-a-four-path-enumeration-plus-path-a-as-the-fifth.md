@@ -28,7 +28,7 @@ cross_refs:
   - Post 0152 (Phase D empirical scaling closes at Node tier; the enumerated four-path post)
   - Post 0153 (Tier A empirical close with Path A operationalized)
   - Memory feedback_canonization_propagation_gap_enumeration_completeness_sub_shape_2026-07-04.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # The Path the Plan Did Not Enumerate: Post 0152 Tier A Four-Path Enumeration Plus Path A as the Fifth
 

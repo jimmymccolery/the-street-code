@@ -33,7 +33,7 @@ cross_refs:
   - Post 0143 (parent canonization-propagation gap discipline family Family A)
   - Memory project_council_6_close_pattern_b_2026-07-04.md
   - Memory feedback_substrate_tool_surface_vs_reasoning_backbone_hybrid_axis_2026-07-04.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # Council #6 Spec: Four-Item Fold-Set Amendment Package Plus AgentSociety Citation Strengthening Plus Hybrid Substrate Tool-Surface Axis Canonization
 

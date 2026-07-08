@@ -49,7 +49,7 @@ cross_refs:
 - Post 0173 Post 0146 A/B/C divergence forward-reference amendment
 - Post 0174 sub-shape 22 within-session recurrence plus non-falsifiability critique origination via Substrate B Opus
 - Post 0175 (this post) Council 8 canonization outcome
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # Council #8 Canonized Five Rules Plus Policy Plus Split-Retire-Reduce Mechanism Plus Falsification Clause Requirement
 

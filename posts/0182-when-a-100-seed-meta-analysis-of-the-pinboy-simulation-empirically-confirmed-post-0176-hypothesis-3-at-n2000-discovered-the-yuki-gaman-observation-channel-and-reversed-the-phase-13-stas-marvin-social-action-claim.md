@@ -50,7 +50,7 @@ cross_refs:
 - sim-ai scripts/output/phase14-meta-analysis-{raw,summary}.json + report.md (raw data + analysis + human-readable report)
 - sim-ai scripts/phase14-pinboy-5anchor-variance-seed42.ts (prior single-seed script this meta-analysis extends)
 - H-NEW-5 archive at framework-research-index (cross-archetype-variance hypothesis frame; 11-dyad seed=42 study preceded this 20-dyad n=2000 sweep)
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When a 100 Seed Meta Analysis of the Pinboy Simulation Empirically Confirmed Post 0176 Hypothesis 3 at N2000 Discovered the Yuki Gaman Observation Channel and Reversed the Phase 13 Stas Marvin Social Action Claim
 

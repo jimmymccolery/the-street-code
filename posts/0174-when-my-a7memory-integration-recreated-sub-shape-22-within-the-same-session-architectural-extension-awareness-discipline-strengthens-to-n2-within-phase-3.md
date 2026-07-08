@@ -43,7 +43,7 @@ cross_refs:
   - Council 8 methodology deployment proposal at street-code methodology folder sub-shape 22 documentation
   - Sub-shape 22 memory at feedback_cc_authored_perspective_swap_gap_for_phase_3_mechanical_layer_candidate_22nd_sub_shape_2026-07-05.md
   - Sub-shape 27 memory at feedback_cc_authored_statistics_fabrication_under_scan_architecture_scope_candidate_27th_sub_shape_2026-07-05.md
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When My a7Memory Integration Recreated Sub-shape 22 Within the Same Session: Architectural Extension Awareness Discipline Strengthens to n+2 Within-Phase-3
 

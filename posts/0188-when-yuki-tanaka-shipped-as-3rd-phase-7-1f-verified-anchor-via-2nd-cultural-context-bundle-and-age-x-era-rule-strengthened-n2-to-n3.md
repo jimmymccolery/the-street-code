@@ -65,7 +65,7 @@ cross_refs:
 - Executive Order 9066 (Roosevelt Feb 19 1942) + Public Proclamation No. 21 (Dec 17 1944 rescission) -- bundle scope legal framework
 - McCarran-Walter Immigration and Nationality Act of 1952 -- bundle nearHorizonEvents 6 years in future (Issei grandmother finally citizenship-pathway-eligible)
 - Civil Liberties Act of 1988 (Reagan Aug 10 1988) -- bundle nearHorizonEvents 42 years in future (Redress + federal apology culmination)
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # When Yuki Tanaka Shipped as 3rd Phase 7.1f-Verified Anchor via 2nd Cultural Context Bundle and Age × Era Rule Strengthened n=2 to n=3
 

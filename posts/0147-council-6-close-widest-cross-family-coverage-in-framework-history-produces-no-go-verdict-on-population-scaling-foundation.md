@@ -33,7 +33,7 @@ cross_refs:
   - Rule 14 canonization pattern documentation
   - Memory project_council_6_close_pattern_b_2026-07-04.md
   - AgentSociety + OASIS + GenSim framework-strongly-verified citation chains
--->
+CC-OPTIMIZED-SUMMARY -->
 
 # Council #6 Close: Widest Cross-Family Coverage in Framework History Produces NO-GO Verdict on Population-Scaling Foundation
 
