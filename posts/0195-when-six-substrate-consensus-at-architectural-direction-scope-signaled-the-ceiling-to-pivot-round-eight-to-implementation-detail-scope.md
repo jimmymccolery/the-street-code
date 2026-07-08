@@ -2,7 +2,7 @@
 post_id: 0195
 title: When Six-Substrate Consensus at Architectural-Direction Scope Signaled the CEILING to Pivot Round Eight to Implementation-Detail Scope
 date_published: 2026-07-07
-status: draft
+status: published
 superseded_by: none
 domain: methodology-discipline multi-substrate-research-workflow rule-11-canonization-extension rule-25-substrate-behavior-strengthening scope-management-discipline first-pre-council-retire-compliance
 project_scopes: the-street-code cross-cutting sim-ai
@@ -42,7 +42,7 @@ CC-OPTIMIZED-SUMMARY -->
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-07
-**Status:** Cross-substrate arc closure observation; Rule 11 CEILING-recognition discipline candidacy; Rule 25 substrate-behavior discipline strengthening
+**Status:** Cross-substrate arc closure observation; Rule 11 CEILING-recognition discipline candidacy; Rule 25 substrate-behavior discipline strengthening (PUBLISHED per operator ratification 2026-07-07 late evening)
 
 *Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
