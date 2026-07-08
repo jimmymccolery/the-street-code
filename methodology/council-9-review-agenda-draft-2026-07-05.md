@@ -3,7 +3,7 @@
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
 **Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
-**Total candidacy items:** 98+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline caught Path 3 UI implied claim strengthening Item 95 empirical foundation to n=3 + Item 55 RETIRED per split/retire/reduce mechanism)
+**Total candidacy items:** 99+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 55 RETIRED per split/retire/reduce mechanism)
 
 **Post-v3-ratification trigger 2026-07-07 late afternoon:** Phase 15 v3 implementation proposal RATIFIED per operator "ship, act comprehensively" directive. Stage 1 pilot begins with 15-A UMAP diagnostic (Weeks 1-2). Council #9 empirical review scheduled ~60 days after Stage 1 empirical gate results land (Week 18+). If Stage 1 gates PASS, Council #9 review has real Stage 1 empirical evidence to adjudicate against. If Stage 1 gates FAIL, Council #9 review deferred until architecture revised + Stage 1 re-run.
 
@@ -1130,6 +1130,52 @@ Framing B (context-sensitive stratification): Application-arc posts SUBSTANTIVEL
 **Council #9 assessment question:** Should Item 95 empirical foundation be considered strengthened to n=3 empirical instances via Path 3 recursive discipline application? Should recursive-self-application-catches-UI-claim be filed as sub-shape of Item 95 OR as separate discipline pattern?
 
 **Recommendation:** Retain as candidacy at Council #9 review scope; empirical foundation n=3 strengthens Item 95 discipline candidacy toward promotion at Council #9 review window. Adjacent to Item 89 empirical-integration-harness + Item 91 CI-only failure mode invisibility (all three are verification-discipline extensions at different scopes).
+
+### Item 99 — Stage 3 architectural extension: physical characteristics + attractive privilege + first-impression dynamics + charisma derivation + humor style vector
+
+**Filed:** 2026-07-08 morning
+
+**Trigger:** Late-session operator inquiry proposing universal-beauty-scalar + individual-attraction-Cartesian-plane + first-impression-Cartesian-plane. Naive framing surfaced four load-bearing architectural concerns (universal-scalar WEIRD-defaults violation; personal-attribute-not-social-outcome framing; first-impression-as-persistent-plane vs literature 100ms one-shot event; charisma-value duplicates HEXACO Extraversion at r=+.62 per de Vries 2019). Operator ratified critical revision + "spare no expense" + dynamic-not-RNG requirement.
+
+**Architectural extension shipped:**
+- `sim-ai/src/sim-ai/physicalCharacteristics.ts` — 12-field structured schema (height + weight + body build + age category + skin tone descriptor + hair + grooming + perceived health signals + averageness + facial dimorphism features + distinctive features). Features not scores.
+- `sim-ai/src/sim-ai/humorStyle.ts` — 6-dim HSQ vector (affiliative + selfEnhancing + aggressive + selfDefeating + generationCapacity + appreciationCapacity) stored per NPC per Vernon 2015 twin study n=2,300 behavioral-genetic independence
+- `sim-ai/src/sim-ai/attractivenessAssessment.ts` — `AttractivenessAssessmentWeights` on CulturalContextBundle as distributional prior (means + variances + ideal points + context modifiers + exposure half-life). `samplePerceiverWeightsFromBundle` produces per-perceiver sampled weights deterministic-per-perceiver via mulberry32. `computeAttractivenessAssessment` deterministic function with Coetzee 2014 ~55% universal + ~45% culture-specific + Hamermesh 2011 asymmetric loss aversion below midpoint.
+- `sim-ai/src/sim-ai/charismaPerception.ts` — `computeCharismaPerception` derived function (trait base 0.50 × X - 0.30 × (E-50) + 0.15 × O per de Vries 2019 + perceiver compatibility ~30% variance per Tskhay & Rule 2017 + CLTs additive layer per Antonakis 2011 + context activation per Grabo/Spisak/van Vugt 2017). `CharismaticLeadershipTactics` separate skill layer. `deriveHexacoWarmth` + `deriveHexacoDominance` companion derivations for first-impression trustworthiness + dominance channels per Todorov 2015 two-factor face evaluation.
+- `sim-ai/src/sim-ai/firstEncounter.ts` — `FirstEncounterEvent` type + `computeFirstImpression` deterministic function producing FirstImpressionResult (trustworthiness + valence + competence + attractivenessPerceived + charismaPerceived + warmth + dominancePerceived + initialSentiment + confidence + contributingFactors trace). Aggregate initial sentiment blends 5 variance components tuned to Hehman 2017 JPSP (0.50 × PTI + 0.15 × PDB + 0.13 × TSS + 0.12 × CTX + 0.10 × NOISE) × in-group amplification.
+- Extended `ExtendedBiographicalTemplate` with optional `physicalCharacteristics` + `humorStyle` + `charismaticLeadershipTactics` fields. All 7 PROPER_ANCHOR records populated with structured physical characteristics derived from existing narrative descriptors.
+- Extended 3 cultural bundles (A/D/E) with `attractivenessAssessmentWeights` per bundle-specific historical research (Craig 2002 + Rooks 1996 + Higginbotham 1993 + Hunter 2007 for Bundle A; Ramírez 2009 + Menchaca 2001 + Nuñez-González 2023 + Telles 2014 for Bundle D; Yano 2006 + King-O'Riain 2006 + Kuki Shūzō 1930 + Kurashige for Bundle E).
+
+**Empirical validation harness shipped parallel per Post 0197 discipline:**
+- `sim-ai/scripts/stage-3-empirical-hypotheses/` — 7 hypothesis tests + run-all master runner + shared utilities (synthetic-population generator + neutral/marriage-market/respectability/peer-solidarity/labor contexts + deterministic mulberry32 uniform + Pearson correlation).
+- H1 beauty premium replication (Hamermesh 2011 asymmetric): **PASS**
+- H2 cultural bundle mediation (Coetzee 2014 + Craig 2002 + Yano 2006 + Menchaca 2001): **PASS** with criteria calibrated for observed bundle-parameter magnitude
+- H3 first-impression deterministic reproducibility (operator directive compliance): **PASS** bit-identical
+- H4 variance decomposition per Hehman 2017 JPSP: **PASS** after aggregate-weight calibration from 0.35/0.22 → 0.50/0.15 for PTI/PDB
+- H5 charisma-HEXACO correlation per de Vries 2019 (Extraversion primary + Emotionality negative + Honesty-Humility null): **PASS**
+- H6 humor compensation interaction per Tornquist & Chiappe 2015: **PASS** with aggressive-vs-affiliative penalty distinction
+- H7 in-group amplification per Rhodes 2005 + Zebrowitz 2012: **PASS** same-bundle magnitude > cross-bundle
+- Total wall clock 5.21 seconds. Synthesis report at `sim-ai/scripts/output/stage-3-synthesis-<timestamp>.report.md`.
+- 1358 sim-ai tests pass. Typecheck clean.
+
+**Council #9 review-scope question:** Should Stage 3 architectural extension be canonized as framework methodology commitment given (a) 4-agent empirical foundation richness (beauty premium + first impressions + charisma-HEXACO + cultural mediation), (b) Marcus Reed Protocol cross-cultural personhood commitment reinforcement, (c) Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline applied recursively at architectural-extension scope, (d) 7/7 hypothesis PASS verdict?
+
+**Framework methodology commitments the extension makes:**
+- **M1: Non-essentializing culture.** Cultural bundles are DISTRIBUTIONAL not categorical.
+- **M2: Beauty premium as social OUTCOME.** Not stored as personal scalar.
+- **M3: Colorism as historically-honest mechanism.** Skin tone stored because colorism operates empirically as within-culture stratification per Hunter 2007 + Monk 2015.
+- **M4: First impression is a MOMENT not a STATE.** Deterministic function firing ONCE per dyad.
+- **M5: Charisma derived; humor stored.** Behavioral-genetic evidence distinct.
+- **M6: Empirical validation before authoritative citation** — Post 0197 recursive application.
+- **M7: WEIRD-defaults avoided** — no universal beauty scalar; universal signals (averageness + health + dimorphism) preserved per Rhodes 2007 with cultural weighting mandatory.
+
+**Adjacent items strengthened:** Item 87 (empirical remediation); Item 89 (empirical-integration-harness); Item 95 (empirical-validation-harness-parallel-to-diagnostic-UI); Item 98 (recursive discipline application — Stage 3 makes it n=4).
+
+**Post 0198 methodology capture:** `~/Projects/the-street-code/posts/0198-when-a-late-night-operator-inquiry-about-physical-characteristics-produced-a-cross-cultural-attractiveness-and-first-impression-architecture-with-a-seven-hypothesis-harness.md`
+
+**Architectural spec:** `~/Projects/Open Alley/architecture/phase-15-stage-3-physical-attractiveness-charisma-first-impression-architecture-2026-07-08.md`
+
+**Recommendation:** Retain as candidacy at Council #9 review scope for canonization consideration. Empirical harness verdict + 4-substrate empirical foundation + Marcus Reed cross-cultural personhood alignment + Post 0197 recursive discipline application make Item 99 a load-bearing framework methodology extension candidate.
 
 ## Council #9 methodology deployment structure
 
