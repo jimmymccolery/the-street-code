@@ -6,7 +6,7 @@
 
 ## When to run this audit
 
-Run before commit + push of any post or batch of posts. Each audit takes 5-15 minutes per post depending on density. The audit is a CC-runnable discipline; the operator can also run it manually. The audit is NOT a substitute for the operator's final read with fresh-Substack-reader lens; the audit catches CC-side failure modes that the operator-side read may not surface, and the operator-side read catches reader-experience issues that the audit does not surface. Both are load-bearing.
+Run before commit + push of any post or batch of posts. Each audit takes 5-15 minutes per post depending on density. The audit is a CC-runnable discipline; the operator can also run it manually. The audit is NOT a substitute for the operator's final read with fresh-GitHub-reader lens; the audit catches CC-side failure modes that the operator-side read may not surface, and the operator-side read catches reader-experience issues that the audit does not surface. Both are load-bearing.
 
 ## The seven-item checklist (v2 as of 2026-07-05 amendment)
 
@@ -117,7 +117,7 @@ Manually verify each H2 has content paragraphs before the next H2. The Posts 81-
 
 ### 7. CC-OPTIMIZED-SUMMARY block verification (applies post 0146 retrofit + all posts 2026-07-05 onward)
 
-Every load-bearing framework methodology post from Post 0163 onward MUST carry a `CC-OPTIMIZED-SUMMARY` HTML-comment block immediately after the title. Format spec at `~/Projects/substack/post_template.md` v2 (2026-07-05 amendment). Structured 7 fields: `post_id + domain + canonical_rule + load_bearing_claims + applicability_triggers + mechanism_details + cross_refs`. Reader-invisible (Substack ignores HTML comments); grep-accessible for CC session context.
+Every load-bearing framework methodology post from Post 0163 onward MUST carry a `CC-OPTIMIZED-SUMMARY` HTML-comment block immediately after the title. Format spec at `~/Projects/substack/post_template.md` v2 (2026-07-05 amendment; folder rename to `~/Projects/publishing/` deferred as separate operational task). Structured 7 fields: `post_id + domain + canonical_rule + load_bearing_claims + applicability_triggers + mechanism_details + cross_refs`. Reader-invisible on GitHub (HTML comments do not render in Markdown display); grep-accessible for CC session context.
 
 Verify per post drafted 2026-07-05 onward:
 
