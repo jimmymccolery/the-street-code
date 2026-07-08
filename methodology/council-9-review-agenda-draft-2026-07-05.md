@@ -1256,6 +1256,30 @@ Framing B (context-sensitive stratification): Application-arc posts SUBSTANTIVEL
 
 **Recommendation:** Retain as candidacy at Council #9 review scope for canonization consideration. Empirical harness verdict + 4-substrate empirical foundation + Marcus Reed cross-cultural pair-relational alignment + Fire I production discipline preservation through migration + Post 0197 recursive discipline application at n=5+ make Item 102 a load-bearing framework methodology extension candidate.
 
+### Item 103 — Phase 15 Stage 5 Bourdieu habitus plane architectural extension candidacy (4-capital taxonomy + field theory + dual-process implicit dominance + symbolic capital non-linear emergence)
+
+**Filed:** 2026-07-08 morning (Day 4-5 of week plan executed same session per operator "spare no expense" directive + high execution velocity)
+
+**Architectural extension shipped:**
+- `sim-ai/src/sim-ai/habitusPlane.ts` — FourCapitalVector (economic + cultural 3 sub-forms + social + symbolic) + FieldPosition (6 fields) + HabitusDispositions (6 dimensions with Vaisey 2009 dual-process automaticVsDeliberative) + HabitusPlaneState + capital conversion functions + symbolic capital non-linear emergence + habitus-field mismatch + practice generative fitness + habituation dynamics
+- 7-hypothesis empirical validation harness at `sim-ai/scripts/stage-5-empirical-hypotheses/` — 7/7 PASS after 1 architectural fix (practice fitness formula recalibration to expose Reay 2004 mismatch signature)
+
+**Empirical foundation (4 parallel research agents):**
+Bourdieu 1977 Outline + Bourdieu 1984 Distinction + Lizardo 2004 J Theory Social Behaviour + Vaisey 2009 AJS + Wacquant 2004 Body & Soul + Swartz 1997 Culture & Power + Bennett Savage Silva Warde 2009 + Prieur & Savage 2013 BJS + Reeves Gilbert Holroyd 2015 IMF + Reay 2004 BJSE + Ha 2001 Korean J Sociology + Souvela + Wildhagen 2009 Social Forces + Yosso 2005 REE + Hunter 2007 Sociology Compass + Monk 2015 Sociological Forum + Kitayama & Markus 1994 + Rothbaum et al. 2002 + Lin & Erickson 2008 + Reeves & Hauser 2000 + Baum & McPherson 2019 + Granovetter 1995.
+
+**Framework methodology commitments M12-M14 (extending Stages 3-4 M1-M11):**
+- M12: Habitus + capital + field as SEPARATE typed plane (non-essentializing; distributional per bundle)
+- M13: Symbolic capital as NON-LINEAR emergent (Lin & Erickson 2008 interaction effects; not linear combination)
+- M14: Dual-process implicit dominance (Vaisey 2009 60-70% automaticVsDeliberative preserved architecturally)
+
+**Post 0197 discipline recursive at n=6+** — Path 1 + Stage 2 + Path 3 + Stage 3 + Stage 4 + Stage 5.
+
+**Post 0200 methodology capture:** `~/Projects/the-street-code/posts/0200-when-stage-five-bourdieu-habitus-plane-completed-the-cognitive-architecture-with-symbolic-capital-as-nonlinear-emergent-property.md`
+
+**Architectural spec:** `~/Projects/Open Alley/architecture/phase-15-stage-5-bourdieu-habitus-plane-architecture-2026-07-12.md`
+
+**Recommendation:** Retain as candidacy at Council #9 review scope for canonization consideration.
+
 ### Item 101 — Cycle 12 Steps 6-9 disposition (30+ day threshold exceeded per meta-analysis; RETIRE recommendation)
 
 **Filed:** 2026-07-08 morning (Day 1 loose-end closure per meta-analysis-recommended disposition)
