@@ -3,7 +3,7 @@
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
 **Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
-**Total candidacy items:** 86+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion)
+**Total candidacy items:** 90+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Item 55 RETIRED per split/retire/reduce mechanism)
 
 **Post-v3-ratification trigger 2026-07-07 late afternoon:** Phase 15 v3 implementation proposal RATIFIED per operator "ship, act comprehensively" directive. Stage 1 pilot begins with 15-A UMAP diagnostic (Weeks 1-2). Council #9 empirical review scheduled ~60 days after Stage 1 empirical gate results land (Week 18+). If Stage 1 gates PASS, Council #9 review has real Stage 1 empirical evidence to adjudicate against. If Stage 1 gates FAIL, Council #9 review deferred until architecture revised + Stage 1 re-run.
 
@@ -957,6 +957,59 @@ These narratives describe attachment profiles that should map to different numer
 4. Escalate to Schema v0.2 §5.4 consultation-gate if identity-linked scope requires cultural consultation
 
 **Value of Stage 1 empirical diagnostic pattern:** This finding validates the pilot plan's zero-risk framing of 15-A UMAP diagnostic. Week 1 Day 1 detected a real authoring-scope canonization-propagation gap before any Stage 2+ implementation started.
+
+### Item 87.1 — schwartz-scaffolding-collapse-under-era-prior-plus-free-form-values-derivation sub-shape (Stage 1 Week 1 Day 3 empirical finding; child of Item 87)
+
+**Filed:** 2026-07-07 late evening (Stage 1 Week 1 Day 3 Schwartz values plane empirical run)
+**Type:** Sub-shape of Item 87 parent (numeric-duplication-across-biographically-distinct-anchors) at derivation-scaffolding-scope
+**Empirical foundation:** n=1 at Day 3 Schwartz higher-order plane
+
+**Observation:** Day 3 Schwartz values plane implementation (`sim-ai/src/sim-ai/planes/schwartzAnchorProfiles.ts:deriveAnchorSchwartzProfile()`) applies 1946 postwar era prior + free-form values field boost via `FREEFORM_TO_SCHWARTZ` mapping. Four pinboys (Marvin + Stas + Cesar + Yuki) with era='1940s' + overlapping values tokens ('family' + 'community' + 'creation' etc.) collapse to identical Schwartz higher-order coordinates: (opennees=-0.293, selfTranscendence=0.285). Walt Petersen (values=['self_reliance', 'labor_dignity']) differs slightly (opennees=-0.327, selfTranscendence=0.335) due to different values-token composition.
+
+**Structural distinction from Item 87 parent:** Day 1 fire (parent) was AUTHOR-side canonization-propagation gap at biographicalRecord.ts. Day 3 fire (child) is DERIVATION-SCAFFOLDING-side gap at schwartzAnchorProfiles.ts:73-94. Same higher-order pattern (numeric duplication across biographically-distinct anchors) but different remediation surface: parent requires anchor authoring cross-check; child requires either (a) FREEFORM_TO_SCHWARTZ token-specific weight variance enrichment OR (b) accelerated operator ratification of full anchor-authored Schwartz profile per Marcus Reed extension OR (c) accept as expected Stage-1-scaffolding limitation until Stage 2 authoring extension.
+
+**Council #9 assessment question:** Should derivation-scaffolding-side + author-side sub-shapes be kept in the same ontological bucket (Item 87 parent + 87.1 child) OR split into separate top-level items per Rule 20 Family A canonization-propagation gap discipline?
+
+**Recommendation:** Retain 87 parent + 87.1 child structure per Council #8 canonization discipline of empirical-foundation-thresholds (n=2 at same higher-order pattern is empirical-signal-worth-tracking but not canonization-triggering; needs n=3+ typically).
+
+### Item 88 — stage-1-week-1-mechanical-anchor-audit-catches-authoring-drift-that-manual-review-missed pattern
+
+**Filed:** 2026-07-07 late evening (Stage 1 Week 1 Day 1 UMAP diagnostic empirical run)
+**Type:** Framework methodology observation (diagnostic-tool-augmentation-catches-authoring-drift discipline)
+**Empirical foundation:** n=1 fire
+
+**Observation:** Sam Nguyen + Stas Novak Attachment duplication (Item 87 finding) was detected mechanically via UMAP diagnostic `anchorNearestNeighbors` distance-metric computation at 0.0000 distance. This finding was MISSED by prior Marcus Reed §4 sign-off + operator-review + CC anchor-authoring workflow. Mechanical distance-metric detection is qualitatively-different-verification-surface from human/CC narrative review.
+
+**Council #9 assessment question:** Should mechanical-distance-metric-diagnostic be canonized as first-class authoring-audit surface for anchor-tier commits? Adjacent to Rule 22 read-side canonical-file-verification + Rule 25 substrate identity verification + Item 78 substrate-tool-augmented-source-verification. Adjacent to Item 66 gap-claim-propagates-across-meta-analysis-cascade.
+
+### Item 89 — empirical-integration-harness-validates-multi-plane-coherence-under-canonical-narrative-scenario pattern
+
+**Filed:** 2026-07-07 late evening (Stage 1 Week 1 Day 6 Marvin betrayal scenario ALL CRITERIA PASS)
+**Type:** Framework methodology observation (canonical-narrative-scenario-as-stage-completion-criterion discipline)
+**Empirical foundation:** n=1 fire at Day 6 Marvin betrayal scenario (`sim-ai/scripts/stage-1-week-1-npc-brain-integration-run.ts`)
+
+**Observation:** Day 6 empirical scenario exercises: (a) typed event bus (`PerceptionEvent + AffectAppraisalEvent + StatusEvent` per v3 §5.1); (b) GAMYGDALA appraisal via `family-safety` + `segregation-avoidance` + `reading-progress` goals; (c) HEXACO impulse forcing (sustained during betrayal Phase 2 ticks 10-19, removed during recovery Phase 3+4); (d) sparse cross-plane coupling matrix; (e) Vault Item 55 falsification scope preservation (sustained forcing → displaced equilibrium H=0 at extreme; transient forcing removed → return to biographical baseline H=74.32). ALL CRITERIA PASS at HEXACO displacement < 2.0 (actual 0.86) + PAD within ±3 tolerance across all axes.
+
+**Council #9 assessment question:** Should canonical-narrative-scenario-harness be canonized as first-class Stage completion criterion? This is qualitatively different from unit-test-per-plane discipline -- it tests multi-plane emergent coherence under authored biographical narrative. Adjacent to Item 65 (pattern-oriented-modeling-per-Grimm-2005) at empirical-run-scope.
+
+### Item 90 — anchor-population-homogeneity-legitimately-collapses-arbitrary-distinctionRatio-threshold pattern
+
+**Filed:** 2026-07-07 late evening (Stage 1 Week 1 Day 1 → Day 2 recalibration)
+**Type:** Framework methodology observation (diagnostic-tool-design discipline)
+**Empirical foundation:** n=1 fire
+
+**Observation:** Day 1 UMAP diagnostic used `distinctionRatio > 0.5` as success criterion (anchors more spread than procedural = PASS). HEXACO plane FAILED at distinctionRatio 0.485 not due to authoring bug but because 6 of 7 pinboy anchors share high-C + high-O + moderate-A biographical composition (Sam Nguyen the only exception; contemporary era). Anchors ARE pairwise distinct at UMAP 2D scope but occupy a shared REGION of HEXACO space per authored-population homogeneity. Day 2 recalibrated to `checkAnchorsPairwiseDistinct(min > threshold)` at Day 2 addressing the arbitrary population-vs-cluster comparison threshold.
+
+**Council #9 assessment question:** Should threshold-recalibration-under-authored-population-homogeneity be canonized as diagnostic-tool-design discipline? Adjacent to Item 21 (operator-realism-check) -- arbitrary thresholds without population-composition-awareness produce false-negative signals. Adjacent to sub-shape 25 candidate (multi-iteration-reshape-without-diagnostic-instrumentation).
+
+### Empirical validation annotations for prior candidacies (Stage 1 Week 1 Days 4-6)
+
+Per Meta-Analysis Agent 2 §B (2026-07-07 late evening), the following prior candidacies were EMPIRICALLY VALIDATED during Stage 1 Week 1 execution and warrant PROMOTE-from-candidate annotation at Council #9 review:
+
+- **item-2022 §4.4 homeostatic spring TypeScript pattern** -- byte-verified 2026-07-07 late afternoon; empirically validated Day 4 `hexacoAttractor.ts:22-27` implements verbatim generalized 2D→6D; 24 diagnostic tests + integration harness ALL CRITERIA PASS
+- **Broekens 2012 PAD dominance discrimination (fear-vs-anger)** -- empirically validated Day 5 `pad3d.ts:actionBiasFromPAD()` implements Broekens sigmoid pattern; 31 diagnostic tests pass; fear (neg P + high A + low D) discriminates from anger (neg P + high A + high D)
+- **GAMYGDALA appraisal (Popescu-Broekens-van Someren IEEE TAC 2014)** -- empirically validated Day 5 `pad3d.ts:appraisePADEvent()` implements goal-congruence × event-likelihood × utility appraisal; Day 6 Marvin betrayal scenario uses GAMYGDALA appraisal producing coherent PAD deltas
+- **DynAffect OU-style attractor (Kuppens et al. 2010 DOI 10.1037/a0020962)** -- empirically validated Day 5 `pad3d.ts:createPADState()` implements per-NPC OU parameters `homeBase + variability + attractorStrength` with HEXACO-E-derived variance; integration harness confirms PAD returns to home base within ±3 tolerance across all axes
 
 ## Council #9 methodology deployment structure
 

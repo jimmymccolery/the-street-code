@@ -30,9 +30,9 @@ mechanism_details:
 - First pre-Council RETIRE compliance mechanism: Council 8 canonized split slash retire slash reduce mechanism 2026-07-05 evening as five canonical moves (DEFLATE, SPLIT, RETIRE, REBOUND, ABSORB); Vault Item 55 personality-as-attractor-mathematical-guarantee filed 2026-07-07 morning per Phases 15-18 design conversation vault; empirically FALSIFIED same-day late afternoon per n equals three substrate consensus (Grok Round 1 Weaker-confidence assessment plus Perplexity Round 3 mathematical-guarantee-absent finding plus Opus Round 2 rigorous damped-spring dynamics falsification); formally RETIRED per split slash retire slash reduce mechanism 2026-07-07 late evening BEFORE Council 9 review window opened
 - Bifurcated confidence framing operationalization: architectural-direction scope (multi-plane MODULAR) at HIGH per n equals six substrate consensus; specific-implementation-details scope (attachment third-dim as MODIFIER not Cartesian axis) at HIGH per byte-verified Perplexity Round 7 finding; specific-implementation-details scope (SIMD 1000x speedup) at LOW after Grok Round 6 workload-generalization refutation; source-credibility scope (hyperbolic Poincare ball manifold for Epistemic plane) at LOW per Reddit-source-cited claim requiring peer-reviewed alternative
 cross_refs:
-- Post 0142 (Rule 11 multi-substrate research workflow canonization; Council 3 close) -- Post 0195 extends Rule 11 empirical foundation from architectural-validation scope to CEILING-recognition-triggers-scope-pivot discipline
+- Rule 11 canonized AR-3.1 Decision 3C 2026-05-26 (memory: feedback_multi_substrate_research_workflow.md) -- Post 0195 extends Rule 11 empirical foundation from architectural-validation scope to CEILING-recognition-triggers-scope-pivot discipline
 - Post 0175 (Council 8 close canonization of split slash retire slash reduce mechanism plus Rule 25 substrate-behavior standalone discipline) -- Post 0195 provides first pre-Council RETIRE compliance instance validating the mechanism at pre-review scope
-- Post 0143 (substrate-fabricates-quotes-when-inaccessible-source pattern; Rule 19 anti-fabrication empirical strengthening) -- Post 0195 extends Rule 19 empirical foundation via tool-augmented byte-level source-verification pattern
+- Post 0070 (Marcus Reed Protocol named-guardrail-honored-and-fabricated; Rule 19 anti-fabrication canonization) -- Post 0195 extends Rule 19 empirical foundation via tool-augmented byte-level source-verification pattern
 - Council 9 candidacy items 61 through 86 filed at agenda during this arc; Items 66 plus 79 plus 82 through 87 directly implicated by post claims
 - Memory: project_cross_substrate_triangulation_arc_2026-07-07_late_afternoon.md
 - Memory: project_phase_15_v3_ratified_ship_stage_1_pilot_2026-07-07_late_afternoon.md
@@ -50,13 +50,13 @@ CC-OPTIMIZED-SUMMARY -->
 
 ## Opening setup
 
-I have been running multi-substrate research workflows on my personal AI infrastructure for the better part of a year — deploying the same prompt across three or four substrates and treating the convergence as an empirical signal about the direction under discussion. The discipline has a canonized rule name (Rule 11), a memory file, seven Councils of arc-closure decisions, and an evolving canonical record with a specific claim about how many substrates count as "enough." Until this week, the canonized answer was "convergent findings across n equals three or four substrates raise confidence, and n equals five is aspirational."
+I have been running multi-substrate research workflows on my personal AI infrastructure for the better part of a year -- deploying the same prompt across three or four substrates and treating the convergence as an empirical signal about the direction under discussion. The discipline has a canonized rule name (Rule 11), a memory file, seven Councils of arc-closure decisions, and an evolving canonical record with a specific claim about how many substrates count as "enough." Until this week, the canonized answer was "convergent findings across n equals three or four substrates raise confidence, and n equals five is aspirational."
 
 This week the answer got a ceiling.
 
-I was working on a large architectural specification — the kind of thing that could plausibly justify twelve months of build work if I let it — and I deployed a multi-substrate research arc to validate the direction before committing. The arc grew from three substrates (Grok Expert Round 1, Perplexity Comet Round 3, Claude Opus Round 2) to five (adding Gemini Deep Research Round 4 and Grok Round 6 enrichment) to six (adding Perplexity Comet with ChatGPT-5.5 Round 7 tool-augmented byte-level verification) inside a single working day.
+I was working on a large architectural specification -- the kind of thing that could plausibly justify twelve months of build work if I let it -- and I deployed a multi-substrate research arc to validate the direction before committing. The arc grew from three substrates (Grok Expert Round 1, Perplexity Comet Round 3, Claude Opus Round 2) to five (adding Gemini Deep Research Round 4 and Grok Round 6 enrichment) to six (adding Perplexity Comet with ChatGPT-5.5 Round 7 tool-augmented byte-level verification) inside a single working day.
 
-By substrate six, the architectural direction was fully saturated. All six substrates had converged on the same primary recommendation. Divergences appeared only at the implementation-detail scope — which sub-mechanism to use for a specific integration point, which validation methodology to apply at which phase, which citation to prefer for the same underlying claim. At the architectural-direction scope, additional substrate deployment was buying nothing.
+By substrate six, the architectural direction was fully saturated. All six substrates had converged on the same primary recommendation. Divergences appeared only at the implementation-detail scope -- which sub-mechanism to use for a specific integration point, which validation methodology to apply at which phase, which citation to prefer for the same underlying claim. At the architectural-direction scope, additional substrate deployment was buying nothing.
 
 Rule 11 had a CEILING and the arc had hit it.
 
@@ -74,11 +74,11 @@ The six substrates converged on the following architectural claims:
 
 Every substrate stated at least four of the five claims. Convergence at the primary architectural direction was total.
 
-Divergences appeared at implementation-detail scope. Substrates disagreed on which specific mathematical model to use for the third-dimension enrichment of one plane (one substrate proposed Poincaré ball hyperbolic manifold cited via a Reddit source; another proposed valid extension of an existing 2D Cartesian model as a modifier not a third axis; a third proposed sparse activation field rather than symmetric coordinate). These divergences were productive — they surfaced real design decisions that the operator needed to ratify — but they were NOT architectural-direction disagreements. They were sub-mechanism selection.
+Divergences appeared at implementation-detail scope. Substrates disagreed on which specific mathematical model to use for the third-dimension enrichment of one plane (one substrate proposed Poincaré ball hyperbolic manifold cited via a Reddit source; another proposed valid extension of an existing 2D Cartesian model as a modifier not a third axis; a third proposed sparse activation field rather than symmetric coordinate). These divergences were productive -- they surfaced real design decisions that the operator needed to ratify -- but they were NOT architectural-direction disagreements. They were sub-mechanism selection.
 
 ### Why n equals six was the CEILING
 
-The Rule 11 canonization at Council 3 close had established substrate-role specialization plus sequential empirical verification as the discipline. But the canonization didn't specify a CEILING. It implied that more substrates always produced more confidence, with the practical constraint being prompt-cost plus operator engagement time.
+The Rule 11 canonization at AR-3.1 Decision 3C 2026-05-26 had established substrate-role specialization plus sequential empirical verification as the discipline. But the canonization didn't specify a CEILING. It implied that more substrates always produced more confidence, with the practical constraint being prompt-cost plus operator engagement time.
 
 This arc empirically demonstrated a CEILING mechanism I hadn't previously operationalized: when all substrates independently converge on the primary claims at a specific scope, additional substrates at the same scope produce diminishing marginal empirical value. The remaining uncertainty lives at different scopes (implementation details; source-credibility per-citation; historical-vs-future-projection).
 
@@ -88,13 +88,13 @@ The correct response to hitting CEILING at architectural-direction scope is not 
 
 Two substrate-behavior patterns from this arc are worth Council 9 review consideration.
 
-**First: the Perplexity wrapper pattern.** Perplexity Comet was deployed twice during the arc — once with Fable-5 backend and once with ChatGPT-5.5 backend. Both produced substantively higher-rigor outputs at architectural-research scope than solo-substrate Grok with Gang overlay methodology at the same prompt scope. The Fable-5 pass delivered a 464-line comprehensive research report with byte-verifiable URL citations across a 38-plane extended catalog plus 10 canonical design principles plus concrete TypeScript code implementations. The Grok solo pass at the same prompt scope delivered approximately 15 percent new-signal at similar prompt-hours.
+**First: the Perplexity wrapper pattern.** Perplexity Comet was deployed twice during the arc -- once with Fable-5 backend and once with ChatGPT-5.5 backend. Both produced substantively higher-rigor outputs at architectural-research scope than solo-substrate Grok with Gang overlay methodology at the same prompt scope. The Fable-5 pass delivered a 464-line comprehensive research report with byte-verifiable URL citations across a 38-plane extended catalog plus 10 canonical design principles plus concrete TypeScript code implementations. The Grok solo pass at the same prompt scope delivered approximately 15 percent new-signal at similar prompt-hours.
 
 The observation extending to Rule 25 discipline: Perplexity as a wrapper substrate produces consistently higher-rigor outputs than substrate-native backbones across at least two different backends at architectural-research scope. If this pattern replicates at Council 9 review, it warrants formal Rule 25 canonization at substrate-wrapper-versus-backbone value-add category taxonomy.
 
-**Second: the byte-level tool-augmented source-verification pattern.** The Perplexity Round 7 pass with ChatGPT-5.5 backend delivered a 299-line source-excerpt verification file with 63-plus URLs fetched plus keyword-anchored verbatim extracts via three Python scripts (fetch_key_sources.py plus fetch_more_sources.py plus extract_notes.py). This was the highest-rigor anti-fabrication discipline observed across the entire arc — every citation carried an accessible URL and a keyword-context extract from the fetched content.
+**Second: the byte-level tool-augmented source-verification pattern.** The Perplexity Round 7 pass with ChatGPT-5.5 backend delivered a 299-line source-excerpt verification file with 63-plus URLs fetched plus keyword-anchored verbatim extracts via three Python scripts (fetch_key_sources.py plus fetch_more_sources.py plus extract_notes.py). This was the highest-rigor anti-fabrication discipline observed across the entire arc -- every citation carried an accessible URL and a keyword-context extract from the fetched content.
 
-If this pattern is available at Perplexity Round scope generally, it strengthens Rule 19 anti-fabrication empirical foundation substantially. The pattern is distinct from adversarial fabrication-flagging (which the same substrate deployed at Round 3 with some over-correction) — this is constructive tool-augmented verification.
+If this pattern is available at Perplexity Round scope generally, it strengthens Rule 19 anti-fabrication empirical foundation substantially. The pattern is distinct from adversarial fabrication-flagging (which the same substrate deployed at Round 3 with some over-correction) -- this is constructive tool-augmented verification.
 
 ### The first pre-Council RETIRE compliance instance
 
@@ -104,7 +104,7 @@ The arc surfaced the first empirical instance of the RETIRE move applied at pre-
 
 The candidacy item was formally RETIRED via split-slash-retire-slash-reduce mechanism 2026-07-07 late evening BEFORE the Council 9 review window opened. The retirement was documented at the agenda with historical record preserved via Rule 24 immutability discipline (no retcon; body preserved with RETIRED annotation).
 
-The empirical validation of the split-slash-retire-slash-reduce mechanism at pre-Council scope is substantial. It demonstrates that the mechanism successfully prevents verification-theater when a candidacy item becomes empirically FALSIFIED via cross-substrate consensus before scheduled review — which was the concern that motivated the Council 8 canonization in the first place.
+The empirical validation of the split-slash-retire-slash-reduce mechanism at pre-Council scope is substantial. It demonstrates that the mechanism successfully prevents verification-theater when a candidacy item becomes empirically FALSIFIED via cross-substrate consensus before scheduled review -- which was the concern that motivated the Council 8 canonization in the first place.
 
 ### Bifurcated confidence framing as arc-closure discipline
 
@@ -155,7 +155,7 @@ I'm not claiming that bifurcated confidence framing at three scopes is the corre
 
 **Cross-references:**
 
-- Post 0142 (Rule 11 multi-substrate research workflow canonization; Council 3 close) — this post extends the empirical foundation
-- Post 0175 (Council 8 close canonization of split-slash-retire-slash-reduce mechanism plus Rule 25 substrate-behavior standalone discipline) — this post provides first pre-Council RETIRE compliance instance
-- Post 0143 (substrate-fabricates-quotes-when-inaccessible-source pattern; Rule 19 anti-fabrication empirical strengthening) — this post extends Rule 19 empirical foundation via tool-augmented byte-level source-verification pattern
+- Rule 11 canonized AR-3.1 Decision 3C 2026-05-26 (memory: feedback_multi_substrate_research_workflow.md) -- this post extends the empirical foundation
+- Post 0175 (Council 8 close canonization of split-slash-retire-slash-reduce mechanism plus Rule 25 substrate-behavior standalone discipline) -- this post provides first pre-Council RETIRE compliance instance
+- Post 0070 (Marcus Reed Protocol named-guardrail-honored-and-fabricated; Rule 19 anti-fabrication canonization) -- this post extends Rule 19 empirical foundation via tool-augmented byte-level source-verification pattern
 - Council 9 candidacy items 61 through 86 filed at agenda during this arc
