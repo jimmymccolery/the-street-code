@@ -3,7 +3,7 @@
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
 **Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
-**Total candidacy items:** 92+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Item 55 RETIRED per split/retire/reduce mechanism)
+**Total candidacy items:** 94+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Item 55 RETIRED per split/retire/reduce mechanism)
 
 **Post-v3-ratification trigger 2026-07-07 late afternoon:** Phase 15 v3 implementation proposal RATIFIED per operator "ship, act comprehensively" directive. Stage 1 pilot begins with 15-A UMAP diagnostic (Weeks 1-2). Council #9 empirical review scheduled ~60 days after Stage 1 empirical gate results land (Week 18+). If Stage 1 gates PASS, Council #9 review has real Stage 1 empirical evidence to adjudicate against. If Stage 1 gates FAIL, Council #9 review deferred until architecture revised + Stage 1 re-run.
 
@@ -1040,6 +1040,38 @@ Per Meta-Analysis Agent 2 §B (2026-07-07 late evening), the following prior can
 **Council #9 assessment question:** Should parallel-agent-execution-boundary-coordination discipline be canonized as Rule 20 Family A sub-shape 28+? Adjacent to sub-shape 23 (CC-authored-character-generation-without-canonical-template) which is single-agent scope failure. This is multi-agent scope failure where the failure mode is INTER-AGENT COORDINATION GAP rather than intra-agent-single-agent-discipline gap.
 
 **Recommendation:** Retain as sub-shape candidacy at Council #9 review scope; empirical foundation n=1 warrants tracking. Prevention pattern candidate: at multi-agent parallel-execution scope, add explicit inter-agent-scope-broadcast primitive so agents can declare "I am modifying X" and other agents can adjust their scope accordingly. Alternative: sequential-execution-when-cross-cutting where multi-file cross-cutting operations run sequentially not parallel.
+
+### Item 93 — Retroactive corpus-wide disclosure abstraction pattern (candidate second variant of split/retire/reduce mechanism)
+
+**Filed:** 2026-07-08 morning (retroactive canonization amendment discipline candidacy from 2026-07-07 night unprecedented operational event)
+**Type:** Framework methodology observation (canonization-propagation gap remediation mechanism candidacy)
+**Empirical foundation:** n=1 event 2026-07-07 late evening; unprecedented corpus-wide operational event
+
+**Observation:** Corpus-wide retroactive disclosure abstraction 2026-07-07 late evening executed retroactive product/brand + NPC anchor name substitution across 4 repos + 52 posts + 40+ code files per explicit operator directive ("Nobody reads these posts as of now, and I don't want incorrect and unsafe information in my posts that shouldn't have been there in the first place." + "Yes, proceed comprehensively. Better safe than sorry."). Substitution table centralized at `/tmp/abstraction-substitution-table.md` executed via 5 parallel agents. Framework methodology preserved throughout (Marcus Reed + HEXACO + Council #N + Rule NN + cultural context intact). Rule 24 immutability treatment: documented single-event canonical amendment per explicit operator ratification (2 ratifications: initial + reinforcement); not silent drift.
+
+**Structural distinction from Council #8 canonized split/retire/reduce mechanism:** Council #8 canonization operates at candidacy-item scope (DEFLATE/SPLIT/RETIRE/REBOUND/ABSORB per-candidacy). This mechanism operates at corpus-wide scope for retroactive disclosure-discipline enforcement across previously-shipped canonical artifacts. Candidate second variant of split/retire/reduce mechanism family at DIFFERENT scope: retroactive corpus-wide-single-event amendment rather than pre-review per-item mechanism.
+
+**Council #9 assessment question:** Should retroactive corpus-wide-single-event canonization amendment be canonized as second variant of split/retire/reduce mechanism family? Adjacent to split/retire/reduce mechanism (Council #8 canonized) at scope-difference. Requires explicit operator ratification precedent + documented single-event framing to distinguish from silent drift. What are the falsification conditions? Empirical foundation n=1 warrants tracking; canonization requires additional operational-event evidence (unlikely to accumulate rapidly given rarity of corpus-wide discipline shifts).
+
+**Recommendation:** Retain as candidacy at Council #9 review scope; empirical foundation n=1 with unprecedented-event framing warrants tracking but not canonization-triggering (Council #8 empirical-foundation-threshold discipline typically requires n≥3). Precedent-preserving benefit: future corpus-wide-scope operational events can reference this candidacy at pattern-recognition scope.
+
+### Item 94 — Application-arc vs methodology-arc disclosure-scope stratification question (Council #9 review-scope question)
+
+**Filed:** 2026-07-08 morning (methodology-scope question surfaced during 2026-07-07 night corpus-wide disclosure abstraction)
+**Type:** Framework methodology review-scope question (discipline-stratification question)
+**Empirical foundation:** n=1 discipline-question fire 2026-07-07 late evening
+
+**Observation:** post_audit_checklist §3 disclosure abstraction discipline (canonized 2026-06-10) applies uniformly across all post types at framework-methodology scope. Empirically, Phase 11-14 application-arc ship posts (0177 + 0179 + 0180 + 0181 + 0182 + 0184 + 0186 + 0188 + 0190 + 0192 + 0193 + 0196; ~12 posts) exhibited disclosure discipline drift where product + NPC names appeared as first-class body-prose subjects rather than abstracted. Operator ratified retroactive abstraction ("Better safe than sorry") which closed the immediate exposure gap. However, the methodological question remains architecturally open: is disclosure discipline uniform across post types OR does application-arc scope warrant explicit exemption?
+
+**Two competing framings:**
+
+Framing A (strict uniformity): Disclosure discipline is invariant across post types. Application-arc posts should have applied §3 abstraction at drafting time. The 12-post drift reflects application-arc drafting-discipline gap, not a methodology exception. Prevention pattern: application-arc drafting must apply §3 at same rigor as methodology-arc drafting.
+
+Framing B (context-sensitive stratification): Application-arc posts SUBSTANTIVELY describe product-application state (Phase 11 shipped X to product Y; Anchor A methodology validated at product Z). Disclosure abstraction at that scope forces awkward paraphrase that undermines the arc's ship-post value. Application-arc scope warrants explicit §3 exemption with documented rationale.
+
+**Council #9 assessment question:** At methodology-scope framework review, which framing better serves operator's IP-defense + framework-transparency dual objectives? Empirical grounding available at retroactive abstraction outcome (12 posts abstracted; framework methodology preserved; cultural context intact).
+
+**Recommendation:** Route this question at Council #9 methodology-deployment review; NOT filed as canonization candidacy at candidacy-item scope (this is a discipline-stratification review question, not a discipline-shape candidacy). Adjacent to Post 0143 canonization-propagation gap Family A + Post 0124 five-element cross-cultural disclosure discipline.
 
 ## Council #9 methodology deployment structure
 
