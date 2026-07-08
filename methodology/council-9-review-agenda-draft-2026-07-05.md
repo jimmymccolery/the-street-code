@@ -3,7 +3,13 @@
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
 **Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
-**Total candidacy items:** 39 (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session)
+**Total candidacy items:** 86+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion)
+
+**Post-v3-ratification trigger 2026-07-07 late afternoon:** Phase 15 v3 implementation proposal RATIFIED per operator "ship, act comprehensively" directive. Stage 1 pilot begins with 15-A UMAP diagnostic (Weeks 1-2). Council #9 empirical review scheduled ~60 days after Stage 1 empirical gate results land (Week 18+). If Stage 1 gates PASS, Council #9 review has real Stage 1 empirical evidence to adjudicate against. If Stage 1 gates FAIL, Council #9 review deferred until architecture revised + Stage 1 re-run.
+
+**Numbering note:** Item 21 was never populated (numbering skipped from Item 20 to Item 22 during earlier candidacy filing). Item 21 slot reserved permanently vacant per numbering-preservation discipline (Q-lock ID recycling prohibition analog applied to Council candidacy items).
+
+**Item 55 status:** Item 55 (personality-as-attractor mathematical guarantee) FALSIFIED 2026-07-07 late afternoon per n=3 substrate consensus BEFORE Council #9 review window. First pre-Council RETIRE compliance instance for split/retire/reduce mechanism. See Item 55 body section for retirement notice.
 **Ratification protocol:** Per Council #8 canonization outcome — orchestrator synthesis Section 5 empirical validation gate + Section 6.6 falsification meta-canonization discipline + ChatGPT proposal adopted
 **Cross-references:**
 - `~/Desktop/COUNCIL-8-DEPLOY/SYNTHESIS-DRAFT.md` — Council #8 orchestrator synthesis
@@ -549,7 +555,23 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - **Perplexity Round 3** (item-2017): No mathematical guarantee in ALMA; would require Lyapunov function or invariance proof
 - **Opus Round 2** (item-2018): RIGOROUS MATHEMATICAL FALSIFICATION via damped-spring dynamics: "Under sustained external forcing, the equilibrium of a pull-toward-default plus constant-push system settles at a displaced point, not at the baseline"; corroborated by 2025 Pull-Push Engine (57-88% saturation without pull term; even with pull, design goal is "bounded PAD trajectories" NOT "zero displacement")
 
-**Reframed as candidacy:** personality-as-attractor is BOUNDED-DRIFT engineering metaphor under sustained forcing; requires rigorous mathematical scaffolding (Lyapunov function or invariance proof) before claiming guarantee. Fires G-K threshold-tuning fixes REMAIN load-bearing (NOT obsolete). **Council #9 review question:** should FALSIFIED candidacy items be retained in agenda as canonization-propagation gap discipline examples (validated cross-substrate falsification methodology) or RETIRED?
+**Reframed as candidacy:** personality-as-attractor is BOUNDED-DRIFT engineering metaphor under sustained forcing; requires rigorous mathematical scaffolding (Lyapunov function or invariance proof) before claiming guarantee. Fires G-K threshold-tuning fixes REMAIN load-bearing (NOT obsolete).
+
+**RETIRED 2026-07-07 late evening per split/retire/reduce mechanism (Council #8 canonization):**
+
+First pre-Council RETIRE compliance instance for the split/retire/reduce mechanism. Rationale:
+1. Item empirically FALSIFIED at n=3 substrate consensus BEFORE Council #9 review window opened
+2. Grok Round 6 further refinement retained WEAKER basin-of-attraction sense (not full retirement)
+3. Vault Item 55 falsification scope explicitly captured in Phase 15 v3 canonical §12.1 (guarantee-sense FALSIFIED; basin-of-attraction sense RETAINED)
+4. Continuing to hold Item 55 as CANDIDACY at Council #9 review would be verification theater — the mechanism is designed to reduce candidacy inflation
+
+**Retirement disposition:**
+- Item 55 candidacy REMOVED from Council #9 review scope
+- Item 55 falsification-methodology observation ABSORBED into Council #9 Item 47 (gate-reference-inherited-across-close-artifacts-without-pivot-cascade-update; already references Vault Item 55 falsification as strengthening evidence)
+- **Historical record preserved** at this Item 55 section per Rule 24 immutability (no retcon; body preserved with RETIRED annotation)
+- Cross-reference active canonization at Phase 15 v3 §12.1 for canonical scope-of-falsification framing
+
+**Council #9 review question REPLACED by procedural verification:** does the split/retire/reduce mechanism successfully prevent verification theater when pre-Council falsification occurs? Item 55 retirement = first empirical instance testing this.
 
 ### Item 56 — Candidate methodology observation utterance-manifold-per-Grice-Brown-Levinson-Sacks-Schegloff (Phases 15-18 vault Part 3 n=1 fire)
 
@@ -705,6 +727,210 @@ Council #9 review questions:
 - Rule 21 feedback memory strengthened (n+1 within-session fire)
 
 **Operator critical inquiry ratio this session strengthens to n=7+ real gaps surfaced** (Q65 stale-gate + Sam Nguyen framing + Fires G-K post-integration regression + Vault Item 55 falsification + historical-events stale-claim + character-catalog stale-claim + unified-vs-plural framing mis-representation). Rule 21 operator-realism-check discipline continues far above CC's independent detection rate.
+
+### Item 68 — 4-substrate-independent-triangulation-at-architectural-design-scope strengthens Rule 11 multi-substrate discipline empirical foundation
+
+**Filed:** 2026-07-07 late afternoon (Gemini Deep Research Round 4 ingestion)
+**Type:** Framework methodology observation (Rule 11 multi-substrate discipline empirical strengthening)
+**Item ID:** item-2019 substrate report
+
+**Observation:** Cross-substrate arc EXTENDS from n=3 to n=4 with Gemini Deep Research Round 4 delivering standalone independent research with NO Grok/Perplexity/Opus anchoring (per Rule 25 substrate-behavior discipline + operator methodology consistency). All 4 substrates independently converged on MULTI-PLANE MODULAR architecture (not unified manifold). Operator's original plural-planes framing empirically validated at HIGHEST-confidence n=4.
+
+**Rule 11 empirical foundation strengthening:** Multi-substrate discipline at citation-grounding scope (Round 1-3) strengthens at architectural-design-recommendation scope (Round 4 extension). CONVERGENT findings at n=4 substrates provide stronger evidence than n=3 for architectural direction claims.
+
+**Council #9 assessment question:** Does 4-substrate independent triangulation at architectural-design scope produce meaningfully stronger empirical foundation than 3-substrate at same scope, or does marginal substrate cost exceed marginal empirical value? Prompt-cost vs confidence-strengthening ratio needs empirical measurement across arc.
+
+### Item 69 — substrate-implementation-specificity-complementary-to-architectural-principles pattern
+
+**Filed:** 2026-07-07 late afternoon (Gemini Deep Research Round 4 ingestion)
+**Type:** Framework methodology observation (substrate-value-add category discipline)
+**Item ID:** item-2019 substrate report
+
+**Observation:** Gemini Deep Research Round 4 contributed IMPLEMENTATION SPECIFICITY (specific 3-plane spec + specific third dimensions + specific integration pattern Blackboard System + specific optimization KD-Trees + SIMD + specific validation methodology trajectory-property + SSCC) complementary to prior 3 substrates' ARCHITECTURAL PRINCIPLES (Grok modular direction + Perplexity BEN precedent + Opus interface contracts). Distinct substrate-value-add categories emerged organically across 4-substrate independent research.
+
+**Framework methodology implication:** Substrate deployment ordering can be intentional per substrate-value-add category: architectural-direction substrates FIRST + implementation-specificity substrates SECOND enables scoping conversation before implementation depth. Alternatively, parallel deployment allows category-emergence observation.
+
+**Council #9 assessment question:** Should substrate deployment protocols formalize substrate-value-add category awareness (per-substrate specialty routing) or maintain uniform prompt across substrates for comparability?
+
+**Adjacent:** Rule 11 sub-mode candidate (substrate-specialty-routing vs uniform-prompt).
+
+### Item 70 — hybrid-utility-GOAP-backbone-plus-multi-plane-modulation-vs-replacement architectural-choice discipline
+
+**Filed:** 2026-07-07 late afternoon (Grok Round 6 enrichment ingestion)
+**Type:** Framework methodology observation (architectural-choice-frame-refinement discipline)
+**Item ID:** item-2020 substrate report
+
+**Observation:** Grok Round 6 REVISE recommendation surfaces distinction between multi-plane REPLACEMENT of utility/GOAP backbone (prior implicit substrate framing) vs multi-plane MODULATION of utility/GOAP backbone (Grok explicit refinement). Steel-manning simple architecture (The Sims + RimWorld + DF + Project Highrise) is strong enough to warrant hybrid backbone rather than full multi-plane commitment.
+
+**Council #9 assessment question:** Does substrate research at architectural-design scope require explicit "REPLACEMENT vs MODULATION vs ADDITION" framing to prevent implicit-framing convergence? Rule 21 operator-realism-check discipline may extend to substrate-framing-preservation scope.
+
+### Item 71 — validation-poverty-at-cross-plane-interfaces-emergent-dynamics-scope
+
+**Filed:** 2026-07-07 late afternoon (Grok Round 6 enrichment ingestion)
+**Type:** Framework methodology observation (validation-scope-discipline)
+**Item ID:** item-2020 substrate report
+
+**Observation:** Grok Round 6 Paranoid Stoner surfaces bottom-line trap: Pattern-Oriented Modeling (POM per Grimm et al. 2005; adopted from Opus Round 2) addresses INDIVIDUAL plane validation but does NOT address emergent-social-dynamics validation at cross-plane interfaces. Multi-plane system may become expensive black box where individual planes validate cleanly but emergent behavior remains unfalsifiable pre-shipping.
+
+**Council #9 assessment question:** Should validation methodology discipline (Rule 20 Family B validation-vs-ratification candidacy) distinguish INDIVIDUAL scope from EMERGENT scope? What new methodology addresses emergent-social-dynamics validation at cross-plane interface scope? Council #7 methodology deployment candidate scope extension.
+
+### Item 72 — dense-quadratic-matrix-catastrophe-mandatory-sparse-graph-discipline
+
+**Filed:** 2026-07-07 late afternoon (Grok Round 6 enrichment ingestion)
+**Type:** Framework methodology observation (Fermi-quantitative-bound discipline)
+**Item ID:** item-2020 substrate report
+
+**Observation:** Grok Round 6 Fermi bounds surface that full N² relational matrix (dense APIM per Kelley-Thibaut) = ~GBs catastrophic for 5000 NPCs. Mandatory sparse relational graph (avg 5-10 active edges/NPC) not previously surfaced by prior 4 substrates. Prior substrates provided qualitative risk probabilities (55-80% scale illusion) but not quantitative bounds identifying specific dense-vs-sparse architectural constraint.
+
+**Council #9 assessment question:** Should substrate research discipline include mandatory Fermi quantitative estimate pass at architectural-design scope? Does absence of Fermi bounds at prior substrates count as validation gap? Adjacent to Rule 21 operator-realism-check strengthening.
+
+### Item 73 — substrate-cited-benchmark-workload-generalization-discipline
+
+**Filed:** 2026-07-07 late afternoon (Grok Round 6 enrichment ingestion)
+**Type:** Framework methodology observation (empirical-verification discipline)
+**Item ID:** item-2020 substrate report
+
+**Observation:** Grok Round 6 refutes Gemini Round 4 SIMD 1000× speedup benchmark (fast-dotproduct 100K × 1024-dim) as NON-GENERALIZING to small-vector (20-30 dim) NPC workload. Realistic speedup 4-16× (not 1000×). Single-source vendor benchmarks require workload-specific verification before adoption.
+
+**Council #9 assessment question:** Does substrate research discipline require explicit "workload-generalization" verification for cited quantitative benchmarks? Adjacent to Rule 19 anti-fabrication discipline extension at empirical-quantitative-claim scope. Post 0143 pattern strengthens at benchmark-generalization-verification scope.
+
+### Item 74 — absence-of-public-practitioner-discourse-on-cross-substrate-consensus-direction
+
+**Filed:** 2026-07-07 late afternoon (Grok Round 6 enrichment ingestion)
+**Type:** Framework methodology observation (discourse-gap-signal-discipline)
+**Item ID:** item-2020 substrate report
+
+**Observation:** Grok Round 6 X/Twitter real-time discourse finding: multi-plane Cartesian NPC architectures NOT publicly discussed by canonical thought leaders (@TynanSylvester silent since 2026-04-01 on topic; @freenek_ May 2026 defaults to utility/GOAP/BT hybrids; GDC 2026 focus on LLM integration NOT Cartesian planes). Cross-substrate consensus (n=5 substrates recommend multi-plane modular) diverges from current public practitioner discourse.
+
+**Two possible interpretations:**
+- **Interpretation A:** Cross-substrate consensus is AHEAD of practitioner community (substrates surface architectural direction before public discourse catches up)
+- **Interpretation B:** Public discourse under-represents private innovation (practitioners may be exploring privately; multi-plane already in play but not publicly discussed)
+
+**Council #9 assessment question:** How should discourse-gap-signal be interpreted at framework methodology scope? Does absence-of-public-discourse count as evidence against substrate consensus OR as signal that substrate consensus is ahead-of-market? Adjacent to Rule 20 Family A candidacy at cross-substrate-vs-external-discourse-divergence-scope sub-shape.
+
+### Item 75 — attachment-third-dim-modifier-vs-Cartesian-axis-distinction pattern
+
+**Filed:** 2026-07-07 late afternoon (Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research ingestion)
+**Type:** Framework methodology observation (architectural-taxonomy discipline)
+**Item ID:** item-2021 substrate report
+
+**Observation:** Perplexity Round 7 REFUTES Gemini Round 4 recommendation to lift attachment plane from 2D (Anxiety × Avoidance) to 3D with DISORGANIZATION as symmetric Cartesian axis. Perplexity + byte-verified sources (Salcuni 2015 + White et al. 2020 + Massullo et al. 2022) show attachment disorganization is DYNAMIC VULNERABILITY UNDER ACTIVATION not static quadrant label; should be MODIFIER (`coherence: 0..100` or `disorganizationRisk: 0..100`) modulating response-stability + collapse risk + contradictory behavior + memory-triggered dysregulation. Grok Round 6 legibility caution supports MODIFIER framing.
+
+**Council #9 assessment question:** Clinical dimensions may not translate to symmetric Euclidean coordinate axes even when clinically meaningful. Should framework methodology adopt "MODIFIER vs COORDINATE AXIS" as first-class architectural distinction taxonomy? Substrates may recommend third-dimension additions where MODIFIER framing is more empirically supported than AXIS framing.
+
+### Item 76 — certainty-confidence-as-first-class-plane-field-pattern
+
+**Filed:** 2026-07-07 late afternoon (Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research ingestion)
+**Type:** Framework methodology observation (novel plane element discipline)
+**Item ID:** item-2021 substrate report
+
+**Observation:** Perplexity Round 7 recommends `confidence` + `sourceReliability` + `evidenceCount` + `lastConfirmedAt` as FIRST-CLASS FIELDS on belief/memory/pair-sentiment planes (not metadata). Ferson & Stepanov 2023 distinguishes epistemic uncertainty (lack of knowledge) from aleatory variation (randomness); treating epistemic as ordinary Monte Carlo variation is inappropriate. Unlocks rumors + mistaken beliefs + unreliable gossip + false confidence + social manipulation + dramatic irony.
+
+**Council #9 assessment question:** Should novel plane elements identified via cross-substrate research be treated as canonical additions to plane inventory even when no anchor NPC currently requires them? What's the ratification protocol for architectural additions not tied to specific anchor requirements?
+
+### Item 77 — salience-as-sparse-activation-field-not-permanent-geometric-axis
+
+**Filed:** 2026-07-07 late afternoon (Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research ingestion)
+**Type:** Framework methodology observation (architectural pattern discipline)
+**Item ID:** item-2021 substrate report
+
+**Observation:** Perplexity Round 7 recommends salience/attention as SPARSE ACTIVATION FIELD for update prioritization + memory retrieval, NOT as permanent geometric axis expanding all vectors. Gates expensive plane updates at 5000-NPC scale. Meera et al. 2022 + Ditta et al. 2022 empirical grounding. Adjacent to Item 75 pattern (metadata vs coordinate architectural distinction).
+
+**Council #9 assessment question:** Should "SPARSE ACTIVATION FIELD" vs "PERMANENT GEOMETRIC AXIS" vs "MODIFIER" be canonized as first-class architectural taxonomy for third-dimension enrichments identified by cross-substrate research? Adjacent to Item 75 modifier-vs-axis distinction.
+
+### Item 78 — substrate-tool-augmented-source-verification-via-Python-scripts strengthens Rule 19 anti-fabrication
+
+**Filed:** 2026-07-07 late afternoon (Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research ingestion)
+**Type:** Framework methodology observation (Rule 19 anti-fabrication empirical strengthening)
+**Item ID:** item-2021 substrate report
+
+**Observation:** Perplexity Round 7 delivered HIGHEST-RIGOR anti-fabrication discipline observed in cross-substrate arc via Python script tool-augmentation (`fetch_key_sources.py` + `extract_notes.py`) producing 299-line `extracted_source_notes.md` with 63+ sources fetched + keyword-anchored verbatim excerpts. Distinct from Perplexity Round 3 adversarial-fabrication-flagging (which over-corrected at Reidy 2021 + Saqib 2023). Constructive tool-augmented verification is higher-rigor than adversarial fabrication-flagging.
+
+**Council #9 assessment question:** Does substrate research discipline require tool-augmented verification (script-based URL fetching + keyword extraction) at highest-value substrate deployments? Should Rule 19 anti-fabrication discipline canonize preference for constructive tool-augmented verification over adversarial fabrication-flagging when substrate offers both capabilities?
+
+### Item 79 — cross-substrate-arc-CEILING-confidence-at-n=6-triggers-Round-8-scope-pivot-to-implementation-detail
+
+**Filed:** 2026-07-07 late afternoon (Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research ingestion)
+**Type:** Framework methodology observation (Rule 11 multi-substrate discipline scope-management)
+**Item ID:** item-2021 substrate report
+
+**Observation:** Cross-substrate arc reaches n=6 CEILING-confidence for architectural-direction scope. Further substrate deployment at architectural-direction scope faces diminishing marginal empirical value per prompt-cost + operator engagement time. Round 8 should PIVOT to IMPLEMENTATION-DETAIL scope (specific interface contracts + specific plane update algorithms + specific consultation-gate scaling rules + specific benchmark measurements + specific arbitration policies) rather than architectural-direction scope.
+
+**Council #9 assessment question:** Does Rule 11 multi-substrate discipline require explicit scope-pivot recognition when convergent-consensus reaches CEILING? What operational protocol governs the pivot decision — operator judgment call vs empirical CEILING-metric threshold vs cross-substrate-marginal-value-computation? Adjacent to Council #9 Item 68 (4-substrate strengthens Rule 11) which now extends to n=6 CEILING observation.
+
+### Item 80 — substrate-without-project-context-produces-scope-inappropriate-recommendations pattern
+
+**Filed:** 2026-07-07 late afternoon (Grok context-free brainstorm critique)
+**Type:** Framework methodology observation (Rule 25 substrate-behavior discipline empirical strengthening)
+**Trigger:** Operator ran open brainstorm at Grok solo Gang overlay without project context; brainstorm produced dialogue-driven-by-planes + sexual-encounter modeling recommendations. Operator critical inquiry catch triggered CC critical review.
+
+**Observation:** Grok context-free brainstorm proposed sexual-encounter modeling driven by Cartesian planes — a mechanic that our vault (line 443) EXPLICITLY DEFERRED per "disproportionate consultation-gate cost vs game design ROI" rationale. Substrate had no way to know this constraint absent project context. Even more strikingly, Grok's own bottom-line trap in the second conversation admitted the mechanic "feels psychologically plausible on paper but lacks the irreducible embodied awkwardness, humor, or micro-miscommunications of real human intimacy" — rare substrate self-falsification of its own recommendation.
+
+**Framework methodology implication:** When operator runs substrate without project context, resulting recommendations require heightened critical evaluation vs substrate-with-context deployments. Prior Rule 25 candidacy + Rule 21 operator-realism-check strengthen. Context-provision affects substrate output quality substantially.
+
+**Council #9 assessment question:** Should Rule 25 substrate-behavior discipline canonize an explicit context-provision-versus-context-free distinction with per-scope confidence calibration? Adjacent to Council #9 Item 69 (substrate-value-add category discipline).
+
+### Item 81 — substrate-self-falsification-in-bottom-line-trap-admission-strengthens-Rule-19-anti-fabrication-empirical-foundation pattern
+
+**Filed:** 2026-07-07 late afternoon (Grok context-free brainstorm critique)
+**Type:** Framework methodology observation (Rule 19 anti-fabrication empirical strengthening via substrate-side self-falsification)
+**Trigger:** Grok's Paranoid Stoner "bottom-line trap" in second conversation explicitly acknowledged that the substrate's own recommendation would fail experientially even if mathematically elegant.
+
+**Observation:** Substrate self-falsification is rare + high-signal — Grok independently surfaced the exact failure mode that made its recommendation unusable. Operator can leverage substrate self-falsification as decision-making input. Strengthens Rule 19 anti-fabrication empirical foundation at the substrate-recognizes-own-limitation scope.
+
+**Council #9 assessment question:** Should substrate-self-falsification patterns be first-class methodology inputs? What confidence adjustment applies when a substrate self-flags its recommendation as experientially hollow while mathematically valid?
+
+### Item 82 — perplexity-wrapper-pattern-strengthens-byte-verifiable-citation-discipline-across-backends
+
+**Filed:** 2026-07-07 late afternoon (Perplexity Comet + Fable 5 context-free brainstorm ingestion)
+**Type:** Framework methodology observation (Rule 25 substrate-behavior + Rule 11 substrate-value-add category)
+**Item ID:** item-2022 substrate report
+
+**Observation:** Perplexity Comet as substrate WRAPPER produces consistently higher-rigor outputs at architectural-research scope than Grok solo Gang overlay across backends. Empirical evidence: Perplexity + Fable 5 (item-2022) + Perplexity + ChatGPT 5.5 (item-2021) both delivered byte-verifiable URL citations + comprehensive structure + concrete code implementations at same prompt scope where Grok solo delivered ~15% new-signal at same context-free brainstorm scope.
+
+**Council #9 assessment question:** Does substrate-wrapper-pattern require canonical distinction from substrate-backbone-pattern at Rule 25 discipline? Should substrate-value-add category taxonomy (Council #9 Item 69) formally distinguish wrapper-pattern from backbone-pattern substrates?
+
+### Item 83 — how-do-NPCs-lie-about-their-planes-first-class-simulation-primitive
+
+**Filed:** 2026-07-07 late afternoon (Perplexity Comet + Fable 5 context-free brainstorm ingestion open research question)
+**Type:** Framework methodology observation (Phase 17 architectural primitive candidacy)
+**Item ID:** item-2022 substrate report §8 open research
+
+**Observation:** Perplexity Round 8 open research question: "How should NPCs lie about their planes?" Requires private state + self-concept + public mask + deception as first-class simulation primitives. IPC clinical literature notes observed warmth/dominance can differ from underlying motivation — the substrate's own research surfaces this canonical dimension. CRITICAL for Phase 17 community reputation + Phase 16 utterance manifold (utterances may not reflect internal state).
+
+**Council #9 assessment question:** Should the architectural distinction between INTERNAL plane state vs PUBLIC MASK state be canonized as first-class simulation primitive at Phase 17? Adjacent to Council #9 Item 71 (validation-poverty-at-cross-plane-interfaces).
+
+### Item 84 — trajectory-mining-for-narrative-beats-as-emergent-social-dynamics-validation-methodology
+
+**Filed:** 2026-07-07 late afternoon (Perplexity Comet + Fable 5 context-free brainstorm ingestion)
+**Type:** Framework methodology observation (validation methodology candidacy)
+**Item ID:** item-2022 substrate report
+
+**Observation:** Perplexity Round 8 concrete TypeScript pattern (§4.6 `mineArcBeats()`) detects narrative beats (betrayal_spiral + healing_bond) from plane trajectory samples. Addresses Grok Round 6 bottom-line trap validation-poverty-at-cross-plane-interfaces open question (Council #9 Item 71). POM addresses INDIVIDUAL plane validation; trajectory mining addresses EMERGENT-social-dynamics validation at cross-plane interface scope.
+
+**Council #9 assessment question:** Does trajectory-mining-for-narrative-beats promote to canonical validation methodology alongside POM + CRN + VOMAS + provenance patterns? Should this be tested empirically at Phase 15 Stage 1 Gate 3 (emergent-dynamics validation)?
+
+### Item 85 — wildermyth-casting-constraint-pattern-as-Phase-18-emergent-folklore-alternative-to-POM
+
+**Filed:** 2026-07-07 late afternoon (Perplexity Comet + Fable 5 context-free brainstorm ingestion)
+**Type:** Framework methodology observation (validation methodology candidacy at Phase 18)
+**Item ID:** item-2022 substrate report
+
+**Observation:** Wildermyth "Library of Plays" casting-constraint pattern (byte-verified 2026-07-07): authored scenes as templates with slot constraints; system CASTS NPCs into scenes based on plane state; scene requests "high resentment + high affection" + "warm-dominant mentor"; simulation provides actors matching criteria. Pearl: "Use planes as casting constraints." Falsification target: authored scene templates should find matching actors at expected frequencies at Phase 18 emergent folklore scope.
+
+**Council #9 assessment question:** Should Wildermyth casting-constraint pattern promote to canonical validation methodology at Phase 18 emergent folklore scope? Adjacent to Council #9 Item 84 (trajectory mining) — together these may constitute the emergent-social-dynamics validation methodology gap identified at Item 71.
+
+### Item 86 — design-rule-canonicalization-discipline
+
+**Filed:** 2026-07-07 late afternoon (Perplexity Comet + Fable 5 context-free brainstorm ingestion)
+**Type:** Framework methodology observation (canonical rule discipline)
+**Item ID:** item-2022 substrate report §7 10 design principles
+
+**Observation:** Perplexity + Fable 5 delivered 10 design principles synthesized from Sims 3 + RimWorld + Dwarf Fortress + Wildermyth + Utility AI literature: (1) every plane needs a verb; (2) every axis bipolar; (3) separate trait/state/appraisal; (4) 2D authoring, N-D storage; (5) setpoints personal; (6) non-linear response curves; (7) thresholds sparingly + visibly; (8) let planes conflict; (9) expose causal explanations; (10) mine trajectories for story. Substrate-synthesized canonical rules require Council-level ratification pattern.
+
+**Council #9 assessment question:** Should substrate-synthesized canonical rules undergo different ratification pathway than substrate-produced findings? What's the canonization pathway from substrate-synthesis → Council ratification → operational discipline canonization?
+
+**Adopted for Phase 15 v3 §14 (design principles section):** Provisionally adopted for Phase 15 v3 canonical implementation proposal; Stage 1 empirical gate 6 audits compliance. Council #9 empirical-review determination pending Stage 1 gate results.
 
 ## Council #9 methodology deployment structure
 
