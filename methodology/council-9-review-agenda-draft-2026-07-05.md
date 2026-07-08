@@ -1294,6 +1294,54 @@ Bourdieu 1977 Outline + Bourdieu 1984 Distinction + Lizardo 2004 J Theory Social
 
 **Recommendation:** Council #9 may formally acknowledge Cycle 12 Steps 6-9 retirement at review-scope pending confirmation that no operator-facing decision was silently dropped. Framework methodology commitment: retirement is preferred over indefinite pending status per Council #8 split/retire/reduce mechanism.
 
+### Item 104 — Substrate-audit-round-methodology-improvement candidacy (adversarial-audit-framing + statistical-rigor-upgrade + citation-manifest-with-DOIs + substrate-stratification + pre-registered-disposition-matrix)
+
+**Filed:** 2026-07-08 late afternoon (post Island Sim UI harness improvement round; before external substrate audit dispatch)
+
+**Trigger:** Framework author self-critique of initial Island Sim UI research package (commit c78759c 2026-07-08 morning) identified 19 methodological gaps in the audit-round posture. Improvement round produced h8-h14 empirical additions + 4 substrate-specific briefs + citation manifest with DOIs + pre-registered disposition matrix. This item files the improvement round pattern as candidacy for framework-wide audit-round methodology discipline.
+
+**Candidate discipline body:**
+Framework empirical validation harnesses that ship to external substrate audit rounds should include, at minimum:
+1. **Null-model baseline** (Cohen's d + permutation test): proves framework outputs are statistically distinguishable from randomized inputs at meaningful measurement points. Not merely "meets literature target" — that's achievable by pure noise.
+2. **Canary intentional-failure**: proves harness infrastructure catches failures. Every 4/4-PASS report is uninformative if the harness cannot fail.
+3. **Adversarial framing**: audit prompt must invite substrates to find bugs, not to validate claims. Leading questions bias critique toward pre-suggested targets.
+4. **Substrate stratification per Rule 11**: 4 substrate-specific briefs (citation-verification / adversarial-code / statistical-rigor / methodology-self-consistency) rather than one-size-fits-all.
+5. **Machine-parseable citation manifest with DOIs**: defense against feedback memory `substrate_fabricates_quotes_when_inaccessible_source.md` n=2+ documented incidents.
+6. **Pre-registered disposition matrix**: severity + convergence handling committed BEFORE substrate findings arrive; prevents post-hoc rationalization.
+7. **Attached source code**: substrates can only critique what they can read. Package must include the actual test files + harness scripts + panel components.
+8. **Byte-identical cross-verification actually tested**: any "byte-identical" narrative claim must convert to executable falsifiable test.
+9. **Population-scale distributional test**: distributional claims (variance decomposition, cross-condition comparison) require N>>1; n=1 dyad testing masquerading as distributional claim is confirmation bias.
+10. **Boundary + fuzz + performance profile**: adversarial input testing at HEXACO extremes; O(N) scaling; O(1) emit invariant.
+
+**Empirical evidence for candidacy body:**
+- Island Sim UI improvement round (this session): 13/14 PASS + 1/14 PARTIAL. H12 PARTIAL is a legitimate architectural finding (population-scale variance decomposition doesn't match Hehman 2017 target) that would have been UNSURFACED under initial 7-hypothesis package. Post 0197 discipline extended empirically at composition scope.
+- H8 null-model reveals HEXACO input has zero effect on accommodation-trust at short horizons — legitimate architectural finding.
+- H11 boundary/fuzz reveals HEXACO=NaN produces byte-identical output to HEXACO=100 — suggests HEXACO silently dropped in tested code path or update rule doesn't consult HEXACO at that scope.
+- H12 population reveals PTI share 14% (target 35%) — framework's variance decomposition doesn't reproduce Hehman targets at population scale.
+- H14 byte-identical test reveals anchor.extendedTemplate.physicalCharacteristics has undefined fields — data completeness gap.
+
+**Not-application scope:** discipline is NOT universal — small-scope validation harnesses at initial-BUILD scope may not warrant 10-item audit-round posture. Discipline applies when framework outputs are being externalized for substrate ratification.
+
+**Falsification threshold:**
+- If audit rounds using this posture produce ZERO substrate findings across n=3+ deployments, posture is validation theater. Execute DEFLATE (opt-in) or REBOUND (narrow scope).
+- If audit rounds produce findings but framework does not fold them per disposition matrix, posture is process theater without payoff. Execute RETIRE.
+- If audit rounds using pre-improvement posture (initial 7-hypothesis package) empirically catch findings that this posture misses, this posture is over-engineered. Execute REBOUND (simplify).
+
+**Cross-references:**
+- Council #9 Item 95 (empirical-validation-harness-parallel-to-diagnostic-UI Post 0197 discipline)
+- Council #9 Item 98 (recursive discipline application at n=3+)
+- Post 0197 (Post 0197 methodology capture; discipline now extended n=8+ pending audit ratification)
+- feedback memory `substrate_fabricates_quotes_when_inaccessible_source.md` (fabrication-defense motivation)
+- Rule 11 (multi-substrate research workflow)
+- Rule 19 (anti-fabrication)
+- operator memory `feedback_audit_finding_disposition.md` (operator-approval-then-substitute)
+
+**Recommendation:** Council #9 review Item 104 at target window 2026-09-05 through 2026-10-05. Empirical foundation available for review: this session's audit round substrate findings (arriving before Council #9 review). If audit round validates the 10-item posture as producing genuine substrate findings not caught by initial posture, Item 104 candidacy for CANONIZATION consideration. If findings are equivalent to initial posture, DEFLATE. If audit round produces zero substrate findings, RETIRE.
+
+**Confidence calibration:** MEDIUM — self-authored discipline capturing self-observed session pattern; requires substrate audit round completion to earn empirical foundation.
+
+---
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
