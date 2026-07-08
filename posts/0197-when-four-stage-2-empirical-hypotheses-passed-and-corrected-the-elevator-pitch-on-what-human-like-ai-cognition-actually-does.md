@@ -2,7 +2,7 @@
 post_id: 0197
 title: When Four Stage 2 Empirical Hypotheses Passed and Corrected the Elevator Pitch on What Human-Like AI Cognition Actually Does
 date_published: 2026-07-08
-status: draft
+status: published
 superseded_by: none
 domain: methodology-discipline empirical-validation-harness-parallel-to-diagnostic-UI-pattern stage-2-empirical-hypothesis-batch cross-architecture-comparison-methodology arousal-valence-asymmetry-empirical-finding personhood-in-baseline-drift-not-event-response attractor-as-identity-mechanism gamygdala-occ-reproduction-empirical
 project_scopes: sim-ai the-street-code cross-cutting
@@ -49,7 +49,7 @@ CC-OPTIMIZED-SUMMARY -->
 
 **Author:** Jimmy McColery
 **Date:** 2026-07-08
-**Status:** Stage 2 empirical hypothesis batch report; empirical-validation-harness-parallel-to-diagnostic-UI pattern extension to n=2 empirical instances; cross-architecture comparison methodology observations preserved for Council 9 methodology review scope (DRAFT awaiting operator ratification for publication)
+**Status:** Stage 2 empirical hypothesis batch report; empirical-validation-harness-parallel-to-diagnostic-UI pattern extension to n=2 empirical instances; cross-architecture comparison methodology observations preserved for Council 9 methodology review scope (PUBLISHED per operator ratification 2026-07-08 morning)
 
 *Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
 
