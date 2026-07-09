@@ -3,7 +3,7 @@
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
 **Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
-**Total candidacy items:** 139+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 100 filed 2026-07-08 morning Rule 26 candidacy proposal consolidating Items 20 + 33 + 66 as Retired-workflow-recurrence discipline + Item 101 filed 2026-07-08 morning Cycle 12 Steps 6-9 retirement disposition + Item 55 RETIRED per split/retire/reduce mechanism)
+**Total candidacy items:** 140+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 100 filed 2026-07-08 morning Rule 26 candidacy proposal consolidating Items 20 + 33 + 66 as Retired-workflow-recurrence discipline + Item 101 filed 2026-07-08 morning Cycle 12 Steps 6-9 retirement disposition + Item 55 RETIRED per split/retire/reduce mechanism)
 
 **Post-v3-ratification trigger 2026-07-07 late afternoon:** Phase 15 v3 implementation proposal RATIFIED per operator "ship, act comprehensively" directive. Stage 1 pilot begins with 15-A UMAP diagnostic (Weeks 1-2). Council #9 empirical review scheduled ~60 days after Stage 1 empirical gate results land (Week 18+). If Stage 1 gates PASS, Council #9 review has real Stage 1 empirical evidence to adjudicate against. If Stage 1 gates FAIL, Council #9 review deferred until architecture revised + Stage 1 re-run.
 
@@ -3068,6 +3068,46 @@ Schema v0.2 extension at NPC-head scope:
 - Bartlett 1932 serial reproduction (Rule 19 verified)
 
 **Confidence calibration:** LOW-MEDIUM — architecturally coherent + literature-grounded but requires A2 empirical foundation before commitment; occupational-asymmetry design departs from framework's uniform-NPC scaling assumption; requires operator ratification of scaling trade-off before build.
+
+---
+
+### Item 140 — Event-scope canonical registry extension review at Phase 8.x post-V1
+
+**Filed:** 2026-07-09 late (Cluster A2 Phase C extension status close-out)
+
+**Trigger:** Cluster A2 Phase A closed composition-scope wiring for 6 previously-unwired event categories (first_encounter, attractiveness_assessed, charisma_perceived, demand_withdraw_pattern, capital_conversion, habitus_field_mismatch_detected) — see `a2-phase-a-close-out-2026-07-09.md`. Cluster A2 Phase B validated operational-equivalence at all 4 Council-#6-ratified tiers with 11-of-12 event categories firing correctly at emit rates 6-478/tick + all budgets held with substantial headroom — see `a2-phase-b-close-out-2026-07-09.md`. Question: should Phase C minimum contract at `canonicalRegistry.ts` (shipped 2026-07-04) be extended to canonical-register any of these 6 event categories, enabling cross-product event synchronization?
+
+Framework judgment at 2026-07-09 late: NO Phase C extension warranted at V1 — Non-Inertness Gate 4-question check FAILED (no V1 consumer, no test dependency, no downstream reader, no measurable-effect disable) — see `a2-phase-c-extension-status-2026-07-09.md`. But the question is architecturally live enough to preserve for Phase 8.x post-V1 review.
+
+**Proposed candidacy body:**
+
+Framework should adjudicate at Phase 8.x post-V1 whether the 6 newly-wired event categories — or a subset thereof — should be canonical-registered via extension of the Phase C minimum contract, enabling cross-product event synchronization. Council #9 Item 140 review scope:
+
+1. **Cross-product candidacy taxonomy** (per Phase C extension status §4.3):
+   - **LOW cross-product candidacy:** first_encounter, attractiveness_assessed, charisma_perceived (Scene-local perception snapshots; unlikely to warrant cross-product registry)
+   - **MEDIUM cross-product candidacy:** demand_withdraw_pattern (attachment-behavioral marker; may or may not warrant registry depending on cross-product attachment-continuity architecture)
+   - **MEDIUM-HIGH cross-product candidacy:** capital_conversion, habitus_field_mismatch_detected (Bourdieu capital forms + habitus-field tension are identity-relevant across products; strong candidacy IF cross-product entity migration enters V1+ scope)
+
+2. **Empirical foundation for Council review:** Phase A + Phase B shipped 2026-07-09; event emits are stable + deterministic + within budget at all 4 tiers. Phase 8.x review has empirical foundation to adjudicate cross-product event synchronization scope.
+
+3. **Trigger condition for Council review:** Cross-product migration surfaces V1-post ship per Room to Life memory 2026-06-09 architecture.
+
+**Prerequisites (must MET before Item 140 execution):**
+- V1 ship (per operator-ratified V1-pause pattern; ship date currently indefinite per `project_v1_ship_date_paused_build_mode_entered_2026-06-11_PM.md`)
+- Cross-product migration scope decision (currently deferred to Phase 8.x post-V1 per Room to Life memory 2026-06-09)
+- Council #9 Item 140 ratification (this item)
+- Cluster A2 Phase A + Phase B + Phase C status close-out (SHIPPED 2026-07-09 late — see 3 close-out artifacts)
+
+**Cross-references:**
+- Phase C extension status: `~/Projects/the-street-code/methodology/a2-phase-c-extension-status-2026-07-09.md`
+- Phase A close-out: `~/Projects/the-street-code/methodology/a2-phase-a-close-out-2026-07-09.md`
+- Phase B close-out: `~/Projects/the-street-code/methodology/a2-phase-b-close-out-2026-07-09.md`
+- Non-Inertness Gate (Item 132): `~/Projects/the-street-code/methodology/a2-non-inertness-gate-planning-2026-07-09.md`
+- Canonical registry v0.1.0-phase-c-minimum-contract: `~/Projects/sim-ai/src/ecosystem-registry/canonicalRegistry.ts`
+- Room to Life Universe architecture memory: `~/.claude/projects/-Users-jimmy/memory/project_room_to_life_universe_architecture_2026-06-09.md`
+- Council #6 close artifact (Decision 2 Room to Life Universe persistence contract RATIFIED FOUNDATIONAL at 3-of-4)
+
+**Confidence calibration:** LOW at V1 (Non-Inertness Gate FAILED); MEDIUM at Phase 8.x post-V1 (empirical foundation available; cross-product migration scope emergence would open review window).
 
 ---
 
