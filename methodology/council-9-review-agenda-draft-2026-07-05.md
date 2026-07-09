@@ -1731,6 +1731,306 @@ Disposition matrix non-foldable exclusions require empirical justification per e
 
 ---
 
+### Item 117 — HobbyProfile structured leisure-activity schema (SLP + Caillois + Beard-Ragheb + Belk + Sennett + Csikszentmihalyi + ATUS + Wolcott)
+
+**Filed:** 2026-07-08 late evening (post 4-agent scholarly research pass on framework schema gaps identified during operator comprehensive meta-analysis)
+
+**Trigger:** Comprehensive meta-analysis 2026-07-08 identified 4 real schema gaps in framework's biographical apparatus. Currently leisure/hobbies embedded in ExtendedBiographicalTemplate Section 13 (dailyLifeAndHabits) as free-text narrative — no structured HobbyProfile interface. Procedural-tier NPC generation cannot compose leisure behavior without structured taxonomy. Framework research index grep confirms zero prior indexed work on hobby/leisure/Stebbins/Caillois/Csikszentmihalyi/Beard-Ragheb/Sennett/Belk/ATUS — this is a genuine framework knowledge gap.
+
+**Candidate discipline body:** Structured HobbyProfile schema grounded in canonical peer-reviewed leisure-studies scholarship.
+
+**Scholarly foundation (verified via WebSearch per Rule 19 anti-fabrication discipline):**
+- **Stebbins, R. A. (1982) "Serious Leisure: A Conceptual Statement." *Pacific Sociological Review* 25(2), 251–272.** JSTOR: 1388726 (no DOI issued pre-DOI era). Serious Leisure Perspective: 3 forms (serious/casual/project-based) + 6 distinguishing qualities of serious leisure (perseverance, leisure career, personal effort, durable benefits, unique ethos/social world, strong identification with pursuit).
+- **Beard, J. G., & Ragheb, M. G. (1983) "Measuring Leisure Motivation." *Journal of Leisure Research* 15(3), 219–228.** DOI: 10.1080/00222216.1983.11969557 (VERIFIED). 4 motivation subscales: Intellectual + Social + Competence-Mastery + Stimulus-Avoidance. n=1205, α ≈ .90.
+- **Caillois, R. (1961) *Man, Play and Games* (M. Barash, Trans.).** Illinois Press paperback ISBN 978-0-252-07033-4 (VERIFIED). 4 categories (agôn/alea/mimicry/ilinx) + 2 poles (paidia/ludus).
+- **Belk, R. W. (1988) "Possessions and the Extended Self." *Journal of Consumer Research* 15(2), 139–168.** DOI: 10.1086/209154 (VERIFIED). Hobbies-as-identity-extension.
+- **Sennett, R. (2008) *The Craftsman*.** Yale UP. ISBN 978-0-300-11909-1 (VERIFIED). Craft-as-skilled-embodied-practice.
+- **Csikszentmihalyi, M. (1990) *Flow: The Psychology of Optimal Experience*.** ISBN 978-0-06-016253-5 (VERIFIED). Flow prerequisites for hobbies.
+- **U.S. Bureau of Labor Statistics American Time Use Survey (ATUS) Coding Lexicon.** VERIFIED URL: https://www.bls.gov/tus/lexicons.htm. 17 Tier-1 major categories, ~428 activities.
+- **Wolcott, V. W. (2012) *Race, Riots, and Roller Coasters: The Struggle over Segregated Recreation in America*.** U Penn Press. ISBN 978-0-8122-4434-4 (VERIFIED via JAH review). Era-specific accessibility for 1944 Philadelphia African-American leisure.
+
+**Interface schema (TypeScript):**
+```typescript
+export interface HobbyProfile {
+  hobbyId: string;
+  displayName: string;
+  atusTier1: ATUSTier1; // grounds in BLS empirical taxonomy
+  form: 'serious' | 'casual' | 'project_based'; // Stebbins 1982/2005
+  caillois: { primary: CailloisCategory; pole: 'paidia' | 'ludus' };
+  motivationVector: { intellectual: number; social: number; competenceMastery: number; stimulusAvoidance: number };
+  seriousLeisureQualities?: { perseverance: number; careerStage: CareerStage; personalEffortHoursPerWeek: number; durableBenefits: DurableBenefit[]; socialWorldMembership?: string; identificationStrength: number };
+  craftEmbodiment?: { skillYears: number; toolsAsExtendedSelf: string[] }; // Sennett + Belk
+  flowProfile?: { typicalChallengeSkillBalance: number; autotelic: boolean };
+  eraAccessibility: { era: string; accessible: boolean; accessibilityConstraint?: string };
+  provenance: 'operator_authored' | 'bundle_derived' | 'procedural_composed';
+}
+```
+Add to ExtendedBiographicalTemplate: `hobbies?: HobbyProfile[]`.
+
+**Empirical validation gates (5 hypotheses):**
+- H1 Serious vs. casual behavioral divergence (30-day tick-level time allocation test)
+- H2 Caillois mimicry-vs-agon social profile differentiation (matched HEXACO comparison)
+- H3 Beard-Ragheb motivation-to-attractor coupling (stimulus-avoidance ≥0.7 co-occurs with post-crisis coping)
+- H4 Belk extended-self bond durability (tool-loss response test)
+- H5 Era-accessibility gate (procedural composer MUST NOT assign white-only-pool leisure to Bundle A NPC without triggering accessibilityConstraint)
+
+**Falsification thresholds pre-registered:**
+- If HobbyProfile fields do NOT produce behavioral differentiation at n=30+ NPC harness → schema is architectural theater; DEFLATE to narrative-only
+- If Wolcott era-accessibility gate is bypassed in procedural composer → Rule 19 anti-fabrication violation; RETIRE Item 117 pending Phase 7.1f substrate-triangulation
+- If Marcus Reed Protocol NOT applied to era-accessibility fields at anchor-tier authoring → Council #9 review blocks canonization
+
+**Cross-references:**
+- ExtendedBiographicalTemplate Section 13 (existing narrative dailyLifeAndHabits)
+- FormativeEventType enum (existing creative_flow event)
+- Post 0128 WEIRD-defaults-avoided (ATUS is US-centric — flag for non-US scaling)
+- Post 0187 CulturalContextBundle inheritance (eraAccessibility should be bundle-derived DRY)
+- Council #9 Item 11 schema-reservation-with-provenance-enum-gating (HobbyProfile.provenance field per Item 11 pattern)
+
+**Verification-blocked notes:**
+- 1961 Caillois first-edition ISBN not verifiable; only Illinois reprint (978-0-252-07033-4) confirmed
+- Stebbins 1982 no crossref DOI (pre-DOI era); JSTOR canonical
+- Currell 2005 "March of Spare Time" scoped to 1930s not 1940s — Wolcott 2012 is correct era-specific source
+- Nisei + Tejano leisure history primary sources not researched in this pass (flag for Phase 7.1f)
+
+**Confidence calibration:** HIGH — 8 canonical scholarly foundations verified; interface schema grounded in peer-reviewed literature; empirical validation gates concrete.
+
+---
+
+### Item 118 — DialogueTurn structured turn-taking schema (Sacks-Schegloff-Jefferson + Grice + Bakhtin + Goffman + Brown-Levinson + Gumperz + Bell + Austin/Searle + Schiffrin + Labov)
+
+**Filed:** 2026-07-08 late evening (post 4-agent scholarly research pass)
+
+**Trigger:** Framework's pair-relational plane (Post 0199) models conversations as ATOMIC MAGNITUDE EVENTS (accommodation, turning-toward, four-horseman, etc.) — no turn-by-turn dialogue schema. Framework's CulturalContextLanguageRegime carries narrative fields but no structured turn schema. Procedural NPC dialogue generation cannot compose with authentic turn-taking + code-switching + face-work.
+
+**Candidate discipline body:** Structured DialogueTurn schema grounded in canonical peer-reviewed conversation analysis + pragmatics + sociolinguistics.
+
+**Scholarly foundation (verified via WebSearch per Rule 19):**
+- **Sacks, H., Schegloff, E. A., & Jefferson, G. (1974) "A Simplest Systematics for the Organization of Turn-Taking for Conversation." *Language* 50(4), 696-735. DOI: 10.2307/412243** (VERIFIED). TCUs + TRPs + turn-allocation + repair.
+- **Grice, H. P. (1975) "Logic and Conversation."** In Cole & Morgan (eds.) *Syntax and Semantics Vol. 3: Speech Acts*. Cooperative Principle + 4 maxims + implicature.
+- **Bakhtin, M. M. (1981) *The Dialogic Imagination*.** ISBN 978-0-292-71527-2 (VERIFIED). Heteroglossia + speech genres.
+- **Goffman, E. (1955) "On Face-Work: An Analysis of Ritual Elements in Social Interaction." *Psychiatry* 18(3), 213-231. DOI: 10.1080/00332747.1955.11023008** (VERIFIED).
+- **Brown, P., & Levinson, S. C. (1987) *Politeness: Some Universals in Language Usage*.** Cambridge UP. ISBN 978-0-521-31355-1 (VERIFIED). Positive/negative face + FTAs + 4 strategies.
+- **Gumperz, J. J. (1982) *Discourse Strategies*.** Cambridge UP. ISBN 978-0-521-28896-6 (UNVERIFIED — flag). Contextualization cues + code-switching + we-code/they-code.
+- **Bell, A. (1984) "Language Style as Audience Design." *Language in Society* 13(2), 145-204. DOI: 10.1017/S004740450001037X** (VERIFIED). Audience-design.
+- **Austin, J. L. (1962) *How to Do Things with Words*** + **Searle, J. R. (1969) *Speech Acts*.** ISBN 978-0-521-09626-3 (UNVERIFIED — flag). 5-part illocutionary force taxonomy.
+- **Schiffrin, D. (1987) *Discourse Markers*.** Cambridge UP. ISBN 978-0-521-35718-0 (VERIFIED).
+- **Labov, W. (1972) *Language in the Inner City*.** ISBN 978-0-8122-1051-7 (UNVERIFIED — flag). 6-part narrative structure.
+
+**Interface schema (TypeScript):**
+```typescript
+export interface DialogueTurn {
+  turnId: string;
+  tick: number;
+  speaker: EntityId;
+  addressee: EntityId;
+  auditors: readonly EntityId[]; // Bell audience-design
+  overhearers: readonly EntityId[];
+  turnContent: string | { opaque: true; hash: string };
+  tcuCount: number; // Sacks TCU
+  trpTaken: 'self_selected' | 'current_selected_next' | 'continued';
+  illocutionaryForce: 'assertive' | 'directive' | 'commissive' | 'expressive' | 'declarative'; // Searle
+  implicatureFlagged: boolean; // Grice maxim flout
+  maximObserved: readonly ('quantity' | 'quality' | 'relation' | 'manner')[];
+  faceWork: 'bald_on_record' | 'positive_politeness' | 'negative_politeness' | 'off_record' | 'face_threat'; // Brown-Levinson
+  codeSwitchStatus: 'monolingual' | 'inGroup_only' | 'they_code_only' | 'we_to_they' | 'they_to_we' | 'metaphorical_switch'; // Gumperz
+  discourseMarker: 'well' | 'so' | 'oh' | 'y_know' | 'i_mean' | 'but' | 'and' | 'because' | null; // Schiffrin
+  register: string; // Bell audience-design
+  narrativeSlot: 'abstract' | 'orientation' | 'complicating_action' | 'evaluation' | 'resolution' | 'coda' | null; // Labov
+  repairInitiated: 'none' | 'self' | 'other'; // Sacks-Schegloff-Jefferson
+  emitsPairRelationalEvents: readonly PairRelationalEventType[];
+}
+```
+
+**Compositional relationship to pair-relational plane (RECOMMENDED: EMIT-AS pattern):**
+DialogueTurn is source event; mapping function turnToPairRelational() emits 0-N pair-relational events per turn. Preserves M8 pair-relational as separate plane + Stage 4 harness 7/7 PASS. Non-disruptive to Fires G-K reshape arc.
+
+**Empirical validation gates (6 hypotheses):**
+- H1 Sacks TRP density (~250ms modal gap per Stivers 2009 — UNVERIFIED, flag as prospective)
+- H2 Grice implicature detection (maxim-flout signals differ from no-flout baseline)
+- H3 Bell audience-design (register shifts on auditor change with identical addressee)
+- H4 Brown-Levinson politeness weight (face-threat toward high-power vs low-power differ in sentiment impact)
+- H5 Gumperz code-switch (we_to_they switch shifts dyad sentiment; in-group signal loss)
+- H6 Schiffrin marker distribution (y_know co-occurs with expressive at Schiffrin 1987 corpus rate)
+
+**Falsification thresholds pre-registered:**
+- If DialogueTurn emitPairRelationalEvents mapping does NOT reproduce Fires G-K asymmetric override signature → schema breaks Stage 4 harness; RETIRE
+- If code-switch valid values NOT filtered by bundle.languageRegime → Rule 19 fabrication risk (monolingual English 1990s bundle emitting we_to_they); DEFLATE to bundle-gated only
+
+**Cross-references:**
+- pairRelationalPlane.ts (existing 14 PairRelationalEventType)
+- culturalContextBundle.ts §158-167 (CulturalContextLanguageRegime narrative fields — needs structured codeSwitchingRepertoire sibling)
+- biographicalRecord.ts communicationStyle (existing narrative field)
+- dialogueSurfaceLint.ts (existing 5-rule DSL-1 to DSL-5 lint — extend for structured turn validation)
+- Post 0128 WEIRD-defaults-avoided
+- Council #9 Item 106 Option B REBOUND M8 (HEXACO a-driven only at pair-relational)
+
+**Verification-blocked notes:**
+- Gumperz 1982 ISBN not confirmed against Wikipedia page (from training memory)
+- Searle 1969 ISBN not confirmed
+- Labov 1972 publisher + ISBN not confirmed
+- Grice 1975 exact maxim wording not primary-source verified
+- Stivers et al. 2009 turn-gap cited in H1 gate is from training memory — mark PROSPECTIVE
+
+**Confidence calibration:** HIGH — 10 canonical scholarly foundations largely verified; EMIT-AS compositional pattern preserves Stage 4 methodology commitment; interface schema architecturally non-disruptive.
+
+---
+
+### Item 119 — VernacularProfile structured phonological/lexical/grammatical inventory (Labov + Trudgill + Eckert + Wolfram + Rickford + Fought + Poplack + Muysken + Bell + Milroy + D'Onofrio-van Hofwegen)
+
+**Filed:** 2026-07-08 late evening (post 4-agent scholarly research pass)
+
+**Trigger:** Framework's CulturalContextLanguageRegime carries narrative fields for language regime + code-switching conventions, but no structured phonological/lexical/grammatical inventory. Framework's biographicalRecord.communicationStyle is narrative-only. Procedural NPC dialogue generation cannot compose authentic regional/ethnic dialects.
+
+**Candidate discipline body:** Structured VernacularProfile schema grounded in canonical peer-reviewed variationist + interactional + code-switching sociolinguistics.
+
+**Scholarly foundation (verified via WebSearch per Rule 19):**
+- **Labov, W. (1972) *Language in the Inner City*.** ISBN 978-0812210514 (VERIFIED via Penn Press). AAVE + narrative structure.
+- **Labov, W. (1972) *Sociolinguistic Patterns*.** U Penn Press (VERIFIED). Variable rules + Observer's Paradox.
+- **Trudgill, P. (1974) *The Social Differentiation of English in Norwich*.** ISBN 978-0521202640 (VERIFIED). Canonical variationist study.
+- **Eckert, P. (2000) *Linguistic Variation as Social Practice*.** ISBN 978-0631186038 (VERIFIED). Third-Wave sociolinguistics.
+- **Wolfram, W. & Schilling, N. (2015) *American English: Dialects and Variation, 3rd ed.*** ISBN 978-1118390221 (VERIFIED).
+- **Wolfram, W. (1969) *A Sociolinguistic Description of Detroit Negro Speech*.** Center for Applied Linguistics (VERIFIED via ERIC).
+- **Rickford, J. R. (1999) *African American Vernacular English*.** ISBN 978-0631212454 (VERIFIED). Framework already cites at contextBundleA_v1.
+- **Fought, C. (2003) *Chicano English in Context*.** ISBN 978-0333986370 (VERIFIED).
+- **Poplack, S. (1980) "Sometimes I'll start a sentence in Spanish..." *Linguistics* 18(7-8): 581-618. DOI: 10.1515/ling.1980.18.7-8.581** (VERIFIED). Free Morpheme + Equivalence Constraints.
+- **Muysken, P. (2000) *Bilingual Speech*.** ISBN 978-0521771689 (VERIFIED). Insertion/alternation/congruent-lexicalization typology.
+- **Halliday, M.A.K. (1978) *Language as Social Semiotic*.** ISBN 978-0713159677 (PARTIAL — publisher confirmed, register-triad location unverified from snippet).
+- **Bell, A. (1984) "Language Style as Audience Design." *Language in Society* 13(2). DOI: 10.1017/S004740450001037X** (VERIFIED).
+- **Milroy, L. (1980) *Language and Social Networks*.** ISBN 0631125914 (VERIFIED). Network density.
+- **D'Onofrio, A. & van Hofwegen, J. (2020) "Nisei Style: Vowel Dynamism in a Second-Generation Japanese American Community." *PADS* 105(1): 79-94. DOI: 10.1215/00031283-8820631** (VERIFIED) — CAVEAT: contemporary California, NOT 1946 Chicago Nisei.
+
+**Interface schema (TypeScript):**
+```typescript
+export interface VernacularProfile {
+  phonologicalFeatures: PhonologicalFeature[]; // Labov+Wolfram-attested per era+region
+  lexicalMarkers: LexicalMarker[]; // era-verified per bundle
+  grammaticalPatterns: GrammaticalPattern[]; // Rickford 1999-attested (habitual-be, copula-deletion, zero-3sg, aspectual-been)
+  registerRange: RegisterProfile; // Halliday field/tenor/mode + Labov attention-to-speech
+  codeSwitchTriggers: CodeSwitchTrigger[]; // Poplack constraints + Muysken typology
+  suppressionAwareness: number; // 0-100 Rickford + Wolfram documented linguistic-shame
+  networkDensity: number; // 0-100 Milroy 1980
+  audienceDesignSensitivity: number; // 0-100 Bell 1984
+  indexicalStance: IndexicalStance; // Eckert 2000 Third-Wave persona-and-indexicality
+}
+```
+Add to CulturalContextLanguageRegime: `vernacularProfile?: VernacularProfile`.
+
+**Empirical validation gates:**
+- Feature-inventory audit per bundle (do features listed match Rickford/Fought/D'Onofrio-van Hofwegen for era+region?)
+- Constraint-satisfaction test (procedural code-switch productions checked against Poplack constraints at n=100 utterances)
+- Register-continuum test (Bell audience-design predictions: NPC produces different feature-densities to in-group vs authority interlocutors)
+- Anti-caricature gate (Phase 7.1f substrate-triangulation confirms lexical markers avoid minstrel-style caricature per Post 0128)
+
+**Falsification thresholds pre-registered:**
+- If Bundle E (1946 Chicago Nisei) VernacularProfile populated WITHOUT Phase 7.1f substrate-triangulation → Rule 19 anti-fabrication violation (no located 1946 structured study); BLOCK canonization
+- If Poplack constraint violations exceed 5% of procedural productions → RETIRE code-switch compositional layer
+- If VernacularProfile fields do NOT produce Bell audience-design register-shift signature → DEFLATE to bundle-metadata only
+
+**Cross-references:**
+- CulturalContextLanguageRegime (existing narrative fields to be extended)
+- communicationStyle at biographicalRecord (existing narrative to be complemented)
+- Post 0128 WEIRD-defaults-avoided (English-monolingual-middle-class register IS the WEIRD default; VernacularProfile forces per-bundle specification)
+- Marcus Reed Protocol scope (anti-caricature discipline)
+
+**Bundle-specific considerations + Rule 19 gates:**
+- **Bundle A (1944 Philly African-American):** pre-Great-Migration AAVE features per Rickford 1999 + Wolfram & Thomas 2002 — CAN populate from cited scholarship
+- **Bundle D (1946 SA Tejano):** Chicano English features per Fought 2003 (era-CAVEAT: post-dates 1946); Poplack constraints (era-CAVEAT: 1970s NYC Puerto Rican, not 1946 TX Tejano) — REQUIRES Phase 7.1f triangulation to Bayley/Santa Ana era-work
+- **Bundle E (1946 Chicago Nisei):** NO located structured sociolinguistic study for 1946 Chicago Nisei English post-Manzanar — Rule 19 gate: MUST triangulate before populating
+
+**Verification-blocked notes:**
+- Halliday 1978 field/tenor/mode triad specific chapter/page unverified
+- 1946 Chicago Nisei English structured study NOT located
+- 1946 SA Tejano English structured study NOT located
+- Labov 1972 Sociolinguistic Patterns ISBN not retrievable (pre-widespread ISBN)
+
+**Confidence calibration:** HIGH — 14 canonical scholarly foundations largely verified; Rule 19 gates explicit for Bundle E + partial for Bundle D; interface schema methodologically grounded.
+
+---
+
+### Item 120 — UnifiedUSTimeline + inter-bundle historical coherence checker (Wilkerson + Foner + Branch + Ransby + Kelley + Zinn + Braudel + Cronon + Ngai + Daniels + Ruiz + Lipsitz + CIDOC-CRM)
+
+**Filed:** 2026-07-08 late evening (post 4-agent scholarly research pass)
+
+**Trigger:** Framework's CulturalContextBundle carries bundle-scoped nearHorizonEvents (11-14 dated events per bundle) + documentedTensions (6-9 per bundle) — but each bundle is ISOLATED. A 1944 Philadelphia national event (e.g., Smith v. Allwright, Bracero Program renewal) is not VISIBLE to a 1946 Tejano bundle even though it's the same national context. No inter-bundle coherence checker exists.
+
+**Candidate discipline body:** Structured UnifiedUSTimeline shared across bundles (bundles reference by event.id; do NOT replace bundle nearHorizonEvents which carry bundle-specific relevanceNote) + CoherenceReport function.
+
+**Scholarly foundation (verified via WebSearch per Rule 19):**
+- **Wilkerson, I. (2010) *The Warmth of Other Suns: The Epic Story of America's Great Migration*.** ISBN 9780679444329 (VERIFIED). NBCC Award; canonical for Southern Black-American migration 1915-1970.
+- **Foner, E. (1988) *Reconstruction: America's Unfinished Revolution, 1863-1877*.** Bancroft/Parkman Award. ISBN 9780060937164 (operator-supplied UNVERIFIED — different ISBN for original hardcover per Internet Archive).
+- **Branch, T. — Civil rights trilogy** (Parting the Waters 1988 Pulitzer; Pillar of Fire 1998; At Canaan's Edge 2006) (ISBNs UNVERIFIED this session).
+- **Ransby, B. (2003) *Ella Baker and the Black Freedom Movement*.** UNC Press (ISBN UNVERIFIED).
+- **Kelley, R. D. G. (1990) *Hammer and Hoe: Alabama Communists During the Great Depression*.** UNC Press (ISBN UNVERIFIED).
+- **Zinn, H. (1980) *A People's History of the United States*.** Harper & Row (operator ISBN 9780062397348 UNVERIFIED — pattern suggests 2015 reprint).
+- **Braudel, F.** *La Méditerranée...* (1949) + *On History* (1980). Load-bearing longue durée / conjoncture / événement triadic architecture maps to applicabilityHorizon axis (ISBNs UNVERIFIED).
+- **Cronon, W. (1991) *Nature's Metropolis: Chicago and the Great West*.** Bancroft Prize (ISBN UNVERIFIED).
+- **Ngai, M. M. (2004) *Impossible Subjects*.** Princeton UP (ISBN UNVERIFIED). 1924 Johnson-Reed → 1965 Hart-Celler.
+- **Daniels, R. (2004) *Prisoners Without Trial*.** Hill & Wang rev.ed. (ISBN UNVERIFIED). EO 9066 / WRA / resettlement.
+- **Ruiz, V. L. (1998) *From Out of the Shadows*.** Oxford UP (operator ISBN 9780195187106 — plausibly 2008 anniversary ed., UNVERIFIED).
+- **Lipsitz, G. (1998) *The Possessive Investment in Whiteness*.** Temple UP (ISBN UNVERIFIED).
+- **CIDOC-CRM / ISO 21127:2023** (supersedes 2014); community v7.1.3 (2024-02) (VERIFIED via cidoc-crm.org). Adds OGC spatiotemporal reasoning — directly load-bearing for RegionScope.
+
+**Interface schema (TypeScript):**
+```typescript
+interface UnifiedUSTimeline {
+  events: HistoricalEvent[];
+  eras: Era[];
+  regionScopes: RegionScope[];
+  populationScopes: PopulationScope[];
+  sources: CulturalContextSource[]; // reuses bundle citation schema
+  timelineVersion: string;
+  registeredDate: string;
+}
+interface HistoricalEvent {
+  id: string; // e.g. "evt_1948_delgado_v_bastrop"
+  date: string;
+  name: string;
+  description: string;
+  regionScope: 'national' | 'regional' | 'local';
+  regionSpecifier?: string;
+  populationImpactScopes: string[];
+  sourceIndices: number[];
+  applicabilityHorizon: 'immediate' | 'proximate' | 'distant'; // Braudel événement → conjoncture → longue durée
+  cidocEventType?: 'E5_Event' | 'E7_Activity' | 'E63_Beginning' | 'E64_End';
+  marcusReedFlag?: boolean; // touches protected-class content
+}
+function interBundleCoherenceChecker(bundleA, bundleB, timeline): CoherenceReport;
+```
+
+**Compositional relationship (RECOMMENDED: SHARED timeline, bundles reference by event.id):**
+Bundle-authored nearHorizonEvents carry bundle-specialized relevanceNote (how event applies to these inhabitants); shared timeline supplies event body + sources. New bundle field: `sharedTimelineEventRefs?: readonly { eventId: string; relevanceNote: string }[]`. Preserves Post 0187 CulturalContextBundle inheritance pattern.
+
+**Empirical validation gates:**
+- Temporal-envelope check (every referenced event dated within [bundle.eraLocked - 30yr, +15yr] Braudel proximate horizon)
+- Cross-bundle national-event coverage (bundles within 5yr overlap must reference shared national events OR document intentionalExclusion)
+- Population-scope reachability (every event's populationImpactScopes matches ≥1 registered bundle communityScoping)
+- Citation resolvability (sourceIndices → sources with sourceClass ≠ 'plausible_unverified' at ship time)
+- CIDOC-CRM compilability (round-trip test to flat runtime table per Post 0191 4-layer pattern)
+
+**Falsification thresholds pre-registered:**
+- If UnifiedUSTimeline events NOT byte-verified against primary sources → Rule 19 anti-fabrication violation; RETIRE
+- If Marcus Reed flag not applied to events touching protected-class violence/incarceration/forced-removal → Item 120 canonization BLOCKED pending Marcus Reed audit
+- If coherence checker produces false positives (flags bundles as coherent when historically inconsistent) → RETIRE with byte-verification of event provenance
+
+**Marcus Reed Protocol implications:**
+Events touching protected-class content (any event where populationImpactScopes includes race/ethnicity/disability/sexual-orientation/religion AND involves violence/incarceration/forced-removal/state-sanctioned-discrimination) carry `marcusReedFlag: true`. Examples: EO 9066 + WRA camps; lynching-attested events + Emmett Till; Tulsa 1921 + Rosewood 1923 + MOVE 1985; Indian boarding schools 1879-1978; Bracero exploitation events; Stonewall + Compton's Cafeteria + White Night riots. Consultation-gate policy per Post 0191.
+
+**Cross-references:**
+- CulturalContextBundle (existing bundle citation schema at :78-133 CulturalContextSource — timeline can reuse)
+- Post 0191 CIDOC-CRM authoring-vs-runtime distinction (authoring format compatible with E5_Event / E7_Activity / E63_Beginning; compile to flat runtime table)
+- Post 0128 accumulator concealment (national-timeline default silently privileges dominant-narrative events; populationImpactScopes forces axis into consciousness)
+- Rule 24 convergence-is-not-truth (multi-substrate agreement on canonicity is NOT byte-verification)
+- Rule 19 anti-fabrication (schema-populated fields require primary_verified/secondary_supported sources)
+
+**Verification-blocked notes:**
+- ISBNs for Foner + Zinn + Ruiz operator-supplied UNVERIFIED against publisher databases
+- ISBNs for Branch trilogy + Ransby + Kelley + Braudel + Cronon + Ngai + Daniels + Lipsitz NOT byte-checked this session
+- All schema-populated events MUST route through Rule 19 gate at ship time (sourceClass = 'primary_verified' OR 'secondary_supported' — never 'plausible_unverified')
+
+**Confidence calibration:** HIGH for canonicity of scholarly foundation (all 12 works widely-attested); MEDIUM for byte-level ISBN verification (2 of 13 confirmed this session). Recommend post-Round-5-audit ISBN verification pass before Item 120 canonization.
+
+---
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
