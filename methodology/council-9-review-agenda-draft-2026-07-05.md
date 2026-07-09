@@ -3,7 +3,7 @@
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
 **Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
-**Total candidacy items:** 101+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 100 filed 2026-07-08 morning Rule 26 candidacy proposal consolidating Items 20 + 33 + 66 as Retired-workflow-recurrence discipline + Item 101 filed 2026-07-08 morning Cycle 12 Steps 6-9 retirement disposition + Item 55 RETIRED per split/retire/reduce mechanism)
+**Total candidacy items:** 131+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 100 filed 2026-07-08 morning Rule 26 candidacy proposal consolidating Items 20 + 33 + 66 as Retired-workflow-recurrence discipline + Item 101 filed 2026-07-08 morning Cycle 12 Steps 6-9 retirement disposition + Item 55 RETIRED per split/retire/reduce mechanism)
 
 **Post-v3-ratification trigger 2026-07-07 late afternoon:** Phase 15 v3 implementation proposal RATIFIED per operator "ship, act comprehensively" directive. Stage 1 pilot begins with 15-A UMAP diagnostic (Weeks 1-2). Council #9 empirical review scheduled ~60 days after Stage 1 empirical gate results land (Week 18+). If Stage 1 gates PASS, Council #9 review has real Stage 1 empirical evidence to adjudicate against. If Stage 1 gates FAIL, Council #9 review deferred until architecture revised + Stage 1 re-run.
 
@@ -1845,7 +1845,22 @@ export interface DialogueTurn {
 DialogueTurn is source event; mapping function turnToPairRelational() emits 0-N pair-relational events per turn. Preserves M8 pair-relational as separate plane + Stage 4 harness 7/7 PASS. Non-disruptive to Fires G-K reshape arc.
 
 **Empirical validation gates (6 hypotheses):**
-- H1 Sacks TRP density per Stivers et al. 2009 (PNAS DOI 10.1073/pnas.0903616106; CORRECTED via Round 5 Perplexity audit from prior "~250ms modal gap" over-specification): overall MODE is 0 ms; per-language modes range 0 to +200 ms; overall MEAN response offset is +208 ms; language means fall within ~250 ms of the cross-language mean across 10 languages. Test framework's simulated turn-gap distribution matches these Stivers 2009 empirically-observed values, not the prior single-modal-gap over-specification.
+- H1 Sacks TRP density per Stivers et al. 2009 (PNAS DOI 10.1073/pnas.0903616106; CORRECTED via Round 5 Perplexity audit + FURTHER SPECIFIED via Round 5 Gemini Deep Think HIGH-4 to require Ex-Gaussian generative process): overall MODE is 0 ms; per-language modes range 0 to +200 ms; overall MEAN response offset is +208 ms; language means fall within ~250 ms of the cross-language mean across 10 languages.
+  - **Generative-process specification (Gemini R5 HIGH-4 fold + Deep Research R5 HIGH-2 framing correction):** DialogueTurn transition-timing MUST be generated via Ex-Gaussian (or comparable right-skewed) distribution such that the resulting distribution MODE ≈ 0 ms + resulting distribution MEAN ≈ +208 ms match Stivers 2009 empirical values. Symmetric Gaussian centered at MEAN +208 ms is statistically fatal: (a) erases highly-coordinated rapid responses at mode; (b) generates impossible negative timings on left tail. Empirically anchored per Casillas 2014 + Roberts 2015 subsequent literature on right-skewed response-latency distributions.
+
+    **Framework framing correction per Deep Research R5:** the empirical MODE at 0 ms is NOT "normative biological intent of immediate transition" — cognitive planning (morphological + phonological + phonetic encoding) requires at least 600 ms per Levinson 2016 review, so speakers ANTICIPATE turn ends via prediction. The 0 ms mode is a distributional artifact of successful anticipation, not "intent." Framework's prior "0 ms = normative biological intent" phrasing MISCHARACTERIZED the mechanism. Corrected framing: speakers deploy predictive processing to anticipate turn ends; when prediction succeeds, transitions cluster near 0 ms; the empirical distribution reflects anticipation quality, not raw motor speed.
+
+    **Ex-Gaussian(μ, σ, τ) hierarchical parameter allocation (Deep Research R5 HIGH-2 recommendation):**
+      - σ (Gaussian variance) — GLOBAL / UNIVERSAL (baseline physiological variance in comprehension + articulation planning)
+      - μ (Gaussian mean parameter) — GLOBAL / UNIVERSAL, tuned so distribution mode ≈ 0 ms; typically μ small-positive (framework must empirically calibrate against Stivers 2009 histograms rather than adopt Deep Research's literal μ=200 ms which would push distribution mean past 208 via +τ)
+      - τ (exponential tail parameter) — PER-CULTURE / LOCAL (captures cross-cultural variation in tolerance for silence, hesitancy, sequence-organization complexity per Stivers 2009 cross-language data)
+
+    **Prohibited implementations:**
+      - Symmetric Gaussian(μ=+208, σ=X) — fatal per HIGH-2 (produces negative timings; erases mode)
+      - Literal μ=+200 ms in Ex-Gaussian (would push distribution mean above 208 ms via +τ addition; Deep Research's specific number was framing-motivated not parametrization-precise)
+      - Sampling per-culture means as Normal(cross_language_mean, σ=250ms) — fatal per LOW-7 (overstates variance to 3σ multi-second outliers)
+  - **Parameter-typing (Gemini R5 LOW-7 fold):** the "~250 ms within cross-language mean" figure is a BOUND on maximum deviation of per-language population parameters (uniform truncation boundary), NOT a standard deviation. Downstream substrates MUST NOT sample per-culture means as Normal(cross_language_mean, σ=250ms) — that would overstate variance and permit 3σ multi-second outliers.
+  - Test framework's simulated turn-gap distribution: MODE ≈ 0 ms AND MEAN ≈ +208 ms via Ex-Gaussian generative process with σ + μ global and τ per-culture per Deep Research R5 HIGH-2 hierarchical allocation.
 - H2 Grice implicature detection (maxim-flout signals differ from no-flout baseline)
 - H3 Bell audience-design (register shifts on auditor change with identical addressee)
 - H4 Brown-Levinson politeness weight (face-threat toward high-power vs low-power differ in sentiment impact)
@@ -1869,7 +1884,7 @@ DialogueTurn is source event; mapping function turnToPairRelational() emits 0-N 
 - Searle 1969 ISBN not confirmed
 - Labov 1972 publisher + ISBN not confirmed
 - Grice 1975 exact maxim wording not primary-source verified
-- Stivers et al. 2009 turn-gap VERIFIED via Round 5 Perplexity audit at PNAS DOI 10.1073/pnas.0903616106 — CORRECTED prior over-specification: overall mode 0 ms, per-language modes 0-200 ms, overall mean +208 ms, language means within ~250 ms of cross-language mean
+- Stivers et al. 2009 turn-gap VERIFIED via Round 5 Perplexity audit at PNAS DOI 10.1073/pnas.0903616106 — CORRECTED prior over-specification: overall mode 0 ms, per-language modes 0-200 ms, overall mean +208 ms, language means within ~250 ms of cross-language mean; FURTHER SPECIFIED via Round 5 Gemini Deep Think HIGH-4: generative process must be Ex-Gaussian (right-skewed), not symmetric Gaussian
 
 **Confidence calibration:** HIGH — 10 canonical scholarly foundations largely verified; EMIT-AS compositional pattern preserves Stage 4 methodology commitment; interface schema architecturally non-disruptive.
 
@@ -2169,6 +2184,575 @@ Framework's recursion count remains HELD at n=7+ per Opus round 4 adjudication +
 - Round 5 Perplexity substrate audit (7 ISBN errors + 1 scope error + 1 empirical-detail error = 9 uncaught issues)
 
 **Confidence calibration:** HIGH — empirical test result documented at 9 specific citations across 27 framework-author-verified references; error rate calculable; framework methodology commitment implications directly derivable.
+
+**AMENDMENT 2026-07-09 (post-Grok-Round-5a close-out — M6 gap extends beyond citation scope to prep-pipeline scope at n+1):**
+Grok Round 5a substrate audit produced a phantom CRITICAL-1 finding ("M10 fold documented but absent from `evolvePairRelational`") that was empirically refuted against the canonical file at `~/Projects/Open Alley/src/components/sim-ai/islandStage345State.ts:172-195`. Root cause: the code-attachment uploaded to Grok was a pre-Round-4 snapshot (SHA `b580d43…`) predating the M10 fold; canonical file (SHA `7aba414…`) contains the fold. Attachment-prep pipeline drift produced a stale artifact that Grok correctly critiqued — but the finding does not apply to the framework's actual code.
+
+**Scope extension of M6 empirical failure:**
+- Round 5 Perplexity (citation scope) → framework author self-verification ~33% error rate → author-review-scope gap
+- Round 5a Grok (attachment-freshness scope) → substrate-audit-package prep byte-freshness gap → prep-pipeline-scope gap (~23.5% stale rate)
+- **Round 5b Grok (implementation self-review scope) → 3/9 vectors ≈ ~33% author implementation self-review miss rate → implementation-scope gap**
+
+M6 discipline gap therefore extends beyond citation self-verification to the artifact-preparation pipeline AND to implementation self-review of the framework author's own code changes. Framework methodology commitment M6 must extend to Option A/B/C at Item 122 above PLUS an artifact-integrity discipline covering audit-package prep AND substrate-consultation for author's own implementation self-review. See Council #9 Item 123 (audit-package byte-freshness discipline candidacy) + Item 125 (emit/execution observability-must-match-execution discipline candidacy) for the operational remediation.
+
+**Four-scope empirical convergence — statistically indistinguishable ~25-44% miss rate:**
+- Perplexity R5 (citation-verification self-review): 9/27 = **33%**
+- Grok R5a (attachment-freshness prep self-review): 4/17 = **23.5%**
+- Grok R5b (implementation self-review): 3/9 = **33%**
+- **Gemini R5 (statistical-application self-review): 4/9 = ~44%** — framework author applied N=1 to H19 despite own Round 3 CRITICAL-5 N≥5 canonization; reported saturation as "PROVEN NULL" via TOST; applied H15's single-event SESOI ±1.0 to cumulative 30-tick horizon; failed to detect that saturation p=0.0000 in family-wise pool loosens BH-FDR threshold via `(i+k)/(m+k) > i/m`
+
+Post 0197 recursion count HELD at n=7+ with n=8+ candidacy STRENGTHENED at 4th independent scope — four audit-substrate scopes converge on the same phenomenon: framework author self-review at ANY scope is empirically insufficient without substrate consultation, and the miss rate holds at ~25-44% consistently. This is the class of gap M6 discipline was meant to catch.
+
+**AMENDMENT 2026-07-09 (post-Deep Research R5) — 5th empirical instance + substrate-substrate disagreement novel M6 subtype:**
+
+Deep Research R5 extends M6 empirical failure to **literature-grounding scope** and additionally surfaces a NOVEL M6 empirical instance: substrate-substrate disagreement at diagnostic scope within a single audit round.
+
+**5th scope M6 empirical convergence (Deep Research literature-grounding scope):**
+
+Deep Research R5 literature-grounded critique surfaced findings framework author had missed via self-review at citation-scope:
+- Framework claimed Kito 2017 is universal cross-cultural (Perplexity R5 correction was also wrong) — Deep Research verified Kito 2017 is dual-country (Japan vs USA/Canada); canonical universal baseline is Thomson 2018 PNAS (39-nation, DOI 10.1073/pnas.1713191115); framework author + Perplexity BOTH missed sample-scope-vs-theoretical-generalization distinction
+- Framework "0 ms = normative biological intent" framing was mischaracterization — Deep Research grounded cognitive planning (≥600 ms per Levinson 2016 review) + anticipation as actual mechanism
+- Framework proposed novel "registry-relative fraction of achievable ceiling" methodology had ZERO foundation in canonical literature — Deep Research grounded Hehman-Flake-Freeman 2017 variance decomposition as canonical alternative
+- Framework post-Deep-Think MCSE-on-deterministic-trajectory application was mathematical tautology — Deep Research grounded Saltelli 2008 GSA / Sobol indices as canonical alternative
+
+**Five-scope M6 empirical convergence (statistically indistinguishable ~25-44% miss rate):**
+- Perplexity R5 (citation self-verification): 33%
+- Grok R5a (attachment-freshness prep): 23.5%
+- Grok R5b (implementation self-review): 33%
+- Gemini Deep Think R5 (statistical application): ~44%
+- **Deep Research R5 (literature-grounding self-review): ~40% based on 4 substantive misattributions verified**
+
+**NOVEL M6 subtype — substrate-substrate disagreement at diagnostic scope within single audit round:**
+
+Deep Think R5 and Deep Research R5 arrived at DIFFERENT fixes for the same identified problem (H19's static-SESOI-vs-cumulative-horizon tautology):
+- Deep Think proposed: "registry-relative fraction of achievable ceiling" (novel; framework-implementable)
+- Deep Research proposed: standard variance decomposition per Hehman 2017 (canonical; literature-grounded)
+
+This is the FIRST substrate-substrate disagreement at diagnostic scope within a single audit round in framework methodology history. Framework A3 hybrid resolution: retained BOTH as complementary (variance decomposition PRIMARY per Deep Research canonical grounding; ceiling-fraction DIAGNOSTIC per Deep Think retained). Framework acknowledges "novel diagnostic + canonical primary" hybrid as principled response to substrate disagreement.
+
+**Post 0197 recursion count implications (amended):**
+
+Framework's n=7+ HELD status STRONGLY STRENGTHENED at 5th scope + n=8+ candidacy STRONGLY STRENGTHENED with novel M6 subtype (substrate disagreement) documented. Reddy-Lolla-Sanku 2026 (arxiv 2605.21537 VERIFIED via Rule 19 WebFetch — 31.7% miss rate on 1,980 LLM code-modernization calls) provides convergent empirical evidence from DISTINCT DOMAIN (LLM code modernization at 31.7% miss rate) validating framework's methodology-scope 25-44% miss rate. Item 131 filed for Post 0197 semantics clarification (Deep Research misread framework's "recursive at n+1" as self-review; actual usage is external adversarial validation across scopes).
+
+**Opus Round 5 PARTIAL amendment (2026-07-09 late) — over-read acknowledgment:**
+
+Opus Round 5 identified that framework's "5-scope convergence at 25-44%" claim is over-read. Statistical grounds:
+- Denominators are tiny: 27, 17, 9, 9, 10 across the five scopes
+- 95% confidence intervals on ratios at these Ns overlap trivially — "statistically indistinguishable" is architecturally guaranteed at small N regardless of underlying process
+- Both numerators AND denominators are curated by framework author's disposition step (which findings count as misses; which vectors count as tested)
+- Reddy-Lolla-Sanku's 31.7% has a well-defined denominator (all 1,980 modernization calls; 262 semantic drift cases); framework's ratios have author-defined scope
+
+Framework accepts Opus's diagnosis: the convergence rate is manufactured by the process, then fed back as evidence for the process. Item 122 preserves the finding at each scope as qualitatively meaningful (framework author DID miss real issues at each scope), but the specific "~25-44% convergence" quantitative claim is retracted as statistically unsupported at these sample sizes.
+
+**Post 0197 recursion count implications (Opus amendment):**
+
+Opus rejects HELD / INCREMENT / DECREMENT as scoring an instrument that measures nothing external. Of the four options presented, Opus recommends closest-to-correct is **ABANDON as instrument** while keeping the true claim it gestured at (external review beats self-review, which needs no count to be true).
+
+Framework preserves Post 0197 recursion count PENDING Council #9 review adjudication (per operator Path B disposition — do not unilaterally abandon; do not unilaterally increment either). Item 131 amended to note Opus RETIRE recommendation as candidate for Council review alongside preserve/clarify options. See Item 131 amended body.
+
+**Additional empirical fires beyond the phantom:**
+Grok Round 5a also produced valid findings against fresh (not stale) attachments:
+- HIGH-1 StatusBadge no fallback (compile-time-safe under TS strict; runtime fallback added defensively)
+- HIGH-2 VaiseyPreservationIndicator + CulturalBundleMediationIndicator NaN / non-finite guards
+- MEDIUM-1 H19 harness mutates `simA` profile object (shallow-copy pattern adopted)
+- MEDIUM-2 H21 C5 regex brittle to stray comments (anchored to TOSTEquivalenceStatusBadge component body)
+- Grok's mutation-testing suggestions #2 and #3 remain valid; #1 is moot (predicated on phantom)
+
+All valid findings were folded 2026-07-09. Post-fold: 27/27 unit tests + H19 PARTIAL 2/4 + H21 8/8 PASS + H22 4/4 PASS (RoomToLife port re-synced byte-identical).
+
+**Cross-references (amended):**
+- Council #9 Item 123 (audit-package byte-freshness discipline candidacy — this amendment's operational sibling)
+- Council #9 Item 124 (Grok Round 5a valid findings fold record)
+- Round 5b Grok re-dispatch on canonical `evolvePairRelational` (scoped adversarial critique of the actual fold code)
+
+---
+
+### Item 123 — Audit-package byte-freshness discipline candidacy
+
+**Filed:** 2026-07-09 (post-Grok-Round-5a phantom-finding empirical fire)
+
+**Trigger:** Grok Round 5a produced a phantom CRITICAL-1 finding on the M10 fold at `evolvePairRelational` because the uploaded code attachment was a pre-Round-4 snapshot (SHA `b580d43…`) predating the fold. Canonical file (SHA `7aba414…`) contains the fold. Attachment-prep pipeline drift produced a stale artifact substrate correctly critiqued but that does not apply to framework code.
+
+**Additional empirical scope:** SHA-256 audit of the 17-file attachment folder revealed **4 stale artifacts** (23.5% stale rate) — beyond `islandStage345State.ts`, three others (`h14-byte-identical-cross-verification.ts`, `h15-hexaco-effect-positive-assertion.ts`, `run-all.ts`) were also stale but were not uploaded to Grok this round. Any of these could have produced phantom findings in subsequent Gemini/Opus dispatches.
+
+**Proposed discipline body:**
+
+Before dispatching any substrate audit package that includes code attachments:
+1. Compute SHA-256 of every code attachment
+2. Compute SHA-256 of the corresponding canonical source file
+3. Refuse to dispatch until all attachments MATCH canonical
+4. Include a `MANIFEST-SHA256.md` in the dispatch package listing every file's SHA-256
+5. Include instruction to substrate: "If any attachment SHA-256 does not match manifest, flag DISPATCH_INTEGRITY_FAILURE and refuse to audit that file"
+
+**Rule 24 extension candidacy:** Rule 24 already covers canonical-file correction protocol. Item 123 extends Rule 24 to cover substrate-dispatch pipeline as a canonical-file consumer.
+
+**Empirical foundation (n=4 stale artifacts at n=1 dispatch):**
+- islandStage345State.ts — pre-M10-fold snapshot; produced Grok phantom CRITICAL-1
+- h14-byte-identical-cross-verification.ts — pre-schema-rename (averageness → averagenessScore)
+- h15-hexaco-effect-positive-assertion.ts — pre-Opus-round-4 M16 language revision
+- run-all.ts — missing h4c + h18 + h19 + h21 + h22 + h23 entries (substrate running "full harness" from stale run-all would silently skip 6 hypotheses)
+
+**Falsification thresholds pre-registered:**
+- Substrate audit dispatched with SHA-verified attachments and produces no phantom findings → discipline empirically supports
+- Substrate audit dispatched with SHA-verified attachments and STILL produces phantom findings on other axes → gap is not attachment-freshness; discipline insufficient scope
+- If SHA-freshness check would have added prohibitive prep overhead at Round 5 dispatch scale → operator-signal to simplify discipline
+
+**Cross-references:**
+- Council #9 Item 122 (M6 discipline empirical test) — Item 123 is prep-pipeline scope extension
+- Council #9 Item 111 (revised M6 discipline)
+- Grok Round 5a phantom CRITICAL-1 (single empirical fire)
+- SHA-256 manifest at `~/Desktop/island-sim-ui-audit-2026-07-08/code-attachments/MANIFEST-SHA256.md`
+
+**Confidence calibration:** HIGH — direct empirical fire n=1 with 4-artifact-drift secondary evidence; discipline body operationally simple + immediately implementable via SHA-256 shell utility; falsification-testable at next dispatch.
+
+---
+
+### Item 124 — Grok Round 5a valid findings fold record
+
+**Filed:** 2026-07-09 (post-Grok-Round-5a valid-findings fold)
+
+**Trigger:** Grok Round 5a produced 6 findings against fresh attachments (independent of the CRITICAL-1 phantom which was against stale attachment). Framework applied fold-and-verify pattern 2026-07-09.
+
+**Fold record:**
+
+| Grok finding | Severity | Disposition | Code change |
+|---|---|---|---|
+| CRITICAL-1 M10 fold missing | FALSE POSITIVE | REJECTED (stale attachment; canonical has fold) | none (Item 123 filed for prep-pipeline gap) |
+| HIGH-1 StatusBadge no fallback | LOW at runtime (TS compile-safe) | FOLDED defensively | `?? { bg, fg, border }` default at IslandAuditRound4Panels.tsx |
+| HIGH-2 Vaisey/CulturalBundle NaN unguarded | MEDIUM | FOLDED | `Number.isFinite` guards + `display = '—'` fallback |
+| MEDIUM-1 H19 mutates simA | MEDIUM | FOLDED | shallow-copy `{ ...baseSimA, bundleId }` |
+| MEDIUM-2 H21 C5 regex brittle | MEDIUM | FOLDED | anchored regex to TOSTEquivalenceStatusBadge component body extracted first |
+| MEDIUM-3 ARIA absent | LOW | PARTIAL FOLD | `role="region"` + `aria-label` added to VaiseyPreservationIndicator + CulturalBundleMediationIndicator (full pass deferred) |
+| LOW-1 hardcoded static drift risk | LOW | ACKNOWLEDGED | file already declares STATIC snapshots at header |
+| LOW-2 duplicate colorMap type | LOW | ACKNOWLEDGED | not folded (nice-to-have refactor) |
+
+**Post-fold verification (2026-07-09):**
+- 27/27 islandStage345State unit tests PASS
+- H19 PARTIAL 2/4 held (Δtrust range 1.1937 > SESOI 1.0 preserved)
+- H21 8/8 PASS (post-anchor)
+- H22 4/4 PASS (RoomToLife port re-synced byte-identical after Open Alley edits)
+- TypeScript compile clean (`tsc --noEmit`)
+
+**Grok's mutation-testing suggestions:**
+- #1 (M10 no-op mutation): MOOT (predicated on phantom finding)
+- #2 (Vaisey inBand hardcode): VALID test-suite gap — no current test asserts non-finite input degrades gracefully; consider adding
+- #3 (colorMap missing key): VALID test-suite gap — but TS compile-time catch reduces urgency
+
+**Cross-references:**
+- Council #9 Item 122 amendment (M6 gap scope extension)
+- Council #9 Item 123 (audit-package byte-freshness discipline candidacy)
+- Grok Round 5a full findings report (in operator conversation 2026-07-09)
+- Grok Round 5b re-dispatch prompt (targeted at fresh `evolvePairRelational`)
+
+**Confidence calibration:** HIGH — 6 fold actions with byte-verified post-fold PASS across 4 empirical harnesses + unit tests + typecheck.
+
+---
+
+### Item 125 — Emit/execution observability-must-match-execution discipline candidacy
+
+**Filed:** 2026-07-09 (post-Grok-Round-5b MEDIUM-1 fold — empirical fire n=1)
+
+**Trigger:** Grok Round 5b substrate audit surfaced execution/observability divergence at `evolvePairRelational` line 205-208. Framework's diagnostic emit (`emitSentimentOverrideAsymmetricEvent`) received RAW `magnitude` while the substrate `updatePairRelational` received `event.magnitude = modulatedMagnitude` (post-M10-fold value). Downstream cross-plane log consumers therefore attributed effect sizes to raw caller intent rather than to what was actually attempted at substrate scope.
+
+**Proposed discipline body:**
+
+Cross-plane trace emit signatures whose semantic intent is "attempted-vs-actual" must receive the SAME value that the substrate receives, not the raw pre-composition-layer input. If the composition layer modulates any field that flows into a `attemptedImpact`/`attemptedX` metadata slot, the composition layer must pass the modulated value to the emit.
+
+**Positive assertion:**
+- Emit `attemptedImpact` reflects post-composition, pre-substrate value
+- Emit `actualImpact` reflects post-substrate value
+- Reader can compute composition delta ONLY if they have access to caller's raw value separately (which is out-of-scope for the emit's semantic contract)
+
+**Falsification thresholds pre-registered:**
+- If future audit rounds find no additional emit/execution divergence in the framework → discipline empirically supports at n=1 sufficient
+- If future rounds find 2+ additional divergence instances → discipline WIDER than emit-scope; consider EXPAND to all diagnostic-vs-substrate observability
+- If operator ratification finds that raw-caller-value is semantically desirable for auditability → REBOUND discipline to require BOTH `attemptedImpact` (composition-scope) + `callerImpact` (raw) fields in emits
+
+**Cross-references:**
+- Council #9 Item 122 (M6 discipline empirical test) — Item 125 is implementation-scope subset
+- Grok Round 5b MEDIUM-1 finding empirical fire
+
+**Confidence calibration:** MEDIUM — single empirical fire (n=1); discipline body operationally simple; falsification-testable at Gemini Deep Think Round 5 + Opus Round 5 dispatches.
+
+---
+
+### Item 126 — CONSOLIDATED per Opus Round 5: retire inferential-statistics scaffolding from deterministic-trajectory H19 harness
+
+**Filed:** 2026-07-09 (post-Gemini R5 CRITICAL-1 + CRITICAL-2 fold)
+**Consolidated:** 2026-07-09 late (post-Opus R5) — SUBSUMES prior Items 127 (horizon-adjusted SESOI) + 128 (N-seed replication for deterministic harness) per Opus INCONSISTENT-2 diagnosis: "three faces of one underlying error: importing stochastic-inference machinery (TOST, variance decomposition, MCSE, ceiling-fraction) into a deterministic harness where none of it applies."
+
+**Consolidated proposed discipline body (Opus R5 recommendation):**
+
+For deterministic-trajectory harnesses (harnesses whose trajectories are fully determined by inputs with no stochastic sampling; empirically detected via all-N-seed-identical outputs):
+1. RETIRE inferential-statistics scaffolding: TOST equivalence, variance decomposition, ceiling-fraction, MCSE reporting all inapplicable
+2. Report RAW EFFECT MAGNITUDE only (Δ across conditions) without inferential verdict
+3. Establish substantive-significance threshold via downstream sim-scale calibration (external anchor, not internal architectural derivation)
+4. Data-integrity checks (saturation detection at architectural bounds) retained as DIAGNOSTIC not VERDICT — tells us why certain measures are zero without treating them as null-equivalence claims
+5. Framework must audit prior harnesses (H1-H18) for hidden determinism; harnesses previously verdict-passed via inferential-statistics may be similarly vacuous
+
+**AMENDMENT 2026-07-09 late (post-A1 Phase 5 operationalization):**
+
+A1 downstream sim-scale calibration (Cluster A1 per operator direction) EMPIRICALLY OPERATIONALIZED Item 126 discipline via 6-phase build at `~/Projects/Open Alley/scripts/island-sim-scale-calibration/`. A1 establishes external empirical anchor via:
+
+- **Phase 1:** 15 trajectories (3 bundles × N=5 seeds × 1440-tick horizon) with synthetic stochastic event schedule driving evolvePairRelational per bundle. Bundle-specific cross-bundle Δ observed at 8 of 11 primary pair-relational plane fields at raw scope.
+- **Phase 2:** cascade coverage statistical harness — one-way ANOVA + permutation p-value + η² effect size + BCa-style bootstrap CI + BH-FDR family-wise correction. Result: 1/11 primary fields BH-FDR-significant (accommodationFrequency: F=25.83, p=0.0005, adjP=0.0055, η²=0.811, Cohen's f=2.07). 2/11 fields substantively-large by η²>0.14 threshold.
+- **Phase 3:** behavioral distinguishability classifier — 1-NN cosine distance on top-K ANOVA-selected features + LOOCV + permutation accuracy p-value + Wilson score CI. Result: 73.3% accuracy at k=5, p=0.0035, Wilson 95% CI [48.0%, 89.1%]. Bundle E perfectly distinguishable (100%); Bundles A ↔ D confuse (60% each) reflecting similar HEXACO A × avoidance products.
+- **Phase 5:** composed verdict: **SUBSTANTIVELY_DIFFERENTIATED** with **M10 fold contribution: INERT** — cross-bundle Δ traces to substrate accommodationModulator (HEXACO A × attachment.avoidance product at pairRelationalPlane.ts:295), NOT to M10 fold's narrow [0.9, 1.1] modulator (contributes ≤4%).
+
+**A1 4-tier operational verdict taxonomy (canonized per Item 126 amendment):**
+- **STRONGLY_DIFFERENTIATED:** Phase 2 ≥ 6 primary fields BH-FDR-sig AND Phase 3 ≥ 90% accuracy
+- **SUBSTANTIVELY_DIFFERENTIATED:** Phase 2 ≥ 3 primary fields BH-FDR-sig OR Phase 3 ≥ 70% accuracy with p<0.05
+- **MACHINE_OBSERVABLE_ONLY:** Phase 2 ≥ 1 primary field BH-FDR-sig AND Phase 3 ≥ 60% accuracy with p<0.05
+- **NOT_SUBSTANTIVELY_DIFFERENTIATED:** neither phase clears thresholds
+
+**Discipline extension (A1 empirical addition):**
+6. Framework harnesses claiming cross-condition differentiation must produce verdict against A1's 4-tier taxonomy — not architectural-derivation SESOI, not ceiling-fraction, not variance-decomposition-only-on-deterministic-data.
+7. Framework must report MECHANISM ATTRIBUTION alongside verdict — WHICH architectural mechanism (M10 fold, HEXACO A × attachment, substrate clipping, etc.) drives observed cross-condition Δ.
+8. Deterministic-trajectory harnesses (H19-class per prior Item 126 body) still report raw effect magnitude only, but can be CONTEXTUALIZED against A1's threshold for cross-bundle-differentiation substantiveness at scenario scope.
+
+**Empirical anchor for Item 130 + Item 106 architectural mutations:**
+- Item 130 (M10 modulator range broader per Thomson 2018): A1 empirical evidence shows current [0.9, 1.1] modulator is INERT. Broader modulator supported by empirical Δ attribution.
+- Item 106 (broader HEXACO wiring beyond A-only): A1 mechanism attribution shows cross-bundle Δ depends on A × avoidance product only. Broader HEXACO wiring would strengthen intended cross-bundle mechanism.
+
+**Framework state at A1 Phase 5 close:**
+- 88/88 tests PASS across 4 A1 test files + 30 islandStage345 unit tests
+- H19 rebuilt to reference A1 threshold + report mechanism attribution
+- Phase 5 verdict persisted to `~/Projects/Open Alley/scripts/island-sim-scale-calibration/output/phase-5-verdict-*.json`
+- Post 0201 methodology publication candidate (Cluster C1) available per operator ratification
+
+**Confidence calibration (post-A1 operationalization):** HIGH — A1 empirically substantiates Item 126 discipline via 4-phase build with 88/88 tests PASS + honest N=15 power-limit disclosure + mechanism-attribution methodology. Framework's substantive-significance-threshold question now has empirical answer at proof-of-concept scale (N=15); production-scale extension is Cluster A2 population-scaling foundation scope.
+
+**Trigger:** Gemini Deep Think Round 5 identified that `tostEquivalence` in shared.ts had a `se === 0` branch (lines 394-403 pre-fold) that treated deterministic samples within SESOI bounds as "PROVEN NULL" (p=0.0000). H19 fed sentiment values all equal to 1.0000 (magnitude-clipping saturation at substrate ceiling) into this branch and reported "Sentiment TOST p=0.0000 PROVEN NULL" — right-censored data at architectural boundary masquerading as statistical equivalence per Lakens 2017.
+
+Compounding CRITICAL-1: injecting artifactual p=0.0000 tests into a BH-FDR family-wise pool loosens rejection thresholds for all other hypotheses via `(i+k)/(m+k) > i/m` for i<m, k>0. Framework's Round 4 H18 whole-harness 20/23 p-values-hold-BH-FDR audit was measuring inflated FDR safety.
+
+**Proposed discipline body:**
+
+Null-effect claims using TOST equivalence testing MUST:
+1. Explicitly declare the architectural bounds of the measured variable (e.g., substrate sentiment clips at [-1, 1])
+2. Opt into `saturationBounds` parameter of `tostEquivalence` when architectural boundary clipping is possible
+3. Abstain from null claim if saturation-artifact is detected (return NaN, not p=0.0000)
+4. `bhFdrAdjust` must filter NaN entries from family-wise pool before ranking (structural fix in shared.ts)
+
+**Positive assertion for framework:**
+- Saturation-clipped samples are right-censored, not statistically equivalent
+- Null equivalence claims via TOST are honest ONLY when sample variance > 0 AND at least one value differs from the architectural boundary
+- Right-censored data must be reported as "saturation-limited; not testable at this scope" — not "PROVEN NULL"
+
+**Falsification thresholds pre-registered:**
+- If future audit rounds find no additional saturation-masquerading-as-null instances → discipline empirically supports
+- If saturation detection produces false positives (blocks legitimate deterministic null claims) → REBOUND to require explicit opt-in only
+- If the operational overhead (calling code must know architectural bounds) is prohibitive → DEFLATE to advisory-only convention
+
+**Cross-references:**
+- Council #9 Item 122 (M6 discipline empirical test) — Item 126 is statistical-application scope subset
+- Gemini R5 CRITICAL-1 + CRITICAL-2 empirical fires
+- shared.ts:353-435 (post-fold canonical implementation)
+- H19 rebuild (empirical demonstration of saturation-abstain in practice)
+
+**Confidence calibration:** HIGH — 2 empirical fires (CRITICAL-1 and CRITICAL-2 are architecturally linked); discipline body directly implemented + verified via H18 + H19 post-fold; falsification-testable at Opus Round 5.
+
+**AMENDMENT 2026-07-09 (post-Deep Research R5 HIGH-3 fold — future graduation candidacy to Storey q-values / Independent Hypothesis Weighting):**
+
+Deep Research R5 APPROVED Deep Think's NaN-filtering fold as canonical baseline discipline aligned with standard R `p.adjust(na.rm=TRUE)` practice and Genovese-Wasserman 2002 large-sample FDR theory. Deep Research additionally recommends framework graduate from basic BH-FDR to more advanced multiple-testing methodologies in future iterations:
+
+**Future graduation candidacy (Deep Research R5 recommendation):**
+
+1. **Storey 2002 q-values** — positive False Discovery Rate (pFDR) framework that explicitly estimates π₀ (proportion of true null hypotheses in the family-wise pool) from data. Higher statistical power than basic BH while preserving FDR control. Canonical advancement over basic BH.
+
+2. **Independent Hypothesis Weighting (IHW; Ignatiadis 2016)** — assigns varying weights to hypotheses based on informative covariates. Dramatically increases detection power while rigorously controlling FDR. Modern best practice for large-scale heterogeneous simulation outputs.
+
+3. **Adaptive multiple testing (Sun-Cai 2007)** — two-group random mixture models with optimal behavior on estimated null distributions.
+
+**Framework operational disposition:** current NaN-filter fold RATIFIED at basic-BH scope. Graduation to Storey q-values or IHW deferred pending framework's harness-suite complexity growth (currently ~7 CANONICAL/PARTIAL hypotheses per H18 audit; graduation cost-benefit shifts favorable as harness suite grows to 30+ tests). File as future Council #9 candidacy at n+1 review cycle.
+
+**Cross-references (amended):**
+- Storey 2002 pFDR paper (JRSS-B)
+- Ignatiadis et al. 2016 IHW (Nature Methods) — modern best practice
+- Sun-Cai 2007 adaptive multiple testing (JASA)
+- Genovese-Wasserman 2002 (JRSS-B) — canonical NaN-filtering discipline foundation
+- Framework harness aggregate (currently 30/30 unit + 7 empirical hypotheses TOST-compliant)
+
+**Confidence calibration (amended):** HIGH — Deep Research literature grounding + operational simplicity (current basic BH sufficient at harness suite scale); graduation path documented for future Council #9 review.
+
+---
+
+### Item 127 — SUBSUMED into Item 126 per Opus Round 5 consolidation
+
+**Original filing:** 2026-07-09 (post-Gemini R5 HIGH-5 fold — horizon-adjusted SESOI candidacy)
+
+**Consolidation rationale (Opus R5 INCONSISTENT-2 + INCONSISTENT-3):** Item 127's "registry-relative fraction of achievable ceiling" methodology was framework-novel with zero canonical literature grounding (Deep Research R5 HIGH-4). Ceiling-fraction 115.3% > 100% empirically demonstrates the linear ceiling formula is a misspecified linearization — a quantity observations exceed is not a maximum. Deep Research's proposed replacement (variance decomposition) was equally wrong tool for deterministic-trajectory data (between/(between+0) = 100% architecturally). Both were inferential-statistics scaffolding on data that has no stochastic component to sample. See Item 126 (consolidated) for framework disposition.
+
+**Prior body preserved below for Council #9 audit trail:**
+
+**Filed:** 2026-07-09 (post-Gemini R5 HIGH-5 fold)
+
+**Trigger:** Gemini Deep Think Round 5 identified that H19 applied H15's pre-registered SESOI ±1.0 (per-single-event Smallest Effect Size Of Interest) to a cumulative 30-tick horizon integration. Theoretical max cumulative Δtrust from the [0.9, 1.1] M10 modulator over 30 baseline 0.5-magnitude events was 3.0 raw units; substrate trust amplification (~2.3× per event per pairRelationalPlane.ts:287) yields registry-computable ceiling ~1.035 for current bundle strengths [55, 65, 70]. Observed H19 Δtrust = 1.1937 = 115.3% of registry ceiling (fold at ceiling) reported previously as "PARTIAL 2/4" via SESOI ≥ 1.0 heuristic — architectural tautology masquerading as empirical validation.
+
+**Proposed discipline body:**
+
+SESOI values pre-registered for single-event measurements must NOT be applied verbatim to cumulative-horizon integrations. Instead:
+1. Compute registry-relative achievable ceiling (given current bundle/registry parameters)
+2. Report observed effect as FRACTION of achievable ceiling
+3. Verdicts must interpret near-ceiling values as "fold operates at architectural maximum" (informative) not "PASS" (misleading)
+4. Council-level architectural adjudication (Item 130 M10 modulator range) determines whether ceiling itself should broaden
+
+**Falsification thresholds pre-registered:**
+- If future horizon-integrating harness produces observed values > 90% of ceiling → correct interpretation is "fold operates at maximum for current architecture"; genuine PASS requires ceiling itself to be substantively larger
+- If < 50% of ceiling → verdict FAIL (fold under-uses architecture; implementation gap)
+- Between 50-90% → verdict PARTIAL_CEILING_OPERATION (fold produces moderate cross-condition differentiation but under-uses architecture)
+
+**Cross-references:**
+- Council #9 Item 122 (M6 discipline empirical test) — Item 127 is statistical-application scope subset
+- Council #9 Item 130 (M10 modulator range candidacy) — architectural sibling
+- H15 SESOI pre-registration at `~/Desktop/island-sim-ui-audit-2026-07-08/h15-sesoi-pre-registration.md`
+- H19 rebuild (empirical demonstration of horizon-adjusted verdict)
+
+**Confidence calibration:** HIGH — 1 empirical fire (H19) with 39.8% of theoretical ceiling mathematically verified; discipline body directly implemented + verified via H19 post-fold NEAR_CEILING_OPERATION 4/4; falsification-testable at any future horizon-integrating harness.
+
+**AMENDMENT 2026-07-09 (post-Deep Research R5 HIGH-4 fold — canonical variance decomposition displaces ceiling-fraction as primary verdict):**
+
+Deep Research R5 CRITICAL DISAGREEMENT WITH DEEP THINK: the "registry-relative fraction of achievable ceiling" methodology has **ZERO foundation in canonical published literature**. Lakens 2014/2017 (SESOI methodology origin) explicitly frames effect sizes and SESOI thresholds as POINT metrics for evaluating strength of effect at specific instances. Scaling effect sizes dynamically against an arbitrary "registry ceiling" deviates completely from established statistical practice.
+
+**Substrate disagreement documented (novel empirical instance):** Deep Think R5 and Deep Research R5 arrived at DIFFERENT fixes for the same identified problem (H19's static-SESOI-vs-cumulative-horizon tautology). This is the FIRST substrate-substrate disagreement at diagnostic scope within a single audit round in framework methodology history. Framework Item 122 amended to record substrate disagreement as novel M6 empirical instance.
+
+**Deep Research R5 canonical alternative:** variance decomposition per Hehman-Flake-Freeman 2017 style (Personality & Social Psychology Bulletin — perceiver variance + target variance + perceiver × target interaction variance via cross-classified multilevel modeling). Framework must revert to reporting standard raw effect sizes (Cohen's d, Hedges' g) evaluated against static theoretically-justified SESOI, PLUS variance decomposition for cumulative horizon interpretation.
+
+**Framework A3 hybrid resolution (adopted 2026-07-09):**
+1. **Primary verdict:** standard variance decomposition of Δtrust across N=5 seeds × 3 bundles = total variance = between-bundle + within-bundle + residual. Report each component's share of total variance.
+2. **Diagnostic verdict (retained per Deep Think):** ceiling-fraction reporting — "fold operates at N% of registry-computable ceiling" — preserved as informative diagnostic, NOT primary verdict.
+3. **Framework acknowledgment:** ceiling-fraction methodology is FRAMEWORK-NOVEL diagnostic tool, not canonical literature methodology.
+4. **Hehman 2017 caveat:** Hehman-Flake-Freeman's specific perceiver × target impression-formation methodology is not directly applicable to cross-condition harness like H19 (wrong data structure — H19 is not a perceiver × target design). Framework adopts VARIANCE DECOMPOSITION GENERALLY (standard ANOVA-scoped) without adopting HEHMAN 2017 specifically.
+
+**Falsification thresholds pre-registered (amended):**
+- If variance decomposition reveals between-bundle variance < 50% of total → M10 fold under-differentiates
+- If variance decomposition reveals between-bundle variance ≥ 90% of total → M10 fold operates near architectural maximum (matches ceiling-fraction diagnostic)
+- If ceiling-fraction and variance-decomposition verdicts DISAGREE → indicates measurement scope mismatch; report both + investigate
+
+**Cross-references (amended):**
+- Council #9 Item 122 (M6 discipline empirical test) — Item 127 amendment records substrate disagreement as novel M6 empirical instance
+- Council #9 Item 130 (M10 modulator range candidacy) — architectural sibling
+- Deep Research R5 HIGH-4 canonical variance decomposition recommendation
+- Deep Think R5 HIGH-5 ceiling-fraction novel diagnostic recommendation
+- Hehman-Flake-Freeman 2017 (PSPB) — canonical variance decomposition in impression-formation context (caveat: not directly applicable to H19's data structure)
+- Lakens 2014/2017 — SESOI point-metric methodology origin
+
+**Confidence calibration (amended):** MEDIUM-HIGH — substrate disagreement introduces measured methodological uncertainty; hybrid adoption preserves both substrates' contributions honestly; framework acknowledges ceiling-fraction is novel diagnostic without literature grounding.
+
+---
+
+### Item 128 — SUBSUMED into Item 126 per Opus Round 5 consolidation
+
+**Original filing:** 2026-07-09 (post-Gemini R5 HIGH-3 fold — N-seed replication for cross-condition harness tests)
+
+**Consolidation rationale (Opus R5 PARTIAL-2):** Item 128's N≥5 discipline was framework-canonized at Round 3 for stochastic inference contexts. Applied to H19 in Gemini Round 5 rebuild, the discipline produced MCSE = 0 across all 5 seeds — evidence H19 is deterministic. Rather than concluding "N≥5 doesn't apply to deterministic harnesses," framework created DETERMINISTIC_TRAJECTORY category to preserve both the prior canonization AND the current finding — an accretion move. Opus recommendation: retire N-seed loop on deterministic harnesses; report single-run effect magnitude directly. See Item 126 (consolidated) for framework disposition. Framework acknowledges N≥5 remains valid for stochastic-inference harnesses; DETERMINISTIC_TRAJECTORY category preserved as classification but no longer used to justify N≥5 loop on deterministic data.
+
+**Prior body preserved below for Council #9 audit trail:**
+
+**Filed:** 2026-07-09 (post-Gemini R5 HIGH-3 fold)
+
+**Trigger:** Gemini Deep Think Round 5 identified that H19 used seed 42 only (N=1) despite framework's own Round 3 CRITICAL-5 N=1 timing measurement finding + canonized N≥5 discipline. H19 rebuild adopted N=5 seeds (42-46) per bundle × 3 bundles = 15 trajectories. **Empirical outcome:** all 5 seeds produce IDENTICAL Δtrust = 1.1937 (MCSE = 0.0000) — reveals that H19's trajectory is FULLY DETERMINISTIC (event magnitudes are scalar 0.5, no stochastic input). Gemini's HIGH-3 concern is architecturally correct discipline but empirically not needed for THIS harness (nothing to sample across seeds).
+
+**Proposed discipline body:**
+
+Cross-condition harness tests must:
+1. Iterate N ≥ 5 seeds per condition
+2. Report Monte Carlo Standard Error (MCSE) across seeds
+3. Verdict includes stochastic-stability criterion (MCSE / mean < 20%)
+4. If MCSE = 0 across seeds → report as "DETERMINISTIC_TRAJECTORY" (harness has no stochastic input; N-seed replication is diagnostic-only)
+
+**Positive assertion:**
+- N=1 harness cannot support inferential claim without deterministic-trajectory justification
+- Deterministic harnesses may report single-seed results IF documented as such
+- Cross-condition harnesses with mixed determinism (some inputs deterministic, others sampled) still require N≥5 to characterize stochastic variance
+
+**Falsification thresholds pre-registered:**
+- If N=5 harness runs cost >5× computationally with negligible statistical benefit for deterministic-trajectory harnesses → REBOUND to per-harness declaration
+- If N=5 discipline catches variance-hiding bugs in future rounds → discipline empirically supports
+
+**Cross-references:**
+- Council #9 Item 122 (M6 discipline empirical test) — Item 128 is statistical-application scope subset
+- Round 3 CRITICAL-5 canonization (N=1 timing measurement flag)
+- shared.ts `mcse()` helper (Gemini R5 fold)
+- H19 rebuild (empirical demonstration of N=5 + MCSE reporting)
+
+**Confidence calibration:** HIGH — 1 empirical fire directly applied + verified; H19's empirical finding of MCSE=0 provides a novel category "DETERMINISTIC_TRAJECTORY" not previously codified; falsification-testable via future non-deterministic harnesses.
+
+**AMENDMENT 2026-07-09 (post-Deep Research R5 MEDIUM-5 fold — Sobol/GSA canonical alternative for deterministic-trajectory harness paths):**
+
+Deep Research R5 confirmed the DETERMINISTIC_TRAJECTORY category as necessary methodology infrastructure, BUT critiqued the framework's application of MCSE to deterministic paths as **mathematical tautology**. Monte Carlo methodology per Koehler-Brown-Haneuse 2009 is designed for STOCHASTIC processes; deterministic harnesses have zero variance by construction, and MCSE = 0 is a computed constant not an empirical finding.
+
+**Canonical alternative per Deep Research R5:** Global Sensitivity Analysis (GSA) per Saltelli et al. 2008 (Global Sensitivity Analysis: The Primer). Instead of resampling the same deterministic function with different seeds, systematically PERTURB the deterministic input parameters and measure how output trajectories vary. Techniques:
+- Sobol indices (variance-based sensitivity analysis)
+- Factorial sampling plans (framework's H17 Latin Hypercube already partially deploys this pattern at HEXACO scope)
+- Morris screening (elementary effects method)
+
+**Framework operational fold (H19 post-Deep-Research-R5):**
+1. Retain DETERMINISTIC_TRAJECTORY classification (Deep Research approves)
+2. Retain N-seed loop as INFRASTRUCTURE for future stochastic harnesses (Deep Research approves classification value)
+3. Remove primary-verdict role of MCSE (Deep Research rejection: tautology)
+4. Report MCSE as diagnostic-only when detected = 0 (as evidence of deterministic-trajectory classification, not as verdict criterion)
+5. Document Saltelli 2008 GSA + Sobol indices as canonical methodology for future deterministic-arm sensitivity analysis
+
+**Cross-references (amended):**
+- Saltelli et al. 2008 (Wiley) Global Sensitivity Analysis: The Primer — canonical GSA methodology
+- Koehler-Brown-Haneuse 2009 MCSE paper — Deep Research grounds Deterministic-Trajectory departure from MCSE
+- Framework H17 Latin Hypercube factorial (partial-GSA implementation at HEXACO scope; future H19+ extensions may adopt full Sobol)
+
+**Confidence calibration (amended):** HIGH — Deep Research literature grounding + methodological consistency with Saltelli 2008 canonical primer; framework's H17 already deploys partial-GSA pattern (Latin Hypercube factorial) so extension to Sobol indices is architecturally consistent.
+
+---
+
+### Item 129 — Ex-Gaussian generative process for cognitive-latency schemas candidacy
+
+**Filed:** 2026-07-09 (post-Gemini R5 HIGH-4 fold)
+
+**Trigger:** Gemini Deep Think Round 5 identified that Item 118 DialogueTurn schema H1 gate (Stivers 2009 turn-timing) was implicitly Gaussian-generative. Human cognitive response latencies follow BOUNDED, HEAVILY RIGHT-SKEWED distributions (Ex-Gaussian or Log-Normal): the 0 ms MODE represents normative biological intent of immediate transition; the long right tail (τ parameter) drags population mean to +208 ms. Symmetric Gaussian centered at +208 ms erases mode + generates impossible negative timings on left tail.
+
+**Proposed discipline body:**
+
+Framework schemas modeling cognitive-latency, response-time, or turn-taking timing MUST specify generative process:
+1. Prefer Ex-Gaussian (μ + Normal(0,σ) + Exp(1/τ)) with μ anchored at biological MODE, τ scaling the right tail
+2. Log-Normal acceptable if right-skew inherent to substrate
+3. Symmetric Gaussian PROHIBITED for cognitive-latency variables (produces negative timings; erases mode)
+
+**Positive assertion:**
+- Cognitive latency ≠ arithmetic mean; anchor at mode
+- Per-culture / per-population variance in Ex-Gaussian is captured by τ parameter, not by shifting μ
+- Framework's DialogueTurn.transitionTiming schema field must document generative process explicitly
+
+**Falsification thresholds pre-registered:**
+- If future audit finds cognitive-latency schemas implemented via symmetric Gaussian → discipline violation; REBOUND to enforcement-at-Rule-25 scope
+- If Ex-Gaussian parameter fitting is prohibitive at framework substrate scope → DEFLATE to advisory + acceptable approximations enumerated (e.g., truncated Log-Normal)
+
+**Cross-references:**
+- Council #9 Item 118 (DialogueTurn schema — Item 129 amends H1 gate)
+- Casillas 2014 + Roberts 2015 subsequent literature on right-skewed response-latency
+- Stivers 2009 PNAS DOI 10.1073/pnas.0903616106
+- Gemini R5 HIGH-4 empirical fire
+
+**Confidence calibration:** MEDIUM — 1 empirical fire; discipline body operationally simple for schemas at authoring scope but requires generative-process implementation discipline for downstream substrates; falsification-testable via future substrate schema implementations.
+
+---
+
+### Item 130 — M10 modulator range under universal Kito 2017 citation scope candidacy
+
+**Filed:** 2026-07-09 (post-Gemini R5 MEDIUM-6 fold; architectural-mutation adjudication)
+
+**Trigger:** Gemini Deep Think Round 5 identified that framework's Item 115 M10 wording revision (post-Perplexity R5) updated Kito 2017 characterization from "East-Asian scope" to "universal cross-cultural scope." Framework's M10 fold retains [0.9, 1.1] modulator range (0.2 span) originally scaled for Marshall 2008 + Rothbaum 2000 East-Asian-scope variance. Applying a 0.2-span modulator to a universal cross-cultural metric is statistically under-dispersed: true global variance in relational-mobility spans Cohen's d > 0.8 effect sizes commonly, mathematically demanding broader modulator range (e.g., [0.7, 1.3] = 0.6 span).
+
+Framework author preserved current [0.9, 1.1] modulator PENDING Council #9 adjudication. Empirically-verified consequence: H19 rebuild shows Δtrust operates at ceiling of registry-computable span (115.3%) — narrow modulator ceiling constrains observable cross-bundle differentiation regardless of substrate fidelity.
+
+**Deep Research R5 CRITICAL-1 amendment — Kito 2017 misattribution + literature-grounded Option C recommendation:**
+
+Deep Research literature verification revealed Kito et al. 2017 (Personal Relationships, Kito-Yuki-Thomson, DOI 10.1111/pere.12174) is a **dual-country comparative study** (East Asian populations [Japan] vs North American populations [USA + Canada]), NOT universal cross-cultural. Perplexity R5's "universal cross-cultural" characterization was ALSO an over-extrapolation (theoretical generalization from limited empirical scope). Framework prior citation-scope claim was mischaracterized at TWO substrate scopes.
+
+**Canonical universal baseline per Deep Research R5:** Thomson et al. 2018 PNAS (DOI 10.1073/pnas.1713191115) — 39-nation study measuring relational mobility across distinct societies. Thomson demonstrated relational mobility is not simple binary East-West but a complex global continuum driven by ecological factors (settled interdependent subsistence styles + historical/ecological threats including pathogen prevalence + warfare). Lowest mobility: East Asia + North Africa + Middle East. Highest mobility: Western Europe + North America + Latin America. Yuki-Schug 2020 relational mobility review + Zhu et al. 2020 cross-cultural moderation study confirm ecological specificity.
+
+**Adopted disposition per Deep Research R5 literature verdict:** Option C (per-bundle modulator range) with Thomson 2018 as universal canonical baseline citation is the LITERATURE-INDICATED path.
+
+**Opus Round 5 BLOCKING amendment (2026-07-09 late):** Item 130 status revised from "RATIFIED per Deep Research" to **BLOCKED pending bundle-schema-extension work**. Opus INCONSISTENT-1 identified that framework claim of "Option C RATIFIED / current implementation preserved pending bundle-schema-extension" is a soft-ratification — ratifying an architectural mutation that has not been built. Per Opus: "ratifying an unimplemented architectural mutation is the same move as the recursion count — claiming a state you haven't reached." Framework accepts this critique. Item 130 status marks the architectural direction as LITERATURE-INDICATED but the discipline as NOT-YET-RATIFIED until Council #9 review adjudicates the schema-extension work + framework implements per-bundle modulator range.
+
+**Ready-as-is component:** the citation-scope correction (Kito 2017 = dual-country Japan+USA/Canada; Thomson 2018 PNAS 39-nation = canonical universal baseline) is ready for Council #9 adjudication independent of the architectural mutation. Per Opus operational recommendation: "Ready as-is: the Kito→Thomson correction."
+
+**Options adjudication:**
+
+**Option A: Broaden M10 modulator range uniformly to [0.7, 1.3].** — REJECTED per Deep Research R5. Applying broadened universal variance uniformly onto East-Asian-scope bundles would misrepresent Kito's actual dual-country finding as universal claim.
+
+**Option B: Narrow Kito 2017 citation scope in M10.** — PARTIAL. Framework acknowledges Kito 2017 is dual-country. Kito 2017 remains valid citation for East-Asian bundles specifically. Does not answer universal-scope bundle question.
+
+**Option C: Bundle-specific modulator range.** — RATIFIED per Deep Research R5 literature verdict. Per-bundle modulator span selected from citation scope:
+- East-Asian-scope bundles (Marshall 2008 + Kito 2017 + Rothbaum 2000): retain [0.9, 1.1] narrow modulator (0.2 span)
+- Universal-scope bundles (Thomson 2018 39-nation): broaden to [0.7, 1.3] or wider (0.6 span or more, calibrated to Thomson variance)
+- Ecologically-anchored bundles (e.g., Latin American, Middle Eastern): parameters derived from Thomson 2018 ecological drivers (subsistence style + pathogen prevalence + threat exposure)
+
+**Falsification thresholds pre-registered:**
+- If Option C bundle-schema extension proves architecturally unwieldy → DEFLATE to Option B narrow-scope-only
+- If Thomson 2018 variance re-analysis shows [0.7, 1.3] is under- or over-dispersed at bundle scope → recalibrate per empirical Thomson variance
+- If Kito 2017 dual-country finding is later universally validated (unlikely; contradicts Yuki-Schug 2020) → REBOUND to Option A
+
+**Cross-references:**
+- Council #9 Item 115 (H23 M10 wording revision post-Perplexity R5)
+- Council #9 Item 112 (M10 substrate-extension candidacy — Item 130 is modulator-range sibling)
+- Gemini R5 MEDIUM-6 empirical fire
+- Deep Research R5 CRITICAL-1 literature-grounded Option C recommendation
+- H19 rebuild (empirical demonstration of registry-ceiling constraint)
+- Kito et al. 2017 (DOI 10.1111/pere.12174) — dual-country (Japan vs USA/Canada) relational mobility
+- **Thomson et al. 2018 (DOI 10.1073/pnas.1713191115) — 39-nation universal baseline** (Deep Research R5 canonical addition)
+- Yuki-Schug 2020 relational mobility review (Deep Research R5 confirming literature)
+- Zhu et al. 2020 cross-cultural moderation (Deep Research R5 confirming literature)
+
+**Confidence calibration:** HIGH — Deep Research literature verification traced Kito 2017 sample scope + verified Thomson 2018 canonical universal baseline; Option C ratified per literature verdict; interim disposition preserves current [0.9, 1.1] East-Asian modulator with framework acknowledging universal-scope bundles require broader range TBD at bundle-schema-extension implementation scope.
+
+---
+
+### Item 131 — Post 0197 semantics clarification (external-adversarial-validation-instance vs LLM-code-modernization-self-review misreading)
+
+**Filed:** 2026-07-09 (post-Deep Research R5 META-finding — framework preserves recursion count but files documentation-gap clarification)
+
+**Trigger:** Deep Research R5 recommended framework "ABANDON pursuit of Post 0197 n=8+ recursion count as categorically unsupported and methodologically hazardous" based on Reddy-Lolla-Sanku 2026 (arxiv 2605.21537 VERIFIED via Rule 19 WebFetch — 1,980 modernization calls across 11 production LLMs; 31.7% miss rate on semantic drift self-review; canonical citation for LLM self-review contamination phenomenon).
+
+**Framework disposition — Deep Research MISREAD Post 0197 semantics:**
+
+Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline tracks INSTANCES OF EXTERNAL ADVERSARIAL VALIDATION (each substrate audit round is a new empirical instance of the discipline being externally validated), NOT LLM-style deep self-review recursion. Framework author's session-scope self-review has empirically failed at 25-44% miss rate across 4 scopes (Perplexity R5 + Grok R5a + Grok R5b + Gemini Deep Think R5), which corroborates Reddy-Lolla-Sanku 2026's 31.7% headline finding. But the framework's answer to self-review inadequacy has ALWAYS BEEN external adversarial validation — that's what these audit rounds ARE. Deep Research reads "recursive at n+1" as LLM self-review recursion; framework actual usage is (b) recursion-across-scopes with independent external validation at each scope.
+
+**However — Deep Research's misreading exposes REAL DOCUMENTATION GAP.** Post 0197 semantics documentation is ambiguous:
+
+- Ambiguous reading (a): recursion count tracks repeated application of same self-review process to prior applications (LLM-style deep self-review — Deep Research's reading)
+- Actual usage (b): recursion count tracks empirical instances of the discipline applied at NEW scopes with INDEPENDENT external validation (framework's usage)
+
+**Proposed clarification body for Council #9 review:**
+
+Post 0197 semantics should be documented explicitly as:
+1. Recursion count tracks INSTANCES of the empirical-validation-harness-parallel-to-diagnostic-UI discipline being applied at NEW SCOPES (composition, substrate audit, statistical utility, framework methodology commitment, etc.)
+2. Each recursion instance requires INDEPENDENT external validation (substrate audit, adversarial review, or equivalent)
+3. Recursion count is NEVER framework-author self-review; framework author cannot increment count unilaterally
+4. Increment from n to n+1 requires: (a) new scope identified + (b) empirical validation harness deployed + (c) external validation confirmed
+
+**Empirical implication for current n=7+ HELD:**
+
+Framework's current n=7+ HELD status is CORRECT — external validation not yet confirmed for the improvement round. Round 5 evidence (Perplexity + Grok R5a + Grok R5b + Gemini Deep Think + Deep Research) provides empirical foundation for incrementing to n=8+ IF operator ratifies + external validators confirm.
+
+**Framework does NOT abandon Post 0197 recursion — but clarifies semantics.** Deep Research's recommendation of "hard-coded dependency on independent, adversarial external validation pathways" IS actually what framework has been doing all along. Substrate audit rounds ARE the hard-coded adversarial external validation pathway.
+
+**Reddy-Lolla-Sanku 2026 empirical corroboration acknowledged:**
+
+Framework's 4-scope M6 convergence at ~25-44% miss rate is CORROBORATED by Reddy-Lolla-Sanku's 31.7% headline finding in a distinct domain (LLM code modernization). This is convergent empirical evidence that self-review at ANY scope is inadequate. Framework's response is CORRECTLY external adversarial validation (this audit round IS the response), not deeper self-review.
+
+**Falsification thresholds pre-registered:**
+- If Council #9 review adjudicates Post 0197 semantics as ambiguous → CLARIFICATION amendment ratified; framework updates Post 0197 canonical documentation
+- If Council review adjudicates Post 0197 semantics as unambiguous → Item 131 DEFLATED as documentation-only (no canonical change)
+- If future audit rounds find framework has actually been doing LLM-style self-review recursion under Post 0197 banner → framework ABANDON per Deep Research's Item 131 recommendation
+
+**Cross-references:**
+- Council #9 Item 122 (M6 discipline empirical test) — Item 131 addresses META-finding at Post 0197 scope
+- Reddy-Lolla-Sanku 2026 (arxiv 2605.21537 VERIFIED) — "Articulate but Wrong: Self-Review Failures in LLM-Based Code Modernization" — 31.7% miss rate on 1,980 modernization calls across 11 production LLMs (Rule 19 WebFetch verification confirmed 2026-07-09)
+- Metcalfe 1999 self-monitoring (foundational)
+- Nickerson 1998 confirmation bias (foundational)
+- Post 0197 canonical text (framework preservation pending Council clarification)
+- Framework 4-scope M6 empirical convergence (25-44% miss rate at Perplexity + Grok R5a + Grok R5b + Gemini Deep Think R5)
+
+**Confidence calibration:** HIGH — Reddy-Lolla-Sanku empirical corroboration verified via Rule 19; framework's actual usage is external adversarial validation (documented via this session's substrate audit rounds); documentation gap is real + directly addressable at Council review; framework does NOT need to abandon core methodology commitment.
+
+**Opus Round 5 amendment (2026-07-09 late) — RETIRE recommendation added as Council candidate:**
+
+Opus Round 5 recommended Post 0197 recursion count be RETIRED as an instrument. Opus's argument: "Incrementing a self-review-discipline counter on the strength of five findings that self-review keeps failing is backwards, and the fact that the framework wants to increment here is itself a small instance of the thing the count claims to guard against."
+
+Opus additionally cited Reddy-Lolla-Sanku's abstract conclusion: "Self-review by the producing model is not a reliable safety net" — which supports EXTERNAL review, not a recursion-count instrument. Opus's read: "You cannot cite a paper about self-review failure as strengthening a self-review-discipline metric."
+
+**Framework Path B disposition (operator-directed 2026-07-09 late):**
+
+Framework does NOT unilaterally abandon Post 0197 recursion count in response to Opus's RETIRE recommendation. Doing so would BE the accretion-pattern Opus identified (metabolizing every substrate output into a fold or item). Framework also does NOT unilaterally increment to n=8+.
+
+Instead: Council #9 review adjudicates among 4 options at architectural scope:
+- **Option 1 (framework prior):** HELD at n=7+ pending external validation confirmation for n=8+ candidacy
+- **Option 2 (Item 131 clarify):** semantics clarification (external adversarial validation, not self-review recursion); framework updates Post 0197 canonical documentation
+- **Option 3 (Opus RETIRE):** retire the instrument; preserve the true underlying claim (external review beats self-review) without a counter
+- **Option 4 (Deep Research ABANDON):** abandon Post 0197 discipline entirely; hard-code adversarial external validation pathways
+
+Framework preserves recursion count at n=7+ HELD status during Council review window; increment/decrement/retire/abandon decision requires Council #9 adjudication per operator-signature-gated rule change per Rule 14 canonical protocol.
+
+**Note on Item 131 status:** Item 131 remains a REVIEW ITEM (documentation gap clarification + RETIRE option). Framework does NOT file Item 132+ for accretion-pattern discipline (that would be the perpetuating move Opus flagged). Item 131 covers both semantics clarification (framework's prior candidacy) AND retire-the-count option (Opus's recommendation) as complementary Council review candidates.
 
 ---
 
