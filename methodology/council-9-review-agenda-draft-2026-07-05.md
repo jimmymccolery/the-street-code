@@ -3,7 +3,7 @@
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
 **Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
-**Total candidacy items:** 131+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 100 filed 2026-07-08 morning Rule 26 candidacy proposal consolidating Items 20 + 33 + 66 as Retired-workflow-recurrence discipline + Item 101 filed 2026-07-08 morning Cycle 12 Steps 6-9 retirement disposition + Item 55 RETIRED per split/retire/reduce mechanism)
+**Total candidacy items:** 139+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 100 filed 2026-07-08 morning Rule 26 candidacy proposal consolidating Items 20 + 33 + 66 as Retired-workflow-recurrence discipline + Item 101 filed 2026-07-08 morning Cycle 12 Steps 6-9 retirement disposition + Item 55 RETIRED per split/retire/reduce mechanism)
 
 **Post-v3-ratification trigger 2026-07-07 late afternoon:** Phase 15 v3 implementation proposal RATIFIED per operator "ship, act comprehensively" directive. Stage 1 pilot begins with 15-A UMAP diagnostic (Weeks 1-2). Council #9 empirical review scheduled ~60 days after Stage 1 empirical gate results land (Week 18+). If Stage 1 gates PASS, Council #9 review has real Stage 1 empirical evidence to adjudicate against. If Stage 1 gates FAIL, Council #9 review deferred until architecture revised + Stage 1 re-run.
 
@@ -2422,6 +2422,26 @@ A1 downstream sim-scale calibration (Cluster A1 per operator direction) EMPIRICA
 
 **Confidence calibration (post-A1 operationalization):** HIGH — A1 empirically substantiates Item 126 discipline via 4-phase build with 88/88 tests PASS + honest N=15 power-limit disclosure + mechanism-attribution methodology. Framework's substantive-significance-threshold question now has empirical answer at proof-of-concept scale (N=15); production-scale extension is Cluster A2 population-scaling foundation scope.
 
+**AMENDMENT 2026-07-09 late (post-Fable-5-brainstorm Track 1 immediate adoption) — H5-style precision-recall discipline extension:**
+
+Fable 5 Stage 7 Sift Layer spec §4 H5 human study formalized a precision-recall discipline directly applicable to any framework harness making a "framework-recognizes-X" claim: **blind raters + matched-noise controls sampled from the same chronicle (not pattern-matched) + preregistered per Post 0114 OSF precedent + Cohen's d ≥ 0.8 as pass threshold + Krippendorff's α reported with xRR-aware interpretation per Wong-Paritosh-Aroyo ACL 2021 (fixed thresholds NOT universally applicable; cross-replication convergence is the real test) + ≥70% of sifted items above noise median + convergence across two independent rater batches**.
+
+Framework Item 126 4-tier operational verdict taxonomy is extended with H5-style precision-recall discipline as **CONVENTION for any future harness making a recognition-scope claim** (not V1 mandate):
+
+| Extension scope | Convention |
+|---|---|
+| Deterministic harnesses at composition scope (H19-class) | No change — retain raw effect magnitude reporting per Item 126 body |
+| Deterministic harnesses at inferential scope | Add A1 4-tier verdict taxonomy per existing Item 126 amendment |
+| Stochastic harnesses at classifier / recognition scope | ADD H5-style precision-recall discipline: blind raters + matched-noise controls + preregistration + Cohen's d ≥ 0.8 + Krippendorff's α with xRR-aware interpretation |
+
+**Empirical support:**
+- Loose Ends AIIDE 2022 (Rule 19 verified): 5 expert evaluators + Germinate Q1-Q5 questionnaire + Likert scores per Table 1
+- Arc Sift AAMAS 2022 + IJCAI 2022 companion (Rule 19 verified): 20 non-technical adult participants + freehand-draw + confidence scores
+- Wong-Paritosh-Aroyo ACL 2021 (per Fable 5 dossier §5.3): fixed threshold worship inappropriate; cross-replication convergence is the real reliability test
+- Post 0114 OSF preregistration precedent at framework scope
+
+**Framework operational adoption pending Council review:** framework operator applies extended discipline to future recognition-scope harnesses (A6 Sift Layer H5 human study; Reagan 6-arc trajectory extension to A1 Phase 3 classifier at production scale) as convention. Council #9 adjudicates whether to canonize at operational_discipline_rules.canonical.md scope (relatedly Item 132 Non-Inertness Gate + Item 133 Stage 7 Sift Layer).
+
 **Trigger:** Gemini Deep Think Round 5 identified that `tostEquivalence` in shared.ts had a `se === 0` branch (lines 394-403 pre-fold) that treated deterministic samples within SESOI bounds as "PROVEN NULL" (p=0.0000). H19 fed sentiment values all equal to 1.0000 (magnitude-clipping saturation at substrate ceiling) into this branch and reported "Sentiment TOST p=0.0000 PROVEN NULL" — right-censored data at architectural boundary masquerading as statistical equivalence per Lakens 2017.
 
 Compounding CRITICAL-1: injecting artifactual p=0.0000 tests into a BH-FDR family-wise pool loosens rejection thresholds for all other hypotheses via `(i+k)/(m+k) > i/m` for i<m, k>0. Framework's Round 4 H18 whole-harness 20/23 p-values-hold-BH-FDR audit was measuring inflated FDR safety.
@@ -2753,6 +2773,301 @@ Instead: Council #9 review adjudicates among 4 options at architectural scope:
 Framework preserves recursion count at n=7+ HELD status during Council review window; increment/decrement/retire/abandon decision requires Council #9 adjudication per operator-signature-gated rule change per Rule 14 canonical protocol.
 
 **Note on Item 131 status:** Item 131 remains a REVIEW ITEM (documentation gap clarification + RETIRE option). Framework does NOT file Item 132+ for accretion-pattern discipline (that would be the perpetuating move Opus flagged). Item 131 covers both semantics clarification (framework's prior candidacy) AND retire-the-count option (Opus's recommendation) as complementary Council review candidates.
+
+---
+
+### Item 132 — Non-Inertness Gate framework rule candidacy (forward-facing generalization of A1 M10 finding)
+
+**Filed:** 2026-07-09 late (post-A1-close + post-Fable-5-brainstorm)
+
+**Trigger:** External substrate (Perplexity Computer via Fable 5) brainstorming session on story sifting proposed a framework-general rule generalizing A1's M10 INERT finding into forward-facing discipline. A1 empirically demonstrated that content-first, consumer-second architecture produces architecturally inert mechanisms (M10 fold contributes ≤4% of observed cross-bundle Δ despite extensive cultural bundle authoring). Fable 5 formalized: no research/content-authoring track is funded until it names (in writing) (a) consumer mechanism, (b) entry junction where content enters that mechanism, (c) expected measurable delta at named observation surface, (d) kill criterion that defunds the track.
+
+**Proposed rule body (candidacy):**
+
+> **Non-Inertness Gate:** Before any research/content-authoring track receives execution time or operator work-hours, the operator + CC must name in writing:
+> 1. **Consumer mechanism** — what downstream function reads this track's output?
+> 2. **Entry junction** — where does this track's output enter the consumer?
+> 3. **Expected measurable delta** — at what named observation surface + what magnitude?
+> 4. **Kill criterion** — if delta observed < threshold, what's the operator response?
+>
+> A track that cannot name all four is presumptively inert and should not be funded until it can. This rule applies to future content research (cultural bundles, story pattern libraries, era texture corpora, dialogue utterance banks, biographical archetypes) and future architectural mutation (new planes, layers, subsystems).
+
+**Empirical foundation:**
+- A1's M10 INERT finding (Cluster A1 close 2026-07-09): 33-source Bundle A/D/E authoring produced ≤4% behavioral contribution; scalar modulator wiring insufficient for substantive-significance
+- Post 0201 methodology commitment: external empirical anchoring displaces internal architectural derivation
+- Fable 5 explicit worked applications: 3 research tracks (story-pattern library / life-event taxonomy / era texture corpora) with per-track kill criteria pre-registered
+- Framework author self-review at ~25-44% miss rate across 5 M6 scopes: this gate is a forward-facing operator-side check that doesn't rely on author self-review at authoring time
+
+**Cross-references:**
+- Council #9 Item 122 (M6 discipline empirical test) — Item 132 is forward-facing prevention of same failure mode
+- Council #9 Item 126 (retire inferential scaffolding + A1 4-tier verdict taxonomy) — Item 132 is authoring-time complement to Item 126's post-hoc discipline
+- Post 0201 (A1 external empirical anchoring)
+- Fable 5 Stage 7 Sift Layer spec §3.2 (worked applications)
+
+**Falsification thresholds pre-registered:**
+- If future content tracks executed under Non-Inertness Gate discipline produce measurably higher substantive-significance verdicts (A1 4-tier taxonomy) → rule empirically supports
+- If Non-Inertness Gate blocks tracks that would have proven substantive-significant → false-negative rate documented; rule REBOUND to advisory scope
+- If Non-Inertness Gate proves prohibitive at speed-scoped work (blog drafts, small refactors) → SPLIT scope by track-magnitude (major architecture vs minor content)
+
+**Framework operational adoption pending Council review:** operator applies Non-Inertness Gate to own work items (A2/A3/A4/A5 planning) immediately as operational check, without unilateral canonical rule addition. Council #9 adjudicates whether to canonize at `operational_discipline_rules.canonical.md` scope.
+
+**Confidence calibration:** HIGH — direct generalization of empirically-validated A1 finding; operationally simple 4-question check; failure modes (blocked substantive tracks; prohibitive overhead) empirically testable at first enforcement.
+
+---
+
+### Item 133 — Stage 7 Sift Layer as Cluster A6 candidacy for post-A2 execution
+
+**Filed:** 2026-07-09 late (post-Fable-5-brainstorm)
+
+**Trigger:** Perplexity Computer via Fable 5 delivered comprehensive Stage 7 Sift Layer spec (192 lines) with dedicated 265-line research dossier grounding claims per-source. Spec proposes recognition layer (not generation layer) matching declarative patterns against typed event bus + plane-state time series, emitting StoryInstance records that downstream diegetic channels render. Framework Rule 19 verification: 7/7 high-load-bearing citations VERIFIED (including Winnow 912ms benchmark, Reagan et al. 2016 EPJ Data Science 6-arc method, Arc Sift AAMAS 2022 + IJCAI 2022 companion with Reagan-6-as-query-vocab, Ryan 2018 UCSC dissertation, Kreminski Felt ICIDS 2019, McAdams-McLean 2013, Kreminski Loose Ends AIIDE 2022).
+
+**Proposed candidacy body:**
+
+Filed as Cluster A6 (post-Cluster-A2 execution sequencing). Full spec preserved at `~/Downloads/Next up/stage7_sift_layer_spec.md`. Load-bearing architectural claims:
+
+1. **Layer 10 residency** — sifter runs at consolidation boundaries only; zero hot-path cost. Winnow benchmark 912ms/event (Kreminski et al. AIIDE 2021) is ~1000× per-tick budget; incremental acceptor semantics preserved but pool maintenance batched off-hot-path.
+2. **Two matcher families** — Family I event-graph acceptors (Felt/Winnow lineage) + Family II trajectory matchers (Arc Sift lineage via DTW similarity on Dynamic Character Networks).
+3. **Salience prefilter** — event is story candidate only if at least one participant encoded at least one of its events as memory trace (existing sparse prediction-error encoding). Drift stories (Family II) exempt.
+4. **20-shape pattern taxonomy** across 4 families: 6 fortune arcs (Reagan verified) + 6 relational shapes (Gottman/Rusbult/Reis-Shaver — Post 0199 canonical) + 5 life-course shapes (McAdams/Elder/Holmes-Rahe) + 3 communal shapes (Dwarf Fortress arc + Scandal + Exodus/Arrival).
+5. **H-harness H1-H8** with H5 blind-rater human study (Cohen's d ≥ 0.8, preregistered per Post 0114 OSF precedent) + H4 turning-point counterfactual replay certification (framework's deterministic-replay property; capability no other sim has).
+6. **Non-Inertness Gate (Item 132) applied to Sift Layer's own three research tracks** with per-track kill criteria (see Item 132 body).
+7. **Segregated-press consultation-gate framing** — options (a) truthful segregated with 2-paper bias-as-configuration / (b) evenhanded ahistorical / (c) community-internal channels first. Recommendation: ship (c) first; file (a) as target pending consultation-gate resolution (Phase 7.1f production-scaling — Item 138).
+
+**Prerequisites (must MET before Cluster A6 execution):**
+- Post 0190 session logger emission wiring (MET 2026-07-06)
+- Post 0191 Schema v0.2 belief-packet + epistemic-state pattern (MET; canonical)
+- Post 0197 empirical-validation-harness discipline (MET; canonical)
+- Cluster A2 Phase B/C/D completion (V1-blocker per Council #6 close; currently Phase A in progress)
+- Council #9 Item 133 ratification (this item)
+- H5 blind-rater human-study logistics operationalized (framework has n=0 capacity currently)
+- Item 137 segregated-press consultation-gate resolution
+- Item 138 Phase 7.1f production-scaling blueprint operational (for tellability-weight authoring at scale)
+
+**Cross-references:**
+- Full spec at `~/Downloads/Next up/stage7_sift_layer_spec.md` + dossier at `~/Downloads/Next up/story_sifting_dossier.md`
+- Fable 5 dossier Section 6 UNVERIFIED disclosure (8 claims flagged; taxonomy uses none load-bearingly)
+- Item 132 (Non-Inertness Gate; Sift Layer applies as first enforcement domain)
+- Item 134 (Stage 6 Conversation Plane; Sift Layer's Scandal pattern depends on gossip transport)
+- Post 0201 methodology commitment (external empirical anchoring)
+- Reagan et al. 2016 EPJ Data Science DOI 10.1140/epjds/s13688-016-0093-1 (VERIFIED verbatim via WebFetch)
+- Winnow AIIDE 2021 (VERIFIED verbatim: 912ms/event benchmark at 1000 partial matches)
+
+**Confidence calibration:** HIGH — 7/7 high-load-bearing citations verified; empirically-grounded per-source pattern taxonomy; Layer 10 residency architecturally defensible per Winnow benchmark; H-harness discipline consistent with framework's Post 0197 posture; A6 candidacy respects V1-blocker sequencing.
+
+---
+
+### Item 134 — Stage 6 Conversation Plane as Cluster A7 candidacy for post-A2 execution
+
+**Filed:** 2026-07-09 late (post-Fable-5-brainstorm)
+
+**Trigger:** Perplexity Computer via Fable 5 delivered comprehensive Stage 6 Conversation Plane spec (232 lines). Spec proposes ephemeral computed conversation-plane projection (Post 0198 precedent — `computeFirstImpression` deterministic function pattern; VERIFIED via framework state audit) with 16-act dialogue taxonomy grounded per-source, cultural layer extending bundles A/D/E, H1-H8 hypothesis harness including H6 cultural non-inertness gate at ≥15% variance floor.
+
+**Proposed candidacy body:**
+
+Filed as Cluster A7 (post-Cluster-A2 + post-Cluster-A6 execution sequencing). Full spec preserved at `~/Downloads/Next up/stage6_conversation_plane_spec.md`. Load-bearing architectural claims:
+
+1. **Ephemeral computed projection** — `ConversationState.init(participants, context, seed)` deterministic function evaluated at conversation start; discarded at end. Only typed events persist on the bus. Post 0198 first-impressions precedent (VERIFIED at framework state audit) makes Post 0198 + Stage 6 = n=2 for ephemeral computed projection architectural pattern (see Item 135).
+2. **16-act dialogue-act taxonomy** grounded per-source (Sacks-Schegloff-Jefferson turn-taking + Reis-Shaver intimacy + Altman-Taylor social penetration + Gottman 4 horsemen + repair + Brown-Levinson politeness + Giles CAT + Pickering-Garrod alignment + Bourdieu linguistic capital + Dunbar gossip).
+3. **Cultural non-inertness gate H6** requires bundle assignment explains ≥15% of variance in act-mix profile (vs M10's ≤4%). If <15%, Stage FAILS its own reason for existing — redesign junction, do not ship.
+4. **Performance budget** +0.15ms/tick at N=5000 with 250 concurrent active conversations; act selection O(1) from cached priors per Post 0132 branch-factor discipline.
+5. **Consultation-gate discipline** — bundle speech norms block at anchor tier and do not ship to procedural tier until named-reviewer sign-off resolves (Phase 7.1f production-scaling — Item 138).
+6. **§12 eight same-machinery reuses** — negotiation/labor/competition/mentorship/group/venue-vibe/family/cross-product-memory. If Stage 6 ships, downstream architectural reach amplifies substantially.
+
+**Prerequisites (must MET before Cluster A7 execution):**
+- Item 136 Post 0146 dialogue-systems scope amendment ratification (Rule 14 signature-gated per operator-delegated CC ratification exclusions)
+- Cluster A2 Phase B/C/D completion (V1-blocker)
+- Council #9 Item 134 ratification (this item)
+- Council #9 Item 106 adjudication (broader HEXACO wiring beyond A-only; Stage 6 act selection routes multiple HEXACO dimensions)
+- Council #9 Item 112 adjudication (M10 substrate extension; Stage 6 routes PairRelationalCulturalExpectations to conversation norms)
+- Council #9 Item 130 adjudication (broader M10 modulator range; Stage 6 cultural mediation depends on modulator span)
+- Post 0146 §112 canonical scope amendment (dialogue disclaimer removal or restriction)
+- Item 137 segregated-press adjudication (Stage 6 dialect/register norms fall same consultation-gate posture as intersection nodes)
+
+**Cross-references:**
+- Full spec at `~/Downloads/Next up/stage6_conversation_plane_spec.md`
+- Item 133 (Stage 7 Sift Layer; Stage 7 Scandal pattern depends on Stage 6 gossip transport)
+- Item 135 (ephemeral computed projection architectural pattern; Post 0198 + Stage 6 = n=2)
+- Item 136 (Post 0146 scope amendment)
+- Post 0179 (dialogue-surface lint; consumer relationship — extends to act/register vocabulary)
+- Post 0198 (first impressions ephemeral computed projection precedent)
+- Post 0199 (pair-relational plane; Stage 6 acts 11-14 are existing Post 0199 four-horsemen events emitted by selection mechanism)
+
+**Confidence calibration:** HIGH — Stage 6 architectural claims survive Rule 19 verification (7/7 citations); ephemeral-projection pattern has Post 0198 verified precedent; H6 cultural non-inertness gate directly addresses M10 failure mode empirically documented at A1; act taxonomy overlaps existing Post 0199 mechanics 4-of-16 (cheap integration).
+
+---
+
+### Item 135 — Ephemeral computed projection architectural pattern candidacy (Post 0198 + Stage 6 = n=2)
+
+**Filed:** 2026-07-09 late (post-A1-close + post-Fable-5-brainstorm)
+
+**Trigger:** Framework state audit 2026-07-09 verified Post 0198 first-impressions established `computeFirstImpression(perceiverHexaco, perceiverPhysical, perceiverBundleWeights, targetHexaco, targetPhysical, targetHumor, context, seed)` deterministic function pattern. H3 (deterministic reproducibility) PASS at Post 0198 shipping. Fable 5 Stage 6 Conversation Plane spec (Item 134) explicitly invokes Post 0198 as canonical precedent for `ConversationState.init(participants, context, seed)` ephemeral computed projection design. Framework has n=2 empirical instances of the pattern (Post 0198 + Stage 6 candidacy) at potential Council #9 ratification.
+
+**Proposed pattern body:**
+
+> **Ephemeral Computed Projection architectural pattern:**
+> When an NPC-facing surface requires derived state that (a) depends on multiple planes at derivation time, (b) is not additive over time, and (c) never influences downstream state except via typed event emission, use an ephemeral computed projection:
+> 1. Define derivation function: `computeX(inputs..., seed)` — pure deterministic function
+> 2. Evaluate at need (e.g., encounter start, conversation start, first impression)
+> 3. Emit typed events on the bus (persist consequences via existing plane infrastructure)
+> 4. Discard the projection object after event emission (do NOT persist as plane state)
+>
+> Rationale: prevents double-bookkeeping drift (two planes tracking overlapping state); preserves single-source-of-truth discipline; deterministic replay honored via seed threading; performance minimizes ephemeral state footprint. Diagnostic 2-D projections may exist as UI surfaces but MUST NOT be decision surfaces.
+
+**Empirical foundation (n=2 pattern instances):**
+- **Post 0198 first-impressions** (2026-07-08 morning): `computeFirstImpression` deterministic function; 7-hypothesis harness including H3 deterministic reproducibility PASS; shipped canonical
+- **Fable 5 Stage 6 Conversation Plane** (Item 134 candidacy 2026-07-09): `ConversationState.init` ephemeral projection design + `DialogueActEvent` typed event emission; not yet shipped
+
+**Falsification thresholds pre-registered:**
+- If Item 134 (Stage 6) does not ship OR ships with persistent plane state instead of ephemeral projection → pattern remains n=1 (Post 0198 only); pattern candidacy DEFLATED to observation
+- If future architectural extension (Cluster A6 Sift Layer StoryInstance emission, Cluster A8+ negotiation/interview planes per Stage 6 §12) adopts same pattern → n=3+ empirical foundation; pattern promoted to canonical
+- If double-bookkeeping drift observed at multiple pattern instances → pattern REBOUND to advisory scope
+
+**Cross-references:**
+- Post 0198 (canonical shipping precedent)
+- Item 134 (Stage 6 Conversation Plane candidacy — potential second instance)
+- Fable 5 Stage 6 spec §1.1 explicit pattern invocation
+- Council #9 Item 100 candidacy (single-session-comprehensive-arc discipline — different pattern; separate lineage)
+
+**Confidence calibration:** MEDIUM — n=2 empirical foundation is thin; second instance (Stage 6) is candidacy-scope not shipped-scope; Council review should adjudicate whether to canonize as pattern OR file as pending-observation pending Stage 6 execution.
+
+---
+
+### Item 136 — Post 0146 dialogue-systems scope amendment candidacy (V1 → post-V1 canonical mutation)
+
+**Filed:** 2026-07-09 late (Fable 5 Stage 6 dependency)
+
+**Trigger:** Framework state audit 2026-07-09 verified Post 0146 §112 exact dialogue disclaimer: "NPCs do not speak in the current architecture. There is no dialogue system in the framework's V1 spec. Characters act; they do not talk. The omission is a scope choice rather than an architectural inability; adding a dialogue system is a substantial workstream that the framework's V1 target does not accommodate." Fable 5 Stage 6 Conversation Plane spec (Item 134) proposes conversation MECHANICS (act selection, flow dynamics, relational consequence) in scope while explicitly keeping surface realization out of scope. This constitutes a canonical scope amendment requiring Rule 14 signature-gated Council review per operator-delegated CC ratification exclusions.
+
+**Proposed amendment body:**
+
+Post 0146 §112 dialogue disclaimer amended to:
+
+> "NPCs do not GENERATE utterances in the current architecture — no runtime LLM, no template-with-slot text generation at V1. **Conversation MECHANICS (dialogue act selection, turn-taking, relational consequence via typed event emission) enter scope at Stage 6 (Cluster A7).** Surface realization — actual words spoken — remains out of scope pending a separate utterance-bank authoring workstream. The V1 target accommodates the mechanics + typed-event integration; the surface remains deferred."
+
+**Rationale:**
+- Post 0198 ephemeral computed projection precedent + Stage 6 dialogue-act taxonomy grounded per-source (Sacks-Schegloff-Jefferson + Gottman + Brown-Levinson etc.) demonstrate mechanics feasibility without utterance generation
+- Post 0179 dialogue-surface lint discipline already applies to authored content (5 DSL rules); Stage 6 mechanics extend this without requiring surface generation
+- Framework's H8 Offscreen Equivalence gate in Stage 6 (Fable 5 spec) tests whether summarized conversations yield indistinguishable long-run trajectories vs full act-level simulation — validates LOD switching at 5,000 NPC scale
+- 4-of-16 Stage 6 acts (criticism/contempt/defensiveness/stonewalling) are already existing Post 0199 four-horsemen events emitted by selection mechanism — Stage 6 is not new mechanics but selection layer over existing consequence layer
+
+**Prerequisites (must MET before Item 136 ratification):**
+- Rule 14 signature-gated review per operator direct decision (not CC-delegated)
+- Item 134 (Stage 6 Conversation Plane) architectural review satisfactory to operator
+- Verification that framework's Post 0146 §112 exact wording matches audit finding (already confirmed)
+
+**Falsification thresholds pre-registered:**
+- If Stage 6 empirical harness (H1-H8) fails to reach 6+ of 8 gates, Item 136 amendment REBOUND to advisory scope — mechanics-in-scope framing stays but Stage 6 shipping deferred
+- If Post 0146 §112 dialogue disclaimer is empirically load-bearing at Council #6-scale audit (e.g., blocks V1 ship gate decisions), Item 136 amendment DEFERRED to Council #10 post-V1-ship review
+- If Fable 5 dialogue mechanics prove architecturally infeasible at N=5000 (Post 0132 branch-factor budget exceeded), Item 136 REBOUND to observation
+
+**Cross-references:**
+- Post 0146 §112 exact wording (framework state audit 2026-07-09 confirmed)
+- Item 134 (Stage 6 candidacy dependent on Item 136 ratification)
+- Fable 5 Stage 6 spec §1 scope amendment section
+- Rule 14 canonical protocol for scope amendments per Council #8 canonization
+
+**Confidence calibration:** MEDIUM-HIGH — Post 0198 ephemeral pattern demonstrates mechanics feasibility; scope framing (mechanics IN, surface OUT) is architecturally coherent; Rule 14 signature-gate ensures operator direct decision.
+
+---
+
+### Item 137 — Segregated-press content-adjudication problem candidacy (options a/b/c framing)
+
+**Filed:** 2026-07-09 late (Fable 5 Stage 7 dependency + independent framework recognition)
+
+**Trigger:** Fable 5 Stage 7 §5 identified segregated-press adjudication as central content-adjudication problem when Stage 7 (or any future story-surfacing mechanism) generates diegetic narrative artifacts (newspapers, league newsletters) for 1940s-1960s American bundles. Period-accurate mainstream dailies systematically under-covered or miscovered Black, Tejano, and Japanese-American communities; the Black press (e.g., Philadelphia Tribune in Anchor A's city) existed precisely because of that erasure. Framework recognizes this as consultation-gate territory regardless of Stage 6/7 adoption fate.
+
+**Options framing (Fable 5 verbatim):**
+
+- **Option (a): Truthful segregated press.** Model two papers per venue (mainstream + community); biased sifters via `place_scope` + `consultation_policy_id`. Historically honest; heavy content adjudication; richest design. Implementable with zero new machinery once Sift Layer + consultation-gate operational.
+- **Option (b): Single ahistorical evenhanded paper.** One paper per venue; unbiased sifter. Safer content-adjudication posture; era-dishonest.
+- **Option (c): Community-internal channels first.** Restrict diegetic surfacing to newsletters + diaries + trophy plaques + gossip transport (Stage 6 dependency for gossip). Newspapers deferred pending Option (a) resolution.
+
+**Recommended shipping posture (Fable 5):**
+- **Ship (c) first** — community-internal channels only until consultation-gate resolves
+- **File (a) as target** pending named-reviewer sign-off through Phase 7.1f production-scaling pathway (Item 138 dependency)
+
+**Framework operational adoption:**
+Recognized as consultation-gate territory regardless of Stage 7 adoption fate. If Council #9 defers Stage 7 (Item 133), Item 137 remains file-worthy as content-adjudication problem framework will face at any newspaper/newsletter-generating surface.
+
+**Prerequisites:**
+- Item 138 Phase 7.1f production-scaling blueprint operationalized (required for Option (a) execution)
+- Item 133 (Stage 7) ratification (for immediate applicability); OR future story-surfacing mechanism ratification
+
+**Cross-references:**
+- Fable 5 Stage 7 spec §5 segregated-press adjudication
+- Item 138 (Phase 7.1f production-scaling)
+- Item 133 (Stage 7 Sift Layer)
+- Post 0187 (Marcus Reed apparatus retirement + Phase 7.1f substrate-triangulation successor pathway)
+- Bundle A anchor bundle: 1944 Philadelphia African-American context (Great Migration + Double V + Prince Hall + Pittsburgh Courier + Philadelphia Tribune historical infrastructure documented at cultural bundle)
+
+**Confidence calibration:** HIGH — problem exists independently of Stage 6/7 fate; framework will face at any diegetic story-surfacing mechanism; Option (c) ships-first + Option (a) as target is a defensible operational posture consistent with intersection-nodes discipline.
+
+---
+
+### Item 138 — Phase 7.1f production-scaling blueprint candidacy (content-authoring at 5000-NPC scale)
+
+**Filed:** 2026-07-09 late (framework state audit finding)
+
+**Trigger:** Framework state audit 2026-07-09 confirmed: Post 0187 retired Marcus Reed Surface 8 §4 verdict apparatus 2026-07-06. Phase 7.1f substrate-triangulation pathway is the RETAINED successor discipline. Framework has ONLY anchor-scope validated NPCs (n=3: Marvin/Cesar/Yuki; extended to 7 anchors per Stage 3 close per sim-ai CLAUDE.md). **NO production-scaling blueprint exists** for scaling Phase 7.1f pathway to 5,000-NPC content-authoring scale required by:
+- Fable 5 Stage 6 procedural-tier dialect/register norms deployment
+- Fable 5 Stage 7 tellability-weight authoring at bundle scope + reporter NPC period-accurate-wrong-content generation
+- Room to Life 4-product ecosystem NPC roster (Council #6 close ratification of population-scaling foundation)
+- Memory Lanes V1 procedural NPC provisioner (Post 0189 shipped 2026-07-06)
+
+**Proposed candidacy body:**
+
+Framework files Phase 7.1f production-scaling blueprint as separate Council #9 review item covering:
+
+1. **Anchor-tier → Procedural-tier transition discipline.** How do anchor-scope validated `PHASE-7-1F-TRIANGULATION-VERIFIED` provenance patterns generalize to 5,000-NPC procedural provisioner (Post 0189 canonical)? What's the substrate-triangulation cost function at scale?
+2. **Cultural bundle content extension protocol.** How are new bundles beyond current 3 (A/D/E) added at production scale? Fable 5 Stage 7 tellability-weight authoring becomes per-bundle authoring problem.
+3. **Consultation-gate operationalization at content-authoring scale.** Current consultation-gate blocks at anchor tier; production requires operationalization at bundle-scope + at future generative-content-surface scope (reporter NPCs, gossip transmission, segregated press option (a)).
+4. **Rule 19 anti-fabrication at scale.** Bulk-authored bundle content still requires per-term primary-source verification. Framework has n=1 bulk-verification round (Round 5 Perplexity citation audit at Council #9 Items 117-120). Scale procedure required.
+
+**Prerequisites (must MET before Phase 7.1f production-scaling execution):**
+- Cluster A2 population-scaling foundation completion (V1-blocker; scaling blueprint operationalizes AT scale which requires scale infrastructure)
+- Council #9 Item 138 ratification (this item)
+- Operator ratification of substrate-triangulation cost function (operator work-hours estimate for scale)
+
+**Cross-references:**
+- Post 0187 Marcus Reed apparatus retirement + Phase 7.1f substrate-triangulation successor pathway
+- Post 0189 lifelineGenerator procedural NPC provisioner (bundle-aware refactor)
+- polish_queue Item 352 Path A (2026-06-08 canonization)
+- Item 133 (Stage 7 depends on tellability-weight authoring at scale)
+- Item 134 (Stage 6 depends on dialect/register norms at procedural tier)
+- Item 137 (segregated-press Option (a) execution depends on this blueprint)
+
+**Confidence calibration:** MEDIUM — problem is real (framework state audit confirmed no scaling artifact filed); solution scope is substantial (weeks-to-months operator work-hours); Council #9 adjudicates whether framework builds blueprint pre-V1 OR defers to post-V1 comprehensive workstream.
+
+---
+
+### Item 139 — Belief store as PROV-O extension to Schema v0.2 candidacy
+
+**Filed:** 2026-07-09 late (Fable 5 Stage 7 + reporter/detective dependency)
+
+**Trigger:** Fable 5 Stage 7 Sift Layer + reporter/police/detective NPC professions require per-NPC "who believes what, with what confidence, from what source" data structure. Fable 5 notes Schema v0.2 already uses CIDOC-CRM + PROV-O (Post 0191 canonical); belief store is applied provenance ontology at NPC head scope, not new subsystem. But: fine-grained belief stores for all 5,000 NPCs annihilates ~260 bytes/Sim budget (Fable 5 explicit acknowledgment). Fix: occupational asymmetry (rich for information-professionals; coarse for others).
+
+**Proposed candidacy body:**
+
+Schema v0.2 extension at NPC-head scope:
+
+1. **PROV-O extension body.** `NpcBelief` schema row inheriting Schema v0.2 5-attribute minimum (`valid_time`, `place_scope`, `evidence_quality`, `consultation_policy_id`, `display_transform_id`) + PROV-O-derived `wasDerivedFrom` + `hadPrimarySource` + `confidence`.
+2. **Occupational asymmetry rule.** Rich belief store (fine-grained epistemics) only for information-profession NPCs (reporters, police officers, detectives) + player-adjacent characters + anchor-tier characters. Coarse aggregate belief for all others (~4,900+ NPCs at 5000 scale).
+3. **Gossip transmission model.** Bartlett 1932 serial-reproduction distortion applied to belief propagation across NPC network. Fable 5 explicit citation (VERIFIED at Rule 19 verification).
+4. **Prerequisite: Cluster A2 memory-budget empirical validation.** Occupational-asymmetry design proposal cannot commit until A2 empirically demonstrates 260 bytes/Sim base budget at 5000 scale.
+
+**Prerequisites (must MET before Item 139 execution):**
+- Cluster A2 Phase B/C/D completion (memory-budget empirical validation)
+- Council #9 Item 139 ratification (this item)
+- Item 133 (Stage 7) or Item 134 (Stage 6) requiring belief store as consumer
+
+**Cross-references:**
+- Fable 5 Stage 7 spec §1.5 (belief store as PROV-O extension)
+- Post 0191 Schema v0.2 4-layer runtime compilation (canonical foundation)
+- Post 0146 Layer 8 biographical records (belief store extension junction)
+- Cluster A2 population-scaling foundation methodology guide (memory-budget prerequisite)
+- Bartlett 1932 serial reproduction (Rule 19 verified)
+
+**Confidence calibration:** LOW-MEDIUM — architecturally coherent + literature-grounded but requires A2 empirical foundation before commitment; occupational-asymmetry design departs from framework's uniform-NPC scaling assumption; requires operator ratification of scaling trade-off before build.
 
 ---
 
