@@ -1393,6 +1393,72 @@ Framework empirical validation harnesses that ship to external substrate audit r
 
 ---
 
+### Item 106 — HEXACO-decorative-at-pair-relational-scope architectural finding (n=2 convergence: framework author H8+H11 + Grok audit round 2)
+
+**Filed:** 2026-07-08 late evening (post substrate audit round 2 Grok findings + H15 test build)
+
+**Trigger:** Substrate audit round 2 dispatched Grok Expert (with Think mode) for adversarial code + implementation critique. Grok HIGH finding independently corroborated the framework author's H8+H11 architectural observations: `updatePairRelational` forwards `perceiverHexaco` faithfully but H8/H11 show byte-identical outputs across HEXACO extremes under accommodation events. Framework author built H15 in response: systematic HEXACO extremes × event types × horizons sweep (6×6×4 = 144 paired comparisons). H15 verdict PASS 4/4 with critical architectural finding surfaced: **only 1/6 HEXACO dimensions (Agreeableness) has observable effect at pair-relational plane scope**.
+
+**Empirical foundation:**
+- Framework substrate code inspection: `sim-ai/src/sim-ai/pairRelationalPlane.ts:295` — `perceiverHexaco.A` is the SINGLE HEXACO read in `updatePairRelational`, routing to `accommodationFrequency` computation. Dimensions H, E, X, C, O are received as parameters but never consulted.
+- H15 empirical measurement: Δaccommodation of 51.69 units (A=90 vs A=10 under sustained accommodation) confirms hexaco.A is architecturally active. Δsentiment / Δtrust / Δcommitment are byte-identical across ALL HEXACO extremes.
+- n=2 convergence: framework author's H8 null-model + H11 boundary + Grok audit round 2 HIGH finding independently arrive at same conclusion.
+
+**Candidate discipline body:**
+Framework claim that Stage 3 personality data (HEXACO) is exercised jointly with Stage 4 pair-relational plane is **empirically FALSE at composition scope**. 5 of 6 HEXACO dimensions are decorative for pair-relational updates. Framework should either:
+- **Option A:** route more HEXACO dimensions to pair-relational mechanisms explicitly (e.g., E for reactivity to negative events, X for accommodation warmth, C for commitment stability, H for four-horseman resistance, O for shared-novel-activity investment)
+- **Option B:** formally acknowledge in framework methodology commitment M8 that HEXACO's pair-relational role is limited to A-driven accommodation frequency, with the remaining 5 dimensions active only at attractiveness/first-impression scope
+- **Option C:** demote HEXACO storage per-NPC in favor of scoped personality stores (attachment style for pair-relational; HEXACO for perception/attraction)
+
+**Framework methodology commitment M8 implication:** "Pair-relational as SEPARATE plane not scalar aggregation" is technically preserved, but the plane's HEXACO-independence is currently near-complete (only 1/6 dimensions routed). This is worth substrate audit round 3 (Gemini + Opus) input before adjudication.
+
+**Non-application scope:** finding is architecturally scoped to `updatePairRelational` function. Other framework plane updates (first-impression via `computeFirstImpression`; attractiveness via `computeAttractivenessAssessment`; charisma via `computeCharismaPerception`) DO route more HEXACO dimensions; those are not affected by this finding.
+
+**Falsification thresholds pre-registered:**
+- If substrate audit round 3 (Gemini/Opus) surfaces additional evidence that HEXACO's near-complete decorative status at pair-relational scope is architecturally intentional (e.g., attachment-primary theoretical framing), Item 106 becomes design-acknowledgment candidacy → REBOUND M8 to explicitly acknowledge attachment primacy
+- If audit round 3 argues framework should route more HEXACO dimensions, Item 106 becomes architectural-extension candidacy → NEW WORK: extend updatePairRelational to route H/E/X/C/O
+- If audit round 3 finds no additional signal, DEFAULT: option B (formal acknowledgment in M8)
+
+**Cross-references:**
+- Council #9 Item 104 (audit-round-methodology-improvement candidacy — H15 is empirical instance of the methodology)
+- Council #9 Item 105 (audit round 1 corpus-wide citation-integrity fire)
+- Council #9 Item 55 (RETIRED — personality-as-attractor falsification) — Item 106 refines the personality-scope architectural question
+- `sim-ai/src/sim-ai/pairRelationalPlane.ts:262-295` — code location of finding
+- `~/Projects/Open Alley/scripts/island-sim-ui-empirical-harness/h15-hexaco-effect-positive-assertion.ts` — H15 test
+
+**Confidence calibration:** HIGH — finding is empirically documented via 144 paired comparisons + traceable to specific line of substrate code + independently corroborated across n=2 sources (framework author + Grok).
+
+---
+
+### Item 107 — Grok mutation-testing methodology as framework audit round discipline candidacy
+
+**Filed:** 2026-07-08 late evening (post Grok audit round 2 findings + H9a/b/c counter-test build)
+
+**Trigger:** Grok audit round 2 supplied 3 specific mutation-test targets identifying test-suite coverage gaps (bugs the current suite would NOT catch): (a) habitus threshold tightened; (b) single-sim habitus benchmark; (c) HEXACO-ignored path. Framework built H9a/b/c counter-tests in response, each specifically designed to detect the mutation with observable failure. H9a/b/c verdict: 3/3 PASS after L1-norm habitus emission gating fix.
+
+**Candidate discipline body:**
+Framework empirical validation harnesses should include mutation-testing counter-tests: for each identified test-suite gap, construct a counter-test that would detect the mutation with observable failure. Mutation-testing methodology extends framework's Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline from "does the harness detect known-broken assertions" (H9 canary) to "does the harness detect specific mutations that would silently pass without dedicated coverage" (H9a/b/c).
+
+**Empirical evidence:**
+- Grok audit round 2 identified 3 concrete mutations current suite would not catch — specific + reproducible + falsifiable
+- Framework author built H9a/b/c counter-tests: initially 2/3 PASS with H9a failing under max-delta gating; framework fixed emission to L1-norm across 6 dispositions; H9a then PASSED
+- Both the identified test gap AND the fix are empirically documented — mutation-testing methodology has direct architectural payoff (habitus emission fix caught by the counter-test)
+
+**Falsification thresholds pre-registered:**
+- If audit rounds using mutation-testing methodology produce ZERO adopted mutations across n=3+ deployments, methodology is validation theater → DEFLATE (opt-in) or RETIRE
+- If mutations identified reveal only trivial code-quality issues (magic-number extraction, etc.), methodology has limited architectural payoff → REBOUND (narrow scope to architectural-claim mutations only)
+- If Grok's H9a/b/c methodology is empirically distinct-from Perplexity-scope citation verification + Gemini-scope statistical rigor + Opus-scope methodology self-consistency, methodology is CANONIZATION candidate for framework-scope mutation-testing discipline
+
+**Cross-references:**
+- Council #9 Item 104 (audit-round-methodology-improvement — Item 107 is candidate extension)
+- Council #9 Item 106 (HEXACO-decorative finding — H9c counter-test detects HEXACO-ignored mutation)
+- `~/Projects/Open Alley/scripts/island-sim-ui-empirical-harness/h9a-b-c-mutation-counter-tests.ts` — H9a/b/c test file
+- Grok audit round 2 findings ingested in operator memory `project_substrate_audit_round_2_grok_2026-07-08_late_evening.md`
+
+**Confidence calibration:** MEDIUM — methodology has n=1 empirical instance (this audit round). Confidence upgrades to HIGH after n=2+ instances of substrate mutation-testing findings producing architectural fixes.
+
+---
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
