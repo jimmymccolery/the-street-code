@@ -1342,6 +1342,57 @@ Framework empirical validation harnesses that ship to external substrate audit r
 
 ---
 
+### Item 105 — Substrate-audit-round-1 corpus-wide citation-integrity fire + remediation-applied documentation
+
+**Filed:** 2026-07-08 late evening (post Perplexity Computer via GPT 5.5 substrate audit round 1 findings + framework remediation)
+
+**Trigger:** Substrate audit round 1 dispatched Perplexity Computer (GPT 5.5) for citation verification against citation manifest v1.0 (Island Sim UI audit deployment kit `~/Desktop/island-sim-ui-audit-2026-07-08/`). Findings: **7.5% fabrication rate (4/53 suspected)** + additional 11 partial-with-claim-mismatch. Three fabrications rose to CRITICAL severity per pre-registered disposition matrix. Corpus-wide integrity fire fired across sim-ai substrate + Open Alley Stage 3 architectural spec + published Post 0198 GitHub post + citation manifest.
+
+**CRITICAL fabrications identified:**
+
+1. **C03 Coetzee 2014 "50-60% shared universal + 40-50% culture-specific decomposition"** — WITHDRAWN. Actual PLOS ONE paper (DOI 10.1371/journal.pone.0099629) reports inter-rater r=0.623 across cultures + r=0.487-0.747 within-culture; no numeric variance decomposition. Framework's 55/45 weighting was DESIGN CHOICE claimed as empirical.
+
+2. **C14 de Vries 2019 "HEXACO × charisma r=+.62 / r=-.59 correlations"** — WITHDRAWN. Actual de Vries/Pathak/Paquin 2019 paper (DOI 10.1007/s10869-019-09671-6) reports these magnitudes as discriminant-function loadings on the FOLLOWER-PREFERENCE function, NOT target-perceiver correlations. Framework's Extraversion-primary charisma design is DIRECTIONAL choice consistent with Bono & Judge 2004 + Judge & Bono 2000 meta-analyses, NOT specific numeric correlation targets.
+
+3. **C16 Vernon 2015 "twin study n=2,300 HEXACO-humor independence"** — WITHDRAWN. No such 2015 Vernon paper located. Actual nearest paper — Veselka/Schermer/Martin/Cherkas/Spector/Vernon 2010 (Europe's J Psych 6(3), DOI 10.5964/ejop.v6i3.206) — reports OPPOSITE finding: significant HEXACO-humor phenotypic correlations with SHARED genetic architecture. Framework methodology commitment M5 revised.
+
+**Remediation applied (2026-07-08 late evening):**
+- sim-ai/src/sim-ai/humorStyle.ts + charismaPerception.ts + attractivenessAssessment.ts — file headers revised with honest citation-withdrawal + design-choice reframing
+- sim-ai/scripts/stage-3-empirical-hypotheses/ h2 + h5 + h6 — empirical grounding lines corrected; h5 test now validates DIRECTIONAL pattern (not specific numeric correlation targets)
+- Open Alley architecture/phase-15-stage-3-*.md — audit correction notice added at top
+- the-street-code Post 0198 — audit round 1 addendum prepended (published corpus preserved with honest correction trail)
+- Citation manifest revised to v2.0 with corrections + verification-blocked section + audit trail
+
+**Framework methodology commitment M5 revised:** was "charisma derived + humor style stored per Vernon 2015 twin study behavioral-genetic independence"; now "charisma derived + humor style stored as engineering choice preserving HSQ 4-factor construct distinctness (empirical HEXACO-humor correlations accepted; independence claim withdrawn 2026-07-08 post-audit-round-1)."
+
+**Mechanical corrections applied simultaneously:** C23 Le & Agnew sample sizes (52 studies / 60 samples / N=11,582); C33 Berscheid RCI DOI (10.1037/0022-3514.57.5.792); C34 Aron & Aron 1996 disambiguated from 1992 IOS scale (DOI 10.1037/0022-3514.63.4.596).
+
+**Recursive discipline fire:** operator memory `feedback_substrate_fabricates_quotes_when_inaccessible_source.md` documented n=2 prior fabrication incidents (Grok on Marcus Reed S8 + Gemini on DT sueyourkid). This audit round fires the pattern at **n=3+ instances at framework-code scope** — the same fabrication-under-inaccessibility failure mode operating within CC-authored framework rather than only within external substrate research. Pattern promoted from external-substrate-scope observation to framework-scope discipline candidacy.
+
+**Non-application scope:** framework's architectural PIVOTS (universal beauty scalar rejection + first-impression-as-moment + charisma-as-derived + humor-as-stored + cultural-bundle-mediation) remain load-bearing. The fabrications affected empirical GROUNDING, not architectural DECISIONS. Remediation preserves the pivots by reframing them as DIRECTIONAL / DESIGN CHOICES consistent with qualitative literature agreement.
+
+**Falsification thresholds pre-registered:**
+- If substrate audit round 2 (Grok + Gemini + Opus) surfaces **additional CRITICAL fabrications beyond the 3 identified by Perplexity**, framework methodology commitment M6 (empirical validation before authoritative citation) requires more aggressive citation manifest overhaul — potentially withdrawing ALL specific numeric citations that were not directly verified from primary source.
+- If substrate audit round 2 finds **zero additional fabrications**, remediation is judged empirically sufficient at this scope.
+- If Post 0197 recursion count is later incremented beyond n=7+ despite this audit round's revealed fabrication pattern, that increment is empirically DISHONEST — the increment requires substrate audit round 2 clean-verification first.
+
+**Post 0197 recursion count status:** **HELD at n=7+** pending remaining substrate audits. Framework author's initial claim to extend to n=8+ (after H1-H14 improvement round) is DEFERRED — recursion count increment requires empirical verification that the audit-round-methodology posture is actually catching load-bearing findings that framework author self-critique missed. This audit round DID catch three CRITICAL fabrications that framework author self-critique missed, so the discipline is empirically productive; but the count remains held until substrate audit round 2 confirms remediation was sufficient.
+
+**Cross-references:**
+- Council #9 Item 104 (audit-round-methodology-improvement candidacy — this audit round is Item 104's empirical foundation)
+- operator memory `feedback_substrate_fabricates_quotes_when_inaccessible_source.md`
+- operator memory `feedback_audit_finding_disposition.md` (operator-approval-then-substitute pattern applied)
+- operator memory `feedback_verify_against_canonical_files.md` (n=9 cumulative — this audit round is the 9th confirmation)
+- Post 0197 (empirical-validation-harness discipline — recursion count held at n=7+ pending remaining substrate audits)
+- Post 0198 (Stage 3 architectural extension — addendum published)
+- Rule 19 (anti-fabrication) — empirically fired at framework scope, promoting the rule's empirical foundation
+
+**Recommendation:** Council #9 review Item 105 at target window 2026-09-05 through 2026-10-05. Empirical foundation available: this audit round's Perplexity findings + framework remediation + substrate audit round 2 findings (arriving before Council #9 review). Item 105 disposition options at review: CANONIZE substrate-audit-round-methodology as framework-scope commitment; DEFLATE as opt-in for external-facing empirical claims only; RETIRE if substrate audit round 2 reveals remediation insufficient.
+
+**Confidence calibration:** HIGH — findings are empirically documented + verified against actual primary sources + remediation is byte-verifiable at file-diff scope.
+
+---
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).

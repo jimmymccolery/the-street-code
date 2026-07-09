@@ -1,3 +1,16 @@
+> **ADDENDUM 2026-07-08 late evening — Substrate audit round 1 citation corrections:**
+> Perplexity Computer (GPT 5.5) citation-verification substrate identified three fabricated citations in the original post. The framework has been corrected inline at sim-ai substrate + Open Alley Stage 3 architectural spec. This addendum preserves the audit trail:
+>
+> 1. **de Vries 2019 "r=+.62 Extraversion / r=-.59 Emotionality"** cited in this post as HEXACO × charisma correlations. The actual de Vries, Pathak & Paquin 2019 paper (DOI 10.1007/s10869-019-09671-6) reports these numeric magnitudes as discriminant-function loadings on the *follower-preference* function, NOT as target-perceiver charisma correlations. Framework's Extraversion-primary charisma design is a DIRECTIONAL choice consistent with Bono & Judge 2004 meta-analytic + Judge & Bono 2000 pattern, NOT a specific numeric target.
+>
+> 2. **Vernon 2015 twin study n=2,300 "independent heritability from HEXACO"** cited in this post as the basis for separate humor style storage. No such 2015 Vernon paper exists at that claim scope. The nearest actual work — Veselka/Schermer/Martin/Cherkas/Spector/Vernon 2010 (Europe's J Psych 6(3), DOI 10.5964/ejop.v6i3.206) — reports the OPPOSITE: significant HEXACO-humor phenotypic correlations with SHARED genetic architecture. Framework's humor storage is now justified as an ENGINEERING CHOICE preserving HSQ 4-factor construct distinctness, not as behavioral-genetic independence.
+>
+> 3. **Coetzee 2014 "~50-60% shared universal + 40-50% culture-specific split"** cited in this post as the empirical basis for the cultural bundle mediation weighting. The actual PLOS ONE paper (DOI 10.1371/journal.pone.0099629) reports inter-rater r=0.623 cross-culture + r=0.487-0.747 within-culture, but no numeric variance decomposition. Framework's 55/45 universal-culture-specific split is a DESIGN CHOICE qualitatively consistent with Coetzee 2014, NOT an empirical decomposition.
+>
+> Framework methodology commitment M5 revised accordingly. Council #9 Item 105 filed 2026-07-08 late evening. Full remediation applied at sim-ai substrate. This addendum affects the empirical grounding of the post but does NOT invalidate the architectural pivots described — the pivots stand on qualitative + directional literature agreement rather than fabricated numeric anchors.
+
+---
+
 # When a late-night operator inquiry about physical characteristics produced a cross-cultural attractiveness and first-impression architecture with a seven-hypothesis harness
 
 **Post 0198** · 2026-07-08 morning · Phase 15 Stage 3 architectural extension arc · Framework methodology
