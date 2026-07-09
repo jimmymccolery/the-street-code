@@ -1,3 +1,44 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0200
+title: When Stage Five Bourdieu Habitus Plane Completed the Cognitive Architecture with Symbolic Capital as Non-Linear Emergent Property
+date_published: 2026-07-08
+status: published
+superseded_by: none
+domain: methodology-discipline stage-5-Bourdieu-habitus-plane-architectural-extension 4-capital-taxonomy field-theory habitus-dispositions dual-process-implicit-dominance symbolic-capital-non-linear-emergence Wacquant-apprenticeship-timescale Lizardo-cognitive-origins Vaisey-dual-process-60-70-percent-implicit-band empirical-validation-harness-parallel-to-diagnostic-UI-pattern
+project_scopes: sim-ai the-street-code Open-Alley cross-cutting
+cc_task_relevance: stage-5-Bourdieu-habitus-plane-architectural-extension-design-implementation-testing 4-capital-taxonomy-shipped-structurally habitus-dispositions-as-6-dimensional-vector-per-Vaisey-implicit-band symbolic-capital-non-linear-emergent-not-stored field-theory-with-6-fields Reay-2004-mismatch-signature-required-recalibration
+phase_binding: 2026-07-08-morning-phase-15-stage-5-Bourdieu-habitus-plane-arc
+discipline_family: empirical-validation-harness-parallel-to-diagnostic-UI Post-0146-Layer-8-biographical-records-extension Phase-15-cognitive-architecture-completion methodology-commitments-M12-M14
+canonical_rule: Bourdieu-habitus-plane-as-separate-typed-plane-with-4-capital-taxonomy-structural-storage-and-symbolic-capital-non-linear-emergent-computed-per-tick-and-Vaisey-60-70-percent-implicit-band-preserved-across-evolution
+load_bearing_claims:
+- Stage 5 Bourdieu habitus plane shipped as separate typed sim-ai plane completing the cognitive architecture with 4-capital vector + 6-field position + 6-dimension habitus dispositions + habituation hours + symbolic capital emergent
+- 4-capital taxonomy shipped structurally per Bourdieu 1984 Distinction - economic + cultural (embodied + objectified + institutionalized) + social + symbolic (non-linear emergent from other three)
+- Symbolic capital is NOT stored; computed non-linearly per tick from other capitals per Bourdieu misrecognition mechanism (position in field + capital ratios + collective recognition thresholds)
+- Habitus dispositions shipped as 6-dimensional vector - deferenceVsAgency + presentVsFutureOrientation + restraintVsExpression + individualVsCollective + practicalVsAesthetic + automaticVsDeliberative - with dual-process implicit dominance at Vaisey 2009 empirical 60-70% band preserved across simulated evolution
+- Wacquant 2004 apprenticeship timescale - habitus evolves via sustained field exposure at hours-of-participation scale not days-of-events scale; habituationHours state accumulates per tick under field-exposure
+- Practice fitness function REQUIRED empirical recalibration because saturation-at-100 obscured the Reay 2004 mismatch signature (habitus formed in prior field misaligned with current field) that Stage 5 harness needed to expose - harness catches architectural gap where saturation clip removes the very signal Bourdieu hysteresis mechanism produces
+- Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline fires at n=6+ recursive scope (Path 1 + Stage 2 + Path 3 + Stage 3 + Stage 4 + Stage 5)
+applicability_triggers:
+- Any framework work on Bourdieu habitus + capital + field + practice + habituation + symbolic capital non-linearity
+- Any 4-capital taxonomy design requiring embodied vs objectified vs institutionalized cultural capital distinction
+- Any dual-process cognition architecture requiring Vaisey 60-70% implicit-explicit band
+- Any hysteresis mechanism where habitus formed in prior field misaligns with current field
+- Any Practice fitness function requiring un-saturated exposure so the mismatch signature remains visible
+mechanism_details:
+- 1 sim-ai substrate module shipped or extended - habitusPlane.ts (FourCapitalVector + HabitusPlaneState + FieldPosition + updateHabitusDispositions + computeSymbolicCapital + updateHabituationHours + inferHabitusFieldMismatch)
+- 7-hypothesis empirical validation harness 7/7 PASS after Practice fitness function recalibration
+- Fields shipped - economicField + culturalField + politicalField + religiousField + educationalField + domesticField per Bourdieu 1977 Outline + Bourdieu 1984 Distinction UK Cultural Class Distinction replication per Bennett Savage Silva Warde 2009
+- Council #9 Item 103 filed for Stage 5 architectural extension canonization candidacy
+- Symbolic capital non-linear emergence tested against 4-capital-input variance decomposition via Stage 5 harness at empirical scope
+cross_refs:
+- Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline (recursive at n=7+; Stage 5 is n=6+ recursion instance)
+- Post 0198 Stage 3 architectural extension (predecessor context; Stage 3 physical + humor set)
+- Post 0199 Stage 4 pair-relational plane (predecessor; Stage 4 pair-relational as social-relational plane complements Stage 5 field-positional plane)
+- Post 0201 A1 downstream sim-scale calibration (subsequent; A1 M10 INERT verdict + capital_conversion channel empirical KILL at H27 informs Stage 5 dependency downstream)
+- Rule 24 canonical file `~/Projects/master-setup/operational_discipline_rules.canonical.md` (RETIRED 2026-07-09 late)
+- Memory - project_week_plan_executed_end_to_end_single_session_2026-07-08.md
+CC-OPTIMIZED-SUMMARY -->
+
 # When Stage 5 Bourdieu habitus plane completed the cognitive architecture with symbolic capital as non-linear emergent property
 
 **Author:** Jimmy McColery

@@ -64,9 +64,11 @@ Framework preserves convention as authoring-time discipline regardless of Counci
 - Fable 5 story-sifting dossier §6 at `~/Downloads/Next up/story_sifting_dossier.md` — exemplary format
 - Rule 24 canonical-file correction protocol (correction discipline for retroactive Section 6 additions to prior documents if audit surfaces gaps)
 
-## Retroactive application discipline
+## Retroactive application discipline (HISTORICAL — Rule 24 RETIRED 2026-07-09 late)
 
-Framework does NOT retroactively add Section 6 disclosure to prior documents — Rule 24 immutability discipline preserves published state. If Rule 19 audit surfaces citation gap in prior document, framework files correction addendum via Rule 24 protocol (addendum-preserves-immutability). Section 6 convention applies FORWARD to documents authored 2026-07-09 late onwards.
+**Original (pre-Rule-24-retirement):** Framework does NOT retroactively add Section 6 disclosure to prior documents — Rule 24 immutability discipline preserves published state. If Rule 19 audit surfaces citation gap in prior document, framework files correction addendum via Rule 24 protocol (addendum-preserves-immutability). Section 6 convention applies FORWARD to documents authored 2026-07-09 late onwards.
+
+**Post-Rule-24-retirement (2026-07-09 late per operator ratification; see `rule-24-retirement-2026-07-09.md`):** Framework MAY retroactively add Section 6 disclosure to legacy documents if operator judgment warrants. Forward-application discipline (Section 6 required on all framework-scope 2026-07-09+ methodology artifacts) is preserved + enforceable via audit.sh Section H lint. Rule 24 immutability caveat becomes historical rather than enforcement-binding.
 
 ## Documents that must include Section 6 UNVERIFIED disclosure going forward
 

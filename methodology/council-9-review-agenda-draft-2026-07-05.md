@@ -3143,7 +3143,13 @@ Empirical motivating anchor: Fable audit §A.2.3 — CC Opus 4.7 WebFetch "verif
 
 ---
 
-### Item 142 — Rule 24 mechanical-fix amendment (SEMANTIC vs MECHANICAL distinction)
+### Item 142 — Rule 24 mechanical-fix amendment — RETIRED 2026-07-09 late (parent Rule 24 retired)
+
+**⚠️ RETIRED 2026-07-09 late** — parent Rule 24 retired per operator ratification. Item 142 amendment becomes mechanically inapplicable + is RETIRED alongside per Council #8 split/retire/reduce mechanism.
+
+**Retirement rationale:** Item 142 proposed distinguishing SEMANTIC vs MECHANICAL edits under Rule 24 immutability discipline. With Rule 24 retired (see `~/Projects/master-setup/operational_discipline_rules.canonical.md` Rule 24 retirement notice 2026-07-09 late), framework's future correction practice reverts to pragmatic-in-place-edit-with-commit-message-attribution. The SEMANTIC/MECHANICAL distinction preserved as historical audit artifact; H33 empirical test PASS at n=4 preserved as evidence base. `verify-mechanical-fix.py` script + `compliance-repair-ledger.md` retained as historical record + reusable tooling but no longer discipline-binding.
+
+**Historical Item 142 body preserved for retirement audit trail (NOT ratifiable):**
 
 **Filed:** 2026-07-09 late (Fable 5 adversarial audit §D.8 proposal + em-dash episode empirical anchor)
 

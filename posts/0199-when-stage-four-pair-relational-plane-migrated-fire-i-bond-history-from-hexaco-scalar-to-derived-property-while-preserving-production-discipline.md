@@ -1,3 +1,41 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0199
+title: When Stage Four Pair-Relational Plane Migrated Fire I Bond-History from HEXACO Scalar to Derived Property While Preserving Production Discipline
+date_published: 2026-07-08
+status: published
+superseded_by: none
+domain: methodology-discipline stage-4-pair-relational-plane-architectural-extension Kelley-Thibaut-interdependence Rusbult-investment-model Wieselquist-accommodation-trust-commitment-path Reis-Shaver-intimacy-spiral Gottman-sentiment-override attachment-x-pair-relational-dynamics Fire-I-bond-history-migration empirical-validation-harness-parallel-to-diagnostic-UI-pattern
+project_scopes: sim-ai the-street-code Open-Alley cross-cutting
+cc_task_relevance: stage-4-pair-relational-plane-architectural-extension-design-implementation-testing pair-relational-as-separate-plane-not-scalar-aggregation Fire-I-bond-history-migration-from-HEXACO-scalar-to-pair-relational-derived-property four-horseman-cascade-active-trust-erosion-and-turning-away-encoding attachment-sentiment-encoding-modulation Rusbult-commitment-with-trust-mediated-path
+phase_binding: 2026-07-08-morning-phase-15-stage-4-pair-relational-plane-arc
+discipline_family: empirical-validation-harness-parallel-to-diagnostic-UI Post-0146-Layer-8-biographical-records-extension Phase-15-vault-15-E-migration-candidacy-executed methodology-commitments-M8-M11
+canonical_rule: pair-relational-as-separate-typed-plane-not-scalar-aggregation-with-Fire-I-bond-history-as-derived-property-per-Wieselquist-trust-commitment-path-and-Gottman-four-horseman-active-turning-away
+load_bearing_claims:
+- Stage 4 pair-relational plane shipped as separate typed sim-ai plane with 11 fields (trust + commitment + intimacy + sentiment + accommodationFrequency + rciCloseness + iosOverlap + bondHistoryFloor + turningTowardRate + investmentSize + satisfaction) per Kelley-Thibaut + Rusbult + Wieselquist + Reis-Shaver + Gottman + attachment lineage
+- Fire I bond-history MIGRATED from HEXACO-plane scalar to pair-relational-derived property per Phase 15-E vault recommendation; bond-history is architecturally about the DYAD not the individual character; derivation formula 0.4 * investmentSize + 0.35 * commitment + 0.25 * accommodationHistory
+- Three architectural fixes uncovered by empirical harness BEFORE publication - attachmentSentimentMultiplier for encoding modulation + Gottman four-horseman active trust erosion at 3 units per event + Rusbult commitment formula with trust-mediated path at 0.20 * trust contribution (empirical harness catches architectural gap; fix architecture not test criteria; re-run to confirm)
+- Attachment style modulates sentiment-encoding not just accommodation frequency per Mikulincer Shaver 2007 - high avoidance dampens sentiment updates by ~50%; high anxiety amplifies negative sentiment reactivity by ~40%
+- Four-horseman events count as turning-away (0) in sliding window + reduce trust by 3 * attachment-trust-multiplier per event per Gottman 1993 micro-behavioral units; boundary violations reduce trust by 4
+- Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline fires at n=5+ recursive scope (Path 1 + Stage 2 + Path 3 + Stage 3 + Stage 4)
+applicability_triggers:
+- Any framework work on pair-relational + interdependence + accommodation-trust-commitment + intimacy spiral + Gottman + attachment x pair-relational
+- Any Fire I bond-history migration or dyad-scope-not-individual-scope architectural decision
+- Any four-horseman cascade wiring at active-turning-away-encoding scope
+- Any Rusbult commitment formula requiring Wieselquist trust-mediated path
+mechanism_details:
+- 3 sim-ai substrate modules shipped or extended: pairRelationalPlane.ts (11-field state + updatePairRelational + inferDyadicAttachmentType) + integration with existing HEXACO + attachment planes
+- 7-hypothesis empirical validation harness 7/7 PASS after 3 architectural fixes
+- Fire I bond-history derivation preserves production-critical sentiment-collapse-prevention when dyad has accumulated positive history per Terzi et al. 2022 LT bond-history model
+- Council #9 Item 102 filed for Stage 4 architectural extension canonization candidacy
+cross_refs:
+- Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline (recursive at n=7+; Stage 4 is n=5+ recursion instance)
+- Post 0198 Stage 3 architectural extension (predecessor; Stage 3 initial sentiment anchors Stage 4 pair-relational state)
+- Post 0200 Stage 5 Bourdieu habitus plane (subsequent post; Stage 5 completes cognitive architecture with Stage 4 pair-relational as social-relational plane)
+- Fires G-K reshape arc 2026-07-07 midday (predecessor context for Fire I bond-history migration)
+- Rule 24 canonical file `~/Projects/master-setup/operational_discipline_rules.canonical.md` (RETIRED 2026-07-09 late)
+- Memory - project_week_plan_executed_end_to_end_single_session_2026-07-08.md
+CC-OPTIMIZED-SUMMARY -->
+
 # When Stage 4 pair-relational plane migrated Fire I bond-history from HEXACO scalar to derived property while preserving production discipline
 
 **Author:** Jimmy McColery

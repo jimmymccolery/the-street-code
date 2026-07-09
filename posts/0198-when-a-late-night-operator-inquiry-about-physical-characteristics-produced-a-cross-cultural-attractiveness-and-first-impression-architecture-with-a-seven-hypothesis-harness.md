@@ -1,3 +1,43 @@
+<!-- CC-OPTIMIZED-SUMMARY v2.0
+post_id: 0198
+title: When a Late-Night Operator Inquiry About Physical Characteristics Produced a Cross-Cultural Attractiveness and First-Impression Architecture with a Seven-Hypothesis Harness
+date_published: 2026-07-08
+status: published (2 addendums appended 2026-07-08 late evening per Rule 24 discipline pre-retirement; Rule 24 retired 2026-07-09 late)
+superseded_by: none
+domain: methodology-discipline stage-3-architectural-extension physical-characteristics-schema attractiveness-assessment-cross-cultural first-impression-dynamics charisma-derivation humor-style-vector empirical-validation-harness-parallel-to-diagnostic-UI-pattern
+project_scopes: sim-ai the-street-code Open-Alley cross-cutting
+cc_task_relevance: stage-3-architectural-extension-design-implementation-testing cross-cultural-attractiveness-assessment-cultural-bundle-mediation first-impression-computed-projection-pattern charisma-derived-from-HEXACO-not-stored humor-style-orthogonal-to-HEXACO-per-HSQ empirical-validation-harness-parallel-to-diagnostic-UI-discipline
+phase_binding: 2026-07-08-morning-phase-15-stage-3-architectural-extension-arc-plus-late-evening-substrate-audit-round-1-and-round-4-corrections
+discipline_family: empirical-validation-harness-parallel-to-diagnostic-UI cross-cultural-personhood-baselines Post-0146-ten-layer-NPC-architecture-Layer-8-biographical-records methodology-commitment-M5-cultural-context-bundle-scope-corrected M6-authoritative-citation-requires-verified-source-access
+canonical_rule: cross-cultural-attractiveness-assessment-mediated-via-cultural-bundle-weights-with-first-impression-as-computed-projection-not-persistent-state-and-charisma-derived-from-HEXACO-at-perception-time-not-stored-per-NPC
+load_bearing_claims:
+- Physical characteristics extension shipped structural schema (height + weight + body-build + age + skin-tone + hair + grooming + health + averageness + facial-dimorphism) coexisting with prose demographicsAndPhysicalProfile field per Item 1134 canonical template
+- Cross-cultural attractiveness assessment shipped as CulturalContextBundle.attractivenessAssessmentWeights with per-perceiver Bayesian priors (feature weight means + variances + ideal points + in-group amplification + contextual modifiers) reproducing Honekopp 2006 ~50/50 shared/private taste split as architectural consequence of distribution-over-weights design
+- First impression is a MOMENT not a STATE per operator directive; implemented as deterministic function of (perceiver + target + context + seed) firing ONCE per dyad on first meeting; FirstImpressionResult carries trustworthiness + valence + competence + attractivenessPerceived + charismaPerceived + warmth + dominance + initialSentiment + confidence + contributingFactors trace
+- Charisma is NOT stored per NPC; computed at perception time from target HEXACO + perceiver HEXACO compatibility + learned CLTs + context activation per de Vries 2019 directional structure and Tskhay 2018 ~30% target-trait ceiling
+- Humor IS stored per NPC as six-dimensional HSQ-based style vector (affiliative + selfEnhancing + aggressive + selfDefeating + generationCapacity + appreciationCapacity) per Martin HSQ construct distinctness (empirical HEXACO-humor correlations acknowledged per Veselka Vernon 2010; storage is engineering choice not behavioral-genetic independence claim)
+- Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline fires at n=3+ recursively at architectural-extension scope for Stage 3 shipment (Path 1 + Stage 2 + Stage 3)
+applicability_triggers:
+- Any framework work on physical characteristics + attractiveness + first-impression + charisma + humor at Stage 3-and-beyond scope
+- Any cross-cultural attractiveness assessment requiring bundle-mediated per-perceiver weight sampling with in-group amplification
+- Any first-impression architecture extension where computed-projection pattern applies (Post 0198 first-impressions + Post 0199 Stage-4 pair-relational + Stage 6 conversation-plane = n=2+ ephemeral-computed-projection pattern candidacy)
+- Any empirical-validation-harness discipline application at architectural-extension scope
+mechanism_details:
+- 5 sim-ai substrate modules shipped: physicalCharacteristics.ts + humorStyle.ts + attractivenessAssessment.ts + charismaPerception.ts + firstEncounter.ts
+- 7-hypothesis empirical validation harness 7/7 PASS at framework scope
+- 1358 tests pass at Open Alley + typecheck clean at sim-ai + Open Alley cross-consumer
+- Council #9 Item 99 filed for Stage 3 architectural extension canonization candidacy
+- Post-publication ADDENDUM 1 (2026-07-08 late evening; Rule 24 discipline pre-retirement) documented 3 fabricated citation corrections from substrate audit round 1 Perplexity Computer (Coetzee decomposition + de Vries correlations + Vernon independence)
+- Post-publication ADDENDUM 2 (2026-07-08 late evening; Rule 24 discipline pre-retirement) documented substrate audit round 4 Opus methodology-commitment revisions M6+M10+M14+M15+H15
+cross_refs:
+- Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline (recursive at n=7+ per subsequent posts)
+- Post 0146 ten-layer NPC architecture Layer 8 biographical records (Stage 3 extends physical + humor + attractiveness assessment scope)
+- Post 0199 Stage 4 pair-relational plane (subsequent post; consumes Stage 3 initial sentiment as anchor for pair-relational state)
+- Post 0201 A1 downstream sim-scale calibration + M10 INERT verdict (subsequent post extending Stage 3 M10 claim downgrade)
+- Rule 24 canonical file `~/Projects/master-setup/operational_discipline_rules.canonical.md` (RETIRED 2026-07-09 late; Stage 3 addendums preserved as historical audit trail per pre-retirement discipline)
+- Memory - project_phase_15_stage_3_architectural_extension_2026-07-08_morning.md
+CC-OPTIMIZED-SUMMARY -->
+
 > **ADDENDUM 2 2026-07-08 late evening -- Substrate audit round 4 (Opus) methodology-commitment revisions:**
 > Claude Opus via Perplexity Computer methodology-self-consistency substrate identified 3 INCONSISTENT verdicts against framework methodology commitments M6, M10, M16. Framework applied Option A comprehensive fold: (1) **M6 REVISED** to explicit temporal discipline -- "authoritative citation requires verified source access AND passing empirical harness BEFORE publication; post-audit remediation does NOT retroactively count as pre-validation" -- the M6 pattern observed across 3 audit rounds (claim → external substrate finds failure → remediation) empirically violated M6 as previously stated; (2) **M10 CLAIM DOWNGRADED** to honest scope -- cultural bundle pair-relational expectations are AUTHORED per bundle and DISPLAYED via `getBundleSnapshot`, but MEDIATION of pair-relational tick-loop is ARCHITECTURAL-EXTENSION SCOPE not implemented at composition/substrate; Council #9 Item 112 filed as candidacy for substrate `updatePairRelational` signature extension; (3) **M14 CLARIFIED** -- Vaisey 60-70% band is INITIALIZED per anchor, PRESERVATION across evolution is empirical posthoc observation NOT architectural guarantee; H4c drift-bound test pending; (4) **M15 CANDIDACY DOWNGRADED to PROSPECTIVE** -- canonization requires H18 whole-harness statistical migration audit clean-verification, not just Round 3 targets; (5) **H15 LANGUAGE REVISED** -- "5/6 proven null" is CONDITIONAL on OFAT sampling design; H17 Latin Hypercube detects Extraversion first-order share (7.74%) OFAT misses.
 >
