@@ -162,14 +162,11 @@ sec6_missing=0
 sec6_malformed=0
 # Framework-scope methodology documents authored 2026-07-09 late onwards. Prior artifacts
 # are pre-convention per Rule 24 immutability + LEGACY-SWEEP INDEX deferral.
-sec6_files="methodology/a2-phase-a-close-out-2026-07-09.md \
-methodology/a2-phase-b-close-out-2026-07-09.md \
-methodology/a2-phase-c-extension-status-2026-07-09.md \
-methodology/a2-phase-d-close-out-2026-07-09.md \
-methodology/track-1c-reagan-arc-close-out-2026-07-09.md \
-methodology/section-6-unverified-disclosure-convention-2026-07-09.md \
-methodology/a2-non-inertness-gate-planning-2026-07-09.md"
-for f in $sec6_files methodology/rule-24-addendum-*-2026-07-09.md; do
+# Framework-scope methodology documents authored 2026-07-09 late onwards must carry
+# Section 6 UNVERIFIED disclosure (or NONE-CLAIMED sentinel). Scope: all methodology
+# files matching *-2026-07-09.md except the fable-5-* preserved-copy files (which
+# carry Fable's own dossier §6 format not framework's).
+for f in $(ls methodology/*-2026-07-09.md 2>/dev/null | grep -v '^methodology/fable-5-'); do
   [ -f "$f" ] || continue
   # Check for Section 6 header (variations: "## 6." "## 6 " "## Section 6" or NONE-CLAIMED sentinel)
   if grep -qE '^## (6\.|6 |Section 6|[0-9]+\. UNVERIFIED)' "$f" 2>/dev/null || grep -q "NONE-CLAIMED" "$f" 2>/dev/null; then
