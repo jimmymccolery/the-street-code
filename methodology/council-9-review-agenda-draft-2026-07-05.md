@@ -3,7 +3,7 @@
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
 **Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
-**Total candidacy items:** 140+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 100 filed 2026-07-08 morning Rule 26 candidacy proposal consolidating Items 20 + 33 + 66 as Retired-workflow-recurrence discipline + Item 101 filed 2026-07-08 morning Cycle 12 Steps 6-9 retirement disposition + Item 55 RETIRED per split/retire/reduce mechanism)
+**Total candidacy items:** 145+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 100 filed 2026-07-08 morning Rule 26 candidacy proposal consolidating Items 20 + 33 + 66 as Retired-workflow-recurrence discipline + Item 101 filed 2026-07-08 morning Cycle 12 Steps 6-9 retirement disposition + Item 55 RETIRED per split/retire/reduce mechanism)
 
 **Post-v3-ratification trigger 2026-07-07 late afternoon:** Phase 15 v3 implementation proposal RATIFIED per operator "ship, act comprehensively" directive. Stage 1 pilot begins with 15-A UMAP diagnostic (Weeks 1-2). Council #9 empirical review scheduled ~60 days after Stage 1 empirical gate results land (Week 18+). If Stage 1 gates PASS, Council #9 review has real Stage 1 empirical evidence to adjudicate against. If Stage 1 gates FAIL, Council #9 review deferred until architecture revised + Stage 1 re-run.
 
@@ -3108,6 +3108,200 @@ Framework should adjudicate at Phase 8.x post-V1 whether the 6 newly-wired event
 - Council #6 close artifact (Decision 2 Room to Life Universe persistence contract RATIFIED FOUNDATIONAL at 3-of-4)
 
 **Confidence calibration:** LOW at V1 (Non-Inertness Gate FAILED); MEDIUM at Phase 8.x post-V1 (empirical foundation available; cross-product migration scope emergence would open review window).
+
+---
+
+### Item 141 — K-of-N cross-substrate quorum rule for citation verification
+
+**Filed:** 2026-07-09 late (Fable 5 adversarial audit §D.5.2 proposal + framework home-substrate 100% miss rate empirical anchor)
+
+**Trigger:** Framework CC Opus 4.7 (Track 1c Round 6) offered 2 citation corrections to Fable 5; Fable audit independently verified both are wrong (1 fabrication: Kumaran et al. IJCAI 2022; 1 contested inversion: Reagan corpus n=1,737 vs published n=1,327). Framework home-substrate citation-correction accuracy at n=1 sample: 0/2. Combined with 5-round external substrate miss rate table (~23-44% across Perplexity + Grok R5a/b + Gemini Deep Think + Deep Research), single-substrate WebFetch verification is empirically insufficient for citation-bearing claims.
+
+**Proposed candidacy body:**
+
+Framework rule candidacy: any artifact class whose single-substrate miss rate exceeded 20% in the empirical audit-round table requires **≥K-of-N independent substrate audits** before citation-bearing claims in that class are treated as VERIFIED. K/N calibration by class:
+- **Citation attribution + numerical corpus scope:** K=2, N=2 (dual-substrate must agree); single-source WebFetch NOT sufficient
+- **Statistical methodology citation:** K=2, N=3 (2-of-3 substrates must agree); Gemini R5 44% miss rate empirical anchor
+- **Framework author self-review:** K=1, N=1 (unchanged; existing Rule 19 posture); NEVER upgrades to VERIFIED without external substrate agreement
+
+Empirical motivating anchor: Fable audit §A.2.3 — CC Opus 4.7 WebFetch "verified" fabricated Kumaran et al. IJCAI 2022 attribution; had framework ratified without cross-verification, fabrication would have entered canonical record through the anti-fabrication rule's own correction channel. This is the strongest empirical argument for the quorum rule.
+
+**Falsification threshold:** if dual-substrate auditing on next 3 artifacts surfaces zero disagreements, quorum rule REBOUNDs to advisory for low-stakes artifact classes (e.g., framework prep artifacts) while remaining binding for public-facing publications + Council candidacies.
+
+**Prerequisites:**
+- Framework establishes K/N calibration for each artifact class BEFORE Council #9 review (this candidacy body is the calibration proposal)
+- Rule 14 signature-gated protocol for canonization (this changes framework rule set)
+- Council #9 Item 141 ratification (this item)
+
+**Cross-references:**
+- Fable 5 adversarial audit `fable-5-adversarial-audit-2026-07-09.md` §D.5.2
+- Rule 24 addendum Track 1c corrections `rule-24-addendum-track-1c-close-out-corrections-2026-07-09.md` §5 (home-substrate miss rate row)
+- Rule 19 canonical (single-source WebFetch verification insufficient for citation-bearing claims)
+- Council #9 Item 122 (M6 revised temporal discipline; multi-round substrate audit empirical foundation)
+
+**Confidence calibration:** MEDIUM-HIGH — direct empirical anchor from 5 external substrate rounds + n=1 home-substrate fabrication episode; low-cost implementation (framework's Rule 11 multi-substrate research workflow already scales to K-of-N); falsification threshold pre-registered.
+
+---
+
+### Item 142 — Rule 24 mechanical-fix amendment (SEMANTIC vs MECHANICAL distinction)
+
+**Filed:** 2026-07-09 late (Fable 5 adversarial audit §D.8 proposal + em-dash episode empirical anchor)
+
+**Trigger:** Framework retroactively fixed 71 em-dashes across published posts 0198-0201 via double-hyphen substitution 2026-07-09 late (see Track 1c session close). On Rule 24 letter, this was in-place editing of published documents — a violation. It was also obviously the right thing to do. Unnamed, this precedent licenses future in-place edits under undefined "mechanical" exemption, which is precisely where silent revisions hide.
+
+**Proposed candidacy body:**
+
+Rule 24 amendment distinguishing:
+- **SEMANTIC immutability (unchanged):** any edit affecting meaning, claims, numbers, citations → addendum-only, forever
+- **MECHANICAL compliance repair (newly permitted, narrowly):** edits permissible in place IFF:
+  - (a) commit tagged `mechanical-fix` with triggering lint rule named
+  - (b) **normalization-invariant diff test** passes — after applying the normalization the fix claims to perform (e.g., em-dash → `--`) to BOTH pre- and post-fix text, the diff is EMPTY (machine-checked in audit.sh as `verify-mechanical-fix` mode)
+  - (c) fix logged in append-only `compliance-repair-ledger.md` (file + date + rule + commit)
+
+**H33 empirical test (executable immediately as anchor for Item 142 ratification):** run `verify-mechanical-fix` retroactively against actual 0198-0201 commits. If em-dash fix was purely mechanical, normalized diff is empty + episode retro-certified as amendment's n=1 anchor. If ANY hunk fails invariant, something semantic rode along with mechanical fix + Rule 24 addendum path applies to that hunk.
+
+**Prerequisites:**
+- H33 execution + result filed (executable now; framework will complete this session)
+- audit.sh gains `verify-mechanical-fix` mode
+- `compliance-repair-ledger.md` schema defined + created
+
+**Cross-references:**
+- Fable 5 adversarial audit §D.8
+- Rule 24 canonical file correction protocol (canonical file `~/Projects/master-setup/operational_discipline_rules.canonical.md`)
+- Em-dash regression fix: `~/Projects/the-street-code/scripts/audit.sh` + posts 0198-0201 + `~/Projects/the-street-code/methodology/rule-24-addendum-track-1c-close-out-corrections-2026-07-09.md`
+- Council #9 Item 141 (K-of-N cross-substrate quorum) — related discipline extension
+
+**Confidence calibration:** HIGH on discipline structure (SEMANTIC/MECHANICAL distinction is operationally clear; invariant diff test is machine-checkable); MEDIUM on scope-generalization (whether other mechanical fixes beyond em-dash will pass the invariant test is empirical).
+
+---
+
+### Item 143 — Stage 6/7 emit taxonomy forward-compatibility candidacy (12-event extension)
+
+**Filed:** 2026-07-09 late (Fable 5 adversarial audit §D.2 proposal + emit/execution divergence Grok R5b empirical anchor)
+
+**Trigger:** Framework's 12-category emit taxonomy at `crossPlaneTraceAggregator.ts` predates Fable's Stage 6 + Stage 7 specs. Nobody has enumerated what Stages 6/7 ADD, so first Stage 6 build session will improvise event names ad hoc — the exact condition under which observability drift recurs (Grok R5b emit/execution divergence finding at Round 5).
+
+**Proposed candidacy body:**
+
+File extension taxonomy NOW as data-only candidacy (no code); ~12 new event types with named consumers per Non-Inertness Gate discipline applied at taxonomy scope:
+
+| Event | Emitter | Named consumer |
+|---|---|---|
+| `conversation_started` / `act_emitted` / `conversation_ended` | Stage 6 core | Stage 7 Scandal/gossip patterns (Item 133 cross-dependency) + diagnostic UI |
+| `story_instance_partial` / `story_instance_complete` / `story_instance_surfaced` | Stage 7 sifter | press/newsletter channels; H3 numerator/denominator instrumentation |
+| `belief_promoted` | Item 139 lazy promotion (Fable B.3 design addition) | detective/reporter mechanics; promotion-rate budget guard |
+| `turning_point_certified` | H4 counterfactual replay (Fable Stage 7 spec H4) | tellability scoring; replay-cost budget guard |
+| `grounding_refresh` | Stage 6 alignment/CAT machinery | H26 code-switching instrumentation |
+| `npc_provisioned` / `bundle_bound` / `lifeline_compiled` | Post 0189 provisioner | Item 138 scaling blueprint metrics |
+| `consultation_gate_block` | Items 136/137 gates | audit trail: every gated non-surfacing → greppable record |
+
+**Acceptance criteria:** every proposed type names its consumer (Non-Inertness Gate at taxonomy scope — event with no consumer is presumptively not emitted); ring-buffer cost model per Post 0190 amortized-O(1) discipline extended with projected rates for 3 highest-frequency types (`act_emitted` at 250 concurrent × 1 act/conversation/tick ≈ 250 emits/tick against 478/tick baseline at N=5000; within validated envelope but MUST be STATED, not discovered).
+
+**H28-taxonomy test:** replay canned 1000-tick Stage-6-enabled scenario; assert zero unregistered event types emitted + zero registered-but-never-emitted types. Pass: exact match. This is emit/execution-divergence regression guard at taxonomy scope.
+
+**Prerequisites:**
+- Council #9 Item 143 ratification (this item)
+- Council #9 Items 134 (Stage 6) + 133 (Stage 7) ratification (consumer specs must exist)
+- Post 0190 amortized-O(1) ring-buffer discipline extension calibration
+
+**Cross-references:**
+- Fable 5 adversarial audit §D.2
+- Council #9 Items 133 (Stage 7) + 134 (Stage 6) + 138 (Phase 7.1f) + 139 (belief store) + 137 (consultation gate)
+- Substrate `crossPlaneTraceAggregator.ts` at `~/Projects/sim-ai/src/sim-ai/`
+- Post 0190 ring-buffer canonical
+
+**Confidence calibration:** MEDIUM-HIGH — taxonomy extension is data-only + non-accretive at V1 scope; anchors Non-Inertness Gate at emit-type scope; empirically-motivated by Grok R5b divergence finding.
+
+---
+
+### Item 144 — Cluster A6a Stage 7-lite candidacy (matcher engine + 5 patterns; operator-diagnostic only)
+
+**Filed:** 2026-07-09 late (Fable 5 adversarial audit §D.4 proposal + H5 blocker reframe)
+
+**Trigger:** Framework treats H5 human-study logistics as BLOCKING Cluster A6 (Item 133 prerequisites list). Fable §D.4 examines what H5 actually warrants: player-facing tellability claims. It does NOT gate building matcher engine, running it operator-diagnostically, or H1/H2/H4/H7/H8 computational gates. Framework's blocker framing is over-scoped.
+
+**Proposed candidacy body:**
+
+File "Cluster A6a / Stage 7-lite" candidacy — matcher engine + 5 patterns + null-calibration (Fable §C.1.2), running at Layer 10 consolidation boundaries, output to operator diagnostic surface ONLY (no diegetic surfacing; bundle-neutral content; Item 137 untouched). Every output tagged `DIAGNOSTIC-UNVALIDATED-FOR-TELLABILITY`.
+
+Lite-scope patterns (5 of Fable Stage 7's 20-shape taxonomy):
+- Pattern #7 demand-withdraw spiral (Post 0199 event lineage)
+- Pattern #9 repair-that-held (Post 0199 event lineage)
+- Pattern #10 four-horsemen cascade (Post 0199 event lineage)
+- Pattern #11 rags-to-riches on accommodation trajectory (Track 1c DTW already built)
+- Pattern #12 man-in-a-hole on capital trajectory (Track 1c DTW already built)
+- Pattern #15 turning-point certification via replay forks (H4 machinery, framework-unique)
+
+Not shippable in lite scope: Pattern #8 (needs negative-event vocabulary); Pattern #19 Scandal (needs Stage 6 gossip transport).
+
+**Value at framework scope:**
+- (a) **H3 measured for real** — drift-story invisibility fraction (Fable Stage 7 spec §H3) computable from lite output with zero human raters, resolving clean-room guide §B.2 substituted-hypothesis gap
+- (b) **Performance reality** for Item 133's Winnow-derived budget claims (912ms/event per Fable dossier §1.3) on framework hardware
+- (c) **H5 instrument's item pool** — cannot run H5 without real StoryInstances to show raters; lite is H5's PREREQUISITE not its bypass
+
+**H30 test (Fable-designed):** operator + substrate dual-label 50 lite-surfaced instances as story/non-story; κ between operator + substrate labels = H5-instrument pilot statistic. Pass for proceeding to H5: κ ≥ 0.6 AND H3 fraction ≥ 15% (relaxed from 25% at lite scope; 5 patterns vs 20). Kill: H3 fraction < 5% → Family II's architectural justification fails at cheapest possible scope + Item 133 should be DEFLATED before any human study money spent. Non-Inertness Gate protecting framework from Fable's own proposal.
+
+**Prerequisites:**
+- Council #9 Item 144 ratification (this item)
+- Track 1c DTW substrate (already shipped)
+- Post 0199 pair-relational event lineage (already shipped)
+- H4 replay-fork machinery (framework's existing determinism validation)
+- NO H5 human study required for Item 144 execution
+
+**Cross-references:**
+- Fable 5 adversarial audit §D.4
+- Council #9 Item 133 (Stage 7 Sift Layer) — Cluster A6a is scoped subset
+- Fable Stage 7 spec pattern taxonomy §2 (patterns #7 #9 #10 #11 #12 #15)
+- Post 0199 pair-relational plane
+- Track 1c artifacts (reagan-arc-templates.ts + dtw.ts + reagan-arc-features.ts)
+
+**Confidence calibration:** MEDIUM-HIGH — architecturally coherent (Layer 10 residency); lite scope executable without external capacity blockers; H30 pass/kill criteria pre-registered; framework's existing empirical anchors (Post 0199 events + Track 1c DTW + H4 replay) transfer directly.
+
+---
+
+### Item 145 — Bourdieu channel non-inertness empirical tests (H25 + H26 + H27)
+
+**Filed:** 2026-07-09 late (Fable 5 adversarial audit §D.1 proposal + M10 INERT recurrence prevention)
+
+**Trigger:** Framework substrate emits `capital_conversion` + `habitus_field_mismatch_detected` (wired at Cluster A2 Phase A closure). Fable Stage 6 taxonomy carries Bourdieu linguistic-capital acts. Nothing tests whether these channels DO anything — they are M10-INERT candidates by construction until proven otherwise. Framework's own Non-Inertness Gate should demand testing before Stage 6 builds on them.
+
+**Proposed candidacy body:**
+
+Three empirical hypothesis tests validating Bourdieu channel non-inertness at existing substrate scope:
+
+**H25 — habitus-field mismatch predicts conversational deference (Stage-6-dependent):**
+- Hypothesis: NPCs in high-symbolic-capital venues with high habitus-field mismatch show reduced floor-holding + elevated indirectness relative to matched low-mismatch NPCs
+- Test: bucket NPC-venue pairs into 4 mismatch quartiles; Spearman ρ between mismatch + (floor-holding time, indirect-act fraction)
+- **Pass:** ρ ≥ 0.6, permP < 0.05
+- **Kill:** ρ < 0.3 → mismatch emit does not reach conversation behavior; do NOT ship Bourdieu acts as differentiators in Stage 6
+
+**H26 — within-NPC code-switching (Stage-6-dependent):**
+- Hypothesis: same NPC shifts act-mix across field contexts (union hall vs bank office)
+- Test: paired per-NPC act-mix distributions across ≥2 venue classes; effect size on shift
+- **Pass:** Cohen's d ≥ 0.5 for ≥60% of NPCs with dual-venue exposure
+- **Kill:** d < 0.2 median → code-switching not emergent from wiring; needs explicit mechanism or drop claim
+
+**H27 — capital conversion requires interaction, not co-location (RUNNABLE NOW at A1/A2 scope):**
+- Hypothesis: `capital_conversion` events mediated by accumulated styleMatch/interaction history rather than mere venue co-presence
+- Test: regress conversion incidence on (co-location hours) vs (co-location + interaction-history covariates); compare AICs
+- **Pass:** interaction model wins by ΔAIC ≥ 10
+- **Kill:** indistinguishable → conversion channel is co-location proxy — architecturally inert in exactly the M10 sense; Item 134 dependency on it flagged before Council
+
+H27 is **immediately executable** at A1/A2 scope + doubles as Non-Inertness Gate's first POST-HOC application to an ALREADY-WIRED mechanism — stronger calibration point for Item 132 than the 4 self-administered planning applications.
+
+**Prerequisites:**
+- Council #9 Item 145 ratification (this item)
+- H27 execution at A1/A2 scope (framework will attempt this session)
+- H25 + H26 execution deferred to Stage 6 execution
+
+**Cross-references:**
+- Fable 5 adversarial audit §D.1
+- Council #9 Item 132 (Non-Inertness Gate) — H27 is calibration point
+- Council #9 Item 134 (Stage 6 Conversation Plane) — H25 + H26 dependency
+- Substrate `capital_conversion` + `habitus_field_mismatch_detected` emit functions
+- Post 0199 pair-relational plane (styleMatch/interaction history data)
+
+**Confidence calibration:** HIGH on H27 (immediately executable + Non-Inertness Gate application + framework-internal empirical anchor); MEDIUM on H25 + H26 (Stage-6-dependent; pre-Stage-6 execution not feasible).
 
 ---
 

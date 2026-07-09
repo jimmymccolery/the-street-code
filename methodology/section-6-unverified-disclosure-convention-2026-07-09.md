@@ -78,3 +78,7 @@ Priority list (as they may be authored):
 5. All future methodology guides + Council candidacy items + findings artifacts + posts
 
 Framework research indexes and CC-OPTIMIZED-SUMMARY blocks in posts are exempt (they index existing documents; disclosure travels with source documents).
+
+## Section 6 UNVERIFIED
+
+**NONE-CLAIMED.** This file defines the convention itself + carries no citation-bearing empirical claims. Prior framework artifacts referenced (Rule 19 canonical + Rule 24 canonical + Post 0197 canonical + Council items) are cross-referenced without new empirical claims requiring UNVERIFIED-at-authoring-time disclosure. Any downstream artifact citing this convention should apply Section 6 to its own claims.

@@ -136,3 +136,7 @@ This document must be revisited + updated:
 - After each phase completion (retrospective on measured vs expected delta)
 
 Framework's Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline applies: gate answers are hypotheses, not commitments. Failure to meet expected delta → kill criterion fires; operator response ratified per this document's advance registration.
+
+## Section 6 UNVERIFIED
+
+**NONE-CLAIMED.** This document is planning-scope; no citation-bearing empirical claims. All referenced empirical anchors (A1 M10 INERT finding + Cluster A2 Phase B/D empirical measurements + Post 0197 discipline) are cross-referenced without new claims requiring UNVERIFIED-at-authoring-time disclosure. Retroactive re-audit per Fable §A.1.1: the 4 Cluster A2 gate applications are relabeled as **PILOT data** per Rule 24 addendum `rule-24-addendum-council-9-items-amendments-fable-audit-2026-07-09.md` §2.1 — first application where gate verdict CONFLICTS with intended action is the first real calibration point.

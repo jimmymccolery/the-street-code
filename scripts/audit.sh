@@ -150,6 +150,40 @@ else
 fi
 
 # ----------------------------------------------------------------------
+# H. Section 6 UNVERIFIED disclosure convention (methodology + posts adoption 2026-07-09+)
+#    Per Fable 5 adversarial audit §C.4 lint-rule proposal + Council #9 Item 141+142 candidacy.
+#    Framework-scope methodology documents authored 2026-07-09+ must carry either
+#    a "## Section 6 UNVERIFIED" heading with schema-conformant entries OR the
+#    literal token NONE-CLAIMED. Backfilling legacy artifacts uses LEGACY-SWEEP INDEX (deferred).
+# ----------------------------------------------------------------------
+echo
+echo "H. Section 6 UNVERIFIED disclosure convention (methodology 2026-07-09+ + forward-app scope)"
+sec6_missing=0
+sec6_malformed=0
+# Framework-scope methodology documents authored 2026-07-09 late onwards. Prior artifacts
+# are pre-convention per Rule 24 immutability + LEGACY-SWEEP INDEX deferral.
+sec6_files="methodology/a2-phase-a-close-out-2026-07-09.md \
+methodology/a2-phase-b-close-out-2026-07-09.md \
+methodology/a2-phase-c-extension-status-2026-07-09.md \
+methodology/a2-phase-d-close-out-2026-07-09.md \
+methodology/track-1c-reagan-arc-close-out-2026-07-09.md \
+methodology/section-6-unverified-disclosure-convention-2026-07-09.md \
+methodology/a2-non-inertness-gate-planning-2026-07-09.md"
+for f in $sec6_files methodology/rule-24-addendum-*-2026-07-09.md; do
+  [ -f "$f" ] || continue
+  # Check for Section 6 header (variations: "## 6." "## 6 " "## Section 6" or NONE-CLAIMED sentinel)
+  if grep -qE '^## (6\.|6 |Section 6|[0-9]+\. UNVERIFIED)' "$f" 2>/dev/null || grep -q "NONE-CLAIMED" "$f" 2>/dev/null; then
+    :  # present
+  else
+    fail "Section 6 UNVERIFIED disclosure MISSING in $f"
+    sec6_missing=$((sec6_missing+1))
+  fi
+done
+if [ "$sec6_missing" -eq 0 ]; then
+  pass "Section 6 UNVERIFIED disclosure present in all framework-scope methodology 2026-07-09+ artifacts"
+fi
+
+# ----------------------------------------------------------------------
 # F. Cross-reference sanity (warn-pass; non-blocking)
 # ----------------------------------------------------------------------
 echo
