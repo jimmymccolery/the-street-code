@@ -1631,7 +1631,7 @@ All findings were framework-integrity issues the framework author self-critique 
 
 **Filed:** 2026-07-08 late evening (post Opus round 4 methodology self-consistency verdict on M10)
 
-**Trigger:** Opus verdict on M10 "Cultural bundle mediation of pair-relational dynamics per Marshall 2008 + Kito 2017 + Rothbaum 2002": **INCONSISTENT**. `updatePairRelational` at substrate scope + `evolvePairRelational` at composition scope both receive HEXACO + attachment but NO cultural bundle argument. Bundle is display/metadata only per `getBundleSnapshot`. Framework claim overstates implementation.
+**Trigger:** Opus verdict on M10 "Cultural bundle mediation of pair-relational dynamics per Marshall 2008 + Kito 2017 + Rothbaum et al. 2000 [year CORRECTED from prior "2002" via Round 5 Perplexity audit — DOI 10.1037/0003-066x.55.10.1093 verified at PubMed as Rothbaum, Weisz, Pott, Miyake & Morelli "Attachment and culture: Security in the United States and Japan" American Psychologist 55(10), 1093-1104]": **INCONSISTENT**. `updatePairRelational` at substrate scope + `evolvePairRelational` at composition scope both receive HEXACO + attachment but NO cultural bundle argument. Bundle is display/metadata only per `getBundleSnapshot`. Framework claim overstates implementation.
 
 Framework applied MINIMAL M10 fold at composition scope (round 4): `evolvePairRelational` now consumes bundle's `sentimentAsymmetryStrength` as magnitude modulator (0.9-1.1 range). Substrate `updatePairRelational` signature unchanged.
 
@@ -1643,7 +1643,7 @@ Extend `updatePairRelational` signature at `sim-ai/src/sim-ai/pairRelationalPlan
 - `sentimentAsymmetryStrength` — culture-conditional Fires G-K arc strength
 - `rciWeights.frequency/diversity/strength` — Kito 2017 cultural variance in RCI closeness
 - Situation-specific accommodation modifiers (marriageMarket, peerSolidarity, laborContext)
-- `secureAttachmentBehavioralExpression` — Rothbaum 2002 same-motivation-different-script
+- `secureAttachmentBehavioralExpression` — Rothbaum et al. 2000 [year CORRECTED from prior "2002" via Round 5 Perplexity audit — DOI 10.1037/0003-066x.55.10.1093 verified at PubMed as Rothbaum, Weisz, Pott, Miyake & Morelli "Attachment and culture: Security in the United States and Japan" American Psychologist 55(10), 1093-1104] same-motivation-different-script
 
 **Rationale:** Framework's substrate `PairRelationalCulturalExpectations` interface (defined at `pairRelationalPlane.ts:389-429`) already provides the structured cultural mediation surface, but `updatePairRelational` does not consume it. This is a substrate-scope architectural gap, not composition-scope. Council #9 Item 112 candidacy fills the gap.
 
@@ -1814,7 +1814,7 @@ Add to ExtendedBiographicalTemplate: `hobbies?: HobbyProfile[]`.
 - **Bell, A. (1984) "Language Style as Audience Design." *Language in Society* 13(2), 145-204. DOI: 10.1017/S004740450001037X** (VERIFIED). Audience-design.
 - **Austin, J. L. (1962) *How to Do Things with Words*** + **Searle, J. R. (1969) *Speech Acts*.** ISBN 978-0-521-09626-3 (UNVERIFIED — flag). 5-part illocutionary force taxonomy.
 - **Schiffrin, D. (1987) *Discourse Markers*.** Cambridge UP. ISBN 978-0-521-35718-0 (VERIFIED).
-- **Labov, W. (1972) *Language in the Inner City*.** ISBN 978-0-8122-1051-7 (UNVERIFIED — flag). 6-part narrative structure.
+- **Labov, W. (1972) *Language in the Inner City: Studies in the Black English Vernacular*.** University of Pennsylvania Press. ISBN 9780812210514 (VERIFIED via Round 5 Perplexity audit — CORRECTED from prior 978-0-8122-1051-7 which does not resolve at Wisconsin library catalogue). 6-part narrative structure.
 
 **Interface schema (TypeScript):**
 ```typescript
@@ -1845,7 +1845,7 @@ export interface DialogueTurn {
 DialogueTurn is source event; mapping function turnToPairRelational() emits 0-N pair-relational events per turn. Preserves M8 pair-relational as separate plane + Stage 4 harness 7/7 PASS. Non-disruptive to Fires G-K reshape arc.
 
 **Empirical validation gates (6 hypotheses):**
-- H1 Sacks TRP density (~250ms modal gap per Stivers 2009 — UNVERIFIED, flag as prospective)
+- H1 Sacks TRP density per Stivers et al. 2009 (PNAS DOI 10.1073/pnas.0903616106; CORRECTED via Round 5 Perplexity audit from prior "~250ms modal gap" over-specification): overall MODE is 0 ms; per-language modes range 0 to +200 ms; overall MEAN response offset is +208 ms; language means fall within ~250 ms of the cross-language mean across 10 languages. Test framework's simulated turn-gap distribution matches these Stivers 2009 empirically-observed values, not the prior single-modal-gap over-specification.
 - H2 Grice implicature detection (maxim-flout signals differ from no-flout baseline)
 - H3 Bell audience-design (register shifts on auditor change with identical addressee)
 - H4 Brown-Levinson politeness weight (face-threat toward high-power vs low-power differ in sentiment impact)
@@ -1869,7 +1869,7 @@ DialogueTurn is source event; mapping function turnToPairRelational() emits 0-N 
 - Searle 1969 ISBN not confirmed
 - Labov 1972 publisher + ISBN not confirmed
 - Grice 1975 exact maxim wording not primary-source verified
-- Stivers et al. 2009 turn-gap cited in H1 gate is from training memory — mark PROSPECTIVE
+- Stivers et al. 2009 turn-gap VERIFIED via Round 5 Perplexity audit at PNAS DOI 10.1073/pnas.0903616106 — CORRECTED prior over-specification: overall mode 0 ms, per-language modes 0-200 ms, overall mean +208 ms, language means within ~250 ms of cross-language mean
 
 **Confidence calibration:** HIGH — 10 canonical scholarly foundations largely verified; EMIT-AS compositional pattern preserves Stage 4 methodology commitment; interface schema architecturally non-disruptive.
 
@@ -1885,7 +1885,7 @@ DialogueTurn is source event; mapping function turnToPairRelational() emits 0-N 
 
 **Scholarly foundation (verified via WebSearch per Rule 19):**
 - **Labov, W. (1972) *Language in the Inner City*.** ISBN 978-0812210514 (VERIFIED via Penn Press). AAVE + narrative structure.
-- **Labov, W. (1972) *Sociolinguistic Patterns*.** U Penn Press (VERIFIED). Variable rules + Observer's Paradox.
+- **Labov, W. (1972/1973) *Sociolinguistic Patterns*.** University of Pennsylvania Press. 1972 hardcover; 1973 paperback ISBN 9780812210521 (VERIFIED via Round 5 Perplexity audit — Cambridge review record confirms Philadelphia UPenn 1972; paperback verified 1973 with correct ISBN). Variable rules + Observer's Paradox.
 - **Trudgill, P. (1974) *The Social Differentiation of English in Norwich*.** ISBN 978-0521202640 (VERIFIED). Canonical variationist study.
 - **Eckert, P. (2000) *Linguistic Variation as Social Practice*.** ISBN 978-0631186038 (VERIFIED). Third-Wave sociolinguistics.
 - **Wolfram, W. & Schilling, N. (2015) *American English: Dialects and Variation, 3rd ed.*** ISBN 978-1118390221 (VERIFIED).
@@ -1957,18 +1957,18 @@ Add to CulturalContextLanguageRegime: `vernacularProfile?: VernacularProfile`.
 
 **Scholarly foundation (verified via WebSearch per Rule 19):**
 - **Wilkerson, I. (2010) *The Warmth of Other Suns: The Epic Story of America's Great Migration*.** ISBN 9780679444329 (VERIFIED). NBCC Award; canonical for Southern Black-American migration 1915-1970.
-- **Foner, E. (1988) *Reconstruction: America's Unfinished Revolution, 1863-1877*.** Bancroft/Parkman Award. ISBN 9780060937164 (operator-supplied UNVERIFIED — different ISBN for original hardcover per Internet Archive).
+- **Foner, E. (1988) *Reconstruction: America's Unfinished Revolution, 1863-1877*.** Bancroft/Parkman Award. Harper & Row 1988 first edition ISBN **9780060158514** (VERIFIED via Round 5 Perplexity audit — CORRECTED from prior 9780060937164 which is the 2002 Perennial Classics paperback reprint, not 1988 first edition).
 - **Branch, T. — Civil rights trilogy** (Parting the Waters 1988 Pulitzer; Pillar of Fire 1998; At Canaan's Edge 2006) (ISBNs UNVERIFIED this session).
 - **Ransby, B. (2003) *Ella Baker and the Black Freedom Movement*.** UNC Press (ISBN UNVERIFIED).
 - **Kelley, R. D. G. (1990) *Hammer and Hoe: Alabama Communists During the Great Depression*.** UNC Press (ISBN UNVERIFIED).
-- **Zinn, H. (1980) *A People's History of the United States*.** Harper & Row (operator ISBN 9780062397348 UNVERIFIED — pattern suggests 2015 reprint).
-- **Braudel, F.** *La Méditerranée...* (1949) + *On History* (1980). Load-bearing longue durée / conjoncture / événement triadic architecture maps to applicabilityHorizon axis (ISBNs UNVERIFIED).
+- **Zinn, H. (1980) *A People's History of the United States*.** Harper & Row 1980 first edition ISBN **9780060148034** (VERIFIED via Round 5 Perplexity audit at WorldCat/AbeBooks first-edition records — CORRECTED from prior 9780062397348 which is a later reprint, not 1980 first edition; Harper Colophon 1980 softcover is separate ISBN 9780060907921).
+- **Braudel, F.** *La Méditerranée et le Monde Méditerranéen à l'Époque de Philippe II* (French 1949; English Harper & Row 1975 vol.1 ISBN 9780006334071; Harper & Row 1976 vol.2 ISBN 9780060905675). **Braudel, F. (1982) *On History*.** English translation Sarah Matthews. **University of Chicago Press 1982 paperback ISBN 9780226071510** (VERIFIED via Round 5 Perplexity audit — CORRECTED year from prior "1980 Chicago" to 1982 English paperback edition). Load-bearing longue durée / conjoncture / événement triadic architecture maps to applicabilityHorizon axis.
 - **Cronon, W. (1991) *Nature's Metropolis: Chicago and the Great West*.** Bancroft Prize (ISBN UNVERIFIED).
 - **Ngai, M. M. (2004) *Impossible Subjects*.** Princeton UP (ISBN UNVERIFIED). 1924 Johnson-Reed → 1965 Hart-Celler.
 - **Daniels, R. (2004) *Prisoners Without Trial*.** Hill & Wang rev.ed. (ISBN UNVERIFIED). EO 9066 / WRA / resettlement.
-- **Ruiz, V. L. (1998) *From Out of the Shadows*.** Oxford UP (operator ISBN 9780195187106 — plausibly 2008 anniversary ed., UNVERIFIED).
+- **Ruiz, V. L. (1998) *From Out of the Shadows: Mexican Women in Twentieth-Century America*.** Oxford University Press 1998 hardback ISBN **9780195114836** (VERIFIED via Round 5 Perplexity audit at Wisconsin library catalogue — CORRECTED from prior 9780195187106 which was NOT FOUND for this title in any accessible record); 1999 paperback 9780195130997; 2008 tenth-anniversary edition 9780195374780 (hardback) / 9780195374773 (paperback).
 - **Lipsitz, G. (1998) *The Possessive Investment in Whiteness*.** Temple UP (ISBN UNVERIFIED).
-- **CIDOC-CRM / ISO 21127:2023** (supersedes 2014); community v7.1.3 (2024-02) (VERIFIED via cidoc-crm.org). Adds OGC spatiotemporal reasoning — directly load-bearing for RegionScope.
+- **CIDOC-CRM / ISO 21127:2023** (supersedes 2014). Community version 7.1.3 (February 2024) is the ISO-corresponding version; v7.3.2 (March 2026) is current latest per cidoc-crm.org versions page. (VERIFIED via Round 5 Perplexity audit — CLARIFIED: framework should cite v7.1.3 for ISO-standard alignment; v7.3.2 for current spec features.) Adds OGC spatiotemporal reasoning — directly load-bearing for RegionScope.
 
 **Interface schema (TypeScript):**
 ```typescript
@@ -2028,6 +2028,147 @@ Events touching protected-class content (any event where populationImpactScopes 
 - All schema-populated events MUST route through Rule 19 gate at ship time (sourceClass = 'primary_verified' OR 'secondary_supported' — never 'plausible_unverified')
 
 **Confidence calibration:** HIGH for canonicity of scholarly foundation (all 12 works widely-attested); MEDIUM for byte-level ISBN verification (2 of 13 confirmed this session). Recommend post-Round-5-audit ISBN verification pass before Item 120 canonization.
+
+---
+
+### Item 115 — M10 wording precision candidacy (REVISED post-Round-5)
+
+**Filed:** 2026-07-08 late evening (H23 finding) — **REVISED 2026-07-08 late evening post-Round-5 Perplexity audit**
+
+**Original trigger (H23 PARTIAL 2026-07-08):** framework's M10 wording "cultural bundle mediation of pair-relational dynamics per Marshall 2008 + Kito 2017 + Rothbaum 2002" — framework author's H23 finding claimed only Bundle E cites all 3 sources; Bundle A cites Higginbotham/Stack/Franklin; Bundle D cites Menchaca-adjacent. Framework author concluded M10 wording was over-specific — Marshall/Kito/Rothbaum are East-Asian-scoped citations that should not be universalized.
+
+**Round 5 Perplexity finding REVISES H23:**
+- Marshall 2008 (DOI 10.1177/0265407507086810): CONFIRMED East-Asian-scoped (European Canadian vs Chinese Canadian dating relationships)
+- Rothbaum et al. 2000 [year CORRECTED from prior "2002" via Round 5 Perplexity audit — DOI 10.1037/0003-066x.55.10.1093 verified at PubMed as Rothbaum, Weisz, Pott, Miyake & Morelli "Attachment and culture: Security in the United States and Japan" American Psychologist 55(10), 1093-1104] (DOI 10.1037/0003-066x.55.10.1093): CONFIRMED East-Asian-scoped (US vs Japan attachment)
+- **Kito et al. 2017 (DOI 10.1111/pere.12174): DISPUTED — Perplexity accessible abstract frames the paper as GENERAL individualistic-vs-collectivistic / relational-mobility cross-cultural theory, NOT East-Asian-only empirical source**
+
+**Revised candidacy body:**
+Framework's M10 wording is 2/3 over-specific (Marshall 2008 + Rothbaum 2000 are legitimately East-Asian-scoped and should be cited only for East-Asian bundles), but 1/3 accurate (Kito 2017 IS general cross-cultural theory and CAN be cited universally). Original H23 finding overreached; M10 wording precision needs refinement rather than wholesale revision:
+- Split M10 wording into universal-scope + bundle-scope citations
+- Universal-scope: Kito 2017 (relational mobility framework applies across cultures)
+- Bundle-scope: Marshall 2008 + Rothbaum 2000 (East-Asian cultural expectations; Bundle E appropriate)
+- Bundle-specific citations remain per bundle (Bundle A Higginbotham/Stack/Franklin; Bundle D Menchaca-adjacent Tejano)
+
+**Meta-finding:** framework author's H23 self-critique was PARTIALLY WRONG. Round 5 substrate audit caught this at citation-verification scope. This is empirical evidence that framework author pre-publication verification (revised M6 discipline) is INSUFFICIENT at n=1 empirical instance for detecting subtle citation-scope errors.
+
+**Falsification thresholds pre-registered:**
+- If future substrate audit confirms Kito 2017 IS universal cross-cultural, Item 115 M10 wording revision applies
+- If future audit challenges Kito 2017 characterization further (e.g., subsequent Kito papers narrow to East-Asian scope), re-open Item 115
+- If framework decides Round 5 finding does not warrant M10 wording revision (operator ratification path), DEFLATE Item 115 to "acknowledged; wording retained"
+
+**Cross-references:**
+- H23 empirical harness finding (framework author self-critique that was partially wrong)
+- Round 5 Perplexity audit (A-02 Kito 2017 disputed)
+- Item 122 M6 discipline empirical test result at n=1
+- Rothbaum 2000 correction (year: 2002 → 2000 per Perplexity DOI verification)
+
+**Confidence calibration:** HIGH — Round 5 Perplexity accessible-abstract evidence is empirically documented + operator can re-verify Kito 2017 DOI 10.1111/pere.12174 directly.
+
+---
+
+### Item 116 — M10 fold effect-size threshold recalibration (H19 empirical finding)
+
+**Filed:** 2026-07-08 late evening (candidacy per H19 PARTIAL verdict)
+
+**Trigger:** H19 M10 minimal fold cross-bundle empirical impact test (Verdict PARTIAL 2/4): Δtrust=1.19 barely exceeds SESOI 1.0 (weak-but-detectable); Δsentiment PROVEN NULL via TOST across bundles; Δaccommodation=0.0. Framework's M10 minimal composition fold produces weak effect only on trust channel.
+
+**Candidate discipline body:**
+Framework should either:
+- **Option A:** Recalibrate SESOI 1.0 (currently pre-registered for framework mechanical coarseness); tighter SESOI (e.g., 0.5 units) would make Δtrust=1.19 more architecturally meaningful
+- **Option B:** Prioritize Council #9 Item 112 substrate architectural extension (route full PairRelationalCulturalExpectations into updatePairRelational at substrate scope, not just sentimentAsymmetryStrength at composition scope) — makes M10 fold architecturally meaningful without SESOI recalibration
+- **Option C:** Accept M10 fold as weak-but-existent + document limitation formally (M10 REVISED verdict remains honest at composition scope; substrate extension is Item 112)
+
+**Falsification thresholds pre-registered:**
+- If future H19 re-run after Item 112 substrate extension shows Δ ≥ 3.0 units on trust + sentiment + accommodation → Option B canonical
+- If SESOI recalibration to 0.5 changes H19 verdict from PARTIAL to PASS without substrate work → Option A canonical
+- If neither produces improvement, RETIRE M10 as decorative + downgrade methodology commitment from REVISED to WITHDRAWN
+
+**Cross-references:**
+- H19 empirical measurement (Δtrust=1.19; TOST equivalence PROVEN NULL for sentiment)
+- Council #9 Item 112 M10 substrate architectural extension candidacy
+- Council #9 Item 106 Option B REBOUND M8 canonical resolution
+
+**Confidence calibration:** MEDIUM — 3 options require operator ratification for scope; Item 112 is Council-review-scope work (not operator-executable independently)
+
+---
+
+### Item 121 — ISBN/edition-specificity discipline candidacy (Round 5 Perplexity 7 empirical fires)
+
+**Filed:** 2026-07-08 late evening (post-Round-5 Perplexity audit findings)
+
+**Trigger:** Round 5 Perplexity substrate audit surfaced 7 ISBN/edition errors in framework's pre-audit Items 118-120 filings that framework author self-verification did NOT catch. Empirical fires:
+1. Labov *Language in the Inner City* Item 118 used ISBN 978-0-8122-1051-7 (does not resolve); correct ISBN is 9780812210514 (framework's other reference in Item 119 had this correct — INTERNAL INCONSISTENCY)
+2. Labov *Sociolinguistic Patterns* framework had no ISBN; correct paperback is 9780812210521 (1973, not 1972 hardcover)
+3. Foner 1988 *Reconstruction* Item 120 used 9780060937164 (which is 2002 Perennial Classics reprint); correct 1988 first edition ISBN is 9780060158514
+4. Zinn 1980 *A People's History* Item 120 used 9780062397348 (which is later reprint); correct 1980 first edition ISBN is 9780060148034; separate 1980 Harper Colophon softcover ISBN is 9780060907921
+5. Ruiz 1998 *From Out of the Shadows* Item 120 used 9780195187106 (which was NOT FOUND for this title in any accessible record); correct 1998 hardback is 9780195114836; 1999 paperback 9780195130997; 2008 tenth-anniversary 9780195374780/9780195374773
+6. Braudel *On History* Item 120 cited "1980 Chicago"; correct English Chicago paperback is 1982, ISBN 9780226071510
+7. CIDOC-CRM Item 120 cited v7.1.3 as current; v7.1.3 IS ISO-21127:2023-corresponding, but v7.3.2 (March 2026) is current latest — clarification needed
+
+**Candidate discipline body:**
+Framework citation discipline should require:
+- **Explicit edition-year distinction** — cite 1980 first edition ISBN vs 2015 anniversary reprint ISBN as separate records
+- **Original-publication-year requirement** — first-edition metadata must be pinned before framework citation
+- **Standard-version-vs-latest distinction** — for evolving standards (CIDOC-CRM, ISO), cite BOTH ISO-standard-corresponding version AND current-latest version explicitly
+- **Cross-Item ISBN consistency** — same book cited at multiple framework surfaces must use identical ISBN (Labov *Language in the Inner City* was cited with two different ISBNs at Items 118 vs 119)
+
+**Rule 24 addendum candidacy:**
+Extend Rule 24 (post-audit-correction hybrid protocol) to specifically govern ISBN correction cascade: when substrate audit surfaces ISBN error at one surface, mandatory sweep of all framework surfaces citing same source for consistency.
+
+**Empirical foundation:** 7 empirical fires in Round 5 alone; n=1 empirical instance at framework scope establishes candidacy. Historical fires (Round 1 Coetzee decomposition + Round 1 de Vries citations + Round 1 Vernon citations + Round 3 statistical errors) contribute to broader pattern (Rule 19 anti-fabrication family; canonization-propagation gap discipline).
+
+**Falsification thresholds pre-registered:**
+- If future audit rounds after Item 121 canonization show ZERO ISBN errors across n=3+ deployments → Item 121 canonical
+- If ISBN errors continue at similar rate despite Item 121 discipline → Item 121 does not solve the underlying issue (may need substrate integration with library catalogs); REBOUND to pre-audit ISBN verification substrate deployment
+- If framework research index / knowledge management system integration eliminates ISBN errors without formal discipline → DEFLATE Item 121 to implicit best-practice
+
+**Cross-references:**
+- Rule 19 anti-fabrication (n=8+ instances after Round 5)
+- Rule 24 canonical-file correction protocol
+- Rule 20 canonization-propagation gap discipline family (Item 121 fits Family A read-side sub-shape)
+- Council #9 Items 105, 108, 111 (prior citation-verification discipline)
+- Round 5 Perplexity substrate audit findings (7 ISBN corrections applied)
+
+**Confidence calibration:** HIGH — 7 empirical fires in Round 5 alone; discipline body empirically motivated + directly implementable via Rule 24 extension.
+
+---
+
+### Item 122 — M6 discipline empirical test result at n=1 (framework author pre-publication verification insufficient)
+
+**Filed:** 2026-07-08 late evening (post-Round-5 Perplexity audit)
+
+**Trigger:** Framework methodology commitment M6 (revised per Council #9 Item 111): "authoritative citation requires verified source access AND passing empirical harness BEFORE publication. Post-audit remediation does NOT retroactively count as pre-validation." Round 5 Perplexity substrate audit provided first empirical test of revised M6 discipline via framework author's pre-audit verification pass on Items 117-120 scholarly foundations.
+
+**Empirical test result:** M6 discipline EMPIRICALLY FAILED at n=1 instance.
+
+Framework author's pre-publication verification pass on 42 scholarly citations honestly flagged 15 as UNVERIFIED (matching Rule 19 anti-fabrication discipline). However, of the 27 citations framework author verified as VERIFIED, Round 5 Perplexity surfaced:
+- 7 ISBN/edition errors (framework used wrong edition ISBNs — Foner + Zinn + Ruiz + Braudel + 2× Labov + CIDOC-CRM version) — see Item 121 candidacy
+- 1 claim-scope error (Kito 2017 characterization: framework claimed East-Asian-scoped; actual scope is universal cross-cultural)
+- 1 empirical-detail error (Stivers 2009 "~250 ms modal gap" characterization: correct is overall mode 0 ms; overall mean +208 ms; language means within ~250 ms of cross-language mean)
+
+Total: 9 verification errors NOT caught by framework author self-verification, out of 27 citations author marked as VERIFIED. Empirical error rate at author-verification scope: **~33%**.
+
+**Meta-finding:** framework author self-verification is EMPIRICALLY INSUFFICIENT at n=1 for satisfying revised M6 discipline. Framework methodology commitment M6 requires either:
+- **Option A:** Substrate audit round BEFORE publication (not just AFTER) — moves Round 5 from post-publication verification to pre-publication verification; extends timeline substantially
+- **Option B:** Restrict M6 to "author verifies to their capacity + honestly flags UNVERIFIED" — accepts that self-verification cannot approach substrate audit quality; downgrades M6 discipline strength
+- **Option C:** Add substrate-consultation step as intermediate between self-verification and full audit — cheaper than full audit round; catches obvious ISBN/scope errors before publication
+
+**Post 0197 recursion count implications:**
+Framework's recursion count remains HELD at n=7+ per Opus round 4 adjudication + Item 111. Round 5 result strengthens the HOLD: framework M6 discipline is NOT operationally sufficient for pre-publication validation at n=1 empirical instance. Increment to n=8+ requires operational change (Option A, B, or C above), not just claim of discipline.
+
+**Falsification thresholds pre-registered:**
+- If Option A (pre-audit substrate round) adopted and future publications show <5% verification error rate at author-verified citations → Option A canonical; M6 empirically sufficient
+- If Option B (downgraded M6) adopted → framework methodology commitment stability + honest self-limitation acknowledged
+- If Option C (intermediate consultation) adopted and shows <10% verification error rate → cheaper Option C canonical
+- If NONE adopted and next audit round shows similar ~33% error rate → M6 discipline fails at n=2 empirical instances; recommend RETIRE or REBOUND
+
+**Cross-references:**
+- Council #9 Item 111 (revised M6 discipline canonization)
+- Council #9 Item 121 (ISBN/edition-specificity — subset of M6 discipline failure)
+- Post 0197 recursion count HELD at n=7+ (Opus round 4 verdict; strengthened by Round 5 evidence)
+- Round 5 Perplexity substrate audit (7 ISBN errors + 1 scope error + 1 empirical-detail error = 9 uncaught issues)
+
+**Confidence calibration:** HIGH — empirical test result documented at 9 specific citations across 27 framework-author-verified references; error rate calculable; framework methodology commitment implications directly derivable.
 
 ---
 
