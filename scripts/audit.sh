@@ -38,12 +38,12 @@ echo "================================================================"
 # ----------------------------------------------------------------------
 echo
 echo "A. Em-dash discipline (scope: posts 0036+)"
-em_total=$(grep -ho '—' posts/0036-*.md posts/00[4-9]*-*.md posts/01*-*.md 2>/dev/null | wc -l | tr -d ' ')
+em_total=$(grep -ho '—' posts/0036-*.md posts/00[4-9]*-*.md posts/01*-*.md posts/02*-*.md posts/03*-*.md posts/04*-*.md posts/05*-*.md posts/06*-*.md posts/07*-*.md posts/08*-*.md posts/09*-*.md 2>/dev/null | wc -l | tr -d ' ')
 if [ "$em_total" -eq 0 ]; then
   pass "no em-dashes (U+2014) in posts 0036+"
 else
   fail "$em_total em-dashes found in posts 0036+ (current discipline violation)"
-  grep -l '—' posts/0036-*.md posts/00[4-9]*-*.md posts/01*-*.md 2>/dev/null | sed 's/^/      /'
+  grep -l '—' posts/0036-*.md posts/00[4-9]*-*.md posts/01*-*.md posts/02*-*.md posts/03*-*.md posts/04*-*.md posts/05*-*.md posts/06*-*.md posts/07*-*.md posts/08*-*.md posts/09*-*.md 2>/dev/null | sed 's/^/      /'
 fi
 em_legacy=$(grep -ho '—' posts/000[1-9]-*.md posts/001[0-9]-*.md posts/002[0-9]-*.md posts/003[0-5]-*.md 2>/dev/null | wc -l | tr -d ' ')
 info "legacy em-dashes in posts 0001-0035 (scope-amended; not a violation): $em_legacy"
@@ -101,7 +101,7 @@ fi
 echo
 echo "D. Frontmatter consistency (scope: posts 0036+)"
 missing_count=0
-for f in posts/0036-*.md posts/00[4-9]*-*.md posts/01*-*.md; do
+for f in posts/0036-*.md posts/00[4-9]*-*.md posts/01*-*.md posts/02*-*.md posts/03*-*.md posts/04*-*.md posts/05*-*.md posts/06*-*.md posts/07*-*.md posts/08*-*.md posts/09*-*.md; do
   [ -f "$f" ] || continue
   grep -q '^\*\*Author:\*\*'  "$f" || { echo "      MISSING **Author:** in $f"; missing_count=$((missing_count+1)); }
   grep -q '^\*\*Date:\*\*'    "$f" || { echo "      MISSING **Date:** in $f"; missing_count=$((missing_count+1)); }

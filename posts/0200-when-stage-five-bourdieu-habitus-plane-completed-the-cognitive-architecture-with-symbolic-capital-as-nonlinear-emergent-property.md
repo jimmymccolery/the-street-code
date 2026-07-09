@@ -1,12 +1,18 @@
 # When Stage 5 Bourdieu habitus plane completed the cognitive architecture with symbolic capital as non-linear emergent property
 
+**Author:** Jimmy McColery
+**Date:** 2026-07-08
+**Status:** Phase 15 Stage 5 Bourdieu habitus plane architectural extension; empirical-validation-harness-parallel-to-diagnostic-UI discipline (Post 0197) recursive at n=6+ (PUBLISHED per operator ratification 2026-07-08 morning)
+
+*Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+
 **Post 0200** · 2026-07-08 morning · Phase 15 Stage 5 architectural extension · Framework methodology
 
 ## What happened
 
-Same session — Path 1 empirical harness + Stage 2 empirical hypothesis batch + Path 3 empirical harness + Stage 3 architectural extension + Stage 4 pair-relational plane + Stage 5 Bourdieu habitus plane all shipped end-to-end in ~30 hours. Four parallel research agents delivered comprehensive empirical foundations covering Bourdieu 1977 Outline + Bourdieu 1984 Distinction + Lizardo 2004 cognitive origins + Vaisey 2009 dual-process + Wacquant 2004 apprenticeship + Bennett Savage Silva Warde 2009 UK Cultural Class Distinction replication + Prieur & Savage 2013 + Reay 2004 UK working-class habitus + Ha 2001 South Korean youth + Souvela Latinx educational habitus + Wildhagen 2009 African-American cultural capital + Yosso 2005 Community Cultural Wealth extension + Hunter 2007 + Monk 2015 colorism × cultural capital intersection.
+Same session -- Path 1 empirical harness + Stage 2 empirical hypothesis batch + Path 3 empirical harness + Stage 3 architectural extension + Stage 4 pair-relational plane + Stage 5 Bourdieu habitus plane all shipped end-to-end in ~30 hours. Four parallel research agents delivered comprehensive empirical foundations covering Bourdieu 1977 Outline + Bourdieu 1984 Distinction + Lizardo 2004 cognitive origins + Vaisey 2009 dual-process + Wacquant 2004 apprenticeship + Bennett Savage Silva Warde 2009 UK Cultural Class Distinction replication + Prieur & Savage 2013 + Reay 2004 UK working-class habitus + Ha 2001 South Korean youth + Souvela Latinx educational habitus + Wildhagen 2009 African-American cultural capital + Yosso 2005 Community Cultural Wealth extension + Hunter 2007 + Monk 2015 colorism × cultural capital intersection.
 
-The synthesis produced a canonical architectural specification, sim-ai `habitusPlane.ts` module, seven-hypothesis empirical validation harness at 7/7 PASS, and the empirical discovery that a Practice fitness function that saturates at 100/100 obscures the empirically-critical Reay 2004 mismatch signature — which required recalibration to expose.
+The synthesis produced a canonical architectural specification, sim-ai `habitusPlane.ts` module, seven-hypothesis empirical validation harness at 7/7 PASS, and the empirical discovery that a Practice fitness function that saturates at 100/100 obscures the empirically-critical Reay 2004 mismatch signature -- which required recalibration to expose.
 
 Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline now fires at n=6+ recursive (Path 1 + Stage 2 + Path 3 + Stage 3 + Stage 4 + Stage 5). Framework methodology commitment established at overwhelmingly-load-bearing level.
 
@@ -29,17 +35,17 @@ export interface FourCapitalVector {
 
 Cultural capital's 3 sub-forms (embodied + objectified + institutionalized) are structurally distinct per Bourdieu's empirical evidence that these accumulate via different mechanisms. Embodied capital acquired through childhood socialization + Wacquant-style apprenticeship (6-24 months per field per Wacquant 2004 Body & Soul). Objectified capital accumulates through purchase or inheritance. Institutionalized capital arrives with credentials + can be adult-acquired.
 
-**Symbolic capital as NON-LINEAR emergent** is the load-bearing architectural claim. Lin & Erickson 2008 meta-analysis (47 studies) demonstrated symbolic capital produces interaction effects: among high-cultural-capital respondents, network diversity predicted +18% earnings premium; among low-cultural-capital respondents, same diversity predicted only +3% premium (p_interaction < 0.001). Reeves & Hauser 2000 documented categorical rather than continuous clustering. Stage 5's `computeSymbolicCapital` function implements this via linear base + interaction bonuses + field-position credentialing amplifier — the non-linearity is architecturally-modeled, not decorative.
+**Symbolic capital as NON-LINEAR emergent** is the load-bearing architectural claim. Lin & Erickson 2008 meta-analysis (47 studies) demonstrated symbolic capital produces interaction effects: among high-cultural-capital respondents, network diversity predicted +18% earnings premium; among low-cultural-capital respondents, same diversity predicted only +3% premium (p_interaction < 0.001). Reeves & Hauser 2000 documented categorical rather than continuous clustering. Stage 5's `computeSymbolicCapital` function implements this via linear base + interaction bonuses + field-position credentialing amplifier -- the non-linearity is architecturally-modeled, not decorative.
 
 ## Field theory as 6-dimensional coordinate system
 
-Bourdieu 1977 field theory landed as `FieldPosition` — 6 relatively-autonomous fields (economic + cultural + political + religious + educational + domestic). Each field has its own logic + stakes + hierarchies. Field-appropriate capital relevance varies: educational field valorizes institutionalized cultural capital; economic field valorizes economic capital; religious field valorizes combined social + symbolic capital. `getFieldCapitalRelevance` encodes these empirically-motivated field-specific weightings.
+Bourdieu 1977 field theory landed as `FieldPosition` -- 6 relatively-autonomous fields (economic + cultural + political + religious + educational + domestic). Each field has its own logic + stakes + hierarchies. Field-appropriate capital relevance varies: educational field valorizes institutionalized cultural capital; economic field valorizes economic capital; religious field valorizes combined social + symbolic capital. `getFieldCapitalRelevance` encodes these empirically-motivated field-specific weightings.
 
-Field position produces `habitusFieldMismatch` computation: how far the NPC's dispositions deviate from the field's ideal disposition profile. Reay 2004 empirical: working-class first-generation university students report 80% "out of place" feeling despite academic achievement — mismatch is architecturally-observable even when capital is present.
+Field position produces `habitusFieldMismatch` computation: how far the NPC's dispositions deviate from the field's ideal disposition profile. Reay 2004 empirical: working-class first-generation university students report 80% "out of place" feeling despite academic achievement -- mismatch is architecturally-observable even when capital is present.
 
 ## Habitus as dispositions dual-process cognition-grounded
 
-Lizardo 2004 cognitive origins + Vaisey 2009 empirical dual-process landed as `HabitusDispositions` — 6-dimensional continuous space encoding:
+Lizardo 2004 cognitive origins + Vaisey 2009 empirical dual-process landed as `HabitusDispositions` -- 6-dimensional continuous space encoding:
 - Deference-vs-agency
 - Present-vs-future orientation
 - Restraint-vs-expression
@@ -47,11 +53,11 @@ Lizardo 2004 cognitive origins + Vaisey 2009 empirical dual-process landed as `H
 - Practical-vs-aesthetic orientation (Bourdieu class-fraction key differentiator)
 - Automatic-vs-deliberative dominance (Vaisey 2009: 60-70% implicit dominance)
 
-The last dimension is architecturally load-bearing. Vaisey 2009 NSYR panel data (N=3,290 adolescents) demonstrated implicit moral schemas predicted future behavior significantly better than explicit reasoning: implicit r=0.42-0.55; explicit r=0.15-0.28 (2.5-3x implicit advantage). Framework preserves this via automaticVsDeliberative baseline 65 with variance keeping most NPCs in 60-75 range regardless of class-fraction position — the finding replicates across cohorts.
+The last dimension is architecturally load-bearing. Vaisey 2009 NSYR panel data (N=3,290 adolescents) demonstrated implicit moral schemas predicted future behavior significantly better than explicit reasoning: implicit r=0.42-0.55; explicit r=0.15-0.28 (2.5-3x implicit advantage). Framework preserves this via automaticVsDeliberative baseline 65 with variance keeping most NPCs in 60-75 range regardless of class-fraction position -- the finding replicates across cohorts.
 
 ## Habituation timescale per Wacquant 2004 apprenticeship model
 
-`updateHabitusDispositions` implements the empirical acquisition timescale: 6-24 months embodied habitus formation (Wacquant 2004 Chicago boxing gym) + weekly variance decay ~10-15% per exposure (Reay 2004). The function includes exponential-decay learning rate — early exposures produce larger shifts than late exposures, matching Wacquant's asymptotic acquisition curve. Habituation hours accumulate cumulatively; a new NPC in a new field takes 500+ sim-hours to reach substantial embodiment.
+`updateHabitusDispositions` implements the empirical acquisition timescale: 6-24 months embodied habitus formation (Wacquant 2004 Chicago boxing gym) + weekly variance decay ~10-15% per exposure (Reay 2004). The function includes exponential-decay learning rate -- early exposures produce larger shifts than late exposures, matching Wacquant's asymptotic acquisition curve. Habituation hours accumulate cumulatively; a new NPC in a new field takes 500+ sim-hours to reach substantial embodiment.
 
 ## Capital conversion at empirical exchange rates
 
@@ -62,11 +68,11 @@ The last dimension is architecturally load-bearing. Vaisey 2009 NSYR panel data 
 - Economic → Social: membership access purchase
 - Cultural → Social: aesthetic sophistication → belonging
 
-Each conversion recomputes symbolic capital as the non-linear emergent — capital combinations shift, symbolic recognition follows.
+Each conversion recomputes symbolic capital as the non-linear emergent -- capital combinations shift, symbolic recognition follows.
 
 ## The 7-hypothesis harness with one architectural fix
 
-The harness caught one architectural gap during validation. Original `computePracticeGenerativeFitness` used formula `100 - mismatch × 0.5 + capital × 0.3` which saturated at 100/100 for high-capital NPCs regardless of mismatch — completely obscuring Reay 2004's empirical mismatch signature. Fix: rebalanced to `30 + capital × 0.5 - mismatch × 1.0` producing meaningful spread that exposes mismatch's empirically-critical role.
+The harness caught one architectural gap during validation. Original `computePracticeGenerativeFitness` used formula `100 - mismatch × 0.5 + capital × 0.3` which saturated at 100/100 for high-capital NPCs regardless of mismatch -- completely obscuring Reay 2004's empirical mismatch signature. Fix: rebalanced to `30 + capital × 0.5 - mismatch × 1.0` producing meaningful spread that exposes mismatch's empirically-critical role.
 
 This is Post 0197 discipline operating end-to-end at n=6+ recursive: harness catches architectural gap, gap is fixed in architecture (not test criteria), harness re-runs to confirm empirical claim now defensible.
 
@@ -86,7 +92,7 @@ Total wall clock 5.39 seconds. Sim-ai tests continue passing.
 
 **M13: Symbolic capital as NON-LINEAR emergent** per Lin & Erickson 2008 + Reeves & Hauser 2000. Framework refuses reduction of symbolic capital to linear combination even though implementation would be simpler; empirical evidence backs the non-linearity.
 
-**M14: Dual-process implicit dominance (Vaisey 2009).** automaticVsDeliberative 60-70% range preserved architecturally. Framework models NPCs as habitus-dominant deciders with deliberative override under high-stakes contexts — matching NSYR longitudinal empirical.
+**M14: Dual-process implicit dominance (Vaisey 2009).** automaticVsDeliberative 60-70% range preserved architecturally. Framework models NPCs as habitus-dominant deciders with deliberative override under high-stakes contexts -- matching NSYR longitudinal empirical.
 
 Complete stack now: M1-M14 extending across Stages 3 + 4 + 5.
 
@@ -111,6 +117,6 @@ Item 103 filed at Council #9 agenda: Phase 15 Stage 5 Bourdieu habitus plane arc
 
 ## What ships next this week
 
-Stage 5 completes the pilot's cognitive architecture core (Stages 4 + 5 cover pair-relational + Bourdieu habitus per Phase 15 v3 9-week pilot plan). Day 6 pivots to population-scaling-foundation Phase A session logger emission wiring — Council #6 mandatory gate before V1 BUILD-mode resumption. Day 7 week-close synthesis + Council #9 pre-work consolidation.
+Stage 5 completes the pilot's cognitive architecture core (Stages 4 + 5 cover pair-relational + Bourdieu habitus per Phase 15 v3 9-week pilot plan). Day 6 pivots to population-scaling-foundation Phase A session logger emission wiring -- Council #6 mandatory gate before V1 BUILD-mode resumption. Day 7 week-close synthesis + Council #9 pre-work consolidation.
 
-The pace pattern established this session — 4-agent parallel research → canonical spec → sim-ai implementation → parallel empirical harness → 7/7 PASS or fewer with architectural fixes → Post methodology capture → Council #9 candidacy filing → vendor sync + regen — is now a framework methodology commitment. Post 0197 discipline canonized at recursive scope of n=6+ instances within-single-session at architectural-extension velocity is what empirically-defensible cognitive AI research looks like at framework maturity.
+The pace pattern established this session -- 4-agent parallel research → canonical spec → sim-ai implementation → parallel empirical harness → 7/7 PASS or fewer with architectural fixes → Post methodology capture → Council #9 candidacy filing → vendor sync + regen -- is now a framework methodology commitment. Post 0197 discipline canonized at recursive scope of n=6+ instances within-single-session at architectural-extension velocity is what empirically-defensible cognitive AI research looks like at framework maturity.

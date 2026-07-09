@@ -1,5 +1,11 @@
 # When Stage 4 pair-relational plane migrated Fire I bond-history from HEXACO scalar to derived property while preserving production discipline
 
+**Author:** Jimmy McColery
+**Date:** 2026-07-08
+**Status:** Phase 15 Stage 4 pair-relational plane architectural extension; empirical-validation-harness-parallel-to-diagnostic-UI discipline (Post 0197) recursive at n=5+ (PUBLISHED per operator ratification 2026-07-08 morning)
+
+*Note: I'm a tech professional documenting my work in personal AI infrastructure. I produce these posts directly from my own work and findings, with AI writing assistance helping to shape the prose. The framework, the experiments, and the analysis are mine; AI assistance shaped the prose from my raw session notes and canonical record.*
+
 **Post 0199** · 2026-07-08 morning · Phase 15 Stage 4 architectural extension · Framework methodology
 
 ## What happened
@@ -10,9 +16,9 @@ Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline fire
 
 ## Three architectural fixes uncovered by empirical harness before publication
 
-**Fix 1: attachment style needed active sentiment-encoding modulation.** H7 initial run showed secure_secure and anxious_avoidant dyads producing bit-identical results because attachment style only modulated accommodation frequency in the initial implementation. The empirical claim from Mikulincer & Shaver 2007 is that attachment modulates the WAY dyads encode partner behavior into sentiment — high avoidance dampens sentiment updates by ~50%; high anxiety amplifies negative sentiment reactivity by ~40%. Fix: added `attachmentSentimentMultiplier` function computing per-event modulation from both avoidance and anxiety dimensions, applied to sentiment impact before asymmetric override integration. After fix, H7 differentiates cohorts.
+**Fix 1: attachment style needed active sentiment-encoding modulation.** H7 initial run showed secure_secure and anxious_avoidant dyads producing bit-identical results because attachment style only modulated accommodation frequency in the initial implementation. The empirical claim from Mikulincer & Shaver 2007 is that attachment modulates the WAY dyads encode partner behavior into sentiment -- high avoidance dampens sentiment updates by ~50%; high anxiety amplifies negative sentiment reactivity by ~40%. Fix: added `attachmentSentimentMultiplier` function computing per-event modulation from both avoidance and anxiety dimensions, applied to sentiment impact before asymmetric override integration. After fix, H7 differentiates cohorts.
 
-**Fix 2: Gottman four-horseman events needed active trust erosion + turning-away encoding.** H6 initial run showed 4-horseman cascade with trust at 48/100 (barely eroded) and turning-toward rate stuck at 0.50 (unchanged) — because the initial implementation treated non-turning-toward events as "no signal" rather than active turning-away. Empirically Gottman documents 4-horseman behaviors as micro-behavioral units that ARE turning-away units + actively erode trust at ~3 units per event. Fix: 4-horseman events now count as turning-away (0) in the sliding window + reduce trust by 3 × attachment-trust-multiplier per event; boundary violations reduce trust by 4. Turning-toward window sensitivity increased from 0.03 → 0.10 to match Driver & Gottman 2004 rate-of-change signatures. After fix, cascade shows sentiment collapse at tick 10 + turning-toward decline + trust erosion below 40.
+**Fix 2: Gottman four-horseman events needed active trust erosion + turning-away encoding.** H6 initial run showed 4-horseman cascade with trust at 48/100 (barely eroded) and turning-toward rate stuck at 0.50 (unchanged) -- because the initial implementation treated non-turning-toward events as "no signal" rather than active turning-away. Empirically Gottman documents 4-horseman behaviors as micro-behavioral units that ARE turning-away units + actively erode trust at ~3 units per event. Fix: 4-horseman events now count as turning-away (0) in the sliding window + reduce trust by 3 × attachment-trust-multiplier per event; boundary violations reduce trust by 4. Turning-toward window sensitivity increased from 0.03 → 0.10 to match Driver & Gottman 2004 rate-of-change signatures. After fix, cascade shows sentiment collapse at tick 10 + turning-toward decline + trust erosion below 40.
 
 **Fix 3: Rusbult commitment formula needed trust-mediated path + baseline institutional attachment.** H3 initial run showed entrapment commitment at 16/100 vs empirical target ~40-50. Rusbult 1980 investment model + Wieselquist 1999 accommodation-trust-commitment path establishes trust as partial mediator of commitment; my initial implementation had trust as separate field but commitment formula excluded trust term. The empirical claim: Wieselquist trust→commitment β=0.51. Fix: added baseline institutional attachment 30/100 + trust contribution 0.20 × trust to commitment formula. After fix, entrapment commitment reaches 50+/100 while low-satisfaction dyads without investment collapse to lower levels, preserving the Rusbult dissociation signature.
 
@@ -41,14 +47,14 @@ Bond history floor is now derived from three pair-relational state fields (inves
 
 Stage 4 introduces 14 pair-relational event types, each grounded in specific empirical literature:
 
-- `accommodation_by` — Wieselquist et al. 1999 trust-generating behavior
-- `self_disclosure_by` + `responsiveness_by` — Reis & Shaver 1988 intimacy spiral (Laurenceau et al. 1998 SEM parameters)
-- `turning_toward_by` + `turning_away_by` + `turning_against_by` — Driver & Gottman 2004 bids for connection
-- `four_horseman_criticism_by` + `four_horseman_contempt_by` + `four_horseman_defensiveness_by` + `four_horseman_stonewalling_by` — Gottman 1993 divorce-prediction cascade
-- `shared_novel_activity` — Aron & Aron 1996 self-expansion novel-activity paradigm
-- `joint_goal_progress` — Kelley et al. 2003 cooperation situation instantiation
-- `boundary_violation_by` — autonomy-conflict situation marker
-- `sacrifice_by` — commitment signal per Van Lange et al. 1997 sacrifice measure
+- `accommodation_by` -- Wieselquist et al. 1999 trust-generating behavior
+- `self_disclosure_by` + `responsiveness_by` -- Reis & Shaver 1988 intimacy spiral (Laurenceau et al. 1998 SEM parameters)
+- `turning_toward_by` + `turning_away_by` + `turning_against_by` -- Driver & Gottman 2004 bids for connection
+- `four_horseman_criticism_by` + `four_horseman_contempt_by` + `four_horseman_defensiveness_by` + `four_horseman_stonewalling_by` -- Gottman 1993 divorce-prediction cascade
+- `shared_novel_activity` -- Aron & Aron 1996 self-expansion novel-activity paradigm
+- `joint_goal_progress` -- Kelley et al. 2003 cooperation situation instantiation
+- `boundary_violation_by` -- autonomy-conflict situation marker
+- `sacrifice_by` -- commitment signal per Van Lange et al. 1997 sacrifice measure
 
 Each event type produces empirically-motivated deltas across the 17 pair-relational fields. Positive-sentiment override amplifies charitable interpretation of ambiguous events (Hawkins-Carrère-Gottman 2002 5:1 ratio); negative-sentiment override does NOT amplify further above |sentiment| > 0.3 per Fires G-K reshape arc empirical validation. This asymmetric-override architecture matches empirical healthy-couple dynamics while producing cascade behavior when 4-horseman sequences fire.
 
@@ -90,7 +96,7 @@ Total wall clock 5.29 seconds. Sim-ai 1385/1386 tests pass. Master runner emits 
 
 **M10: Cultural bundle mediation of pair-relational dynamics.** Marshall 2008 + Kito et al. 2017 + Rothbaum et al. 2002 empirical evidence backs bundle-level cultural expectations for accommodation + disclosure + attachment behavioral expression.
 
-**M11: Empirical harness before authoritative citation** — Post 0197 recursive at n=5+.
+**M11: Empirical harness before authoritative citation** -- Post 0197 recursive at n=5+.
 
 ## Council #9 Item 102 candidacy
 
