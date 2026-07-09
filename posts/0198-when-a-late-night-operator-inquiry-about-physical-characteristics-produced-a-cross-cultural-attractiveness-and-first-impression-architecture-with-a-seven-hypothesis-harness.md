@@ -1,4 +1,15 @@
-> **ADDENDUM 2026-07-08 late evening — Substrate audit round 1 citation corrections:**
+> **ADDENDUM 2 2026-07-08 late evening — Substrate audit round 4 (Opus) methodology-commitment revisions:**
+> Claude Opus via Perplexity Computer methodology-self-consistency substrate identified 3 INCONSISTENT verdicts against framework methodology commitments M6, M10, M16. Framework applied Option A comprehensive fold: (1) **M6 REVISED** to explicit temporal discipline — "authoritative citation requires verified source access AND passing empirical harness BEFORE publication; post-audit remediation does NOT retroactively count as pre-validation" — the M6 pattern observed across 3 audit rounds (claim → external substrate finds failure → remediation) empirically violated M6 as previously stated; (2) **M10 CLAIM DOWNGRADED** to honest scope — cultural bundle pair-relational expectations are AUTHORED per bundle and DISPLAYED via `getBundleSnapshot`, but MEDIATION of pair-relational tick-loop is ARCHITECTURAL-EXTENSION SCOPE not implemented at composition/substrate; Council #9 Item 112 filed as candidacy for substrate `updatePairRelational` signature extension; (3) **M14 CLARIFIED** — Vaisey 60-70% band is INITIALIZED per anchor, PRESERVATION across evolution is empirical posthoc observation NOT architectural guarantee; H4c drift-bound test pending; (4) **M15 CANDIDACY DOWNGRADED to PROSPECTIVE** — canonization requires H18 whole-harness statistical migration audit clean-verification, not just Round 3 targets; (5) **H15 LANGUAGE REVISED** — "5/6 proven null" is CONDITIONAL on OFAT sampling design; H17 Latin Hypercube detects Extraversion first-order share (7.74%) OFAT misses.
+>
+> **Post 0197 recursion count adjudicated HELD at n=7+** per Opus close-out. Round 3+4 remediation is evidence audit process is valuable, NOT evidence original Post 0197 instance was clean. Framework's revised M6 explicitly EXCLUDES post-audit remediation from recursion count contribution.
+>
+> **Council #9 Items 111 + 112 + 113 + 114 filed** capturing M6 modification + M10 architectural extension candidacy + cross-substrate discount methodology + disposition matrix non-foldable exclusions audit.
+>
+> Framework methodology commitments M1-M14 + M15/M16 candidates now honestly reflect implementation. Substrate audit round formally closes with disposition matrix Rounds 1-4 fold completed.
+
+---
+
+> **ADDENDUM 1 2026-07-08 late evening — Substrate audit round 1 citation corrections:**
 > Perplexity Computer (GPT 5.5) citation-verification substrate identified three fabricated citations in the original post. The framework has been corrected inline at sim-ai substrate + Open Alley Stage 3 architectural spec. This addendum preserves the audit trail:
 >
 > 1. **de Vries 2019 "r=+.62 Extraversion / r=-.59 Emotionality"** cited in this post as HEXACO × charisma correlations. The actual de Vries, Pathak & Paquin 2019 paper (DOI 10.1007/s10869-019-09671-6) reports these numeric magnitudes as discriminant-function loadings on the *follower-preference* function, NOT as target-perceiver charisma correlations. Framework's Extraversion-primary charisma design is a DIRECTIONAL choice consistent with Bono & Judge 2004 meta-analytic + Judge & Bono 2000 pattern, NOT a specific numeric target.

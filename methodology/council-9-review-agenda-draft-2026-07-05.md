@@ -1340,6 +1340,8 @@ Framework empirical validation harnesses that ship to external substrate audit r
 
 **Confidence calibration:** MEDIUM — self-authored discipline capturing self-observed session pattern; requires substrate audit round completion to earn empirical foundation.
 
+**AMENDMENT 2026-07-08 late evening (post Opus round 4 verdict):** Item 110 filed confidence upgrade MEDIUM → HIGH claim based on n=4 substrate convergence. Opus round 4 verdict discounts convergence to n≤3 (Deep Think + Deep Research both Gemini-family; Deep Research corroborated Deep Think; some findings inherited priors). Item 104 confidence calibration accordingly **AMENDED to MEDIUM** (not HIGH) pending future audit rounds providing independent-substrate empirical foundation. See Item 113 (cross-substrate convergence discount methodology) + Item 114 (disposition matrix non-foldable exclusions audit) for Opus-derived critique that further conditions Item 104 confidence.
+
 ---
 
 ### Item 105 — Substrate-audit-round-1 corpus-wide citation-integrity fire + remediation-applied documentation
@@ -1391,6 +1393,8 @@ Framework empirical validation harnesses that ship to external substrate audit r
 
 **Confidence calibration:** HIGH — findings are empirically documented + verified against actual primary sources + remediation is byte-verifiable at file-diff scope.
 
+**AMENDMENT 2026-07-08 late evening (post Opus round 4 verdict on M6):** Opus round 4 finding: "Round 1 remediation fixed the named critical fabrications but ALSO demonstrates prior M6 failure; it should not support recursion increment without a post-remediation citation-manifest audit." Item 105 AMENDED to explicitly note: **remediation-applied documentation does NOT constitute pre-publication empirical validation for M6 discipline** (per revised M6 filed at Item 111). Item 105 is evidence of audit process value, NOT evidence of framework's pre-publication M6 compliance. Post 0197 recursion count contribution from Round 1 = 0 (audit-methodology validation only; publication-methodology validation blocked).
+
 ---
 
 ### Item 106 — HEXACO-decorative-at-pair-relational-scope architectural finding (n=2 convergence: framework author H8+H11 + Grok audit round 2)
@@ -1418,6 +1422,8 @@ Framework claim that Stage 3 personality data (HEXACO) is exercised jointly with
 - If substrate audit round 3 (Gemini/Opus) surfaces additional evidence that HEXACO's near-complete decorative status at pair-relational scope is architecturally intentional (e.g., attachment-primary theoretical framing), Item 106 becomes design-acknowledgment candidacy → REBOUND M8 to explicitly acknowledge attachment primacy
 - If audit round 3 argues framework should route more HEXACO dimensions, Item 106 becomes architectural-extension candidacy → NEW WORK: extend updatePairRelational to route H/E/X/C/O
 - If audit round 3 finds no additional signal, DEFAULT: option B (formal acknowledgment in M8)
+
+**AMENDMENT 2026-07-08 late evening (post Opus round 4 verdict):** Opus round 4 recommendation 8: "Reconsider Item 106 because the least rationalizing option is B or C: either explicitly scope HEXACO to A-driven accommodation at pair-relational scope or demote broad HEXACO storage claims for that plane." Item 106 accordingly biased toward **Option B (REBOUND M8 to explicitly scope HEXACO to A-driven accommodation at pair-relational)** as canonical resolution. Option A (route more HEXACO dimensions to pair-relational) is DEPRIORITIZED because H15 empirical evidence + Grok code inspection + Deep Think statistical audit all converge on 5-of-6-decorative structural finding — the architectural gap is real, not measurement artifact. Council #9 review target: adopt Option B canonically; retire Item 106 as CONSIDERED-AND-FOLDED (not open candidacy).
 
 **Cross-references:**
 - Council #9 Item 104 (audit-round-methodology-improvement candidacy — H15 is empirical instance of the methodology)
@@ -1512,6 +1518,8 @@ Full harness aggregate post-remediation: framework produces honest architectural
 
 **Confidence calibration:** HIGH — findings empirically corroborated across n=4 substrates (Perplexity + Grok + Deep Think + Deep Research); remediation empirically verified via actual framework re-runs producing measurable statistical rigor improvement.
 
+**AMENDMENT 2026-07-08 late evening (post Opus round 4 verdict):** Opus round 4 recommendation 9: "Reconsider Item 108 because M15/M16 should be filed as PROSPECTIVE commitments pending proof of whole-harness migration and SESOI pre-registration, not as post-hoc validation of Round 3 fixes." Item 108 accordingly amended: M15 + M16 are **PROSPECTIVE candidacies** pending H18 whole-harness statistical migration audit clean-verification (H18 built + ran Round 4; verdict 4/4 PASS with M15 CANONIZATION READY + M16 CANONIZATION READY status). Confidence calibration downgraded from HIGH to **MEDIUM** pending Item 113 discount application (n=4 → n≤3 substrate convergence). Council #9 review: M15/M16 canonization contingent on (a) H18 clean-verification at future audit rounds + (b) SESOI pre-registration artifacts stored per null-claim + (c) Opus Item 113 discount methodology applied to convergence signal.
+
 ---
 
 ### Item 109 — ASA 2016 continuous-evidence-over-binary-threshold discipline (Post 0197 recursion count discipline extension)
@@ -1585,6 +1593,141 @@ All findings were framework-integrity issues the framework author self-critique 
 - Rule 11 (multi-substrate research workflow) — empirical foundation extends to n=8+ substrate-audit-round convergence
 
 **Confidence calibration:** HIGH — n=4 substrate empirical foundation; findings independently reproduce framework-integrity issues framework author cannot self-generate.
+
+---
+
+### Item 111 — M6 modification per Opus round 4 recommendation 1 (empirical-validation-before-authoritative-citation temporal discipline explicit)
+
+**Filed:** 2026-07-08 late evening (post Opus round 4 methodology self-consistency close-out)
+
+**Trigger:** Claude Opus via Perplexity Computer substrate audit round 4 methodology-self-consistency verdict on framework methodology commitment M6: **INCONSISTENT**. Opus finding: framework practices "empirical remediation AFTER adverse audit" more reliably than "empirical validation BEFORE authoritative citation." All 3 audit rounds are evidence AGAINST M6 as previously stated, not for it. Round 1 fixed 3 CRITICAL citation fabrications AFTER publication (Perplexity found them). Round 3 fixed 5 CRITICAL statistical errors AFTER publication (Deep Think found them). The temporal ordering is inverted from M6's stated commitment.
+
+**Candidate discipline body (M6 REVISED):**
+"Authoritative citation requires (1) verified source access AND (2) passing empirical harness BEFORE publication. Post-audit remediation does NOT retroactively count as pre-validation. Post 0197 recursion count discipline applies to instances that satisfied validation BEFORE publication — remediated instances contribute to audit-methodology validation (Item 104), NOT to publication-methodology validation (M6/Post 0197)."
+
+**Rationale:** Prior M6 wording was self-serving because it did not distinguish temporal ordering (pre-publication validation vs post-audit remediation). Revised wording explicitly excludes post-audit remediation from recursion count contribution. This makes Post 0197 recursion count adjudication empirically load-bearing rather than narrative-preserving.
+
+**Empirical evidence:**
+- Round 1: 3/53 citation fabrications = 5.7% fabrication rate at pre-audit publication scope
+- Round 3: 5 CRITICAL statistical errors in framework's own instrumentation at pre-audit publication scope
+- Cumulative M6 practice: framework has NOT satisfied pre-publication validation across load-bearing hypotheses; discipline is post-hoc
+
+**Falsification thresholds pre-registered:**
+- If future publications satisfy revised M6 (pre-publication verified source + passing empirical harness), and audit rounds surface ZERO CRITICAL findings across n=3+ deployments → M6 canonical
+- If future publications fail revised M6 (post-audit remediation continues to be the operating pattern) → M6 discipline empirically retirable; alternative canonization needed
+- If revised M6 blocks operator publication velocity beyond acceptable threshold (operator-judgment scope) → REBOUND M6 to less-strict wording
+
+**Cross-references:**
+- Council #9 Item 105 (Round 1 citation fabrications trail)
+- Council #9 Item 108 (Round 3 statistical errors trail)
+- Post 0197 recursion count discipline (M6 canonical enforcement mechanism)
+- Opus round 4 verdict (empirical foundation for M6 revision)
+
+**Confidence calibration:** HIGH — Opus verdict is empirically documented; framework's actual M6 practice is directly observable across n=3 audit rounds; revised M6 wording is directly implementable.
+
+---
+
+### Item 112 — M10 substrate architectural extension candidacy (cultural bundle mediation of updatePairRelational)
+
+**Filed:** 2026-07-08 late evening (post Opus round 4 methodology self-consistency verdict on M10)
+
+**Trigger:** Opus verdict on M10 "Cultural bundle mediation of pair-relational dynamics per Marshall 2008 + Kito 2017 + Rothbaum 2002": **INCONSISTENT**. `updatePairRelational` at substrate scope + `evolvePairRelational` at composition scope both receive HEXACO + attachment but NO cultural bundle argument. Bundle is display/metadata only per `getBundleSnapshot`. Framework claim overstates implementation.
+
+Framework applied MINIMAL M10 fold at composition scope (round 4): `evolvePairRelational` now consumes bundle's `sentimentAsymmetryStrength` as magnitude modulator (0.9-1.1 range). Substrate `updatePairRelational` signature unchanged.
+
+**Candidate discipline body:**
+Extend `updatePairRelational` signature at `sim-ai/src/sim-ai/pairRelationalPlane.ts` to accept optional `culturalExpectations?: PairRelationalCulturalExpectations` parameter. Downstream fields to consume:
+- `communalOrientationBaseline` — modulates accommodation frequency baseline per Clark & Mills 1979 analog
+- `accommodationFrequencyBaseline` — cultural baseline for accommodationFrequency
+- `disclosureFrequencyNorm` — Marshall 2008 US M=4.2/week vs SK M=2.1/week culture-specific baseline
+- `sentimentAsymmetryStrength` — culture-conditional Fires G-K arc strength
+- `rciWeights.frequency/diversity/strength` — Kito 2017 cultural variance in RCI closeness
+- Situation-specific accommodation modifiers (marriageMarket, peerSolidarity, laborContext)
+- `secureAttachmentBehavioralExpression` — Rothbaum 2002 same-motivation-different-script
+
+**Rationale:** Framework's substrate `PairRelationalCulturalExpectations` interface (defined at `pairRelationalPlane.ts:389-429`) already provides the structured cultural mediation surface, but `updatePairRelational` does not consume it. This is a substrate-scope architectural gap, not composition-scope. Council #9 Item 112 candidacy fills the gap.
+
+**Empirical evidence:**
+- Bundle A, D, E ALL have `pairRelationalCulturalExpectations` populated per Stage 4 shipping (2026-07-08 morning per memory `project_week_plan_executed_end_to_end_single_session_2026-07-08.md`)
+- Round 4 composition-scope minimal fold consumes ONLY `sentimentAsymmetryStrength`; other 8+ fields remain unconsumed
+- H10 cross-plane concurrent integration test 4/4 PASS confirms bundle emission at cross-plane trace but does not verify bundle mediation of pair-relational updates
+
+**Falsification thresholds pre-registered:**
+- If substrate `updatePairRelational` extension proves architecturally invasive (breaks 100+ existing tests at sim-ai) → REBOUND to composition-scope-only mediation
+- If substrate extension produces measurable Δaccommodation / Δtrust / Δsentiment across bundle A vs D vs E at fixed HEXACO+attachment → M10 discipline CANONICAL
+- If extension does not produce measurable inter-bundle differences → M10 claim itself may be over-scoped; RETIRE M10
+
+**Cross-references:**
+- Council #9 Item 106 (HEXACO decorative at pair-relational scope) — Item 112 is complementary: 5/6 HEXACO decorative + M10 cultural mediation gap = broader pair-relational architectural review
+- `~/Projects/sim-ai/src/sim-ai/pairRelationalPlane.ts:262-295` (substrate location)
+- `~/Projects/Open Alley/src/components/sim-ai/islandStage345State.ts:evolvePairRelational` (composition location; minimal M10 fold applied Round 4)
+
+**Confidence calibration:** MEDIUM — Item 112 is architectural extension candidacy, not discipline canonization; requires operator ratification for scope (substrate signature extension is intrusive).
+
+---
+
+### Item 113 — Cross-substrate convergence discount methodology (n≤3 not n=4 per Opus)
+
+**Filed:** 2026-07-08 late evening
+
+**Trigger:** Opus verdict on cross-substrate convergence claim: **Item 110 n=4 convergence should be discounted to n≤3**. Deep Think + Deep Research are both Gemini-family substrates. Deep Research description explicitly says it corroborated Deep Think findings. Downstream findings that inherit upstream materials + prior flags (Deep Think confirming Perplexity's Hehman flag; Deep Research corroborating Deep Think) do NOT count as independent convergence.
+
+**Candidate discipline body:**
+Cross-substrate convergence signal counting must apply the following discount rules:
+1. **Substrate-family discount** — substrates from same LLM family (e.g., Deep Think + Deep Research both Gemini) count as at most 1 substrate for convergence-count purposes
+2. **Inheritance discount** — substrates that explicitly corroborate prior substrates' findings (as opposed to independently discovering) do NOT count as independent convergence
+3. **Materials-inheritance discount** — substrates that receive research materials produced from prior substrate findings inherit priors; convergence claim requires independent discovery from raw materials
+
+Applying discount to current audit round: (Perplexity + Grok + Deep Think + Deep Research) → discount Deep Think + Deep Research to n=1 (Gemini-family + Deep Research corroborated Deep Think) → convergence at n=3 (Perplexity + Grok + Gemini-family) not n=4.
+
+**Rationale:** Framework's Item 110 candidacy claimed HIGH confidence based on n=4 convergence. Opus verdict downgrades to n≤3. Item 113 canonizes the discount methodology so future audit rounds accurately count convergence signal.
+
+**Falsification thresholds pre-registered:**
+- If discount methodology produces convergence counts consistently lower than raw substrate counts across n=3+ audit rounds → discount methodology is empirically calibrated
+- If discount methodology produces IDENTICAL counts to raw substrate counts across n=3+ audit rounds → discount is inoperative; RETIRE
+- If discount methodology allows framework author to selectively discount inconvenient substrates while retaining favorable ones → RETIRE (self-serving-application anti-pattern)
+
+**Cross-references:**
+- Council #9 Item 110 (n=4 convergence claim being downgraded)
+- Council #9 Item 104 (audit-round-methodology-improvement discipline; Item 113 refines convergence-counting rule)
+- Rule 11 (multi-substrate research workflow) — Item 113 canonizes convergence discount methodology
+
+**Confidence calibration:** MEDIUM — discount rules are empirically motivated by Opus's specific finding but require operator ratification for framework-scope application.
+
+---
+
+### Item 114 — Disposition matrix non-foldable exclusions audit (Opus recommendation on core-architecture-protection anti-pattern)
+
+**Filed:** 2026-07-08 late evening
+
+**Trigger:** Opus meta-methodological finding on audit round self-consistency: framework's disposition matrix "violates its own anti-rationalization aim by pre-registering non-foldable exclusions that protect core architecture choices — HEXACO, cultural bundles, and separate planes — from direct withdrawal even if substrates converge against them." Concrete quote from disposition-matrix.md §§100-110: pre-registered exclusions include (1) findings that require re-deriving load-bearing framework decisions like HEXACO ratification, (2) findings that require abandoning Post 0197 discipline, (3) findings that require withdrawing cultural bundle content, (4) findings that require merging separate planes.
+
+**Opus interpretation:** "The audit can force remediation around the architecture, but it cannot easily falsify the architecture itself."
+
+**Candidate discipline body:**
+Disposition matrix non-foldable exclusions require empirical justification per exclusion. If a non-foldable exclusion cannot be empirically justified against convergent substrate audit findings, the exclusion is itself an anti-pattern (core-architecture-protection). Council #9 review should adjudicate each pre-registered exclusion:
+
+1. **Exclusion: findings requiring HEXACO ratification re-derivation** — Council #3 close ratified HEXACO. Item 114 review: does Round 2 + Round 3 empirical evidence (H15 5/6 dimensions decorative at pair-relational; H17 X 7.74% under LHS; substrate code shows only hexaco.A routes to accommodationFrequency) empirically challenge Council #3 canonization? If yes → exclusion is anti-pattern; re-open Council #3 candidacy.
+
+2. **Exclusion: findings requiring Post 0197 abandonment** — Post 0197 is framework methodology commitment recursively applied at n=7+ instances. Item 114 review: does Opus verdict on M6 (Post 0197 practice violates the discipline it claims to canonize) invalidate Post 0197 or refine it? If refined via Item 111 M6 revision → exclusion remains valid; if invalidated → RETIRE Post 0197 recursion counting.
+
+3. **Exclusion: findings requiring cultural bundle content withdrawal** — Bundle A/D/E are authored per peer-reviewed sources. Item 114 review: Marcus Reed Protocol has NOT been applied. Does deferral of Marcus Reed Protocol itself constitute an anti-pattern of preserving bundle content without full audit clearance? Council #9 review should adjudicate.
+
+4. **Exclusion: findings requiring plane merging** — Rule 24 ratified multi-plane modular architecture. Item 114 review: does Opus M10 verdict + Item 106 HEXACO-at-pair-relational verdict empirically challenge multi-plane modular? If interconnection is stronger than "modular" implies → refine Rule 24; if planes are architecturally separate but semantically coupled → M10 fold captures this.
+
+**Rationale:** Framework's disposition matrix pre-registered exclusions are LOAD-BEARING for audit round methodology. If they are self-serving (protect core architecture from falsification regardless of evidence), the entire substrate audit round methodology is compromised. Item 114 requires each exclusion be adjudicated at Council #9 empirically, not preserved by default.
+
+**Falsification thresholds pre-registered:**
+- If Council #9 adjudication concludes ≥2 of 4 exclusions are anti-pattern (self-serving) → disposition matrix requires overhaul; audit-round-methodology-improvement (Item 104) confidence downgrade from HIGH to MEDIUM
+- If Council #9 adjudication concludes 0-1 of 4 exclusions are anti-pattern → disposition matrix empirically calibrated
+- If Council #9 refuses to adjudicate (deferral pattern) → Item 114 itself surfaces meta-methodological anti-pattern (avoidance of self-scrutiny)
+
+**Cross-references:**
+- `~/Desktop/island-sim-ui-audit-2026-07-08/disposition-matrix.md` §§100-110 (non-foldable exclusions text)
+- Council #9 Item 104 (audit-round-methodology-improvement — Item 114 tests whether Item 104 methodology is self-consistent)
+- Opus round 4 verdict on substrate audit round self-consistency
+
+**Confidence calibration:** HIGH — Opus finding is directly documented; framework's disposition matrix exclusions text is byte-verifiable; adjudication requires Council #9 methodology deployment.
 
 ---
 
