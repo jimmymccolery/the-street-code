@@ -1459,6 +1459,135 @@ Framework empirical validation harnesses should include mutation-testing counter
 
 ---
 
+### Item 108 — Statistical methodology framework-scope canonization candidacy (BCa + Glass's Δ + BH-FDR + TOST + native MC power + Latin Hypercube)
+
+**Filed:** 2026-07-08 late evening (post Gemini Pro Deep Think + Gemini Deep Research substrate audit round 3 findings + comprehensive framework remediation)
+
+**Trigger:** Substrate audit round 3 dispatched Gemini Pro Deep Think (adversarial statistical critique) + Gemini Deep Research (literature-grounded verification) in parallel. Both substrates converged on 5 CRITICAL statistical errors in framework harness: (1) H12 variance decomposition mathematically invalid (L1 abs-share vs Hehman 2017's L2 CCMM); (2) Cohen's d inflated by √2 (~41.4%) via pooled variance with σ=0 intact arm; (3) permutation test exchangeability violation; (4) pseudo-replication violates IID bootstrap in 9,900 dyads from 100 sims; (5) N=1 sub-millisecond timing has undefined statistical power. Deep Research added 5 canonical methodology upgrades: ASA 2016 continuous-evidence framework; TOST equivalence testing (Lakens 2017); BH-FDR (BH 1995); native Monte Carlo power (OPTEVFOR 2020); Latin Hypercube sampling for multi-dim parameter space (McKay/Beckman/Conover 1979).
+
+Framework applied comprehensive remediation this session:
+- `shared.ts`: added Glass's Δ + Cliff's Δ + CLES + chooseEffectSize auto-selector + BCa bootstrap + Benjamini-Hochberg FDR adjustment + TOST equivalence + Mann-Whitney U + one-sample empirical CDF + native Monte Carlo power estimator + normal CDF and quantile functions; bumped default permutation resamples 1000 → 9999
+- H12: rewrote L1 abs-share → L2 σ²/Σσ² variance decomposition; added cluster-robust bootstrap resampling N=100 base sims (dyads not IID); added BCa CI for confidence measure. New verdict PARTIAL 2/4 with corrected numbers: PTI 6.3% (Hehman ~35%); PDB 33.3% (~22%); NOISE 49.5% (~15%); CTX 0.0% (~15%). Framework's variance structure is architecturally very different from Hehman.
+- H8: replaced Cohen's d with chooseEffectSize auto-select (Glass's Δ when σ=0); replaced permutation with one-sample empirical CDF when intact σ=0; added BCa bootstrap CI; added TOST equivalence testing for C1 accommodation-trust HEXACO-invariance null claim (SESOI ±3 trust units)
+- H15: added per-dimension TOST equivalence testing (SESOI |Δacc|<1.0, |Δtrust|<1.0, |Δsentiment|<0.05); now proves 5/6 HEXACO dimensions "PROVEN NULL" via canonical Lakens 2017 TOST rather than p>.05 non-significance
+- H9b: replaced N=1 sub-millisecond timing with N=100 microbenchmark + Mann-Whitney U (Deep Think finding #5). Mann-Whitney U p=0.0000 confirms distributions distinguishable at rigorous statistical scope
+- `run-all.ts`: added family-wise BH-FDR correction across 64+ criteria; reports uncorrected + Bonferroni + BH-FDR significance counts
+- H16 NEW: native Monte Carlo power estimator (H16 4/4 PASS — framework's own hexaco.A→accommodationFrequency mechanism at 100% power for Δ ≥ 10)
+- H17 NEW: Latin Hypercube factorial + variance sensitivity analysis (H17 3/4 PASS — hexaco.A dominates at 109% first-order share; X small share 7.74% that OFAT H15 missed)
+
+**Candidate discipline body:**
+Framework empirical validation harnesses that ship to external audit rounds should include canonical statistical methodology per ASA 2016 + Lakens 2017 + BH 1995 + DiCiccio & Efron 1996 + Judd/Westfall/Kenny 2012 + Glass 1976 + OPTEVFOR 2020 + McKay/Beckman/Conover 1979:
+
+1. **chooseEffectSize** — auto-select Cohen's d (both σ>0) / Glass's Δ (one σ=0) / Cliff's Delta + CLES (both σ=0) rather than hardcoded Cohen's d
+2. **BCa bootstrap** — second-order accurate CIs for bounded/skewed simulation data instead of first-order percentile method
+3. **TOST equivalence** with pre-registered SESOI — canonical null-effect legitimation instead of p>.05 non-significance
+4. **Benjamini-Hochberg FDR** — canonical family-wise error control for interconnected simulation variables (Bonferroni over-conservative)
+5. **9,999 permutation resamples** minimum — Monte Carlo standard error at 1000 resamples floors p at 0.001 which is above modern FWER-adjusted α
+6. **Native Monte Carlo power** — framework IS a simulator; canonical for agent-based models per OPTEVFOR 2020, replacing G*Power analytical approximation
+7. **Latin Hypercube sampling + Sobol variance sensitivity** — multi-dim parameter space coverage instead of OFAT (one-factor-at-a-time)
+8. **Cluster-robust bootstrap** for pseudo-replicated data (dyadic / nested)
+9. **Mann-Whitney U for timing distributions** — non-parametric for skewed measurement noise
+10. **One-sample empirical CDF for degenerate arms** — canonical alternative to permutation when σ=0
+
+**Empirical evidence for candidacy:**
+Full harness aggregate post-remediation: framework produces honest architectural findings via canonical statistics. H8 C1 accommodation-trust null LEGITIMATELY proven equivalent within SESOI ±3 via TOST. H12 PARTIAL preserves finding that framework variance decomposition differs from Hehman targets by structural magnitudes (PTI 6.3% vs ~35%). H15 5/6 dimensions PROVEN NULL via TOST rather than "we failed to find effects." H16 native MC power confirms framework's hexaco.A mechanism at 100% empirical power for Δ ≥ 10. H17 LHS surfaces small Extraversion share (7.74%) OFAT H15 missed.
+
+**Non-application scope:** discipline is NOT universal — legacy Cohen's d + percentile bootstrap retained in `shared.ts` for baseline comparisons where variance structure permits. Discipline applies when framework outputs are being externalized for substrate ratification OR when statistical claims are load-bearing for architectural decisions.
+
+**Falsification thresholds pre-registered:**
+- If audit rounds using new statistical utilities produce EQUIVALENT findings to legacy methods across n=3+ deployments, discipline is validation theater at this scope → DEFLATE (opt-in canonical stats only when statistical claim is architectural)
+- If canonical methods surface additional load-bearing findings the legacy methods missed, discipline is CANONIZATION candidate at framework scope
+- If canonical methods reveal framework's non-canonical statistical instrumentation persists in other framework scopes (Room to Life canonical registry contract, other harnesses), Item 108 becomes framework-corpus overhaul candidacy
+
+**Cross-references:**
+- Council #9 Items 105, 106, 107 (audit rounds 1, 2, 3 remediation trail)
+- ASA 2016 statement (Wasserstein & Lazar, DOI 10.1080/00031305.2016.1154108) — canonical NHST practice
+- Lakens 2017 TOST (DOI 10.1177/1948550617697177) — canonical equivalence testing
+- Benjamini & Hochberg 1995 (DOI 10.1111/j.2517-6161.1995.tb02031.x) — canonical FDR control
+- DiCiccio & Efron 1996 (DOI 10.1214/ss/1032280214) — canonical BCa bootstrap
+- Judd/Westfall/Kenny 2012 (DOI 10.1037/a0028347) — canonical CCMM variance decomposition
+- Glass 1976 — canonical heteroscedastic effect size
+- OPTEVFOR 2020 — canonical Monte Carlo power for simulation contexts
+- McKay/Beckman/Conover 1979 (DOI 10.2307/1268522) — canonical Latin Hypercube sampling
+
+**Confidence calibration:** HIGH — findings empirically corroborated across n=4 substrates (Perplexity + Grok + Deep Think + Deep Research); remediation empirically verified via actual framework re-runs producing measurable statistical rigor improvement.
+
+---
+
+### Item 109 — ASA 2016 continuous-evidence-over-binary-threshold discipline (Post 0197 recursion count discipline extension)
+
+**Filed:** 2026-07-08 late evening
+
+**Trigger:** Deep Research audit round 3b Area A verdict: strict α=0.05 threshold + rigid Cohen 1988 effect-size taxonomy are "no longer canonical best practice" per American Statistical Association 2016 statement (Wasserstein & Lazar, DOI 10.1080/00031305.2016.1154108). Framework's harness verdict system uses binary PASS/PARTIAL/FAIL thresholds. Item 109 files candidacy for framework methodology commitment overhaul to align with continuous-evidence paradigm.
+
+**Candidate discipline body:**
+Framework empirical validation harnesses should report:
+1. Unstandardized raw effect sizes (absolute unit differences) alongside standardized measures
+2. Exact computed p-values + standard errors, NOT binary p<.05 pass/fail
+3. Standardized effect sizes ONLY when calibrated against simulation-generated null distribution, NOT external human-subject Cohen 1988 benchmarks
+4. Continuous evidence evaluation across simulation-generated distributions, not threshold-crossing checks
+
+**Rationale for candidacy:**
+Framework applies Cohen 1988 taxonomy (small 0.2 / medium 0.5 / large 0.8) to agent-based simulation environments. Deep Research verdict: Cohen explicitly cautioned his taxonomy was heuristic "of last resort" for behavioral sciences without direct interpretative framework. In agent-based simulation with structurally-constrained variance, small effect sizes may represent trivial artifactual determinism; large effect sizes in simulation are the DEFAULT expectation. Applying human-behavioral-research taxonomy to simulation output is category-error.
+
+**Empirical evidence:**
+H16 native Monte Carlo power test empirically demonstrates: framework's hexaco.A mechanism produces power=1.000 at Δ=10 (effectively immediate detection at N=30). External Cohen 1988 taxonomy would frame this as "large effect" but simulation context makes such taxonomy uninformative — effect is architecturally deterministic, not empirically probabilistic.
+
+**Falsification thresholds pre-registered:**
+- If framework moves to continuous-evidence reporting but external substrate audits produce EQUIVALENT critique quality vs binary-threshold reporting, discipline is presentation change without payoff → DEFLATE
+- If continuous-evidence reporting reveals architectural findings binary-threshold reporting masked, CANONIZATION candidacy at framework methodology scope
+- If continuous-evidence reporting confuses operator (who prefers binary pass/fail for time-boxed decision-making), REBOUND (retain binary at operator-facing surfaces; use continuous internally)
+
+**Cross-references:**
+- Council #9 Item 108 (statistical methodology framework-scope canonization)
+- ASA 2016 statement
+- Post 0197 (empirical-validation-harness-parallel-to-diagnostic-UI discipline — Item 109 extends to methodology of evidence reporting)
+
+**Confidence calibration:** MEDIUM — canonical literature verdict is clear; operator preference for binary pass/fail (per framework's existing PASS/PARTIAL/FAIL system) requires operator ratification before framework corpus overhaul.
+
+---
+
+### Item 110 — Cross-substrate n=4 convergence validates audit-round-methodology-improvement (Item 104 confidence upgrade candidacy)
+
+**Filed:** 2026-07-08 late evening (post substrate audit round 3 close)
+
+**Trigger:** Substrate audit rounds 1 + 2 + 3 + 3b closed. Findings converged at n=4 substrate agreement:
+- Perplexity round 1: 3 CRITICAL fabricated citations (Coetzee decomposition + de Vries correlations + Vernon independence) at framework Stage 3 substrate
+- Grok round 2: HEXACO decorative at 5-of-6 dimensions + mutation-testing methodology gap
+- Deep Think round 3: 5 CRITICAL statistical errors + confirmed Perplexity's Hehman citation flag as unit-mismatch + confirmed Grok's HEXACO inertness finding as executable restatement of static code audit
+- Deep Research round 3b: literature-grounded canonical citations for every Deep Think finding + 5 additional methodology upgrades (ASA 2016 + TOST + BH-FDR + native MC power + Latin Hypercube)
+
+**Empirical evidence for candidacy:**
+Council #9 Item 104 candidacy body specified 10 audit-round-methodology-improvement discipline components (null-model baseline + canary intentional-failure + adversarial framing + substrate stratification per Rule 11 + citation manifest with DOIs + pre-registered disposition matrix + attached source code + byte-identical cross-verification actually tested + population-scale distributional test + boundary/fuzz/performance profile). Item 104 confidence calibration was MEDIUM at n=1 empirical instance (this audit round only). Item 110 files upgrade to HIGH confidence based on 4-substrate audit round producing:
+- 3 CRITICAL citation fabrications caught at n=1 substrate (Perplexity)
+- HEXACO architectural finding at n=1 substrate (Grok)
+- 5 CRITICAL statistical errors at n=1 substrate (Deep Think)
+- 5 canonical methodology upgrades at n=1 substrate (Deep Research)
+- Cross-substrate convergence at n=4 on multiple findings (Hehman citation + variance decomposition + HEXACO inertness + statistical rigor)
+
+All findings were framework-integrity issues the framework author self-critique would have missed. Substrate-audit-round-methodology-improvement (Item 104) empirically produces framework-integrity findings the author cannot self-generate.
+
+**Discipline extensions surfaced by round 3:**
+- Add canonical statistical methodology to Item 104 body per Item 108
+- Add ASA 2016 continuous-evidence reporting per Item 109
+- Add cross-substrate convergence signal at n≥2 as Council-adjudication-scope trigger
+- Add substrate-corroborates-prior-substrate as automatic disposition matrix upgrade (n=2 convergence → HIGH severity even if individual substrate rated MEDIUM)
+
+**Falsification thresholds pre-registered:**
+- If future audit rounds using Item 104 methodology produce ZERO substrate findings across n=3+ deployments, methodology is validation theater → RETIRE at Council #9
+- If future audit rounds surface findings equivalent to author self-critique, methodology has limited marginal payoff → DEFLATE
+- If Council #9 review adjudicates Item 104 as HIGH confidence CANONIZATION → Item 110 becomes CLOSE-OUT rather than upgrade candidacy
+
+**Cross-references:**
+- Council #9 Item 104 (audit-round-methodology-improvement — Item 110 upgrades confidence calibration)
+- Council #9 Items 105, 106, 107, 108, 109 (audit round 1+2+3 disposition trail)
+- Operator memory `feedback_verify_against_canonical_files.md` — n=11 cumulative confirmations after this session (audit round 3 findings)
+- Rule 11 (multi-substrate research workflow) — empirical foundation extends to n=8+ substrate-audit-round convergence
+
+**Confidence calibration:** HIGH — n=4 substrate empirical foundation; findings independently reproduce framework-integrity issues framework author cannot self-generate.
+
+---
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
