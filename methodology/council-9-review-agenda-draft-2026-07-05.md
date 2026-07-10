@@ -2813,6 +2813,18 @@ Framework preserves recursion count at n=7+ HELD status during Council review wi
 
 **Confidence calibration:** HIGH — direct generalization of empirically-validated A1 finding; operationally simple 4-question check; failure modes (blocked substantive tracks; prohibitive overhead) empirically testable at first enforcement.
 
+**AMENDMENT 2026-07-09 late (post-H27 close-out; first post-hoc empirical anchor):**
+
+Item 145 H27 execution (DEFINITIVE KILL of `capital_conversion` non-inertness at A1/A2 scope) provides the FIRST POST-HOC empirical anchor for Non-Inertness Gate discipline applied to an already-wired substrate mechanism (not a pilot-planning proposal). Framework methodology significance:
+
+- Pre-H27 Item 132 empirical foundation: 1 self-administered pilot planning application (A1 Cluster) + 3 substrate-proposed forward-applications per Fable 5 §3.2
+- Post-H27 Item 132 empirical foundation: 1 self-administered + 1 post-hoc on wired mechanism + 3 forward-applications
+- Post-hoc anchor demonstrates Non-Inertness Gate is not merely a authoring-time forward-check but ALSO a diagnostic that can be applied retroactively to wired mechanisms to surface architectural inertness. Framework should audit other wired emit categories (attractiveness_assessed, charisma_perceived, demand_withdraw_pattern, sentiment_override_asymmetric, habitus_disposition_drift, symbolic_capital_recomputed) using the same H27-pattern regression against interaction covariates before Stage 6/7 architectural work builds on them.
+
+**Council #9 review implication:** Item 132 candidacy strengthened by empirical anchor at retrospective-application scope; canonization threshold now includes forward-application AND retrospective-audit dimensions.
+
+Cross-reference: `~/Projects/the-street-code/methodology/h27-bourdieu-non-inertness-close-out-2026-07-09.md` §5.2.
+
 ---
 
 ### Item 133 — Stage 7 Sift Layer as Cluster A6 candidacy for post-A2 execution
@@ -2893,6 +2905,22 @@ Filed as Cluster A7 (post-Cluster-A2 + post-Cluster-A6 execution sequencing). Fu
 - Post 0199 (pair-relational plane; Stage 6 acts 11-14 are existing Post 0199 four-horsemen events emitted by selection mechanism)
 
 **Confidence calibration:** HIGH — Stage 6 architectural claims survive Rule 19 verification (7/7 citations); ephemeral-projection pattern has Post 0198 verified precedent; H6 cultural non-inertness gate directly addresses M10 failure mode empirically documented at A1; act taxonomy overlaps existing Post 0199 mechanics 4-of-16 (cheap integration).
+
+**AMENDMENT 2026-07-09 late (post-H27 close-out; `capital_conversion` dependency FLAGGED for pre-Council review):**
+
+Item 145 H27 EXECUTED at A1/A2 scope produced DEFINITIVE KILL verdict on `capital_conversion` channel non-inertness: emit count invariant across 3 Bourdieu interaction regimes × 5 seeds; Poisson GLM ΔAIC = −5241.618 (kill direction). Architecturally: `capital_conversion` has NO pathway for interaction to affect emit — it is co-location proxy, not interaction-mediated capital conversion in the Bourdieu sense.
+
+**Stage 6 Conversation Plane dependency implications:**
+- Any Stage 6 mechanic that treats `capital_conversion` events as an interaction-history-derived differentiator requires architectural mutation OR scope revision before Cluster A7 execution
+- If Stage 6 conversation-plane act-selection was to consume `capital_conversion` as a signal for register/dialect shift or symbolic-capital deployment, that consumer path is CURRENTLY INERT with respect to interaction history
+- Fable 5 Stage 6 §4 references habitus / capital / field vocabulary throughout the 16-act taxonomy — pre-Council review must trace which acts specifically depend on `capital_conversion` reading vs. which route through pair-relational plane surfaces (unaffected by H27 finding)
+
+**Council #9 review implication:** Item 134 candidacy body preserved verbatim per Rule 24 immutability, but pre-Council preparation MUST audit act-taxonomy dependencies on `capital_conversion` reading. Two candidate resolutions:
+
+1. **Architectural mutation** — extend substrate to route `capital_conversion` emit through pair-relational interaction history (would touch pairRelationalPlane.ts + capital-conversion emit function)
+2. **Scope revision** — drop `capital_conversion`-dependent acts from Stage 6 initial scope; retain pair-relational-plane-mediated acts only
+
+Cross-reference: `~/Projects/the-street-code/methodology/h27-bourdieu-non-inertness-close-out-2026-07-09.md` §5.1.
 
 ---
 
@@ -3309,6 +3337,24 @@ H27 is **immediately executable** at A1/A2 scope + doubles as Non-Inertness Gate
 
 **Confidence calibration:** HIGH on H27 (immediately executable + Non-Inertness Gate application + framework-internal empirical anchor); MEDIUM on H25 + H26 (Stage-6-dependent; pre-Stage-6 execution not feasible).
 
+**AMENDMENT 2026-07-09 late (post-H27 execution close-out):**
+
+H27 **EXECUTED 2026-07-09 late; DEFINITIVE KILL verdict.** Harness at `~/Projects/Open Alley/scripts/h27-bourdieu-non-inertness/` (5 files: `h27-harness.ts`, `run-h27.ts`, `poisson-regression.ts`, `poisson-regression.test.ts`, `output/h27-verdict-2026-07-09T23-06-25-972Z.json`). Framework methodology close-out preserved at `~/Projects/the-street-code/methodology/h27-bourdieu-non-inertness-close-out-2026-07-09.md` (135 lines, 8 sections, Section 6 UNVERIFIED disclosure applied).
+
+**Empirical result:**
+- `capital_conversion` emit count = 57 IDENTICAL across all 3 regimes × 5 seeds (silent_exposure / rich_positive / horseman_heavy). Zero variance.
+- Interaction covariates varied dramatically (sentiment −1.0 to +1.0; trust 0 to 99.9; totalPairEvents 0 to 144) yet response invariant.
+- Poisson GLM ΔAIC (baseline − interaction) = **−5241.618** (kill criterion was ΔAIC ≥ 10 for pass; actual is −5241 the WRONG direction).
+- Verdict label: `H27_INDETERMINATE_NO_VARIANCE` — interpreted as stronger M10-INERT finding than the variance-based test because zero variance means architecture has NO pathway for interaction to affect emit.
+
+**Ramifications:**
+- Item 132 (Non-Inertness Gate) receives first POST-HOC empirical anchor on already-wired mechanism — stronger calibration than self-administered planning applications (see Item 132 amendment)
+- Item 134 (Stage 6 Conversation Plane) `capital_conversion`-dependent claims FLAGGED for pre-Council review (see Item 134 amendment)
+- H25 + H26 remain Stage-6-DEPENDENT (require conversation-plane build in Cluster A7); not executable until Stage 6 substrate exists — architectural blocker, not scheduling gap
+- Council #9 review scope on Item 145 shifts from "will H27 pass?" to "does DEFINITIVE KILL of `capital_conversion` architectural pathway warrant substrate mutation before Cluster A7 begins, OR does it warrant dropping Bourdieu channel differentiation from Stage 6 scope entirely?"
+
+**Confidence calibration post-execution:** HIGH → EMPIRICAL (Item 145 has moved from candidacy-with-plan to candidacy-with-empirical-result at H27 sub-scope).
+
 ---
 
 ### Item 146 — Encounter-context-amplification + first-encounter approach-behavior differential (Stage 3.5 architectural extension candidacy)
@@ -3411,6 +3457,69 @@ At `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/fi
 **Architectural spec:** DEFERRED to post-Council-#9-ratification if item ratified. Preliminary at `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/firstEncounterApproachBias.ts` docstring block.
 
 **Recommendation:** RETAIN as candidacy at Council #9 review scope. Three-agent empirical foundation + framework methodology commitment M15 clarification value (prevents accidental double-counting of context modulation) + Layer 5 → Layer 6 coupling architectural completeness per Post 0146 canon + Empirically-defensible 5-signature distribution behavior differential + Interim RoomToLife diagnostic ship provides framework-methodology-discipline "signal the gap without pre-empting canonization" pattern instance make Item 146 a load-bearing framework methodology extension candidate.
+
+---
+
+### Item 147 — Close-contact impression revision event + memory-shelf second-photo architecture (Stage 3.6 sibling to Item 146)
+
+**Filed:** 2026-07-10 (post-Arch-1 ship arc; operator ratified Arch 2 "second photo when they actually meet" scope 2026-07-10; expected implementation ~4-5 hours; new event type is Council-scale amendment)
+
+**Trigger:** Arch 1 first-impression-memory shelf at RoomToLife (shipped 2026-07-09 late; thin-slice glimpse encoded on Chebyshev ≤ 3 mutual perception per Willis & Todorov 2006) leaves the shelf frozen at the thin-slice moment. Operator directive: when Sims subsequently walk onto the same cell in sim-time, encode a SECOND impression — a "close-contact revision" — as a sibling shelf entry, so the memory panel shows both photos side-by-side ("Day 3 thin-slice → Day 11 close-contact"). Empirical basis: Ambady-Rosenthal 1992 thin-slice encoding-mechanics-invariance (r=.39; stakes/context/exposure do not change mechanics of encoding) means the second impression uses the SAME `computeFirstImpression` compute but with additional close-contact sensory bandwidth per Willis-Todorov 2006 confidence-increase-without-accuracy finding + Nesse 2001/2005 Smoke Detector baseline stranger-wariness attenuation on safety evidence. New event `close_contact_impression_revision` fires once per dyad on sustained same-cell contact (≥ 30 ticks; matches substrate `observed_together` cadence at islandWorld.ts:2140). Sibling event architecture preserves both photos on the shelf via `parentTraceId` cross-reference; a shelf-diff UI renders the pair side-by-side.
+
+**Proposed candidacy body:**
+
+Substrate + companion-product changes required for full Arch 2 ship:
+
+1. **New event type** — `close_contact_impression_revision` added to `CrossPlaneEventType` union at `~/Projects/sim-ai/src/sim-ai/crossPlaneTraceAggregator.ts:29-41` (currently 12 event types; this makes 13). Emitter helper `emitCloseContactRevisionEvent(log, tick, perceiverBrainId, targetBrainId, initialSentiment, revisedSentiment, confidenceDelta)` follows Post 0190 O(1) ring-buffer discipline.
+
+2. **Optional `EncounterContext` extension** — `closeContact?: boolean` field at `attractivenessAssessment.ts:181-188` alongside existing socioeconomic flags. `computeFirstImpression` at `firstEncounter.ts:268-272` reads it in confidence clamp: `confidence + (context.closeContact ? 15 : 0)` per Willis-Todorov confidence-increase-without-accuracy. Optional additional 1.15x amplification of `targetSignalStrength` weight for close-contact per Ambady-Rosenthal sensory-bandwidth research.
+
+3. **Trigger discipline** — sustained same-cell contact via existing `pair.coLocatedTicks >= 30` (already tracked at `islandWorld.ts:221 + 2125-2126 + 2131 + 2137 + 2276`; matches `observed_together` fire cadence at 2140). Fire-once-per-dyad-per-lifetime via `closeContactFiredRef` in IslandSimulation.tsx paralleling `firstImpressionFiredRef`.
+
+4. **Memory-shelf schema extension** — extend `FirstImpressionMemoryPayload` at `roomtolife/src/app/(dev)/prototype/island-npc-test/_components/firstImpressionMemory.ts:43-61` with `variant: 'thin_slice' | 'close_contact_revision'` discriminant (default `thin_slice` for backward compat) + `parentTraceId?: string` + `deltaFromInitial?: { sentiment, confidence, trustworthiness }`. New encoder `encodeCloseContactRevisionMemory` mirroring `encodeFirstImpressionMemory` line 79-102; ID prefix `cc-` (vs `fi-`), salience 0.90 (vs 0.85; per Willis-Todorov extended-exposure confidence increase).
+
+5. **UI extension** — `FirstImpressionModal` at `IslandStage345Panels.tsx:323-343` gains optional `revisionResult?`, `revisionApproachBias?`, `revisionEncodedGameDay?` props. When present, wrap current content in 2-column grid with delta chips per channel. `NpcMemoryPanel.tsx:114-258` sort logic groups revisions adjacent to parents; "REVISED" chip when `variant === 'close_contact_revision'`; border-left accent in delta color. Review-modal path at `IslandSimulation.tsx:1383-1394` looks up sibling via `parentTraceId` and passes both to `FirstImpressionModal`.
+
+**Empirical harness scope (H1-H7 at `~/Projects/roomtolife/scripts/arch2-close-contact-empirical-harness/`):**
+
+- **H1 (trigger discipline):** close-contact fires at 30 co-located ticks, not 29 not 31, not twice
+- **H2 (Willis-Todorov 2006 confidence monotonic):** revision confidence > initial confidence in ≥ 95% of synthetic dyads
+- **H3 (Ambady-Rosenthal 1992 encoding-mechanics-invariance):** `deltaFromInitial.sentiment` distribution centered near zero with |Δ| < 0.20 in ≥ 80% of samples
+- **H4 (Nesse 2001/2005 Smoke Detector baseline attenuation):** for dyads whose initial sentiment < 0, Δ sentiment > 0 in ≥ 60% of cases
+- **H5 (determinism):** same seed + same dyad + same close-contact tick → byte-identical revision
+- **H6 (shelf integrity):** after fire, exactly 4 payloads in 2-Sim mode (2 thin-slice + 2 revision), each revision correctly cross-referencing parent
+- **H7 (approach-bias update coherence):** new approach-bias computed on revised sentiment falls in same 5-signature basin ≥ 70% of the time
+
+All 7 hypotheses runnable at RoomToLife-only scope; substrate `EncounterContext.closeContact` extension is OPTIONAL for the empirical harness (can compute via RoomToLife-scope wrapper matching Item 146 diagnostic-only pattern).
+
+**RoomToLife interim ship (matches Item 146 diagnostic-only pattern):**
+
+Arch 2 can ship RoomToLife-only WITHOUT substrate change — mirror Item 146 approach-bias posture. If substrate change deferred, RoomToLife emits event locally + encodes memory + renders UI; `decideNextAction` coupling remains substrate-scope territory. If Council #9 ratifies Item 147, substrate `EncounterContext.closeContact` + upstream `computeFirstImpression` confidence bump land at sim-ai origin + vendor-sync.
+
+**Prerequisites:**
+- Council #9 Item 147 ratification (this item) for full substrate integration
+- Arch 1 first-impression-memory shelf shipped at RoomToLife (MET — commits f9f5f2a + 26c6235 + 3201ca9 + 1ba2c44 + 6ba1fb9 + 06389ab + ddcfeab + 91180d5)
+- Willis & Todorov 2006 + Ambady & Rosenthal 1992 + Nesse 2001/2005 empirical anchors cited at Post 0198 (MET)
+- Item 146 does NOT need ratification first — Item 147 uses Arch 1's shipped diagnostic-only surface identically
+
+**Cross-references:**
+- Item 146 (parent — same encoder, Ambady-Rosenthal stakes-invariance framing carried through; Layer 5→Layer 6 coupling analogous)
+- Item 140 (event-scope canonical registry extension — Item 147's `close_contact_impression_revision` is exactly the kind of new event type Item 140 was filed to canonize; formal event-taxonomy amendment could bundle both)
+- Item 99 (Stage 3 architectural extension parent per Post 0198)
+- Item 102 (Stage 4 pair-relational plane — `pair.coLocatedTicks` field on which trigger discipline depends)
+- Substrate `~/Projects/sim-ai/src/sim-ai/firstEncounter.ts:156-296` (`computeFirstImpression` reused verbatim per Ambady-Rosenthal stakes-invariance-of-encoding)
+- Substrate `~/Projects/sim-ai/src/sim-ai/crossPlaneTraceAggregator.ts:29-41` (`CrossPlaneEventType` union extension surface)
+- Willis & Todorov 2006 psychological science 17(7):592-598 (thin-slice → extended confidence not accuracy)
+- Ambady & Rosenthal 1992 Psychological Bulletin 111(2):256-274 (r=.39 stakes-invariance-of-encoding)
+- Nesse 2001 Evolution and Human Behavior 22(2):107-127 (Smoke Detector Principle)
+
+**Confidence calibration:** HIGH — narrowly-scoped (1 event type + 1 optional context flag + memory-shelf schema variant); empirical anchors well-established at Post 0198 canonical; Arch 1's shipped pattern provides direct extension precedent; sustained-contact discipline reuses substrate's canonical `coLocatedTicks` cadence.
+
+**Post methodology capture:** DEFERRED to post-implementation ratification if ship succeeds at RoomToLife-diagnostic-only scope. Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline applied recursively.
+
+**Architectural spec:** Ship-first-methodology-follows posture matches Item 146. Preliminary implementation lands at `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/firstImpressionMemory.ts` + `IslandSimulation.tsx` + `IslandStage345Panels.tsx` + `NpcMemoryPanel.tsx` + `scripts/arch2-close-contact-empirical-harness/`.
+
+**Recommendation:** RATIFY at Council #9 review scope OR file as smaller mid-cycle canonization (Item 147 is architecturally smaller than Item 146; canonization decision is narrowly scoped to 1 event type + 1 optional context flag; could resolve without waiting for September window if operator wishes to file as Council #10 candidacy or mid-cycle mini-ratification per Council #8's operator-delegated CC ratification policy for narrow-scope additions).
 
 ---
 

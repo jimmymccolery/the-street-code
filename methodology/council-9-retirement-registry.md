@@ -141,6 +141,44 @@ Five-surface propagation clean; no Rule 20 Family A canonization-propagation gap
 
 ---
 
+### Item 142 — RETIRED 2026-07-09 late (parent Rule 24 retirement obsolescence)
+
+**Original candidacy:** Rule 24 mechanical-fix amendment (SEMANTIC vs MECHANICAL edit distinction under Rule 24 immutability discipline)
+
+**Filed:** 2026-07-09 late (Fable 5 adversarial audit §D.8 proposal + em-dash episode empirical anchor)
+
+**Empirical foundation for retirement:**
+- Parent Rule 24 retired per operator ratification 2026-07-09 late (see `~/Projects/master-setup/operational_discipline_rules.canonical.md` Rule 24 retirement notice + `~/Projects/the-street-code/methodology/rule-24-retirement-2026-07-09.md`)
+- Item 142 was an AMENDMENT to Rule 24; with parent rule retired, amendment becomes mechanically inapplicable — obsoleted by supersession per registry definition
+- Framework's future correction practice reverts to pragmatic-in-place-edit-with-commit-message-attribution (no SEMANTIC/MECHANICAL distinction discipline)
+
+**Retirement scope:**
+- Item 142 candidacy: FULLY RETIRED (not ratifiable)
+- Historical Item 142 body: PRESERVED in agenda file for retirement audit trail (line 3180+)
+- `verify-mechanical-fix.py` script: RETAINED as historical tooling but no longer discipline-binding
+- `compliance-repair-ledger.md`: RETAINED as historical record
+- H33 empirical test result (PASS at n=4): PRESERVED as evidence base but no longer load-bearing
+
+**Cross-references:**
+- Council #9 agenda body: `council-9-review-agenda-draft-2026-07-05.md` lines 3174-3208 (retirement notice preserved per historical audit discipline)
+- Parent rule retirement: `~/Projects/the-street-code/methodology/rule-24-retirement-2026-07-09.md`
+- Fable 5 adversarial audit source: `~/Projects/the-street-code/methodology/fable-5-adversarial-audit-2026-07-09.md` §D.8
+
+**Framework methodology significance:**
+- First empirical instance of AMENDMENT-to-retired-parent-rule cascade retirement
+- Validates split/retire/reduce mechanism handles parent-rule-obsolescence cleanly without requiring separate n≥3 substrate consensus at amendment scope (parent retirement satisfies substrate-consensus threshold; amendment inherits)
+- Documents that Rule 24 immutability discipline itself was retired via same mechanism it protected (self-referential but not paradoxical — the retirement notice is preserved-in-place per new-in-place-with-commit-attribution posture)
+
+**Sub-shape 22 canonization propagation observation:** Item 142 retirement propagated across:
+1. Council #9 agenda body (RETIRED status noted at line 3174; historical body preserved at 3180+)
+2. Parent rule retirement artifact (`rule-24-retirement-2026-07-09.md`)
+3. Rule 24 addendum artifacts (`rule-24-addendum-council-9-items-amendments-fable-audit-2026-07-09.md`)
+4. This registry entry
+
+Four-surface propagation clean; no Rule 20 Family A canonization-propagation gap observed for this cascade retirement.
+
+---
+
 ## Registry maintenance discipline
 
 **When to add entries:**
