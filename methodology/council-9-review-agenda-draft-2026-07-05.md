@@ -3311,6 +3311,109 @@ H27 is **immediately executable** at A1/A2 scope + doubles as Non-Inertness Gate
 
 ---
 
+### Item 146 — Encounter-context-amplification + first-encounter approach-behavior differential (Stage 3.5 architectural extension candidacy)
+
+**Filed:** 2026-07-09 late (post-Arch-1 first-impression-memory ship arc; operator inquiry about survival-context encounter feel)
+
+**Trigger:** Operator inquiry during Arch 1 ship arc — "two people stranded on an island seeing each other should feel different from two people meeting at a bowling alley; right now it feels like vacation acknowledgment." Three-agent research spawn (substrate + framework consultation + empirical grounding) surfaced a gap not documented in framework roadmap, polish_queue, or existing Council candidacy — the framework's cited Willis & Todorov 2006 + Hehman 2017 empirical anchors were carried into implementation without their full context-dependence findings; Ambady & Rosenthal 1992 stakes-invariance-of-encoding + stakes-modulation-of-behavior finding not distinguished; Ripley 2008 + Gonzales 2003 wilderness-psychology empirical distributions not reflected; Kelley-Thibaut low-CL_alt sustained-vs-initial-encounter distinction not made.
+
+**Substrate gap findings (per Agent 1 audit 2026-07-09 late):**
+
+- `EncounterContext` at `attractivenessAssessment.ts:181-188` carries 4 socioeconomic flags (`isMarriageMarketContext`, `isLaborContext`, `isPeerSolidarityContext`, `isRespectabilityContext`) + 3rd-party witness list; ZERO survival / stakes / isolation / shared-fate fields. Stranded island signals identically to bowling alley through the existing schema.
+- `contextModifier` inside `computeFirstImpression` is real and mechanical (~12% weight in the 5-component aggregate) but scoped to socioeconomic domain — nothing amplifies for survival stakes.
+- **Behavioral coupling from first-impression → action selection is ZERO.** `initialSentiment` is computed, `padActionBias.{approach,flee,confront,seekHelp}` are computed, neither is READ by anything in the island tick loop's `decideNextAction` at islandWorld.ts:2387+. Sims fall back to need-driven striving (hungry → forage) regardless of who they just met — this is the mechanical root of the "vacation acknowledgment" feel.
+- `padActionBias` (Layer 5 EFE decision-making bias per Post 0146) is DIAGNOSTIC-ONLY in the codebase; never queried by island action selection.
+- HEXACO trait infrastructure exists (`extraversionCompanionshipScale` at hexacoTraits.ts:87) but is NOT wired to first-encounter approach/avoidance decisions. Ashton & Lee 2007 PSPR — Extraversion = approach + Emotionality = withdrawal wiring absent.
+- Attachment style at attachmentStyle.ts modulates sentiment magnitude (line 44-46) + comfort thresholds (line 48-52) + desperation-override shifts (line 77-80), but NO first-encounter behavior differential (secure approach / anxious cling / avoidant distance / disorganized freeze per Main-Solomon 1986). Mikulincer-Shaver 2007 attachment-in-adulthood approach differential absent.
+- `detectHostileThreat` at islandWorld.ts:770-785 triggers ONLY on `otherCurrentAction === 'aggress_toward_sim'`. No inference-based "unknown stranger might be threat" recognition; Nesse 2001 Smoke Detector Principle default-wariness stance absent.
+- Kelley-Thibaut `comparisonLevelAlternatives` (CL_alt) infrastructure exists at pairRelationalPlane.ts:44-65 + update mechanism at 269-275, but is NEVER initialized based on encounter context. Stranded should mean CL_alt ≈ 0; substrate defaults to neutral 50 per PAIR_RELATIONAL_MIDPOINT regardless of context.
+
+**Framework state findings (per Agent 2 audit 2026-07-09 late):**
+
+- M4 (Stage 3 architectural extension 2026-07-08, Post 0198) "first impression MOMENT not STATE" is SILENT on context-dependence of encoding vs behavioral response. Ambady-Rosenthal 1992 meta finding that thin-slice encoding mechanics are stakes-invariant (r=.39 across clinical/social/deception-detection domains + lab-vs-naturalistic settings — context not significant moderator) was not carried through as a methodology clarification.
+- Post 0198 H1-H7 empirical harness (all 7 PASS) does not test situational-stakes amplification. H4 variance decomposition per Hehman 2017 JPSP bundles context with noise (~15% remainder); no per-context variance allocation.
+- Post 0146 Ten-Layer NPC Layer 5 (EFE decision-making) has no explicit first-encounter approach/avoid specification. Layer 5 → Layer 6 coupling for encounter-driven action selection is architecturally silent.
+- Post 0116 sentiment-override architecture (Hawkins-Carrere-Gottman 2002) operates POST first-encounter — silent on pre-encounter context amplification.
+- Cultural context bundles (context_bundle_a_v1, d_v1, e_v1) carry attractiveness-assessment weights + language regime + nearHorizonEvents references; ZERO stakes / isolation / shared-fate weight fields.
+- Kelley-Thibaut cited exclusively for Stage 4+ pair-relational plane (Phase 15-E bond-history reframing) per sim-ai framework-research-index — NOT for encounter amplification.
+- No polish_queue item, no TODO in substrate, no Council candidacy item explicitly addresses this gap. **Framework state: ABSENT with partial infrastructure — unrecognized as a gap** until this filing.
+
+**Empirical grounding findings (per Agent 3 audit 2026-07-09 late):**
+
+Empirical modal response to stranger encounter under survival stakes is NOT "insanely excited rush over" (Hollywood distortion). Documented pattern:
+- **Yokoi (Guam 1972, 28y):** expected to be killed on first contact — fear + panic, not joy
+- **Onoda (Lubang 1974, 29y):** fear + refused to surrender
+- **Callahan (Adrift, 76 days):** rescue by fishermen — calm on both sides, no euphoric rush
+- **Holocaust child-survivor reunion study (n=100):** not one described the experience as joyful — all fraught (mixed anger, mistrust, withdrawal, refusal to touch); even KNOWN-person reunions map poorly to "insanely excited"
+- **WTC evacuation (NIST study cited in Ripley):** survivors waited a mean ~6 minutes before descending stairs; walking not running
+- **Nesse Smoke Detector Principle 2001/2005:** default posture toward unfamiliar humans = wariness, updated toward warmth on safety evidence
+- **Ripley "social milling" phenomenon:** disaster survivors look toward each other to see what to do; observation-first, deliberation, delayed action
+
+Empirically-defensible distribution (per Agent 3 synthesis of Mikulincer-Shaver 2007 + Main-Solomon 1986 + Ashton-Lee 2007 + Nesse 2001 + Ripley 2008 + Ambady-Rosenthal 1992):
+
+| Behavior signature | Population share | Modal profile |
+|---|---|---|
+| Rapid excited approach | ~15-25% | High X + secure + low E |
+| Cautious observation → gradual approach | ~30-40% | Secure/anxious mixed |
+| Prolonged observation, delayed/absent approach, withdrawal | ~20-30% | Avoidant + high E |
+| Contradictory approach + freeze | ~10-15% | Disorganized attachment |
+| Normalcy-bias delayed recognition (disbelief-first) | ~5-10% | Normalcy-bias-dominant |
+
+Kelley-Thibaut low CL_alt partner-idealization effect (Rusbult investment-model empirical work): SUSTAINED maintenance over commitment, NOT initial-encounter spike. Applies AFTER safety confirmed, not at first sight.
+
+Ambady & Rosenthal 1992 meta finding decisive on encoding: thin-slice mechanics are STAKES-INVARIANT. Stakes modulate BEHAVIORAL RESPONSE (approach/avoid/freeze/observe), not encoding accuracy or magnitude.
+
+**Proposed architectural extension shape:**
+
+1. **`EncounterContext` extension** at `attractivenessAssessment.ts:181-188` — add optional fields:
+   - `stakesLevel?: 'low' | 'moderate' | 'high' | 'mutual_fate'`
+   - `sharedFateWeight?: number` (0-1)
+   - `outsideAlternativesQuality?: number` (0-100 — pre-sets Kelley-Thibaut CL_alt)
+   - `threatLikelihoodEstimate?: number` (0-100 — context prior for threat detection)
+
+2. **New function `computeFirstEncounterApproachBias`** at new module `sim-ai/src/sim-ai/firstEncounterApproachBias.ts` — reads HEXACO + attachment + initialSentiment + encounterContext; returns behavior-signature distribution + dominant signature + observation duration + wariness level. Deterministic (no RNG). Empirical grounding: Ashton-Lee 2007 (HEXACO trait wiring), Mikulincer-Shaver 2007 + Bartholomew-Horowitz 1991 + Main-Solomon 1986 (attachment classification), Nesse 2001 (baseline wariness), Ripley 2008 (stakes modulation coefficients).
+
+3. **Kelley-Thibaut CL_alt initialization from encounter context** at pair-relational plane creation. Currently defaults to neutral 50 per PAIR_RELATIONAL_MIDPOINT regardless of context — should read `context.outsideAlternativesQuality * (1 - context.sharedFateWeight * 0.8)`.
+
+4. **Non-hostile-threat detection function** analogous to `detectHostileThreat` at islandWorld.ts:770-785 but inference-based rather than action-based. Reads other-Sim HEXACO + current-action + inferred approach-bias.
+
+5. **Wire approach-bias into `decideNextAction`** at islandWorld.ts:2387+ (Layer 5 EFE decision-making → Layer 6 pair-relational coupling per Post 0146). Currently pro-social actions (`stay_near_friend + comfort + share_food`) are gated at decideNextAction with the code comment "Phase 2.10: ONLY added via specific kindness/companionship synthesis" — extend synthesis to include approach/observe/hide/wait_and_watch when first-encounter fires.
+
+6. **New action types** in `islandActions.ts` — currently the only social/threat actions are `aggress_toward_sim` + `flee_from_threat`. Add: `observe_from_distance`, `approach_cautiously`, `hide_and_watch`, `signal_hail` per Ashton-Lee 2007 + Mikulincer-Shaver 2007 behavioral repertoire.
+
+7. **New empirical hypothesis harness H8-H12** validating trait × stakes × attachment interaction against Ashton-Lee + Mikulincer-Shaver + Ambady-Rosenthal + Ripley documented empirical distributions. Suggested targets:
+   - H8: Rapid-approach signature dominance in high-X + secure + low-E synthetic population subset ≥ 60% (per Ashton-Lee)
+   - H9: Prolonged-withdrawal signature dominance in avoidant + high-E subset ≥ 55% (per Mikulincer-Shaver)
+   - H10: Disorganized-freeze signature dominance in disorganized attachment subset ≥ 50% (per Main-Solomon)
+   - H11: Stakes-modulation dampening of rapid-approach under `mutual_fate` ≥ 30% relative to `low` stakes (per Nesse smoke detector + Ripley milling)
+   - H12: Kelley-Thibaut low-CL_alt partner-idealization observable at sustained (not initial) tick scope; DOES NOT bias initial impression (per Ambady-Rosenthal stakes-invariance-of-encoding)
+
+**Framework methodology commitments the extension would make (M15 or M16 candidate):**
+
+- **M15 (candidate): Stakes modulate behavioral response, not encoding.** Per Ambady & Rosenthal 1992 meta (r=.39 stakes-invariance). This is a CLARIFICATION of M4 ("first impression MOMENT not STATE") — the encoding moment is stakes-invariant per empirical anchor; the *behavioral response derived from the encoding* is where situational context enters. Prevents accidental double-counting of context modulation at both encoding + behavior layers.
+- **M16 (candidate): Approach-behavior distribution matches Ashton-Lee 2007 + Mikulincer-Shaver 2007 empirical anchors.** ~15-25% rapid, ~30-40% cautious, ~20-30% withdrawal, ~10-15% disorganized, ~5-10% normalcy-bias. WEIRD-defaults avoided; cultural-bundle-specific tuning permitted (some cultures have different Nesse smoke detector baseline calibration — Fessler et al. error-management empirical variance).
+
+**Council #9 review-scope question:** Should Stage 3.5 encounter-context-amplification + approach-behavior-differential architectural extension be canonized as framework methodology commitment given (a) three-agent empirical foundation richness (Yokoi-Onoda-Callahan + Holocaust reunion + Ripley WTC + Nesse smoke detector + Ashton-Lee + Mikulincer-Shaver + Main-Solomon + Ambady-Rosenthal + Kelley-Thibaut CL_alt); (b) preservation of M4 first-impression-MOMENT via M15 stakes-invariance-of-encoding clarification; (c) 5-signature behavior distribution empirically anchored; (d) provision for Layer 5 → Layer 6 coupling per Post 0146 canon?
+
+**Adjacent items strengthened / conflicted:**
+
+- Item 99 (Stage 3 architectural extension physical + attractive + first-impression + charisma + humor + 7-hypothesis harness) — Item 146 EXTENDS the first-encounter architecture with behavioral-response differential per Ambady-Rosenthal stakes-invariance-of-encoding; does not conflict.
+- Item 102 (Phase 15 Stage 4 pair-relational plane) — Item 146 initializes Kelley-Thibaut CL_alt at encounter time (currently defaulted to 50); may interact with Stage 4 pair-relational tick-loop mediation.
+- Item 145 (Bourdieu channel non-inertness H25-H27) — Item 146's H8-H12 harness follows same Non-Inertness Gate discipline (empirical test before shipping downstream mechanics that depend on the new channels).
+- Item 140 (event-scope canonical registry extension Phase 8.x post-V1) — Item 146 needs new action types (`observe_from_distance` + `approach_cautiously` + `hide_and_watch` + `signal_hail`) which fall under Item 140 canonization.
+
+**RoomToLife interim implementation shipped 2026-07-09 late (diagnostic-only, no substrate change):**
+
+At `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/firstEncounterApproachBias.ts` — the `computeFirstEncounterApproachBias` function is implemented at RoomToLife scope with `stakesLevel` derived heuristically from `EncounterContext.location === 'island' → 'mutual_fate'`. UI display in `FirstImpressionModal` + `NpcMemoryPanel` shows the diagnostic behavior-signature distribution + dominant + wariness + narrative. NOT wired into `decideNextAction` — signal only. Signals the framework "knows" this is a survival encounter without pre-empting substrate canonization.
+
+**Post methodology capture:** DEFERRED to post-Council-#9-ratification if item ratified.
+
+**Architectural spec:** DEFERRED to post-Council-#9-ratification if item ratified. Preliminary at `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/firstEncounterApproachBias.ts` docstring block.
+
+**Recommendation:** RETAIN as candidacy at Council #9 review scope. Three-agent empirical foundation + framework methodology commitment M15 clarification value (prevents accidental double-counting of context modulation) + Layer 5 → Layer 6 coupling architectural completeness per Post 0146 canon + Empirically-defensible 5-signature distribution behavior differential + Interim RoomToLife diagnostic ship provides framework-methodology-discipline "signal the gap without pre-empting canonization" pattern instance make Item 146 a load-bearing framework methodology extension candidate.
+
+---
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
