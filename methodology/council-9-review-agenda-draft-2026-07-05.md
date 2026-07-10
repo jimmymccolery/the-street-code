@@ -3137,6 +3137,16 @@ Framework should adjudicate at Phase 8.x post-V1 whether the 6 newly-wired event
 
 **Confidence calibration:** LOW at V1 (Non-Inertness Gate FAILED); MEDIUM at Phase 8.x post-V1 (empirical foundation available; cross-product migration scope emergence would open review window).
 
+**AMENDMENT 2026-07-10 (post-Item-147 filing):**
+
+Item 147 (2026-07-10) proposes a NEW event type not in the 6 categories above: `close_contact_impression_revision` (sustained same-cell contact revision to initial thin-slice impression per Willis-Todorov 2006). Category taxonomy update:
+
+- **LOW cross-product candidacy (extended):** first_encounter, attractiveness_assessed, charisma_perceived, **close_contact_impression_revision** (all Scene-local perception snapshots including the temporal-revision variant)
+
+Item 140 review scope amended to include the close-contact revision event type. Same LOW cross-product candidacy verdict at V1 posture — Scene-local perception revisions unlikely to warrant cross-product registry unless memory-shelf state migrates across products via `MemoryTrace` schema extension. Council #9 review adjudicates whether the new event type should be canonical-registered alongside its 3 Scene-local perception siblings.
+
+Cross-reference: Council #9 Item 147 filing (line 3467+).
+
 ---
 
 ### Item 141 — K-of-N cross-substrate quorum rule for citation verification
@@ -3458,6 +3468,14 @@ At `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/fi
 
 **Recommendation:** RETAIN as candidacy at Council #9 review scope. Three-agent empirical foundation + framework methodology commitment M15 clarification value (prevents accidental double-counting of context modulation) + Layer 5 → Layer 6 coupling architectural completeness per Post 0146 canon + Empirically-defensible 5-signature distribution behavior differential + Interim RoomToLife diagnostic ship provides framework-methodology-discipline "signal the gap without pre-empting canonization" pattern instance make Item 146 a load-bearing framework methodology extension candidate.
 
+**AMENDMENT 2026-07-10 (post-Arch-2 ship + Item 147 filing):**
+
+Item 147 (Stage 3.6) filed as sibling to Item 146 covering the close-contact impression revision — the "second photo when the Sims actually meet" architecture per operator-ratified Arch 1 → Arch 2 → Arch 3 sequencing. Item 147 uses the same Arch 1 diagnostic-only ship posture at RoomToLife scope; substrate coupling deferred to same Council #9 window.
+
+**Council #9 review implication:** Items 146 + 147 could be reviewed as a coupled pair — same substrate change surface family (EncounterContext extensions + `computeFirstEncounterApproachBias` action-selection wiring + new event types via Item 140 canonization). If Item 146 ratifies with substrate `stakesLevel` / `sharedFateWeight` / `outsideAlternativesQuality` / `threatLikelihoodEstimate` fields, Item 147's optional `closeContact` field is a natural sibling addition. If Item 146 REBOUNDs to advisory scope, Item 147 can proceed independently as narrowly-scoped event-type + memory-shelf-variant canonization.
+
+Cross-reference: `~/Projects/the-street-code/methodology/council-9-review-agenda-draft-2026-07-05.md` Item 147 filing (line 3467+).
+
 ---
 
 ### Item 147 — Close-contact impression revision event + memory-shelf second-photo architecture (Stage 3.6 sibling to Item 146)
@@ -3511,7 +3529,7 @@ Arch 2 can ship RoomToLife-only WITHOUT substrate change — mirror Item 146 app
 - Substrate `~/Projects/sim-ai/src/sim-ai/crossPlaneTraceAggregator.ts:29-41` (`CrossPlaneEventType` union extension surface)
 - Willis & Todorov 2006 psychological science 17(7):592-598 (thin-slice → extended confidence not accuracy)
 - Ambady & Rosenthal 1992 Psychological Bulletin 111(2):256-274 (r=.39 stakes-invariance-of-encoding)
-- Nesse 2001 Evolution and Human Behavior 22(2):107-127 (Smoke Detector Principle)
+- Nesse 2001 Annals of the New York Academy of Sciences 935:75-85 (Smoke Detector Principle; corrected 2026-07-10 per Rule 19 primary-source verification via Wiley Online Library — earlier draft cited Evolution and Human Behavior 22:107-127 in error)
 
 **Confidence calibration:** HIGH — narrowly-scoped (1 event type + 1 optional context flag + memory-shelf schema variant); empirical anchors well-established at Post 0198 canonical; Arch 1's shipped pattern provides direct extension precedent; sustained-contact discipline reuses substrate's canonical `coLocatedTicks` cadence.
 
