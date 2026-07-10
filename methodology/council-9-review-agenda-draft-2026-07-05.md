@@ -150,7 +150,9 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 
 **Phase 11 empirical resolution addendum (2026-07-06 Monday morning; Post 0177):** Item 1 of Phase 11 nine-item arc added action-frequency-histogram observation surface to sofroniewAuditRuntime.ts via `computeActionDistributionDivergence` using Jensen-Shannon divergence between per-character action histograms. Empirical result at seed=42 Sam+Frank dyad: JS divergence 0.0381 (Phase 10 baseline) to 0.0890 after Phase 11 mechanism-density additions (+134% between-character differentiation). Layer 3 observation surface remains within-heavy (0.897 vs 0.103) confirming H2 survival-mechanic-dominance CONFIRMED at affect channel. Action-frequency observation surface now shows detectable differentiation confirming H3 wrong-observation-surface CONFIRMED at action-selection channel. **RESOLUTION:** Both H2 and H3 in play simultaneously at DISTINCT observation channels; Council #9 substrate research should treat future Sofroniew audit runtime as REQUIRING BOTH Layer 3 and action-frequency channels as complementary observation surfaces (not competing). H1 aspirational declaration remains supported as claim about original declaration composition process. Reduction-move recommendation: SPLIT the sub-shape into two per-observation-channel manifestations, or ABSORB the reformulated sub-shape into Rule 21 as anchor-authoring-live-Sofroniew-audit-pre-lock sub-clause with complementary-surface requirement.
 
-### Item 12 — Candidate methodology observation: cross-consumer-typecheck-as-latent-bug-detection-surface (Post 0178)
+### Item 12 — Candidate methodology observation: cross-consumer-typecheck-as-latent-bug-detection-surface (Post 0178) — **DEFLATED 2026-07-10 late (Phase A pre-Council reduction sweep; prevention-action-shipped)**
+
+**⚠️ DEFLATED 2026-07-10 late per operator ratification of Phase A** — prevention action shipped (Post 0178 pre-commit hook install at sim-ai); empirical validity dropped to observation-only pending strengthening. Item deflated from active-canonization-candidate scope to observation-preservation scope. See **Item 149 (PREVENTED as 6th canonized reduction move candidacy)** for framework methodology extension proposal treating prevention-action-shipped as canonical reduction move class analogous to DEFLATE/SPLIT/RETIRE/REBOUND/ABSORB per Council #8 canonization.
 
 **Filed n=1 at Post 0178 2026-07-06 Monday afternoon.** Sim-ai LandmarkEvent field-name mismatch shipped at Phase 3.2-D H-NEW-2 Q56 a7Memory tick loop integration (2026-07-05 evening commit 05b843b) silently degraded landmark memory encoding to `baseValenceImpact = 0` for 27 days. Discovery pathway: unrelated post-Phase-11 loose-end sweep polish_queue Item 353 commit at Open Alley whose pre-commit hook runs `npm run typecheck` against aliased sim-ai code surfaced 8 typecheck errors including the 3 landmark field-name references. Sim-ai had NO pre-commit hook; Open Alley DID. Asymmetric bug-detection surface via cross-consumer typecheck strictness delta. Council #9 review questions:
 
@@ -268,7 +270,13 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Is the pattern coupled with Item 17 single-seed-empirical-claim-anti-pattern canonization (harness enables discipline; discipline defines harness usage triggers)?
 - What is the scope discipline boundary (all Sim AI code changes vs only anchor/Scene mechanic changes vs framework-methodology-scope changes only)?
 
-### Item 20 — Candidate methodology observation retired-workflow-recurrence-anti-pattern (Post 0183 n=1 fire; RETROACTIVE FILING per Post 0185 audit remediation 2026-07-06 Tuesday afternoon)
+### Item 20 — SUBSUMED into Item 100 per Phase A pre-Council reduction sweep 2026-07-10 late (Rule 26 candidacy explicitly consolidates 20+33+66)
+
+**⚠️ SUBSUMED into Item 100 per operator ratification 2026-07-10 late** — Item 100 (Rule 26 candidacy) explicitly proposes consolidation of Items 20+33+66 as "retired-workflow-recurrence discipline" (line 1180 filing). Historical Item 20 body preserved for absorption audit trail; empirical fires (Post 0183 + retroactive filing per Post 0185) fold into Item 100's consolidation body.
+
+**Historical Item 20 body preserved for absorption audit trail:**
+
+**Original candidacy:** retired-workflow-recurrence-anti-pattern (Post 0183 n=1 fire; RETROACTIVE FILING per Post 0185 audit remediation 2026-07-06 Tuesday afternoon)
 
 **Filed n=1 at Post 0183 2026-07-06 Tuesday afternoon (retroactive addition to agenda 2026-07-06 Tuesday late afternoon per Post 0185 audit; original Post 0183 shipment claimed Item 20 filing but did not actually update this agenda file — Rule 19 anti-fabrication defect surfaced at Post 0185 audit).** Post 0183 comprehensive Item 0334 clean-up documented 5-fire within-Phase-3 recurrence of retired Item 0334 external civil-rights consultant workflow across Posts 0177 + 0179 + 0180 + 0182 + polish_queue Items 353-355 + Council #9 agenda Item 11 + sim-ai framework-research-index + verbal operator-facing recurrence. Candidate discipline: "Any workflow that has been RETIRED via canonical registry citation must not appear as active recommendation in subsequent CC-authored content across ANY framework surface (code + posts + memory + polish_queue + indexes + agendas + metadata fields + operator-facing conversation)." Council #9 review questions:
 
@@ -362,7 +370,13 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the pre-anchor-content-lock verification gate require cross-entity anchor-registry-consistency check?
 - Related to Item 23 provenance-centralization-anti-drift + Item 20 retired-workflow-recurrence-anti-pattern: template-drift + retired-workflow + anchor-drift form a canonization-propagation-gap family at cross-entity scope
 
-### Item 33 — Candidate methodology observation retired-workflow-recurrence-at-sibling-items (Post 0186 Cesar arc n=1 fire; strengthens Item 20)
+### Item 33 — SUBSUMED into Item 100 per Phase A pre-Council reduction sweep 2026-07-10 late (Rule 26 candidacy explicitly consolidates 20+33+66)
+
+**⚠️ SUBSUMED into Item 100 per operator ratification 2026-07-10 late** — Item 100 (Rule 26 candidacy) explicitly proposes consolidation of Items 20+33+66. Historical Item 33 body preserved for absorption audit trail; empirical fire (Post 0186 Cesar arc) folds into Item 100's consolidation body.
+
+**Historical Item 33 body preserved for absorption audit trail:**
+
+**Original candidacy:** retired-workflow-recurrence-at-sibling-items (Post 0186 Cesar arc n=1 fire; strengthens Item 20)
 
 **Filed n=1 at Post 0186 Cesar arc extension 2026-07-06 evening.** Item 1137 Anti-stereotype check body carries retired Item 0334 consultant review workflow reference ("Per civil-rights framework applicability TRUE flag: Tejano child labor + Mexican-American veteran father + nun-slap-for-Spanish + American GI Forum context all route through Item 0334 consultant review."). This is the **5th within-Phase-3 recurrence** of retired-workflow-recurrence-anti-pattern (Item 20 candidacy at Post 0183 + Post 0186 Marvin) at Item 113x sibling files. Sibling personality files (Item 1136 Stas + Item 1138 Walt + Item 1139 Yuki + Item 1140 Rose + Item 1141 Bessie + Item 1143 Margie) may carry the same reference — CC-side sweep pending. Yuki Item 1139 confirmed at CC sweep 2026-07-06 evening carries "Item 0334 consultant review" reference. Candidate discipline extends Item 20 canonization scope from within-post recurrence to cross-entity-file recurrence: "Any workflow retirement must trigger cross-entity-file sweep at time of retirement to catch propagated references at sibling entity files." Council #9 review questions:
 - Does the pattern strengthen Item 20 to Rule 26 promotion tier candidacy AT this arc (n=5+ within-Phase-3)?
@@ -542,7 +556,13 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 
 **Filed n=1 at 2026-07-07 late afternoon.** ACES (Adverse Childhood Experiences per Felitti 1998 CDC-Kaiser + Anda 2006 + Merrick 2019 + Briggs 2021 interactions) = well-established public health tool. Score ≥4 predicts 2-4× higher aggression perpetration. NOT implemented in current framework. Vault Phase 1 proposes `acesScore: 0-10` biographical field modulating aggression thresholds + de-escalation + emotional regulation.
 
-### Item 54 — Candidate methodology observation product-manifold-with-typed-sub-projections-unifies-existing-scalar-representations (Phases 15-18 vault 2026-07-07 late afternoon n=1 fire; NOVEL contribution per Round 6)
+### Item 54 — Candidate methodology observation **Multi-plane-modular-coordinate-architecture-per-BEN-precedent** (Phases 15-18 vault 2026-07-07 late afternoon n=1 fire; REBOUNDED 2026-07-10 late from original "product-manifold-with-typed-sub-projections" framing)
+
+**⚠️ REBOUNDED 2026-07-10 late per operator ratification of Phase A** — original "product-manifold-with-typed-sub-projections" framing refuted by Item 67 (line 723 explicitly states "Vault Item 54 REFRAMED as 'Multi-plane-modular-coordinate-architecture per BEN precedent'"). Rebound was already applied at vault-artifact scope (Item 67 fold + Phase 15 v3 canonization + Cross-Substrate Round 6 correction chain) but Council #9 candidacy filing at Item 54 retained original framing until Phase A pre-Council reduction sweep formal REBOUND ratification. Historical original framing preserved for audit trail; forward references + Council #9 review adjudication use canonical rebounded framing.
+
+**Historical original framing preserved for REBOUND audit trail:**
+
+**Original candidacy:** product-manifold-with-typed-sub-projections-unifies-existing-scalar-representations (Phases 15-18 vault 2026-07-07 late afternoon n=1 fire; NOVEL contribution per Round 6)
 
 **Filed n=1 at 2026-07-07 late afternoon.** Framework is ~70% coordinate-native declared (HEXACO 6D + Attachment 2D + Layer 3 valence×arousal = Russell Circumplex + physical position 2D Chebyshev) but operated as INDEPENDENT SCALARS not vector operations. Proposed unification per eBICA (Samsonovich 2013) + ALMA (Gebhard 2005) + FAtiMA-Modular + Kelley-Thibaut Atlas + Bourdieu-MCA + Helbing-Molnár SFM + smart-object affordance + UMAP. Round 6 substrate research + n=3 substrate triangulation (Grok + Perplexity + Opus) CONFIRMS no production precedent for unified physical+affective+social+moral coordinate manifold at 1000+ agent scale — **GENUINELY NOVEL ARCHITECTURAL CONTRIBUTION with no precedent**.
 
@@ -648,7 +668,13 @@ First pre-Council RETIRE compliance instance for the split/retire/reduce mechani
 
 **Item 47 (gate-reference-inherited-across-close-artifacts-without-pivot-cascade-update):** ADJACENT strengthening via cross-substrate discipline validates inherited-without-cross-check propagates silent risk. Vault Item 55 was inherited from single-substrate anchor (Grok Round 1) without cross-substrate verification; falsified at n=3 substrate consensus. Confirms Rule 20 Family A canonization-propagation gap discipline empirically validates at architectural-claim scope.
 
-### Item 66 — Candidate methodology observation gap-claim-propagates-across-meta-analysis-cascade-without-content-kb-cross-check pattern (2026-07-07 late afternoon n=5+ propagations within-arc fire; Rule 20 Family A read-side sub-shape n=34 candidate)
+### Item 66 — SUBSUMED into Item 100 per Phase A pre-Council reduction sweep 2026-07-10 late (Rule 26 candidacy explicitly consolidates 20+33+66)
+
+**⚠️ SUBSUMED into Item 100 per operator ratification 2026-07-10 late** — Item 100 (Rule 26 candidacy) explicitly names Item 66 in its consolidation content (line 1189). Historical Item 66 body preserved for absorption audit trail; empirical fire (n=5+ propagations within-arc) strengthens Item 100's Rule 26 canonization foundation.
+
+**Historical Item 66 body preserved for absorption audit trail:**
+
+**Original candidacy:** gap-claim-propagates-across-meta-analysis-cascade-without-content-kb-cross-check pattern (2026-07-07 late afternoon n=5+ propagations within-arc fire; Rule 20 Family A read-side sub-shape n=34 candidate)
 
 **Filed n=5+ propagations within-arc at 2026-07-07 late afternoon per operator critical inquiry.** Morning comprehensive meta-analysis (`~/Projects/Open Alley/architecture/comprehensive-meta-analysis-2026-07-07-post-q65-retirement.md`) claimed "Marvin + Cesar have NO grounding Items (need BSCP + Great Migration + Bracero + LULAC + Double V + 1943 Detroit)" and "H-NEW-1 1972 Midwest Catholic union man = highest-ROI demographic gap-fill" and "3 anchors shipped Marvin+Cesar+Yuki; 9-27 remaining" + "1950s V1-baseline era ZERO coverage" + "Indigenous + Puerto Rican + Middle Eastern + South Asian + Central American + Korean + Chinese-American pre-1970 ZERO coverage." **ALL STALE per content-kb verification** at 2026-07-07 late afternoon:
 
@@ -1087,6 +1113,25 @@ Framing B (context-sensitive stratification): Application-arc posts SUBSTANTIVEL
 
 **Recommendation:** Retain as candidacy at Council #9 review scope; empirical foundation n=1 warrants tracking. Post 0136 empirical-BUILD-mode-as-hypothesis discipline provides precedent framework at architecture scope; Item 95 extends to UI-claim scope. Consider promotion to discipline-extension status if n=2+ recurrence sites observed at subsequent UI-shipment arcs.
 
+**AMENDMENT 2026-07-10 late (Phase A pre-Council reduction sweep — Item 98 ABSORB + recursion count strengthening):**
+
+Per operator ratification of Path A, Item 98 formally SUBSUMED into Item 95. Item 98's n=3 recursive discipline application at Path 3 scope folds into Item 95's empirical foundation, strengthening from n=1 tracking to n=3+ recurrence.
+
+**Post-Council-#8 empirical foundation growth beyond n=3 (Item 98):**
+- n=1 Post 0197 canonization (2026-07-08)
+- n=2 Path 3 harness recursion (2026-07-08)
+- n=3 Stage 3 architectural extension harness (2026-07-08 late; Item 99)
+- n=4 Stage 4 pair-relational harness (2026-07-08 late; Item 102)
+- n=5 Stage 5 Bourdieu habitus harness (2026-07-08 late; Item 103)
+- n=6 Arch 1 First Impression memory + Approach Bias v3 harness (2026-07-10)
+- n=7 Arch 2 close-contact revision harness (2026-07-10)
+- n=8 Integration audit harness Post 0197 discipline extension unit→integration scope (2026-07-10)
+- n=9 Arch 3 memory album harness (2026-07-10)
+
+**Recursion count HELD at n=7+ per Round 5 Opus adjudication** — actual recurrence sites now n=9 through Arch 3 ship but formal count HELD pending Council #9 adjudication among 4 options (HELD / clarify / RETIRE / ABANDON per Deep Research R5 option).
+
+**Framework methodology significance:** First Council #9 pre-review formal ABSORB of an empirical-strengthening candidacy into its parent discipline candidacy. Validates Council #8 canonized ABSORB mechanism at n=2 consolidation scope (Item 98 → Item 95); complementary to Item 100 n=3 consolidation (Items 20+33+66) demonstrating framework's own reduction discipline works at varying consolidation sizes.
+
 ### Item 96 — Natural-vs-scripted-scenario-pair as empirical methodology pattern (candidate paired-scenario methodology)
 
 **Filed:** 2026-07-08 morning (from Path 1 empirical harness two-scenario design)
@@ -1115,7 +1160,13 @@ Framing B (context-sensitive stratification): Application-arc posts SUBSTANTIVEL
 
 **Recommendation:** Preserve at Council #9 agenda for now (empirical finding is cross-framework-relevant); route architecture-calibration recommendation separately to sim-ai/tasks.md when operator ratifies Phase 1 storm-rate calibration. NOT filed as framework methodology candidacy.
 
-### Item 98 — Empirical-harness-catches-UI-implied-claim-that-architecture-does-not-reproduce pattern (n=3 recursive discipline application at Path 3 scope)
+### Item 98 — SUBSUMED into Item 95 per Phase A pre-Council reduction sweep 2026-07-10 late (n=3 recursive strengthening of Item 95 discipline candidacy)
+
+**⚠️ SUBSUMED into Item 95 per operator ratification 2026-07-10 late** — Item 98's original recommendation (line 1132) explicitly stated "empirical foundation n=3 strengthens Item 95 discipline candidacy" — reads as strengthening annotation not distinct candidacy. Historical Item 98 body preserved for absorption audit trail; n=3 empirical foundation folds into Item 95's Post 0197 discipline canonization body.
+
+**Historical Item 98 body preserved for absorption audit trail:**
+
+**Original candidacy:** Empirical-harness-catches-UI-implied-claim-that-architecture-does-not-reproduce pattern (n=3 recursive discipline application at Path 3 scope)
 
 **Filed:** 2026-07-08 morning (recursive self-application of Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline caught Path 3 UI implied claim not architecturally reproduced)
 **Type:** Framework methodology observation (Item 95 empirical foundation strengthening to n=3 within-arc)
@@ -1211,6 +1262,17 @@ Framing B (context-sensitive stratification): Application-arc posts SUBSTANTIVEL
 
 **Recommendation:** Rule 26 canonization candidacy READY for Council #9 review scope. Item 100 supersedes Items 20 + 33 as consolidated candidacy per split/retire/reduce mechanism ratified Council #8.
 
+**AMENDMENT 2026-07-10 late (Phase A pre-Council reduction sweep — formal ABSORB execution):**
+
+Per operator ratification of Path A reduction-moves proposal, Items 20 + 33 + 66 are now formally SUBSUMED into Item 100 (previously only "supersedes" language existed; formal ABSORB status now applied to source items). Sub-item status markers added at agenda body for 20 + 33 + 66; historical bodies preserved for absorption audit trail per Rule 24 immutability successor discipline (Post 0201 external empirical anchoring pattern).
+
+**Post-absorption empirical foundation strengthened:**
+- Item 20 fire (Post 0183 n=1) + Item 33 fire (Post 0186 n=1) + Item 66 fire (n=5+ within-arc propagations) = n=7+ empirical instances at retired-workflow-recurrence + gap-claim-propagates families
+- Q65 retirement (2026-07-07 morning) + Item 55 retirement (2026-07-07 late evening) + Item 101 retirement (2026-07-10 Phase A) = 3 post-canonization retirement instances providing continued strengthening opportunity through Council #9 review window
+- Combined n=10+ empirical instances across 3+ discrete retirement events + 5+ within-arc propagations
+
+**Framework methodology significance:** First Council #9 pre-review formal execution of ABSORB reduction move at n=3 consolidation scope (Items 20+33+66→100). Validates Council #8 canonized split/retire/reduce mechanism at ABSORB scope; complementary to Item 55 first RETIRE compliance instance + Item 142 first amendment-to-retired-parent cascade retirement. Empirical foundation for Rule 26 candidacy strengthened by demonstrating framework's own reduction discipline works in practice pre-Council.
+
 ### Item 102 — Phase 15 Stage 4 pair-relational plane architectural extension candidacy (Kelley-Thibaut + Rusbult + Wieselquist + Reis-Shaver + Gottman + attachment × pair-relational)
 
 **Filed:** 2026-07-08 morning (same session as Item 99 Stage 3 filing; Stage 4 shipped end-to-end following Stage 3 velocity pattern)
@@ -1280,7 +1342,11 @@ Bourdieu 1977 Outline + Bourdieu 1984 Distinction + Lizardo 2004 J Theory Social
 
 **Recommendation:** Retain as candidacy at Council #9 review scope for canonization consideration.
 
-### Item 101 — Cycle 12 Steps 6-9 disposition (30+ day threshold exceeded per meta-analysis; RETIRE recommendation)
+### Item 101 — Cycle 12 Steps 6-9 disposition (30+ day threshold exceeded per meta-analysis; RETIRE recommendation) — **RETIRED 2026-07-10 late per operator ratification (Phase A pre-Council reduction sweep)**
+
+**⚠️ RETIRED 2026-07-10 late** — operator ratified RETIRE per Phase A pre-Council reduction sweep. Disposition-item-native retirement: the item body IS the retirement recommendation (title explicit); Cycle 12 Steps 6-9 superseded by Phase 15 v3 Stages 1-9 architectural completion. Historical body preserved for audit trail per post-Rule-24-successor discipline (Post 0201 external empirical anchoring pattern). Registry entry at `council-9-retirement-registry.md`.
+
+**Historical Item 101 body preserved for retirement audit trail:**
 
 **Filed:** 2026-07-08 morning (Day 1 loose-end closure per meta-analysis-recommended disposition)
 
@@ -1341,6 +1407,12 @@ Framework empirical validation harnesses that ship to external substrate audit r
 **Confidence calibration:** MEDIUM — self-authored discipline capturing self-observed session pattern; requires substrate audit round completion to earn empirical foundation.
 
 **AMENDMENT 2026-07-08 late evening (post Opus round 4 verdict):** Item 110 filed confidence upgrade MEDIUM → HIGH claim based on n=4 substrate convergence. Opus round 4 verdict discounts convergence to n≤3 (Deep Think + Deep Research both Gemini-family; Deep Research corroborated Deep Think; some findings inherited priors). Item 104 confidence calibration accordingly **AMENDED to MEDIUM** (not HIGH) pending future audit rounds providing independent-substrate empirical foundation. See Item 113 (cross-substrate convergence discount methodology) + Item 114 (disposition matrix non-foldable exclusions audit) for Opus-derived critique that further conditions Item 104 confidence.
+
+**AMENDMENT 2026-07-10 late (Phase A pre-Council reduction sweep — Item 110 ABSORB):**
+
+Per operator ratification of Path A, Item 110 formally SUBSUMED into Item 104. Item 110's n=4 substrate empirical trail folds into Item 104's audit-round-methodology-improvement candidacy body; confidence calibration remains MEDIUM per Opus discount (n≤3 effective per shared-family analysis). Council #9 review adjudicates the MEDIUM vs HIGH question via consolidated Item 104 body rather than as two competing candidacies. Historical Item 110 body preserved at source item for absorption audit trail.
+
+**Framework methodology significance:** Third ABSORB compliance instance in Phase A pre-Council sweep (following Item 100 n=3 absorption + Item 95 empirical strengthening absorption). Demonstrates ABSORB mechanism handles confidence-recalibration candidacies as well as duplicate-scope candidacies + n≥3 discipline consolidations.
 
 ---
 
@@ -1555,7 +1627,13 @@ H16 native Monte Carlo power test empirically demonstrates: framework's hexaco.A
 
 ---
 
-### Item 110 — Cross-substrate n=4 convergence validates audit-round-methodology-improvement (Item 104 confidence upgrade candidacy)
+### Item 110 — SUBSUMED into Item 104 per Phase A pre-Council reduction sweep 2026-07-10 late (confidence upgrade candidacy identical scope)
+
+**⚠️ SUBSUMED into Item 104 per operator ratification 2026-07-10 late** — Item 110's entire body was "confidence upgrade candidacy for Item 104" (line 1587); identical scope. Historical Item 110 body preserved for absorption audit trail; n=4 substrate empirical trail folds into Item 104's audit-round-methodology-improvement candidacy body for Council-level confidence adjudication.
+
+**Historical Item 110 body preserved for absorption audit trail:**
+
+**Original candidacy:** Cross-substrate n=4 convergence validates audit-round-methodology-improvement (Item 104 confidence upgrade candidacy)
 
 **Filed:** 2026-07-08 late evening (post substrate audit round 3 close)
 
@@ -3667,6 +3745,59 @@ Substrate coupling deferred to Item 148 ratification at September Council #9 win
 **Architectural spec:** Ship-first-methodology-follows posture matches Items 146 + 147. Preliminary implementation lands at `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/` (new panels) + `~/Projects/roomtolife/scripts/arch3-memory-album-empirical-harness/` (new harness).
 
 **Recommendation:** RATIFY at Council #9 September window as coupled review with Items 146 + 147 (all three complete the Layer 5 memory-informed / stakes-modulated / close-contact-refined decision-making architecture per Post 0146 canon). OR file Item 148 as smallest scope (only `retrieveEmotionCongruent → decideNextAction` wiring; deferring Layer 5 EFE incorporation to Council #10) for potential mid-cycle mini-ratification. Operator judgment on ratification path.
+
+---
+
+### Item 149 — "PREVENTED" as 6th canonized reduction move (extends Council #8 split/retire/reduce mechanism)
+
+**Filed:** 2026-07-10 late (Phase A pre-Council reduction sweep surfaced empirical anchor via Item 12 DEFLATE analysis)
+
+**Trigger:** Phase A pre-Council reduction sweep systematic review of 148 items (2026-07-10 late) surfaced Item 12 (cross-consumer-typecheck-as-latent-bug-detection-surface) as neither empirically-falsified (would justify RETIRE) nor priority-inflated (would justify DEFLATE) — instead the item's empirical fire mechanism was **PREVENTED** by shipped mitigation action (Post 0178 pre-commit hook install at sim-ai). Council #8 canonized 5 reduction moves (DEFLATE / SPLIT / RETIRE / REBOUND / ABSORB) do not cleanly cover the prevention-action-shipped semantic class.
+
+**Proposed candidacy body:**
+
+Framework rule candidacy: canonize **PREVENTED** as 6th reduction move within Council #8 split/retire/reduce mechanism per following canonical definition:
+
+> **PREVENTED:** move item to prevention-preserved-observation scope. Applied when the item's empirical fire mechanism has been architecturally prevented from recurring via shipped mitigation action (pre-commit hook install / CI gate addition / vendor manifest verification / other structural prevention pattern). Item body preserved as observational history; canonization candidacy deflated because prevention removes the recurrence pathway.
+
+**Distinction from adjacent moves:**
+- vs **DEFLATE:** DEFLATE moves item to lower priority/scope for advisory-only status. PREVENTED specifically records that the underlying failure mode was architecturally blocked from recurring — a stronger statement than "lower priority."
+- vs **RETIRE:** RETIRE removes item from active review because it's empirically FALSIFIED OR obsoleted. PREVENTED preserves the item as empirical observation that a specific failure mode existed + was addressed via mitigation action; the observation retains value for framework methodology archaeology even though the fire is prevented.
+- vs **ABSORB:** ABSORB folds identical disciplines with different sources. PREVENTED does not require a parent item; the mitigation action itself is the "parent" (e.g., pre-commit hook install replaces need for observation-driven discipline).
+
+**Empirical foundation for PREVENTED canonization:**
+- **Item 12** (this Phase A ratification 2026-07-10 late): sim-ai LandmarkEvent field-name mismatch shipped at Phase 3.2-D H-NEW-2 Q56 a7Memory tick loop integration silently degraded landmark memory encoding for 27 days; discovery via cross-consumer typecheck asymmetry at Open Alley; **prevention action: sim-ai pre-commit hook install per Post 0178** blocks recurrence at direct-project scope
+- **Item 91** (analogous pattern): CI-only failure mode invisibility empirical foundation n=1; potentially applicable if prevention-action-ships subsequently
+- Retrieval potential for framework observation-cases where CI gates + pre-commit hooks + vendor manifests + build-verification-mechanisms are shipped as follow-ups to empirical fires
+
+**Prerequisites:**
+- Council #9 Item 149 ratification (this item)
+- Framework retirement registry extension: add PREVENTED entries analogous to RETIRE entries at `council-9-retirement-registry.md` OR spin up separate `council-9-prevention-registry.md` per operator preference
+- Rule 14 signature-gated protocol for reduction-move canonization (this changes framework rule set)
+
+**Cross-references:**
+- Council #8 canonized 5 reduction moves at Post 0175 (this item extends to 6)
+- Item 12 empirical anchor (this item's motivating fire; DEFLATED per Phase A pending Item 149 canonization)
+- Post 0178 sim-ai pre-commit hook install methodology capture
+- Retirement registry precedents (Item 55 + Item 142) for parallel PREVENTED registry pattern
+
+**Falsification thresholds pre-registered:**
+- If Council #9 review finds n=1 empirical foundation (Item 12) insufficient for canonization: REBOUND to Council #10 or later with n≥2 additional empirical anchor sites; do not force premature canonization
+- If PREVENTED move proves indistinguishable from DEFLATE at operational scope: ABSORB into DEFLATE with prevention-action-shipped as subclause; canonical count remains 5
+- If PREVENTED move proves prohibitive at speed-scoped work (blog drafts + small refactors): SPLIT scope by track-magnitude (structural prevention actions vs process-adjustment actions)
+
+**Framework methodology significance:**
+- First 6th-move canonization proposal at framework reduction-mechanism scope (previously all reduction moves fixed at Council #8 canonization scope of 5)
+- Extends split/retire/reduce mechanism per Council #8 canonized falsification-clause-requirement (every rule requires 3 falsification elements — this proposal has all 3)
+- Demonstrates Phase A pre-Council reduction sweep can surface both operational reduction-move applications AND new-reduction-move candidacies within same review — validates comprehensive-review-produces-methodology-insight pattern
+
+**Confidence calibration:** MEDIUM — n=1 empirical foundation (Item 12) is minimum viable for canonization proposal but not yet strengthened via multiple recurrence sites. Council #9 review adjudicates whether to (a) canonize at n=1 as narrowly-scoped 6th move; (b) REBOUND to future Council with n≥2 strengthening; (c) ABSORB into DEFLATE with prevention-action-shipped as subclause; (d) leave n=1 tracking pending observable pattern accumulation. Framework operational adoption pending Council review: operator applies PREVENTED disposition informally to Item 12 pending formal ratification.
+
+**Post methodology capture:** DEFERRED to post-Council-#9-ratification if item ratified. Framework operational adoption via Phase A reduction sweep provides empirical foundation.
+
+**Architectural spec:** No substrate change; framework rule set extension only. Amendment to `council-9-retirement-registry.md` maintenance discipline OR new sibling `council-9-prevention-registry.md` file per operator preference.
+
+**Recommendation:** RATIFY at Council #9 September window as narrowly-scoped 6th reduction move canonization. Empirical foundation modest (n=1) but discipline structure operationally clear + falsification threshold pre-registered + Item 12 DEFLATE ratification in Phase A pre-Council sweep provides immediate operational compliance opportunity. Alternative: REBOUND to Council #10 if n≥2 strengthening desired first.
 
 ---
 
