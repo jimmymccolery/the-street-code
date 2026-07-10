@@ -3476,6 +3476,19 @@ Item 147 (Stage 3.6) filed as sibling to Item 146 covering the close-contact imp
 
 Cross-reference: `~/Projects/the-street-code/methodology/council-9-review-agenda-draft-2026-07-05.md` Item 147 filing (line 3467+).
 
+**AMENDMENT 2026-07-10 late (post-integration-audit empirical foundation):**
+
+Post-0197 integration audit harness (roomtolife commit `b0189de`; extends Post 0197 discipline from unit-scope to integration-scope) validates Item 146's diagnostic-ship posture empirically at actual `tickIslandWorld` tick loop scope. Runs 3000 ticks × 5 seeds; 6 propositions validated at 6/6 PASS · 0 PARTIAL · 0 FAIL. Key empirical evidence supporting Item 146 candidacy:
+
+- Arch 1 fires exactly once per session across all 5 seeds under Chebyshev ≤ 3 discipline (P1)
+- PROPER_ANCHOR_A (anxious) `observationDurationTicks` = 19 sim-mins matches cautious_approach signature per Ripley 2008; PROPER_ANCHOR_B (disorganized) = 61 sim-mins matches disorganized_freeze per Main-Solomon 1986 — the diagnostic-only ship surfaces load-bearing empirical data with directional accuracy at anchor scope (P2)
+- Cross-plane event counters fire in expected proportions (P3)
+- First-encounter → `padActionBias` decoupling from `decideNextAction` confirmed — the substrate-coupling gap Item 146 addresses is empirically observable at integration scope
+
+Combined with unit harnesses: 19/20 PASS · 1 PARTIAL across arch1 + arch2 + integration audit. Empirical foundation for Council #9 review of Item 146 substrate coupling is now n=3 harness scope + integration validation.
+
+Cross-reference: audit dataset `~/Projects/roomtolife/scripts/island-sim-integration-audit/output/audit-2026-07-10T14-26-02.dataset.json`.
+
 ---
 
 ### Item 147 — Close-contact impression revision event + memory-shelf second-photo architecture (Stage 3.6 sibling to Item 146)
@@ -3538,6 +3551,20 @@ Arch 2 can ship RoomToLife-only WITHOUT substrate change — mirror Item 146 app
 **Architectural spec:** Ship-first-methodology-follows posture matches Item 146. Preliminary implementation lands at `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/firstImpressionMemory.ts` + `IslandSimulation.tsx` + `IslandStage345Panels.tsx` + `NpcMemoryPanel.tsx` + `scripts/arch2-close-contact-empirical-harness/`.
 
 **Recommendation:** RATIFY at Council #9 review scope OR file as smaller mid-cycle canonization (Item 147 is architecturally smaller than Item 146; canonization decision is narrowly scoped to 1 event type + 1 optional context flag; could resolve without waiting for September window if operator wishes to file as Council #10 candidacy or mid-cycle mini-ratification per Council #8's operator-delegated CC ratification policy for narrow-scope additions).
+
+**AMENDMENT 2026-07-10 late (post-integration-audit empirical foundation + Willis-Todorov ceiling artifact):**
+
+Post-0197 integration audit harness (roomtolife commit `b0189de`) validates Item 147's H1-H7 propositions at actual `tickIslandWorld` tick loop scope across 5 seeds × 3000 ticks. Verdict 6/6 PASS · 0 PARTIAL · 0 FAIL. Novel empirical findings from integration audit:
+
+1. **Willis-Todorov +15 confidence bump ceiling-clamp artifact** — mean effective Δ = 14.82 (theoretical +15); 0/6 revisions exact +15 due to `Math.min(100, confidence + 15)` saturation when parent thin-slice confidence ≥ 85. This is a real Willis-Todorov boundary condition per "at the top of the scale, further exposure can't increase confidence beyond ceiling." Documented at `~/Projects/roomtolife/KNOWN_LIMITATIONS.md` (Willis-Todorov +15 confidence bump ceiling-clamp entry). Council #9 review consideration: substrate ratification of Item 147 should evaluate whether signed pre-clamp Δ should be preserved separately from the clamped stored confidence, OR whether the boundary condition should be annotated at the UI chart level rather than at substrate level.
+
+2. **Ambady-Rosenthal encoding-mechanics-invariance carries through under integration** — mean Δ sentiment = 0.002 across 6 revisions (essentially zero); |Δ sentiment| < 0.20 in 6/6 (100%); |Δ trustworthiness| < 30 in 6/6 (100%). Empirical anchor for M4 status upgrade PARTIAL → REVISED at Round 5 refresh.
+
+3. **Fire-once discipline holds at integration scope** — Arch 1 fires exactly once in 5/5 seeds; Arch 2 fires ≤ 1 in 5/5 seeds (fired in 3/5 within 3000 ticks; substrate movement dynamics vary by seed as expected).
+
+Combined with unit harnesses: 19/20 PASS · 1 PARTIAL across arch1 + arch2 + integration audit at n=3 harness scope. Empirical foundation for Item 147 mid-cycle mini-ratification path is materially strengthened by integration validation.
+
+Cross-reference: audit dataset `~/Projects/roomtolife/scripts/island-sim-integration-audit/output/audit-2026-07-10T14-26-02.dataset.json` (P5 measurements + all revision deltas).
 
 ---
 
