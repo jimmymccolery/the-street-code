@@ -3863,6 +3863,94 @@ Once ported, `computeFirstEncounterApproachBias` becomes a substrate primitive c
 
 ---
 
+### Item 151 — Stage 3.8 rescue-choice + co-shelter cohabitation architectural extension candidacy (post-implementation candidacy per Q9 operator ratification)
+
+**Filed:** 2026-07-10 late (Stage 3.8 M1-M11 shipped comprehensively single-session per operator "no corners cut" directive)
+
+**Trigger:** Operator inquiry about Sim B rescue observability gap at seed=42 t=8670 (Sim rescued but UI displayed "thinking..." — currentAction=null after Phase 2.6.A.7 rescue-freeze semantics). Discovery arc: original UI observability gap → escalated to full Stage 3.8 dyadic decision-under-stakes + moral cognition proof-of-concept per architecture spec (sim-ai/architecture/stage-3-8-rescue-choice-cohabitation-architecture-2026-07-10.md; 16 sections A-P).
+
+**Proposed candidacy body:**
+
+Framework Stage 3.8 architectural extension sibling to Items 146+147+148 (Stage 3.5/3.6/3.7). Adds:
+
+1. **Rescue TYPE primitive refactor** (helicopter/ship/camp) with hybrid Q10 choice-window mathematics (fixed minimum + stochastic evaporation)
+2. **4-option rescue-choice architecture** (accept_immediate + signal_and_wait + go_fetch_partner + refuse_entirely) via weighted softmax with 6 modulator classes (cultural bundle + HEXACO + attachment + pair-relational + memory + spatial feasibility)
+3. **Co-shelter cohabitation** (mutual-consent establishment + 3-mechanism dissolution + reconciliation window)
+4. **Failed-rescue landmark communication** (pendingConfession state field + narrative delay + bilateral emotional impact)
+5. **Guilt Layer 3 delta accumulation** (NEW `guilt_b` 8th channel per Post 0185 precedent + bilateral asymmetry self-agency vs survivor + frantic-search stress dynamics)
+6. **Vindictive satisfaction + moral violation registered events** (proof-of-concept for Stage 6+ moral cognition arc; Blair VIM + Rozin CAD + Nichols sentimental rules deferred)
+7. **Per-bundle cultural priors** for Bundles A/D/E per Marlowe 2011 + Herrmann-Thöni-Gächter 2008 + Levine 2001 + Awad 2018 + Rothbaum 2002 (substrate-anchored)
+
+**Empirical foundation:**
+
+- **Substrate-scope 8-hypothesis empirical harness** at `sim-ai/scripts/stage-3-8-rescue-choice-empirical-harness/` — **8/8 PASS aggregate**
+- **Non-Inertness Gate CLEARED** (H-rescue-6; ≥3/4 substrate channels differentiate at ≥20% spread; second substrate-scope Non-Inertness Gate application after H-mem-8)
+- **Determinism replay** (H-rescue-7; 100% match rate across 3 replays × 5 seeds × 100 choices)
+- **Post 0197 recursion count** bumped n=10 → n=11 (substrate-scope)
+- **Ecosystem harness aggregate:** 26/27 RoomToLife + 5/5 H-mem-8 + 8/8 Stage 3.8 = **39/40 PASS · 1 PARTIAL cross-scope**
+
+**Empirical anchors (Rule 19 verified):**
+- Rusbult-Verette et al 1991 JPSP 60:53-78 (accommodation-trust; substrate-anchored)
+- Awad et al 2018 Nature 563:59-64 (Moral Machine cross-cultural)
+- Mikulincer-Shaver 2007 (attachment × dyadic decisions; substrate-anchored)
+- Bartholomew-Horowitz 1991 JPSP 61:226-244 (4-quadrant attachment)
+- Batson 1987 Adv Exp Soc Psychol 20:65-122 (Rule 19 corrected from 1991)
+- Marlowe et al 2011 Proc R Soc B 278:2159-2164 (negative reciprocity)
+- Leach 2003 JPSP 84(5):932-943 (Rule 19 corrected venue from PSPB 29)
+- Ashton-Lee 2007 + Hilbig-Zettler 2009 HEXACO (substrate-anchored)
+- Gottman 1994 four-horseman + Kelley-Thibaut 1978 interdependence (substrate-anchored)
+- Baumeister-Stillwell-Heatherton 1994 Psychol Bull 115:243-267 (interpersonal transgression)
+- Bower 1981 + Hesp 2021 + Post 0146 Layer 4→5 (Item 148 M3 coupling; substrate-anchored)
+
+**Framework flags per Rule 19:**
+- Mechanism 3 emergency-triggered dissolution: MECHANISM-FORWARD EMPIRICALLY-THIN per Agent A
+- USAF PJ + Coast Guard rescue timing: CALIBRATION-CHOICE not empirically derived
+- Vindictive-satisfaction magnitude (+1 to +5): CALIBRATION-CHOICE per Leach 2003 directional-only
+- Guilt magnitude values ([+10, +30] self-agency; [+4, +14] survivor): CALIBRATION-CHOICE per Baumeister 1994 directional-only
+- Bundle-specific rescue-choice priors: K=2 quorum verification required before publication per Council #9 Item 141
+
+**Framework methodology firsts logged:**
+- First Stage 3.8 architectural extension (5th stage in Phase 15 v3 arc)
+- First 4-option rescue-choice architecture with 6-modulator weighted softmax
+- First mutual-consent co-shelter cohabitation primitive
+- First 3-mechanism relationship dissolution model with grace period + reconciliation
+- First NEW Layer 3 channel `guilt_b` (8th channel per Post 0185 precedent)
+- First proof-of-concept for Stage 6+ moral cognition arc (`moral_violation_registered`)
+- First ugly-emotion realism vindictive satisfaction event per Post 0187 substantive research posture
+- First perspective-swap-aware `completeAction(actingSimId)` parameter
+- First single-RNG-call cumulative-distribution refactor preserving Phase 2.9-C determinism
+- First rescue-choice injection short-circuit at decideNextAction
+- First 8-hypothesis single-arc empirical harness at substrate scope
+- Second substrate-scope Non-Inertness Gate CLEARED (after H-mem-8)
+
+**Prerequisites:**
+- Council #9 Item 148 ratification (Item 148 M3 substrate coupling; H-mem-8 100% Non-Inertness Gate CLEARED serves as empirical foundation for Item 151 memory-informed decision integration at rescue-choice scope)
+- Council #9 Item 141 (K/N cross-substrate quorum + K=2 verification discipline; applies to bundle-specific priors per M8)
+
+**Cross-references:**
+- Architecture spec: `~/Projects/sim-ai/architecture/stage-3-8-rescue-choice-cohabitation-architecture-2026-07-10.md` (16 sections A-P)
+- Empirical harness: `~/Projects/sim-ai/scripts/stage-3-8-rescue-choice-empirical-harness/` (8 hypothesis files + shared + run-all + canonical findings)
+- Council #9 Items 146+147+148 (Stage 3.5/3.6/3.7 substrate coupling siblings)
+- Council #9 Item 132 amendment (Non-Inertness Gate)
+- Council #9 Item 141 (K/N calibration discipline)
+- Post 0146 Ten-Layer NPC (Layer 4→Layer 5 coupling)
+- Post 0175 Council #8 canonization
+- Post 0185 (channel-expansion discipline precedent for `guilt_b`)
+- Post 0187 (substantive research posture; enables ugly-emotion realism modeling)
+- Post 0197 (empirical-validation-harness-parallel-to-diagnostic-UI; n=10 → n=11)
+
+**Falsification thresholds pre-registered:**
+- If Council #9 review finds Non-Inertness Gate H-rescue-6 unreproducible at K=2 substrate scope: DEFLATE Item 151 to observational-only status
+- If any bundle-specific prior fails K=2 quorum verification: REBOUND affected bundle to Council #10 pending strengthened empirical foundation
+- If Mechanism 3 emergency-triggered dissolution empirically fires at rates suggesting instability at longer time horizons: REVISE mechanism to include RNG hysteresis + ABSORB into Mechanism 1 hysteretic path
+- If Stage 6+ moral cognition arc becomes empirically well-anchored (Blair VIM + Rozin CAD + Nichols empirically instrumented): RATIFY M7 `moral_violation_registered` proof-of-concept as canonization foundation
+
+**Confidence calibration:** HIGH — 8/8 substrate-scope empirical harness PASS + Non-Inertness Gate CLEARED + determinism 100% + integration with existing Items 146/147/148 substrate work + Rule 19 discipline applied throughout. Council #9 September window ratification path: RATIFY as Stage 3.8 architectural extension canonization with M12 kit enrichment complete.
+
+**Recommendation:** RATIFY at Council #9 September window as Stage 3.8 architectural extension canonization sibling to Items 146+147+148 Stage 3.5/3.6/3.7. Combined ecosystem-scope Non-Inertness Gate CLEARED evidence (H-mem-8 at Item 148 + H-rescue-6 at Item 151) materially strengthens Council #9 Item 132 amendment ratification path.
+
+---
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
