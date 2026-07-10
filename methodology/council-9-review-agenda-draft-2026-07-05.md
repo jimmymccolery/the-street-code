@@ -3552,6 +3552,104 @@ Arch 2 can ship RoomToLife-only WITHOUT substrate change — mirror Item 146 app
 
 **Recommendation:** RATIFY at Council #9 review scope OR file as smaller mid-cycle canonization (Item 147 is architecturally smaller than Item 146; canonization decision is narrowly scoped to 1 event type + 1 optional context flag; could resolve without waiting for September window if operator wishes to file as Council #10 candidacy or mid-cycle mini-ratification per Council #8's operator-delegated CC ratification policy for narrow-scope additions).
 
+---
+
+### Item 148 — Arch 3 a7Memory Layer 4 → Layer 5 decision-loop coupling + memory-informed EFE (Stage 3.7 architectural extension candidacy)
+
+**Filed:** 2026-07-10 late (post-Arch-2 ship arc; operator-ratified Arch 1 → Arch 2 → **Arch 3** sequencing complete; Arch 3 diagnostic-only ship at RoomToLife scope)
+
+**Trigger:** Operator ELI5-ratified Arch 3 as "the full photo-album system — every important sim-life moment gets photographed and filed; day-boundary consolidation into lasting memories; emotional-state pulls up matching photos from the album; Sim's decisions start reading from the album." Comprehensive multi-agent research (Posts 0001-0201 corpus consulted) surfaced that a7Memory substrate is **already 90% complete** at sim-ai commit 05b843b (2026-07-05) + cac822a (field-name fix 2026-07-06). Substrate provides:
+
+- Three-horizon memory (short + mid + long_biographical) per Post 0146 Layer 4
+- Salience-gated encoding via `encodeEventMemory` + `encodeActionMemory` per Post 0118 promotion criteria
+- Per-tick decay (short 0.0003/tick + mid 0.000005/tick) per Ebbinghaus 1885 + Murre & Dros 2015 forgetting curve
+- Day-boundary consolidation via `maybeConsolidate` at `CONSOLIDATION_INTERVAL_TICKS = 1440` (empirically confirmed at Post 0136 H3)
+- Emotion-congruent retrieval FUNCTION via `retrieveEmotionCongruent` per Hesp 2021 + Eich 1995 + Bower 1981 mood-congruent-memory tradition
+- Full tick-loop integration via `processMemoryTickPipeline` at `islandWorld.ts:1420` for both Sim A + Sim B (H-NEW-2 Q56)
+
+**The Arch 3 substrate coupling gap this item addresses:** `retrieveEmotionCongruent` is DEFINED but NEVER CALLED from `decideNextAction`. Per Post 0146 Layer 4 → Layer 5 canonical coupling: "the striving-target set at inference time is composed from need drives (L1) + affect (L2) + traits (L3) + **memory traces (L4)** + pair sentiments (L6) + Scene affordances (L9). Every action score has 'a citation graph back to needs, traits, memories, and Scene affordances' (0146:100). Mid-horizon and long-biographical traces bias belief-state formation; first-encounter mid-trace of 'betrayed by Bob' enters candidate-action scoring alongside current S(Sim→Bob) sentiment (0146:98)." Substrate currently violates this canonical coupling.
+
+**Substrate gap findings:**
+
+- `decideNextAction` at `~/Projects/sim-ai/src/sim-ai/scenes/island/islandWorld.ts:2387+` receives NO memory input; action selection falls back to need-driven striving
+- `retrieveEmotionCongruent` at `a7Memory.ts:290-302` computes retrieval but has zero consumer in the substrate
+- Sim's decisions cannot "read from the album" per operator's ELI5 without this wiring
+- Layer 5 EFE (expected free energy) calc per Post 0146 canonical does not currently incorporate memory context
+
+**Proposed candidacy body:**
+
+Substrate + companion-product changes required for full Arch 3 substrate ship:
+
+1. **`decideNextAction` extension** — accepts optional memory-retrieval context. When memory is present, retrieve top-K emotion-congruent traces at current Layer 3 state; incorporate into candidate-action scoring per Post 0146:98 canonical coupling.
+
+2. **Memory-informed EFE calc** — Layer 5 expected free energy incorporates retrieved memory traces as belief-state prior. Specifically: traces with `eventRef` matching current-context event class bias EFE toward the historical action's outcome; traces with `actionRef` bias directly toward action-repetition or -avoidance based on encoded valence.
+
+3. **`ActionScoringContext.memoryRetrieved` field** — new field on action-scoring context surfacing which traces informed the decision (for audit + observability).
+
+4. **Cross-plane emit `memory_informed_decision`** — new `CrossPlaneEventType` in `crossPlaneTraceAggregator.ts:29-41` fires when action selection was memory-informed; enables Post 0149 session logger `consolidation boundary` co-firing.
+
+**Empirical harness scope (H-mem-1 through H-mem-7 at `~/Projects/roomtolife/scripts/arch3-memory-album-empirical-harness/`):**
+
+- **H-mem-1** Salience-gated encoding threshold discipline (Hesp 2021 + a7Memory canonical thresholds)
+- **H-mem-2** Landmark auto-promotion to long_biographical at salience ≥ 0.5 (Post 0136 H3 empirical anchor)
+- **H-mem-3** Day-boundary consolidation promotes short → mid at survival threshold (Murre-Dros 2015 + Post 0136)
+- **H-mem-4** Decay dynamics match Ebbinghaus 1885 pattern (short 0.0003/tick + mid 0.000005/tick)
+- **H-mem-5** Emotion-congruent retrieval prioritizes state-congruent traces (Eich 1995 + Bower 1981 via Hesp 2021 lineage)
+- **H-mem-6** Determinism (per Post 0197 discipline)
+- **H-mem-7** A1-style downstream cascade coverage — memory-plane fields observably differentiate across bundles (per Post 0201 mechanism-attribution requirement)
+
+**Non-Inertness Gate (Item 132) pre-Council compliance:**
+
+Per Item 132 discipline, BEFORE substrate coupling of memory to decision-loop, must empirically demonstrate a discriminating pathway exists. H-mem-7 A1-style cascade coverage serves as pre-wiring Non-Inertness Gate measurement — verify that memory-plane state (encoding-count, mean-valence-at-encoding, horizon-distribution, retrieval-frequency) differentiates observably across (bundle × HEXACO × attachment) synthetic conditions before wiring `retrieveEmotionCongruent` into `decideNextAction`. Prevents H-mem-INERT recurrence analogous to H27 KILL of `capital_conversion` channel.
+
+**RoomToLife interim ship (matches Item 146/147 diagnostic-only pattern):**
+
+Arch 3 ships RoomToLife-only WITHOUT substrate change — mirror Item 146/147 approach-bias + close-contact-revision diagnostic-only posture. Three new UI panels at `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/`:
+
+- **`MemoryAlbumPanel`** — browsable full 3-horizon album per Sim (short + mid + long_biographical); filterable
+- **`MemoryConsolidationTimelineChart`** — canvas-based day-boundary consolidation event log
+- **`EmotionCongruentRetrievalOverlay`** — diagnostic panel showing what `retrieveEmotionCongruent` WOULD surface at current Layer 3 state (does NOT drive decisions at RoomToLife scope)
+
+Substrate coupling deferred to Item 148 ratification at September Council #9 window.
+
+**Prerequisites:**
+
+- Council #9 Item 148 ratification (this item) for full substrate integration
+- a7Memory substrate SHIPPED at sim-ai (MET — 05b843b + cac822a)
+- `processMemoryTickPipeline` tick-loop wiring SHIPPED (MET — islandWorld.ts:1420)
+- Empirical harness H-mem-1 through H-mem-7 at RoomToLife scope (MET at Arch 3 diagnostic-only ship)
+- Non-Inertness Gate empirical demonstration (H-mem-7 pre-wiring measurement)
+- Items 146 + 147 (Arch 1 + Arch 2 substrate coupling) do NOT need ratification first — Item 148 is orthogonal to their ratification; all three could coupled-review as Layer 5 memory-informed decision-making pattern
+
+**Cross-references:**
+
+- Item 146 (parent Stage 3.5 architectural extension — Encounter-context-amplification; Item 148 is Stage 3.7 sibling in Layer 5 decision-making family)
+- Item 147 (sibling Stage 3.6 — close-contact impression revision; same substrate change surface family)
+- Item 140 (event-scope canonical registry extension — Item 148's `memory_informed_decision` event type is Item 140 canonization territory)
+- Item 132 (Non-Inertness Gate — H-mem-7 serves as pre-wiring compliance)
+- Item 141 (K-of-N cross-substrate quorum — Rule 19 anti-fabrication applies to memory-citation anchors)
+- Post 0146 Layer 4 three-horizon memory + Layer 5 EFE coupling canonical
+- Post 0136 H3 empirical anchor (day-boundary consolidation empirically confirmed)
+- Post 0118 three-horizon origin + Ebbinghaus + Murre-Dros forgetting curve
+- Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline (Arch 3 = next n+1 recursion instance)
+- Post 0201 A1 external empirical anchoring pattern + mechanism attribution requirement
+- Substrate `~/Projects/sim-ai/src/sim-ai/a7Memory.ts` (Phase 1 canonical implementation)
+- Substrate `~/Projects/sim-ai/src/sim-ai/scenes/island/islandWorld.ts:1420` (`processMemoryTickPipeline`)
+- Sub-shape 22 precedents: Posts 0174, 0178, 0180 (a7Memory scope extension propagation-gap risk)
+- Hesp 2021 "Deeply Felt Affect" (a7Memory primary anchor per a7Memory.ts:6)
+- Bower 1981 mood-congruent memory (via Hesp 2021 lineage)
+- Eich 1995 Psychological Science 6(2):67-75 (mood-dependent memory)
+- Ebbinghaus 1885 + Murre & Dros 2015 PLOS ONE 10(7):e0120644 (forgetting curve)
+- Park et al. 2023 arXiv:2304.03442 Generative Agents memory stream
+
+**Confidence calibration:** HIGH — substrate 90% complete (encoding + decay + consolidation + retrieval function all shipped); Item 148 scope is narrowly-defined coupling of existing `retrieveEmotionCongruent` output into existing `decideNextAction` calc; empirical anchors well-established at framework canonical (Posts 0118 + 0146 + Hesp 2021 primary); Arch 1/2 diagnostic-only ship pattern provides direct extension precedent; Non-Inertness Gate compliance built into H-mem-7 pre-wiring measurement.
+
+**Post methodology capture:** Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline applied recursively — Arch 3 diagnostic UI + Arch 3 empirical harness ship in same arc. Post 0197 recursion count HELD at n=7+ per Round 5 Opus adjudication; Council #9 adjudicates whether Arch 3 diagnostic-ship counts as valid n+1 recursion instance.
+
+**Architectural spec:** Ship-first-methodology-follows posture matches Items 146 + 147. Preliminary implementation lands at `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/` (new panels) + `~/Projects/roomtolife/scripts/arch3-memory-album-empirical-harness/` (new harness).
+
+**Recommendation:** RATIFY at Council #9 September window as coupled review with Items 146 + 147 (all three complete the Layer 5 memory-informed / stakes-modulated / close-contact-refined decision-making architecture per Post 0146 canon). OR file Item 148 as smallest scope (only `retrieveEmotionCongruent → decideNextAction` wiring; deferring Layer 5 EFE incorporation to Council #10) for potential mid-cycle mini-ratification. Operator judgment on ratification path.
+
 **AMENDMENT 2026-07-10 late (post-integration-audit empirical foundation + Willis-Todorov ceiling artifact):**
 
 Post-0197 integration audit harness (roomtolife commit `b0189de`) validates Item 147's H1-H7 propositions at actual `tickIslandWorld` tick loop scope across 5 seeds × 3000 ticks. Verdict 6/6 PASS · 0 PARTIAL · 0 FAIL. Novel empirical findings from integration audit:
