@@ -3569,6 +3569,8 @@ Combined with unit harnesses: 19/20 PASS · 1 PARTIAL across arch1 + arch2 + int
 
 Cross-reference: audit dataset `~/Projects/roomtolife/scripts/island-sim-integration-audit/output/audit-2026-07-10T14-26-02.dataset.json`.
 
+**Phase B pre-Council substrate audit finding (2026-07-10 late) — cross-ref Item 150:** Substrate deep audit surfaced that `computeFirstEncounterApproachBias` does NOT exist at sim-ai substrate (lives only at RoomToLife scope). Item 146 substrate wiring cannot skip a port precursor. See **Item 150** for concrete precursor scope + ratification path options (RATIFY jointly with Item 146 / ABSORB Item 150 into Item 146 / REBOUND Item 146 to Council #10 pending precursor).
+
 ---
 
 ### Item 147 — Close-contact impression revision event + memory-shelf second-photo architecture (Stage 3.6 sibling to Item 146)
@@ -3798,6 +3800,66 @@ Framework rule candidacy: canonize **PREVENTED** as 6th reduction move within Co
 **Architectural spec:** No substrate change; framework rule set extension only. Amendment to `council-9-retirement-registry.md` maintenance discipline OR new sibling `council-9-prevention-registry.md` file per operator preference.
 
 **Recommendation:** RATIFY at Council #9 September window as narrowly-scoped 6th reduction move canonization. Empirical foundation modest (n=1) but discipline structure operationally clear + falsification threshold pre-registered + Item 12 DEFLATE ratification in Phase A pre-Council sweep provides immediate operational compliance opportunity. Alternative: REBOUND to Council #10 if n≥2 strengthening desired first.
+
+---
+
+### Item 150 — Item 146 approach-bias substrate port precursor scope discrepancy (Phase B substrate audit finding)
+
+**Filed:** 2026-07-10 late (Phase B pre-Council substrate audit surfaced discrepancy between Item 146 body claim + current sim-ai substrate state)
+
+**Trigger:** Phase B pre-Council substrate deep audit (2026-07-10 late; general-purpose research agent per operator directive "Research and search ahead of implementing to ensure you still have full context, complete enrichment, and no new unanswered questions") surfaced concrete discrepancy at Item 146 body scope. Item 146 proposes substrate wiring of `computeFirstEncounterApproachBias` results into `decideNextAction` candidate-action weighting. Substrate audit grep across `~/Projects/sim-ai/src/` for `computeFirstEncounterApproachBias|approachBias|approach_bias` returned **ZERO** results. The function lives ONLY at `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/firstEncounterApproachBias.ts:324` — RoomToLife scope, NOT substrate.
+
+**Concrete finding:**
+
+Item 146 substrate wiring cannot skip a precursor step: the RoomToLife-scope `computeFirstEncounterApproachBias` function (+ its `ApproachBiasInputs` / `ApproachBias` types + 5-signature distribution) must be **ported** into `~/Projects/sim-ai/src/sim-ai/` BEFORE any `decideNextAction` consumption of approach-bias distribution is possible. Item 146 body as filed silently assumes substrate has this function; substrate audit verifies it does not.
+
+**Distinction from Item 146:**
+
+Item 150 does NOT propose retirement or supersession of Item 146. Item 150 identifies a **precursor step** that Item 146 substrate wiring depends on. Council #9 ratification of Item 146 requires acknowledging + planning for approach-bias port before substrate wiring can proceed.
+
+**Precursor scope (M0 in Phase B milestone table):**
+- Port `firstEncounterApproachBias.ts` (~500 lines including v3 Level A additive-with-modulator redesign per 2026-07-10 memory pointer `project_arch1_approach_bias_v3_level_a_redesign_2026-07-10.md`)
+- Port `ApproachBiasInputs` + `ApproachBias` + `ApproachBiasDistribution` types
+- Port associated empirical validation harness at `~/Projects/roomtolife/scripts/first-encounter-approach-bias-empirical-harness/`
+- Verify Round 1 audit corrections (Perplexity + Grok R1/R6/R7 arc) preserved at port
+- Add substrate-scope regression tests
+
+**Substrate-scope impact:**
+
+Once ported, `computeFirstEncounterApproachBias` becomes a substrate primitive callable from any Scene. Current RoomToLife-scope caller stays functionally identical (imports from `sim-ai/*` path alias); vendor sync at RoomToLife/vendor/sim-ai/ propagates. Open Alley gains access if desired.
+
+**Empirical foundation:**
+- **Substrate audit 2026-07-10 late** — direct code grep across all sim-ai src produced ZERO matches for approach-bias signatures; verifies discrepancy is present state, not stale memory
+- **RoomToLife codebase state 2026-07-10 evening** — `firstEncounterApproachBias.ts:324` confirmed at 6/7 PASS empirical harness state per Arch 1 v3 Level A redesign
+
+**Prerequisites:**
+- Council #9 Item 146 ratification (Item 146 substrate wiring depends on this precursor)
+- Council #9 Item 150 ratification (this item — approves precursor port scope)
+- Or: Council #9 amends Item 146 body to bundle port precursor + wiring as single ratification
+
+**Cross-references:**
+- Item 146 (approach-bias substrate coupling; this item is its precursor)
+- Item 148 (memory-informed decision substrate coupling; parallel Phase B substrate ship for comparison)
+- `project_arch1_approach_bias_v3_level_a_redesign_2026-07-10.md` memory pointer (v3 Level A redesign state at RoomToLife scope)
+- Rule 20 sub-shape 22 propagation-gap discipline (this discrepancy is a canonical Rule 20 fire: substrate-scope wiring proposed without substrate-scope prerequisite verification)
+
+**Falsification thresholds pre-registered:**
+- If grep across sim-ai substrate 2026-09-05+ shows approach-bias signatures already present (whether shipped via other route OR memory-pointer confusion resolved): RETIRE this item
+- If Item 146 body is amended to include port precursor scope explicitly: ABSORB Item 150 into Item 146 body (single ratification)
+- If port precursor becomes prohibitively expensive OR loses fidelity vs RoomToLife-scope function: REBOUND to Council #10 with prototype comparison
+
+**Framework methodology significance:**
+- First Phase B pre-Council substrate audit finding to produce sibling filing (as opposed to fold-back into original item)
+- Empirical anchor for Rule 20 sub-shape 22 propagation-gap discipline at pre-ratification-audit scope (previously fires observed at post-ratification scope; this instance catches at proposal-audit scope)
+- Demonstrates value of "research + search ahead" pre-implementation discipline per operator's explicit directive: substrate audit uncovered scope discrepancy that Item 146 body had left implicit
+
+**Confidence calibration:** HIGH — concrete grep-verified discrepancy at substrate scope; no ambiguity in fact of finding. Confidence on operator ratification path (RATIFY / ABSORB into Item 146 / REBOUND / RETIRE) is operator judgment call at Council #9 window.
+
+**Post methodology capture:** DEFERRED pending Council #9 adjudication path.
+
+**Architectural spec:** Sim-ai substrate port of RoomToLife-scope `firstEncounterApproachBias.ts` with type surface preservation + empirical harness co-migration. Post-port state: RoomToLife imports from `sim-ai/sim-ai/firstEncounterApproachBias` via path alias; roomtolife/vendor/sim-ai propagates via rsync.
+
+**Recommendation:** RATIFY at Council #9 September window jointly with Item 146 as bundled precursor + wiring adjudication (avoids Item 146 ratification without acknowledged precursor). Alternative: ABSORB Item 150 into Item 146 body via amendment (single ratification). Alternative: REBOUND Item 146 to Council #10 pending precursor scope + Item 150 execution.
 
 ---
 
