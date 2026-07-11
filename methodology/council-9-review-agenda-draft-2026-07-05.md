@@ -5502,6 +5502,41 @@ Operator directed 3-parallel-agent research phase before design + implementation
 
 **Framework methodology first:** first same-session composition-scope-observability ship at recursion depth 5 (Tier 1-4 → Tier 5 → Tier 6 → Tier 7 → Tier 8). Substrate + composition + harness coverage now approximately 100% of Stage 3.8 mechanic surface at all 3 scopes.
 
+**§7 Tier 8.1 per-Sim panel-symmetry ship (2026-07-11 late — sim-ai `d01887c`, roomtolife `5373824`+`efddc80`):**
+
+Operator queried Sim B panel coverage after Tier 8 close: "I think I am missing some Sim B panels, such as a 4-HORSEMEN CASCADE DETECTOR B→A, And Demand-WITHDRAW PATTERN B→A, And Sim B Memory-informed Decision. Am I wrong?"
+
+Comprehensive audit run across ALL panels in `IslandStage345Panels.tsx` (26 exports) + all mount points in `IslandSimulation.tsx`. Found:
+
+**Confirmed asymmetric (real Sim B counterparts missing):**
+1. `FourHorsemenCascadeDetector` — mounted once with `pairLabel="A↔B"` but data threaded A→B only (`pairRelationalAtoB.sentiment` + `.trust`). Empirically Gottman 1993/1994 4-Horsemen IS directional (criticism from A→B ≠ B→A). B→A counterpart missing.
+2. `MemoryInformedDecisionPanel` Sim B — documented gap. Sim B mount deferred pending substrate ship (was flagged during Tier 8 Unit B ship).
+
+**Pair-scope by design (NOT gaps):**
+3. `DemandWithdrawIndicator` — Christensen-Heavey model treats DW as emergent pair pattern; `dyadType` symmetric input (attachment 4-quadrant classification via `inferDyadicAttachmentType`); `dwEventCount` pair-scope. Verified correctly pair-scope.
+
+**Additional finding operator didn't mention:**
+4. `FireOnceDisciplineStateChips` — mounted once as Sim A only. Arch 1 (first impression) + Arch 2 (close-contact revision) fire discipline is inherently per-perceiver — Sim A encodes fi-* memory when A perceives B; Sim B encodes fi-* memory when B perceives A. Chip row was previously labeled generically "Arch 1/2" without Sim label.
+
+**Shipped:**
+
+**Item 3 substrate (sim-ai `d01887c`):** Add `lastMemoryInformedDecisionInfo?: MemoryInformedDecisionInfo;` field to `SimStateSnapshot` interface (islandWorld.ts:281) with symmetric JSDoc pattern to `lastRescueChoiceInfo`. Propagate `simBResult.lastMemoryInformedDecisionInfo ?? simB.lastMemoryInformedDecisionInfo` at tickSimB return (line 2786 pattern; Rule 28 spread already in place). New `stage38SimBMemoryInformedDecisionInfo.test.ts` (3/3 PASS covering populates-after-tickSimB + persists-across-ticks + populates-both-Sims-independently). Sim-ai suite 1715 → 1718 (+3). Audit clean.
+
+**Item 3 composition (roomtolife `efddc80`):** Mount `MemoryInformedDecisionPanel` for Sim B. Wire `memoryGateHistoryBRef` sampling in tick loop (was documented as deferred pending substrate ship). Non-Inertness Gate rolling window now tracked symmetrically per Sim.
+
+**Item 1 (roomtolife `efddc80`):** FourHorsemenCascadeDetector B→A directional split. Restructure Row 2 → Row 2 (PairRel × 2 + DW pair-scope) + Row 2.5 (4H × 2). Rename existing to `pairLabel="A→B"` for empirical accuracy. Add `pairLabel="B→A"` mount with `pairRelationalBtoA` data. Note: `cascadeActive`/`sequence`/`repairAttempts` remain pair-scope in current substrate; per-direction cascade tracking is future substrate extension.
+
+**Item 2 (roomtolife `efddc80`):** FireOnceDisciplineStateChips per-Sim symmetric. Extend panel signature with optional `simLabel` prop; renders as "Arch 1/2 · Sim {label}" when provided. Derive `arch1FiredForB` + `arch2FiredForB` useMemo mirroring `arch1FiredForA` pattern from `state.simB.memory` filtered by `perceiverSim === 'b'`. Update Sim A mount to label "· Sim A"; add Sim B mount labeled "· Sim B" below.
+
+**Novel Council follow-up filed:**
+1. Per-direction 4H cascade tracking would require substrate to expose horsemanSequenceAtoB + horsemanSequenceBtoA + cascadeActiveAtoB + cascadeActiveBtoA + repairAttemptsAtoB + repairAttemptsBtoA fields. Currently a single pair-scope tracker at composition. Empirically Gottman uses 6-behavior directional coding (each partner's speech acts observed independently). Filed for future substrate ship.
+
+**Sim-ai ship:** commit `d01887c` — 3 files changed +99 insertions. Test count 1715 → 1718.
+
+**RoomToLife ship:** 2 commits — `5373824` (vendor sync) + `efddc80` (composition symmetry). precheck GREEN. Rule 28 discipline preserved.
+
+**Framework methodology first:** first audit-driven per-Sim panel-symmetry ship at recursion depth 6 (post-Tier-8 audit revealed 3 gaps + 1 additional finding beyond operator's initial 3 flagged items). Full-panel enumeration → per-panel scope classification (directional vs pair-scope) → 3 items shipped.
+
 ---
 
 ## Council #9 methodology deployment structure
