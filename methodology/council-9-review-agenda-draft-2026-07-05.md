@@ -5280,6 +5280,57 @@ Post-ratification tooling shipped for full Rule 28 defense-in-depth per operator
 
 **Recommendation:** RATIFY at Council #9 (this batch or September window) as sibling to Item 154 Rule 28 canonization + Improvement 3 (Item 154 §7) shim.
 
+**§2 Post-ship meta-analysis + Tier 1-4 extensions (shipped 2026-07-11 sim-ai `bc51970`):**
+
+Operator directed 5-seed post-mortem demo sweep + meta-analysis to check for errors + shortcomings + room for improvement. First harness meta-analysis surfaced 10 improvements across 4 tiers. All 4 tiers shipped comprehensively.
+
+**Meta-analysis findings from initial 5-seed sweep (5 seeds × 3000 ticks, A×B):**
+- CRITICAL shortcoming: composition-scope blindness. Every seed reported hasEncountered=false forever because seedPairFirstEncounter is called at RoomToLife composition (IslandSimulation.tsx:590), not substrate. Resulted in 40% false-positive rate on colocation_without_encounter_after_threshold anomaly.
+- Rescue arcs entirely unexercised at 3000-tick horizon; M2 rescue-choice paths never fired.
+- No trajectory time-series in reports (endpoints + min/max only).
+- Missing disjoint-x-range detector — original Item 154 seed-42 defect pattern (A x=[1,11] vs B x=[16,28]) inferrable but not flagged explicitly.
+- Missing signal-for-rescue-heat detector — seed-100 sweep pattern (540 signals + 0 rescues) not surfaced.
+- Fixed archetypes only (A×B); no anchor-pair sweep runner for cross-anchor variance.
+- N=5 too small for stable meet-rate estimate.
+- External CI blocked by sim-ai local-only canonical discipline (no remote, no GH Actions possible per framework rule).
+
+**Tier 1 (defect-payoff) shipped:**
+- Composition-scope first-impression stub — substrate-safe minimal reproduction of RoomToLife's line 590-688 first-impression block. Fires seedPairFirstEncounter when Chebyshev first ≤ 3 + both Sims narratively present. Default ON. Idempotent (only fires once per session).
+- Rescue-offer injector — `--inject-rescue-offer-at-tick N --rescue-type helicopter|ship --rescue-for a|b`. Constructs valid RescueOffer per RESCUE_TYPE_CHARACTERISTICS. Unblocks M2 rescue-choice path.
+- Extended horizon default — 3000 → 6000 ticks. Rescue arcs emerge 5000+.
+
+**Tier 2 (observability) shipped:**
+- Trajectory sampling — chebyshev + sentimentAtoB + sentimentBtoA + coLocatedTicks + hasEncountered per N ticks (default 100). Markdown top-30 samples + JSON full series. Reveals reconvergence + sentiment-plateau patterns.
+- Disjoint-range detector — `positional_isolation` anomaly fires when Sim A + Sim B x-range or y-range never overlap.
+- Signal-for-rescue heat detector — `signal_for_rescue_without_rescue_outcome` fires when either Sim signals > 200 times with 0 rescue outcomes.
+
+**Tier 3 (test coverage) shipped:**
+- Anchor-pair sweep runner — `scripts/run-anchor-sweep.ts` iterates over configurable anchor pairs × seeds. Default canonical 6-pair × 5-seed = 30 runs. Aggregates meet rate + median first-encounter tick + rescue rate + death rate per pair.
+- Seed-variance aggregation — `lib/aggregate.ts` produces PerRunSummary + AnchorPairAggregate + SweepAggregate + renderSweepMarkdown. Full jq-friendly JSON dump.
+
+**Tier 4 (rigor) shipped:**
+- `--use-math-random` flag — non-deterministic RNG mode for stochastic exploration.
+- Local smoke script — `scripts/postmortem-smoke.sh` (smoke/full/sweep modes). Replaces external CI (blocked by local-only sim-ai canonical discipline).
+
+**Empirical validation post-Tier-1-4 (fresh 6-pair × 5-seed sweep at 6000 ticks):**
+- Overall meet rate 86.7% (26/30) — Tier 1 composition stub delivered massively vs pre-Tier-1 40% (2/5).
+- A×B (canonical seed-42-defect pair) is WORST at 60% meet rate + only pair with rescue (1/5 sim_b_rescued). Aligns with why seed-42 defect was hidden.
+- A×C + A×D + B×D all 100% meet — some anchor pairs reliably converge.
+- Overall rescue rate 3.3% (1/30) — rescue arcs still rare at 6000 tick horizon; suggests M2 rescue-choice observability requires --inject-rescue-offer-at-tick to exercise systematically.
+- 1.3 mean anomalies per run — mostly signal_for_rescue_without_rescue_outcome fires (real substrate observability).
+- Wall clock 118ms mean per run — 30 runs in 3.5s parallel.
+- Trajectory rendering reveals reconvergence patterns explicitly (e.g., seed 42 A×B: parallel to tick 2000, brief co-location 100-115 ticks, sentiment plateau at 0.06, then drift 8-13 Chebyshev with no re-meet).
+- Seed 42 sentimentAtoB === sentimentBtoA still symmetric (observed_together dominates); seed 999 finally shows asymmetric sentiment 0.514 vs 0.275 (composition stub unlocked directional events + longer co-location).
+
+**Tests:** 1685 → 1697 (+12 across Tier 1-4 regression coverage). Zero regressions on defensive-reducer + M13/M14 arcs. Audit clean.
+
+**Framework methodology first:** first same-session ship-post-mortem-detects-shortcomings-refine-and-reship cycle at improvement-scope. Meta-analysis discipline now operationalized: run the harness → identify shortcomings from real output → ship improvements → re-run harness → verify improvements. Recursive n-count on this discipline: n=1 (this session).
+
+**Cross-refs:**
+- Sim-ai commit `bc51970` — Tier 1-4 comprehensive ship.
+- Roomtolife vendor sync — vendor manifest verified 195/195 files.
+- Post 0197 recursion count HELD at n=11 (post-mortem harness is Post 0197 corollary; not a new independent count).
+
 ---
 
 ## Council #9 methodology deployment structure
