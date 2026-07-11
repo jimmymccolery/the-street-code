@@ -4065,6 +4065,65 @@ Framework Stage 3.8 architectural extension sibling to Items 146+147+148 (Stage 
 
 ---
 
+### Item 153 — Stage 3.8 M14 pre-encounter partner-signal navigation (sibling extension to Items 151+152; session-log seed-42 defect-driven)
+
+**Filed 2026-07-10 late.** Sibling scope extension to Items 151 (Stage 3.8 M1-M12 arc-complete canonization) and 152 (M13 successful-rescue departure narrative arc).
+
+**Origin:** Session-log `~/Desktop/sim-ai-island-session-seed-42-1166-entries-2026-07-11T04-05-51-788Z (1).json` post-mortem (following Item 152 shipping) surfaced a deeper pre-encounter defect. Statistical analysis of 1095 pre-rescue log samples:
+
+| metric | value |
+|---|---|
+| minimum Chebyshev distance ever pre-rescue | **7 cells** |
+| average distance | 14.57 cells |
+| samples at Chebyshev ≤ 5 | **0** |
+| samples at Chebyshev ≤ 3 (Willis-Todorov perception range) | **0** |
+| samples at Chebyshev ≤ 1 (co-shelter range) | **0** |
+| Sim A x-position range | [1, 11] (west half) |
+| Sim B x-position range | [16, 28] (east half) |
+
+Two Sims lived 9653 ticks (~6.7 game days) on the same 25×10 island in **completely disjoint x-ranges**. Neither Sim ever perceived the other. Cascade of consequences:
+- First-impression Chebyshev ≤ 3 gate never fired
+- Pair sentiment stayed 0/0 (co-location gate never triggered)
+- Co-shelter M3 preconditions (sentiment ≥ 0.4 both directions + Chebyshev ≤ 1) structurally impossible
+- Item 152's M13 UI fixes cannot help — Sims never got close enough for ANY loosened gate to fire
+
+**Root design gap:** substrate has `stay_near_friend` synthesis when sentiment ≥ threshold, but no PRE-encounter proactive-approach mechanic. Sim B's `signal_and_wait_for_partner` was the intended "come to me" — but Sim A had no counterpart "go investigate" mechanic. Two Sims on a small island with no reason to seek each other out.
+
+**Substrate changes (shipped this session at sim-ai `<M14 SHA>`):**
+- New `IslandActionId`: `investigate_partner_direction` (exploration class, 1-tick, no placeRequirement) — same shape as `move_toward_known_water`.
+- New state field: `state.knownPartnerDirection: { position, encodedAtTick, source } | null` — mirrored on both top-level (Sim A) and `SimStateSnapshot` (Sim B) per perspective-swap discipline (Post 0168 sub-shape 22).
+- Detection at `completeAction` for `search_horizon` / `climb_to_high_point` / `walk_beach` completions when partner has observable signal (fires present, hasShelter, or currentAction ∈ {`signal_and_wait_for_partner`, `signal_for_rescue`}). Coarse-direction snapshot: knows partner's position at scan tick, not exact ongoing tracking.
+- Synthesis at `decideNextAction` when `pair.hasEncountered = false` + `knownPartnerDirection` set + not in emergency. Weight = `1.5 * (E/100) * (0.5 + 0.5*log(1+daysAlone)) * distanceUrgency`. Extraverts + longer isolation + greater distance produce stronger pull.
+- Navigation via `stepTowardTarget` (shared with move_toward_known_water + stay_near_friend).
+- Stale-check: if partner has moved > 5 cells from recorded direction, clear `knownPartnerDirection` for next-scan refresh.
+- Clear-on-encounter: when `pair.hasEncountered` transitions to true, clear `knownPartnerDirection` — sentiment-driven `stay_near_friend` takes over.
+- Empirical harness `stage38M14PartnerSignalNavigation.test.ts` 8/8 PASS covering H1-H5.
+
+**Anchor stack:**
+- **NEW for M14:** Baumeister-Leary 1995 *Need to belong: Desire for interpersonal attachments as a fundamental human motivation* (Psychol Bull 117(3):497-529) — fundamental social-approach drive.
+- **NEW for M14:** Cacioppo-Hawkley 2010 *Perceived social isolation and cognition* (Trends Cogn Sci 14(9):447-454) — loneliness-as-motivator-for-approach mechanism justifies isolation-day pull scaling.
+- **NEW for M14:** Gigerenzer 2007 *Rationality for Mortals* — fast-and-frugal recognition heuristic justifies coarse-direction (vs exact-position) knowledge representation.
+
+**Framework flags per Rule 19:** Weight constant 1.5, HEXACO E scale factor, isolation-log scaling, distance-urgency clamps [0.2, 1.0], stale-check threshold 5 cells — all CALIBRATION-CHOICE. Not empirically-derived; set to compete with routine exploration (~0.5-1.0 weights) without dominating need-fulfillment (~2.0+ weights).
+
+**Cross-refs:**
+- Item 151 (Stage 3.8 M1-M12 architectural extension) — M14 is a scope-adjacent extension not amendment; independent RATIFY/DEFLATE at Council #9 September window.
+- Item 152 (M13 successful-rescue departure narrative arc) — M14 addresses the pre-encounter gap that made M13 relevant in seed-42 but non-firing.
+- session-log defect: `~/Desktop/sim-ai-island-session-seed-42-1166-entries-2026-07-11T04-05-51-788Z (1).json` (1166 entries).
+
+**Filing pattern (Rule 14):** Pattern B — ADOPT FOLD (default Rule 10 Conservative-Bias). Session-log defect-driven; 8/8 empirical harness PASS at substrate scope; all 1654 sim-ai tests PASS post-M14.
+
+**Falsification thresholds pre-registered:**
+- If Council #9 review finds Baumeister-Leary 1995 not primary anchor for pre-encounter approach at K=2 substrate: RATIFY M14 canonization but ABSORB into Item 151 amendment.
+- If M14 mechanism produces convergence-too-fast at 10k+ tick horizons (Sims meet within first day always, defeating exploration-diversity): REVISE weight constants downward + preserve mechanism.
+- If population-scale simulation shows M14 pull creates degenerate herding (5+ Sims all cluster immediately): REBOUND to Council #10 pending N-Sim empirical evidence.
+
+**Confidence calibration:** HIGH — 8/8 substrate harness PASS at defect coverage; full sim-ai suite 1654/1654 PASS; Rule 19 discipline applied throughout; anchor stack is well-established social psychology literature (not speculative extensions). Fixes empirically-observed pathology at defect-of-record.
+
+**Recommendation:** RATIFY at Council #9 September window as Stage 3.8 M14 canonization sibling to Items 151+152.
+
+---
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
