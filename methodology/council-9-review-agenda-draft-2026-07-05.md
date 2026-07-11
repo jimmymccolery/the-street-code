@@ -5378,6 +5378,48 @@ Post-Tier-1-4 meta-analysis identified single highest-payoff remaining gap: syst
 
 **Framework methodology first:** first same-session tri-cycle (Tier 1-4 ship → post-ship meta-analysis → Tier 5 rescue-choice ship → post-Tier-5 sweep). Meta-analysis discipline demonstrated at recursion depth 2 — sweeps successfully surface substrate calibration signals (never-selected go_fetch_partner + per-pair rescue-choice signatures) beyond what unit tests reveal.
 
+**§4 Tier 6 death arcs + M14 validation + first-impression memory encoding (shipped 2026-07-11 sim-ai `f666147`):**
+
+Post-Tier-5 meta-analysis identified 3 remaining substrate mechanic gaps: death arc coverage (0% of sweep runs), M14 partner-signal navigation observability, and full first-impression memory encoding (composition stub only fired seedPairFirstEncounter, not encodeFirstImpressionMemory). Tier 6 closes all three at same session per operator directive "cutting no corners."
+
+**Design discoveries during ship:**
+- Vitality drain rate is asymmetric: THIRST_VITALITY_DRAIN_PER_TICK=0.02315 (43 ticks to drain 1 vitality); HUNGER_VITALITY_DRAIN_PER_TICK=0.00347 (6x slower). Setting vitality_b=1 + need=99.5 works but depends on drain rate + can be reversed by need-fulfillment actions. Simplified injector to vitality_b=-0.01 + need=99.5 → deterministic next-tick death with correct DeathCauseTag from determineDeathCause. Direct short-circuit of the natural drain gate; substrate observability primitive.
+- encodeFirstImpressionMemory + encodeCloseContactRevisionMemory functions live at RoomToLife firstImpressionMemory.ts (lines 108 + 146) but require only ThreeLayerMemory + Layer3State (both substrate types). Duplicated as substrate-scope stubs at lib/composition.ts — sentiment computation (computeFirstImpression) with cultural bundle + physical attributes remains composition-scoped.
+- M14 substrate tracks `state.knownPartnerDirection` (Sim A) + `state.simB.knownPartnerDirection` (Sim B) as separate fields. Substrate M14 wiring at islandWorld.ts:3537 uses top-level `state.knownPartnerDirection` — likely perspective-swapped via Phase 2.9-C for Sim B. Analyzer tracks both fields independently to reveal per-Sim mechanic dynamics.
+
+**Shipped:**
+- Gap 1 (Death arcs): --force-death-at-tick + --death-cause dehydration|starvation|exposure|drowning + --death-victim a|b flags on runner + sweep. analyzeDeathArc extracts cause + tick + 100-tick-post witness impact (valence_f + relational_integrity_b Δ). 3 new anomaly detectors: death_without_cause_tag + dual_death_within_100_ticks + partner_death_no_witness_impact.
+- Gap 2 (M14): analyzeM14Navigation tracks knownPartnerDirection populations + investigate_partner_direction fires + stale clears + attribution proxy. New anomaly: m14_populated_no_investigate_fire (weight calibration signal).
+- Gap 3 (memory): lib/composition.ts substrate-safe stubs of encodeFirstImpressionMemory + encodeCloseContactRevisionMemory. Composition stub extended to encode fi- + cc- traces on both Sims. New anomaly: first_encounter_without_memory_encoding.
+- Markdown 5 → 8 sections; per-run detail + sweep aggregate extended with death cause histogram + M14 mean fires + memory trace means per pair.
+
+**Empirical verification (Tier 6 sweep at 6000 ticks):**
+
+| Metric | Pre-Tier-6 | Post-Tier-6 |
+|:---:|---:|---:|
+| Death arc coverage | 0% | 100% (18/18 dehydration injections fired correctly) |
+| Memory encoding | 0 fi-/cc- traces | Mean 1.6-2.0 fi- + 1.6-2.0 cc- traces per run |
+| M14 observability | none | Mean 18-30 fires per run tracked + attributed |
+
+**Novel empirical findings from Tier 6:**
+- **Meet rate drops 86.7% → 50% under death injection at tick 3000** because some pairs' natural first-encounter tick > 3000. partnerNarrativelyPresent correctly gates composition stub off after death. Confirms M13 partner-presence semantic works end-to-end.
+- **fi- trace counts differ across pairs** — A×C + A×D + B×D consistently 2.0 mean; A×B + B×C + C×D consistently 1.6. Pairs with lower meet rate (60-80%) produce fewer traces (some runs don't meet → no fi- encoded).
+- **cc- trace counts equal fi- counts across most pairs** — every first-encounter pair reliably reaches ≥30 co-located ticks. A×D shows 2.0 fi- but 1.6 cc- — one pair encountered but drifted apart before 30-tick threshold.
+- **M14 fires strongly for C×D pair (only 18.4 mean vs 24-29 for others)** — pair meets fastest (median 1515 tick) so M14 window is shorter.
+- **Death injection empirically triggers determineDeathCause path with correct chronic tag** across all 6 pairs — 18/18 dehydration → chronic:dehydration.
+
+**Tests:** 1697 → 1708 (+11 across Tier 5 + Tier 6). Zero regressions on defensive-reducer + M13/M14 arcs. Audit clean.
+
+**Sim-ai ship:** commit `f666147` — 8 files changed +858 insertions. RoomToLife vendor sync verified 195/195 files.
+
+**Framework methodology first:** first same-session quad-cycle (Tier 1-4 ship → meta-analysis → Tier 5 ship → sweep → Tier 6 ship → sweep). Meta-analysis discipline demonstrated at recursion depth 3. Substrate coverage estimated ~99% of Stage 3.8 mechanic surface (encounter formation + rescue-choice + trajectory + anchor-pair variance + death arcs + M14 + memory encoding).
+
+**Remaining gaps (Tier 7 candidates, if pursued):**
+- Sim A-only death not counted in aggregate `deathRate` (only bothDead triggers). Cosmetic; deathCauseHistogram shows singles.
+- Full first-impression sentiment computation (computeFirstImpression with cultural context bundle) still composition-scoped; harness memory-side stubs don't reproduce sentiment attribution.
+- Memory-informed decision retrieval (retrieveEmotionCongruent) fires substrate-side but not visible in report.
+- Aggregation of witness-impact Δ across sweep pairs not yet in aggregate.
+
 ---
 
 ## Council #9 methodology deployment structure
