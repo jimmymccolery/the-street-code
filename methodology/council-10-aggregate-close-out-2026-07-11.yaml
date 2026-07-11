@@ -1,0 +1,532 @@
+# Council #10 Aggregate Close-Out — Item 156 Group Substrate Architectural Extension
+#
+# Council: #10
+# Convened: 2026-07-11 (accelerated close pathway per operator directive; nominal window was September 2026)
+# Method: Rule 11 substrate-triangulated ratification (Grok DeepSearch + Claude Opus 4.8 ET + Perplexity Computer)
+# ChatGPT DR Substrate D: SKIPPED per CC recommendation (marginal yield ~10% after K=3 quorum achieved)
+# Duration: single-session evening deployment (2026-07-11)
+# Aggregate close-out written: 2026-07-11 late evening
+# Operator ratification signature: PENDING (see §12 below)
+
+council_10_scope:
+  primary_item: 156
+  primary_item_title: Group Substrate architectural extension (Tier 10 substrate + Tier 11 UI Group Panels)
+  primary_item_filing_repo_sha: the-street-code f7898e0
+  primary_item_architecture_spec_repo_sha: sim-ai a7a4e92
+  primary_item_scope: |
+    9 new state layers (PopulationTopology + ReputationLedger + CoalitionState + GroupCohesionState +
+    LeadershipEmergenceState + GroupIdentityState + MortalitySalienceState + OstracismState +
+    SocialSupportIndex) + 3 new rescue-choice modulator classes (group-size Latané + in-group Levine +
+    reputation Fowler-Christakis) + Layer 3 accumulator additions (ostracism-pain + cohesion-buffer +
+    in-group-affinity) + mortality mechanics extension (Holt-Lunstad hazard multiplier).
+  substrate_deployment_count: 3  # Grok + Opus + Perplexity (ChatGPT DR skipped)
+  aggregate_verification_records: 97  # Perplexity byte-level citation records
+  primary_source_urls_verified: 92  # 5/97 primary_source_url null (Landau 2011 chapter + Rapoport 1953 + 3 more)
+
+substrate_deployment_summary:
+  substrate_a_grok_deepsearch:
+    identity_verification_outcome: PARTIAL_UPGRADED_TO_SUBSTANTIVE
+    model_reported: grok-2 (inconsistent with tool access; substantively demonstrated grok-3/4 caliber output)
+    verdict: RATIFY-PROVISIONAL / MEDIUM confidence
+    material_findings_count: 5
+    novel_findings_beyond_agenda: 1  # Tier 9 UI tick-loop dependency
+    verdicts_archived: ~/Desktop/COUNCIL-10-DEPLOY/council-work/grok-verdicts.yaml
+  substrate_b_claude_opus:
+    identity_verification_outcome: PROCEED_WITH_RESIDUAL_FLAGS
+    model_reported: claude-opus-4-8 (CONFIG-asserted, not introspected)
+    extended_thinking: ACTIVE (OBSERVED)
+    context_window: UNVERIFIED
+    verdict: RATIFY-PROVISIONAL / MEDIUM_HIGH confidence
+    consistency_dimensions_completed: 8
+    material_findings_count: 6  # 3 K=3 convergences with Grok + 6 novel (Post 0146, Rule 27, N-Sim, RATIFY subset, Rule 28, Rule 19 flag class)
+    self_retracted_findings: 1  # Rule 25 spoofability novelty claim (canonical Rule 25 body already documents)
+    verdicts_archived: ~/Desktop/COUNCIL-10-DEPLOY/council-work/opus-verdicts.yaml
+  substrate_c_perplexity_computer:
+    identity_verification_outcome: PROCEED_WITH_MODEL_SWITCH_NOTED
+    model_reported: ChatGPT 5.6 Sol (mid-session model switch observed by operator)
+    model_switch_impact_on_output: UNIFORM_QUALITY_MAINTAINED (strict boolean schema throughout; primary_source_url present 92/97; fetched URLs in verification_notes throughout)
+    verdict: MOSTLY_VERIFIED (80.4% fully verified rate)
+    aggregate_citation_records: 97
+    citations_verified_all_5_booleans: 78
+    citations_needing_correction: 19
+    citations_still_unverified: 5
+    previously_unverified_now_verified: 8
+    material_findings_count: 10  # 10 substrate-C-novel findings (N-10 through N-20)
+    k3_convergences_with_grok_opus: 4  # Klein 2022, Holt-Lunstad extrapolation, Dunbar 150, Ostracism k zero-anchor
+    verdicts_archived: ~/Desktop/COUNCIL-10-DEPLOY/council-work/perplexity-verdicts.yaml
+  substrate_d_chatgpt_deep_research:
+    status: SKIPPED
+    rationale: |
+      CC recommended skip after K=3 quorum achieved on all 4 load-bearing items via Grok+Opus+Perplexity.
+      Marginal information yield estimated ~10%. Adversarial red-team scope already covered by Grok
+      (adversarial-skepticism) + Opus (consistency+refinement diverging from Grok on Holt-Lunstad).
+      Operator accepted skip; substrate maximalism (4 substrates) not empirically vindicated for this
+      Council; K=3 optimal per data.
+
+k3_convergences_across_grok_opus_perplexity:
+  convergence_1_klein_2022_tmt_failure:
+    grok_position: REJECT-STALE recommended
+    opus_position: |
+      Confirmed spec §8.1.6 already flags Klein 2022; H-group-11 15pp criterion structurally
+      BELOW Rule 27's ≥20% gate independent of replication; agenda re-includes MS in provisional
+      subset which spec's own v1 K=5 correctly excludes
+    perplexity_position: |
+      Klein 2022 primary VERIFIED at Collabra: Psychology 8(1):35271 (21 labs, N=2,281, failed
+      replication with original author involvement); Burke 2010 r=.35 "likely inflated by
+      publication bias" per Bayesian reanalyses
+    consensus_action: |
+      Ship Item 156 v1 K=5 subset EXCLUDING MortalitySalienceState per Opus N-5 finding
+      (spec's own v1 K=5 = balance + bystander + in-group + ostracism + social-support).
+      MS deferred until post-2022 replication yields survives.
+    load_bearing_impact: HIGH
+  convergence_2_holt_lunstad_extrapolation:
+    grok_position: INVALID EXTRAPOLATION; deflate β to 0.2-0.3
+    opus_position: |
+      Not invalid — standard endpoint-calibrated Cox hazard form is defensible continuous
+      extension of dichotomous OR. Real defects: (a) OR overstates HR/RR for common outcomes
+      (mortality common in sim); (b) missing per-tick timescale calibration; converges on
+      "needs recalibration" but diverges on invalidity
+    perplexity_position: |
+      All primary values VERIFIED at PLoS Med 7(7):e1000316 (k=148, N=308,849, OR=1.50 CI
+      1.42-1.59, structural OR=1.57, functional OR=1.46, multidim OR=1.91 CI 1.63-2.23,
+      follow-up 7.5y); BUT: "Converting Holt-Lunstad odds ratios / relative risks into a
+      continuous per-tick hazard multiplier is a modeling assumption, not a source-reported quantity"
+    divergence_resolution: |
+      Perplexity's "modeling assumption not source-reported" corroborates Opus's "extrapolation
+      form is defensible but IS an extrapolation." Grok's downward-deflation instinct is CORRECT
+      (OR overstates HR for common outcomes) but Grok's stated mechanism (invalidity) is WRONG.
+      K=3 quorum synthesis: needs new EMPIRICAL-TRANSLATION flag + deflate β to 0.2-0.3 OR add
+      explicit timescale calibration + document endpoint-calibration methodology.
+    load_bearing_impact: HIGH
+    proposes_new_rule_19_flag_class: EMPIRICAL-TRANSLATION (Opus N-7)
+  convergence_3_dunbar_150:
+    grok_position: implicit via general concerns
+    opus_position: not directly at 150-figure level
+    perplexity_position: |
+      Lindenfors-Wartel-Lind 2021 Biology Letters 17:20210158 VERIFIED: best estimate 69.2,
+      95% CI 3.8-292.0; "no support for a single ~150 limit." PLUS Perplexity NOVEL:
+      148/150 human number is MIS-ATTRIBUTED to Dunbar 1992; the figure actually appears in
+      Dunbar 1993 (co-evolution paper). Dunbar 1992 has only r²=0.764 regression across 38 genera.
+    consensus_action: |
+      Model cognitive group-tracking as wide-CI per-Sim parameter (100-250 range with wide
+      individual variance) NOT a hard 150 constant. Re-cite Dunbar 1993 for the 148/150 figure,
+      not Dunbar 1992.
+    load_bearing_impact: MEDIUM
+  convergence_4_ostracism_k_zero_anchor:
+    grok_position: |
+      k_ostracism ≈ 0.5, k_valence ≈ 0.3, k_integrity ≈ 0.2 are pure designer calibration
+      with ZERO primary empirical anchor. Williams 2001/2007 + Eisenberger 2003 support
+      DIRECTION of effect but NOT magnitudes.
+    opus_position: |
+      K2-REQUIRED HIGH priority. Do NOT ship Tier 10 with un-corroborated. Sensitivity sweep
+      3-value (0.3/0.5/0.7) recommended.
+    perplexity_position: |
+      Eisenberger 2003 Science 302(5643):290-292 dACC-overlap finding VERIFIED — but explicitly:
+      "this neuroimaging dACC-overlap finding provides no quantitative stress constants;
+      converting it into a per-tick stress multiplier is not supported by the source."
+    consensus_action: |
+      K=3 quorum confirms ZERO primary anchor. Retain as CALIBRATION-CHOICE explicitly flagged.
+      3-value sensitivity sweep in Non-Inertness Gate harness. Consider RETIRE-STALE if sweep
+      shows constants dominate substrate behavior arbitrarily.
+    load_bearing_impact: HIGH
+
+opus_substrate_b_novel_findings:
+  n_1_rule_25_spoofability_retracted:
+    status: RETRACTED
+    rationale: |
+      Opus's intake-time meta-critique that Rule 25 "gates on self-report + is spoofable" was
+      NOT novel — canonical Rule 25 body already declares self-attestation UNENFORCEABLE +
+      mandates operator-side manual verification. Substrate self-discipline example; no
+      candidacy pathway needed.
+  n_2_post_0146_framework_wide_misattribution:
+    finding: |
+      MEMORY_INFORMED_MODULATION_MAGNITUDE (±30% coupling bound) is real (file 04 line 249,
+      Item 155 precedent) but NOT in Post 0146. Post 0146 is a conceptual essay containing
+      no numeric Layer-4→5 coupling spec. Item 156 agenda line 52 + spec §3.3 line 188 + §4.3
+      line 734 all mis-attribute. File 04 ALSO mis-cites. Predates + exceeds Item 156.
+    impact: FRAMEWORK_WIDE
+    candidacy_pathway: |
+      Council #11 Item 159 — Post 0146 ±30% re-attribution + framework-wide grep
+      "per Post 0146" and correct to actual definition site.
+  n_3_rule_27_category_slippage:
+    finding: |
+      Rule 27's precedent measures K/N over NAMED OUTPUT VARIABLES within one harness
+      (H-mem-7: 3/3 = {totalEncoded, longFrac, meanValence}; H-rescue-6: 3/4 rescue-choice
+      channels). Item 156 constructs K/N over separate HYPOTHESES (conflates hypothesis
+      with channel). N=8 never enumerated. K=5/N=8 = 62.5% below precedent band (75-100%).
+      v2 K=9/N=15 miscounts H-11 (15pp below 20% gate) + H-6 (correlation orthogonal to
+      differentiation).
+    impact: FRAMEWORK_WIDE
+    candidacy_pathway: |
+      Council #11 Item 160 — Rule 27 clarification pinning "channel" = named output variable +
+      K/N floor of 75-100% precedent band + separate gate-channels from validity-hypotheses.
+  n_4_agenda_vs_spec_epistemic_compression:
+    finding: |
+      Spec (file 02) markedly more rigorous than agenda (file 00). Agenda drops caveats spec
+      carries (Klein 2022 flag §8.1.6, MS SPECULATIVE §8.1.5, N-Sim tick-loop dependency
+      §8.2.7). 2 of Grok's 5 findings ALREADY IN SPEC. Consumer adjudicating off agenda alone
+      over-rates confidence + mis-specifies provisional subset.
+    impact: FRAMEWORK_WIDE
+    candidacy_pathway: |
+      Council #11 Item 161 — Rule 20 extension mandating consumer-side caveat re-attachment
+      when compressed surface routes to ratification consumers, OR reconciliation of
+      compressed surface up to spec's caveat level at filing time.
+  n_5_provisional_subset_contradiction:
+    finding: |
+      Agenda's RATIFY-PROVISIONAL fallback {social support + ostracism + MS} contradicts
+      spec's own v1 K=5 (which correctly EXCLUDES MS given Klein 2022 non-replication).
+      Agenda re-includes the layer spec deliberately dropped.
+    impact: ITEM_156_LOCAL
+    action_applied: |
+      Provisional ship uses spec's v1 K=5 (balance + bystander + in-group + ostracism +
+      social-support), NOT agenda's {social support + ostracism + MS}. Applied at close-out.
+  n_6_rule_28_enforcement_gap:
+    finding: |
+      Item 156 endorses Rule 28 conceptually + explicit per-layer example (§4.1) but does
+      NOT enumerate reducer paths OR per-field preservation tests OR grep audit for 9 new
+      nested layers (Beta params, Axelrod F=8×q=5 vector, 4-needs, SNI 4-factor). Compliance
+      DEFERRED to implementation. Item 154 defect-of-record is the exact silent-field-nuke
+      bug this multiplies ~9×.
+    impact: FRAMEWORK_WIDE (Rule 28 enforcement pattern)
+    candidacy_pathway: |
+      Council #11 Item 162 — Rule 28 enforcement pattern for architectural extensions:
+      per-field preservation regression tests + reducer-audit grep clean as ship gate
+      BEFORE landing PR.
+  n_7_rule_19_empirical_translation_flag_class:
+    finding: |
+      Holt-Lunstad OR→per-tick-hazard translation carries neither SPECULATIVE-EXTRAPOLATION
+      NOR CALIBRATION-CHOICE flag; while trade-book citation statuses are flagged. Load-bearing
+      modeling assumption without existing flag category.
+    impact: FRAMEWORK_WIDE (Rule 19 flag taxonomy)
+    candidacy_pathway: |
+      Council #11 Item 163 — Rule 19 new flag class EMPIRICAL-TRANSLATION covering
+      OR→hazard, dichotomous→continuous, ratio→per-tick-rate mappings that are defensible
+      form but not source-reported quantities.
+  n_8_fire_11_deployment_framing:
+    finding: |
+      CC's deployment prompt bound "recursion count n=11" (Post 0197 corollary, file 04 line
+      94) with "Fire #11" (Rule 26 empirical foundation = Item 149 REBOUND, rules file line
+      1571) — unrelated entities. Item 156 itself (agenda line 79, spec §5 line 768, §8.3
+      line 988) says only "recursion count n=11 HELD" — no "Fire #11." Conflation in CC
+      framing layer; Item 156 itself is clean.
+    impact: CC_FRAMING_SCOPE_ONLY (not Item 156 defect)
+    candidacy_pathway: NO_COUNCIL_CANDIDACY. CC framing discipline note only.
+  n_9_rule_19_fable_5_unverified:
+    finding: |
+      "Rule 19 = Fable-5-audit precedent" (operator profile framing) UNVERIFIED against
+      provided 7-file corpus. Canonical Rule 19 = Marcus Reed Protocol (2026-06-07 Marcus
+      Reed Stage-1 council). "Fable-5-audit / 100%-wrong-correction / n=2 CC-authored-
+      citations" not in Rule 19 body or elsewhere in provided files (may be in un-provided
+      memory file).
+    impact: CC_FRAMING_SCOPE_ONLY
+    candidacy_pathway: NO_COUNCIL_CANDIDACY. CC framing discipline note only — refer to
+      Rule 19 by canonical name Marcus Reed Protocol when precision matters.
+
+perplexity_substrate_c_novel_findings:
+  n_10_sabater_sierra_completely_wrong:
+    finding: |
+      Two co-authors (J. Sabater [Jordi Sabater-Mir] + C. Sierra [Carles Sierra]) wrongly
+      fused into hyphenated surname. Venue WRONG: Artificial Intelligence Review 24(1):33-60,
+      NOT "Autonomous Agents and Multi-Agent Systems." MISATTRIBUTION: RepAge (private_image
+      /public_reputation dual-channel) is a SEPARATE 2006 JASSS paper (Sabater-Mir, Paolucci
+      & Conte), NOT the 2005 review being cited.
+    impact: ITEM_156_LOCAL + FRAMEWORK_WIDE (any other "Sabater-Sierra" citations)
+    action_applied: |
+      Item 156 spec §3.9 corrected to Sabater-Mir, Paolucci & Conte 2006 JASSS for RepAge
+      + Sabater & Sierra 2005 AI Review for general trust/reputation survey.
+      Framework-wide grep "Sabater-Sierra" scheduled Council #11 Item 158.
+  n_11_girvan_newman_2002_modularity_threshold_misattribution:
+    finding: |
+      Q≥0.3 modularity threshold does NOT appear in Girvan-Newman 2002 (PNAS 99(12):7821-7826);
+      threshold originates Newman & Girvan 2004 (Phys Rev E 69:026113).
+    impact: ITEM_156_LOCAL (H-group-5 hypothesis anchor)
+    action_applied: |
+      Item 156 spec H-group-5 anchor corrected to Newman & Girvan 2004 for Q≥0.3.
+      Framework-wide grep "Girvan-Newman 2002" for Q≥0.3 scheduled Council #11 Item 158.
+  n_12_judge_2002_sample_effect_wrong:
+    finding: |
+      k=222 correlations from 73 samples (78 studies), NOT k=271 as framework claims.
+      Multiple R=.48 → R²≈.23 (23%), not "26%" as framework claims.
+      Extraversion .31 / Conscientiousness .28 / Openness .24 DO match.
+    impact: FRAMEWORK_WIDE
+    action_applied: Framework-wide grep "Judge 2002 k=271" or "26%" scheduled Council #11 Item 158.
+  n_13_latane_1981_canonical_04_not_in_primary:
+    finding: |
+      Latané social-impact exponent primary reports domain-specific values: bystander
+      cube-root (0.33), conformity 0.46, stage-fright 0.52. "canonical .4" and "t range
+      .25-.5" NOT in primary. Framework's t=0.4 is CALIBRATION-CHOICE not source-supported.
+    impact: ITEM_156_LOCAL (group-size Latané modulator anchor)
+    action_applied: |
+      Item 156 spec group-size modulator re-framed as CALIBRATION-CHOICE within [0.33, 0.52]
+      domain-dependent range with per-domain justification.
+  n_14_levine_2002_beta_unsupported:
+    finding: |
+      Levine 2002 primary is qualitative-experimental paper with NO reported β or
+      multiplicative modifier. "β ~ .5" and "~20 percentage-point" NOT in paper.
+    impact: ITEM_156_LOCAL (β_ingroup in-group modulator anchor)
+    action_applied: |
+      Item 156 spec β_ingroup=0.5 re-flagged as CALIBRATION-CHOICE (removes Levine 2002
+      as quantitative anchor; retains as directional-effect anchor).
+  n_15_hollander_1958_beta_likability_fabricated:
+    finding: |
+      Hollander 1958 defines "Alpha value" (Va = weight of current performance/competence);
+      α=competence supported. "Beta = likability" is NOT Hollander's terminology; unsupported
+      attribution.
+    impact: ITEM_156_LOCAL (F0 leadership_emergence anchor; superseded by roadmap Cluster F2)
+    action_applied: |
+      Item 156 spec Hollander citation removes "β=likability" attribution; retains α=competence.
+      Cluster F2 dominance/prestige dual-axis (Phase 1) replaces Hollander single-axis entirely,
+      resolving the fabricated attribution issue at the architecture level.
+  n_16_kiecolt_glaser_marital_claims_unsupported:
+    finding: |
+      "female 1.3x" and "bad marriage worse than none" NOT in primary abstract.
+    impact: LOW
+    action_applied: |
+      Item 156 spec + framework-wide grep "female 1.3x" scheduled Council #11 Item 158;
+      no immediate ship blocker.
+  n_17_darley_latane_1968_alone_condition_correction:
+    finding: |
+      Actual alone-condition = 85% (before cutoff), NOT 100% as framework states. Framework
+      CONFLATED seizure study (Darley & Latane 1968, JPSP 8(4):377-383) with smoke-filled-
+      room study (Latane & Darley 1968, JPSP 10(3):215-221) — different papers.
+    impact: LOW-MEDIUM
+    action_applied: Item 156 spec correction (85% not 100%) + citation disambiguation of two papers.
+  n_18_eisenberger_2003_no_quantitative_stress_constants:
+    status: K=3_CONVERGENCE (see §k3_convergences_across_grok_opus_perplexity convergence_4)
+  n_19_rapoport_1953_unidentified:
+    finding: |
+      Author is Anatol Rapoport; specific work cannot be pinned. Two candidates: "Spread of
+      information through a population..." Bull Math Biophysics 15:523-546 (most likely) OR
+      "Operational Philosophy" Harper 1953.
+    impact: LOW
+    action_applied: |
+      Item 156 spec Rapoport 1953 citation flagged UNVERIFIED with re-cite pending
+      identification. Council #11 Item 158 framework-wide clarification.
+  n_20_landau_2011_chapter_unverified:
+    finding: |
+      Landau/Kosloff/Schmeichel 2011 TMT self-regulation chapter — exact chapter title/
+      editors/pages/publisher NOT confirmed at primary source.
+    impact: MEDIUM (compounds with Klein 2022 + Opus SPECULATIVE-EXTRAPOLATION flag for
+      chronic-vs-acute MS distinction; MortalitySalienceState substrate now triply-flagged)
+    action_applied: |
+      Reinforces MS EXCLUSION from v1 K=5 ship subset. Landau 2011 anchor treated as
+      UNVERIFIED until pinned at primary source.
+
+item_156_ratification_decision:
+  disposition: RATIFY-PROVISIONAL
+  aggregate_confidence: MEDIUM_HIGH
+  substrate_convergence: |
+    Grok (RATIFY-PROVISIONAL / MEDIUM) + Opus (RATIFY-PROVISIONAL / MEDIUM_HIGH) +
+    Perplexity (MOSTLY_VERIFIED at 80.4%) → aggregate RATIFY-PROVISIONAL / MEDIUM_HIGH.
+    All 3 substrates independently reach ratification pathway.
+
+  six_hard_gates_for_provisional_ship:
+    gate_1_non_inertness_gate_rederivation:
+      description: |
+        Enumerate N as named output variables per H-mem-7/H-rescue-6 precedent format.
+        Separate NON-INERTNESS-GATE channels (must show ≥20% differentiation) from
+        VALIDITY hypotheses (accuracy/correlation/stability). Only former feed K/N gate count.
+        EXCLUDE H-group-11 from gate accounting (15pp criterion structurally below ≥20%).
+        RECLASSIFY H-group-3/H-group-4/H-group-5/H-group-6/H-group-13 as validity hypotheses
+        NOT gate channels. Recompute v2 (expect K well below 9).
+      responsible_actor: Item 156 spec author (CC + operator) at implementation start
+      completion_check: enumerated channel list + recomputed K/N at spec revision commit
+    gate_2_holt_lunstad_extrapolation_flag_and_recalibration:
+      description: |
+        Add EMPIRICAL-TRANSLATION flag (new flag class per Opus N-7 / Council #11 Item 163)
+        to Holt-Lunstad OR→per-tick-hazard mapping. Either (a) deflate β to 0.2-0.3 per
+        OR>HR common-outcome correction OR (b) add explicit timescale-calibration step
+        pinning cumulative sim-horizon mortality to empirical effect. K=2 verify.
+      responsible_actor: Item 156 spec author at implementation start
+      completion_check: EMPIRICAL-TRANSLATION flag present + β choice documented + calibration harness
+    gate_3_rule_28_ship_gate:
+      description: |
+        Enumerate reducer paths for all 9 nested layers NOW at design-time. Per-field
+        preservation regression tests (≥1000-iter for hot-path per pairFieldPreservation.test.ts
+        precedent). Reducer-audit grep clean across 9 layers before landing PR.
+      responsible_actor: Item 156 Tier 10 substrate implementation ship gate
+      completion_check: grep + test suite pass documented in ship commit
+    gate_4_n_sim_tick_loop_refactor:
+      description: |
+        N-Sim tick-loop refactor (Grok Tier-10.5) as explicit prerequisite gating Tier-11
+        Group Panels. Resolve sim-ai/src/sim-ai/scenes/island/islandWorld.ts tickIslandWorld
+        A/B hardcoding first (currently tickSingleSim + tickSimB hardcoded paths).
+      responsible_actor: Item 156 Tier 10.5 implementation before Tier 11 Group Panels
+      completion_check: N-Sim tick loop capability demonstrated in unit test
+    gate_5_post_0146_reattribution_and_composite_ceiling:
+      description: |
+        Framework-wide fix: re-point every "±30% per Post 0146" citation to actual
+        MEMORY_INFORMED_MODULATION_MAGNITUDE definition site (code constant OR different
+        Post). Includes retroactive fix at file 04 line 249 (Item 155 precedent). +
+        Composite modulation ceiling for 9-modulator rescue-choice softmax (individual
+        ±30% per modulator + composite cap so no single decision dominated by stacked
+        modulators).
+      responsible_actor: Council #11 Item 159 processing + Item 156 spec author
+      completion_check: framework-wide grep clean + composite ceiling specified in spec
+    gate_6_k2_calibration_constants_verification:
+      description: |
+        K=2 cross-substrate quorum on HIGH-priority calibration constants BEFORE Tier 10
+        ship: ostracism k-constants (K=3 already confirms ZERO primary anchor),
+        Cartwright-Harary flip-alpha rate (no primary estimate), Holt-Lunstad translation
+        (K=3 confirms extrapolation). 3-value sensitivity sweep in Non-Inertness Gate
+        harness required.
+      responsible_actor: Item 156 Tier 10 substrate implementation
+      completion_check: sensitivity sweep results documented in harness pass report
+
+  v1_ship_subset_correction:
+    original_agenda_fallback: {social_support, ostracism, mortality_salience}  # WRONG per Opus N-5
+    corrected_v1_ship_subset: {balance, bystander, in_group, ostracism, social_support}  # SPEC's own v1 K=5
+    mortality_salience_disposition: |
+      DEFERRED indefinitely per K=3 quorum (Grok REJECT-STALE + Opus SPECULATIVE-EXTRAPOLATION +
+      Perplexity Klein 2022 verification + Landau 2011 UNVERIFIED). Re-consider only if
+      post-2022 TMT research produces preregistered replication success at N>2000.
+
+  citation_corrections_applied_to_item_156_spec_and_agenda:
+    - N-10 Sabater-Sierra → Sabater-Mir/Paolucci/Conte 2006 JASSS for RepAge
+    - N-11 Girvan-Newman 2002 → Newman-Girvan 2004 for Q≥0.3 modularity threshold
+    - N-13 Latané t=0.4 → CALIBRATION-CHOICE within [0.33, 0.52] domain-dependent range
+    - N-14 Levine 2002 β_ingroup → CALIBRATION-CHOICE (removes quantitative anchor claim)
+    - N-15 Hollander β=likability → removed (retain α=competence only; superseded by F2 anyway)
+    - N-17 Darley-Latane 1968 100% → 85% + citation disambiguation vs smoke-study
+    - N-5 Provisional subset → spec v1 K=5 (excludes MS) not agenda fallback
+    - Dunbar 1992 → Dunbar 1993 for 148/150 (K=3 sub-finding)
+
+council_11_candidacies_filed:
+  item_158_framework_wide_citation_hygiene_audit:
+    scope: |
+      Primary-source verification pass across all canonical Posts + Council items + spec
+      files. Grep for known drift patterns (author fusion, year misattribution, constant
+      misattribution to wrong year, fabricated attributions). Substrate C's 10 findings
+      (N-10 through N-20 excluding N-18) provide initial coverage; extend to full corpus.
+    scoping_agents: |
+      Recommend Perplexity Computer with strict boolean schema (proven at 80.4% verified
+      rate in Council #10) OR ChatGPT DR with citation-verification role. Estimate 2-4hr
+      substrate time for full corpus.
+    priority: HIGH (composes with Item 159)
+  item_159_post_0146_reattribution_framework_wide:
+    scope: |
+      Re-point every "per Post 0146" citation for ±30% coupling / MEMORY_INFORMED_MODULATION_
+      MAGNITUDE / Layer-4→5 numeric spec to actual definition site. Framework-wide grep +
+      correction. Amend Post 0146 canonical body OR leave as conceptual essay per Opus's
+      option (b) which is cheaper + more honest.
+    priority: HIGH
+  item_160_rule_27_category_slippage_clarification:
+    scope: |
+      Rule 27 canonical body clarification: pin "channel" = named output variable within
+      one harness (not hypothesis). State K/N floor as 75-100% precedent band. Add usage
+      note preventing hypothesis-vs-channel category-slippage in future architectural
+      extensions.
+    priority: MEDIUM_HIGH
+  item_161_agenda_vs_spec_compression_discipline_rule_20_extension:
+    scope: |
+      Rule 20 extension mandating consumer-side caveat re-attachment when compressed
+      surface routes to ratification consumers, OR reconciliation of compressed surface
+      up to spec's caveat level at filing time.
+    priority: MEDIUM
+  item_162_rule_28_enforcement_pattern_for_architectural_extensions:
+    scope: |
+      Formalize Rule 28 enforcement pattern for architectural extensions with N new
+      nested state fields: mandate reducer-path enumeration + per-field preservation
+      regression tests + reducer-audit grep clean as PR-blocking ship gate. Amend Rule 28
+      body with enforcement mechanism.
+    priority: MEDIUM
+  item_163_rule_19_empirical_translation_flag_class:
+    scope: |
+      New Rule 19 flag class EMPIRICAL-TRANSLATION covering OR→hazard, dichotomous→
+      continuous, ratio→per-tick-rate mappings that are defensible form but not source-
+      reported quantities. Distinct from SPECULATIVE-EXTRAPOLATION (which covers
+      construct-level SPECULATIVE mappings) and CALIBRATION-CHOICE (which covers
+      designer-set constants).
+    priority: MEDIUM
+
+council_11_scheduling:
+  nominal_window: September 2026 or accelerated per operator judgment
+  scope: 6 filed items + any additional filings before window
+  substrate_strategy: |
+    K=3 optimal empirically vindicated in Council #10; recommend Grok + Opus + Perplexity
+    with roles same as Council #10 (adversarial + consistency + byte-verification). ChatGPT
+    DR skip unless a specific item benefits from adversarial-red-team scope.
+
+post_0197_recursion_counter:
+  current_value: n=11 (per Item 155 precedent, held pending Tier 10 substrate harness clearance)
+  status_at_council_10_close: n=11 HELD (Item 156 ratification is provisional; harness
+    clearance is one of the 6 hard gates)
+  increment_criterion_clarification_needed: |
+    Council #11 Item 160-adjacent — Opus N-8 finding: recursion-increment rule (independent
+    vs corollary) is asserted but never defined. Consider retiring the counter (per CC's
+    prior waste-mode critique that beyond ~n=5-7 the counter is performative) OR canonize
+    the increment criterion. Filed as observation for Council #11 agenda.
+
+framework_methodology_firsts_at_council_10_close:
+  first_council_10_convened_via_accelerated_close: |
+    Same-session substrate deployment + aggregate close-out at 5-day evidence horizon
+    (Council #9 closed 2026-07-10 → Council #10 opened + closed 2026-07-11).
+  first_k3_substrate_quorum_achieved_at_council_scale: |
+    3 substrates (Grok + Opus + Perplexity) each returning substantive verdicts with K=3
+    convergence on 4 load-bearing findings.
+  first_grok_opus_divergence_resolved_by_perplexity: |
+    Holt-Lunstad "invalid extrapolation" (Grok) vs "defensible endpoint-calibrated Cox
+    form" (Opus) resolved by Perplexity Depth-0: "modeling assumption not source-reported"
+    (corroborates Opus framing + Grok downward-deflation instinct).
+  first_substrate_self_retraction_documented: |
+    Opus retracted its own intake-time Rule 25 spoofability novelty claim after Depth-0
+    reading of canonical Rule 25 body which already documents self-attestation unenforceable.
+  first_perplexity_computer_model_switch_observed_and_documented: |
+    Operator observed mid-session model switch (base model → ChatGPT 5.6 Sol); output
+    quality UNIFORM throughout demonstrating switch did NOT compromise verification.
+  first_10_novel_citation_hygiene_findings_surfaced_via_depth_0: |
+    Substrate C's byte-level primary-source verification surfaced 10 novel citation
+    corrections (Sabater-Sierra fusion, Girvan-Newman 2002 vs 2004, Dunbar 1992 vs 1993,
+    Judge 2002 k=222, Latané 0.4 not in primary, Levine β=.5 unsupported, Hollander
+    β=likability fabricated, Kiecolt-Glaser marital claims, Darley-Latane 85%, Eisenberger
+    no quantitative constants) not accessible via Depth-1 parametric recognition alone.
+  first_4_framework_wide_citation_drift_patterns_identified: |
+    Author fusion + year misattribution + constant misattribution to wrong year + fabricated
+    attributions — composes into Council #11 Item 158 framework-wide citation hygiene audit.
+  first_5_framework_scale_amendments_filed_from_single_council: |
+    Council #11 Items 159 (Post 0146) + 160 (Rule 27) + 161 (Rule 20 extension) + 162
+    (Rule 28 enforcement) + 163 (Rule 19 EMPIRICAL-TRANSLATION flag) + 158 (citation
+    hygiene audit) = 6 framework-scale filings from Council #10 substrate divergence.
+
+operator_ratification_signature:
+  status: PENDING
+  operator_name: Jimmy McColery
+  operator_email: jimmy.mccolery@icloud.com
+  ratification_date: null  # to be filled at operator signature
+  disposition_confirmed: null  # RATIFY-PROVISIONAL expected
+  hard_gates_acknowledged: null  # all 6 expected acknowledged
+  citation_corrections_applied: null  # 8 expected applied to spec+agenda
+  council_11_candidacies_confirmed: null  # 6 items expected filed
+  ready_for_phase_1_implementation: null  # roadmap Phase 1 F2 → F1 → F5 → D5 → D3 → B2 → D4 → F4
+
+close_out_signature_block: |
+  This Council #10 aggregate close-out synthesizes 3 substrate deployments (Grok DeepSearch
+  adversarial + Claude Opus 4.8 Extended Thinking consistency + Perplexity Computer with
+  ChatGPT 5.6 Sol Depth-0 byte-verification) across 5 days evidence horizon (Council #9
+  closed 2026-07-10 → Council #10 same-day opened + closed 2026-07-11 late evening) at
+  accelerated close pathway per operator judgment.
+
+  Item 156 Group Substrate architectural extension is RATIFY-PROVISIONAL / MEDIUM_HIGH
+  confidence subject to 6 hard gates (Non-Inertness Gate re-derivation, Holt-Lunstad
+  extrapolation flag + recalibration, Rule 28 ship gate, N-Sim tick-loop refactor, Post
+  0146 re-attribution + composite ceiling, K=2 calibration constants verification).
+
+  Ship subset corrected to spec's own v1 K=5 (balance + bystander + in-group + ostracism +
+  social-support), NOT agenda's fallback which mis-included MortalitySalienceState.
+  MortalitySalienceState DEFERRED indefinitely per K=3 quorum on Klein 2022 non-replication.
+
+  6 Council #11 candidacy items filed: framework-wide citation hygiene audit (Item 158) +
+  Post 0146 re-attribution (159) + Rule 27 category-slippage clarification (160) + Rule 20
+  compression discipline extension (161) + Rule 28 enforcement pattern (162) + Rule 19
+  EMPIRICAL-TRANSLATION new flag class (163).
+
+  Roadmap Phase 1 lifelikeness enrichment (8 mechanisms in dependency order F2 → F1 → F5 →
+  D5 → D3 → B2 → D4 → F4) approved by operator + composed with Item 156 as Cluster F.
+  Phase 1 implementation cleared to start with F2 dominancePrestigeDualHierarchy as first
+  mechanism.
+
+  Substrate-triangulated ratification pattern (Rule 11) empirically vindicated at 3-substrate
+  scope. K=3 optimal for Council-scale deployments; ChatGPT DR skip decision confirmed by
+  Council #10 outcome (K=3 quorum achieved on all 4 load-bearing items without D substrate).
+
+  END OF AGGREGATE CLOSE-OUT.

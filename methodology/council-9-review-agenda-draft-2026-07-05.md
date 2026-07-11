@@ -5550,19 +5550,19 @@ Comprehensive audit run across ALL panels in `IslandStage345Panels.tsx` (26 expo
 Group Substrate extends existing pair-relational plane with world-scope + per-Sim state layers:
 
 - `PopulationTopology` (signed graph per Cartwright-Harary 1956 balance theorem)
-- `ReputationLedger` (dual-channel private image / public reputation per Sabater-Sierra 2005 RepAge + standing strategy per Panchanathan-Boyd 2004)
+- `ReputationLedger` (dual-channel private image / public reputation per Sabater-Mir, Paolucci & Conte 2006 JASSS RepAge — Council #10 Perplexity N-10 correction: prior citation "Sabater-Sierra 2005" wrongly fused two co-authors (J. Sabater + C. Sierra) into hyphenated surname AND wrong venue AND RepAge is 2006 JASSS paper not 2005 AI Review; standing strategy per Panchanathan-Boyd 2004)
 - `CoalitionState` (Caplow 1968 8-configuration + Palla et al 2005 k-clique overlapping communities)
 - `GroupCohesionState` (Elder 1974 low-resource-tail amplification)
-- `LeadershipEmergenceState` (Hollander 1958 idiosyncrasy credits + Bass 1990 trait predictors + Van Vugt-Ahuja 2010 followership heuristics)
+- `LeadershipEmergenceState` (Hollander 1958 idiosyncrasy credits [α=competence supported; β=likability attribution FABRICATED per N-15, removed] + Bass 1990 trait predictors + Van Vugt 2006 PSPR — **Council #10 supersession: single-axis leadership REPLACED by Cluster F2 dominance/prestige dual-axis in roadmap Phase 1** per Cheng-Tracy-Foulsham-Kingstone-Henrich 2013 JPSP + Van Vugt-Hogan-Kaiser 2008 Am Psych + Little 2007 EHB + McClanahan-Maner-Cheng 2022 PSPB — both Grok and Opus substrates flagged single-axis as issue; roadmap addresses via dominance_rank + prestige_rank independent scalars with task-conditional followership softmax)
 - Per-Sim `GroupIdentityState` (Tajfel-Turner 1979 SIT + Axelrod 1997 cultural markers + Brewer 1999 in-group/out-group decoupling)
-- Per-Sim `MortalitySalienceState` (Greenberg-Pyszczynski-Solomon 1986 TMT + Landau-Kosloff-Schmeichel 2011 chronic-vs-acute distinction — LOAD-BEARING for island survival context)
+- Per-Sim `MortalitySalienceState` — **DEFERRED indefinitely per Council #10 K=3 substrate quorum**: Klein et al 2022 *Collabra: Psychology* 8(1):35271 Many-Labs-4 N=2,281 21-lab failed replication WITH original author involvement (Perplexity Depth-0 VERIFIED); Burke 2010 r=.35 "likely inflated by publication bias" per Bayesian reanalyses; Landau-Kosloff-Schmeichel 2011 chapter metadata UNVERIFIED at primary (N-20). MS EXCLUDED from v1 K=5 ship subset per Opus N-5 (agenda's original fallback subset {social_support + ostracism + MS} contradicts spec's own v1 K=5 which correctly excludes MS). Re-consider only if post-2022 TMT research produces preregistered replication success at N>2000. Original references: Greenberg-Pyszczynski-Solomon 1986 TMT + Landau chapter.
 - Per-Sim `OstracismState` (Williams 2001 4-need + Eisenberger 2003 dACC pain overlap)
 - Per-Sim `SocialSupportIndex` (Berkman-Syme 1979 SNI 4-factor + Cohen-Wills 1985 structural/functional + Cacioppo-Hawkley 2009/2010 perceived-vs-objective)
 
 **Empirical anchor strength — load-bearing:**
-- **Holt-Lunstad, Smith & Layton 2010** *PLoS Med* 7(7):e1000316 meta-analysis k=148 studies **N=308,849**: OR=1.50 (95% CI 1.42-1.59) mortality reduction; multidimensional integration OR=1.91. **Effect exceeds obesity + physical inactivity; comparable to smoking cessation.**
+- **Holt-Lunstad, Smith & Layton 2010** *PLoS Med* 7(7):e1000316 meta-analysis k=148 studies **N=308,849** mean follow-up 7.5y (Perplexity Depth-0 VERIFIED all primary values): OR=1.50 (95% CI 1.42-1.59) mortality reduction; multidimensional integration OR=1.91 (CI 1.63-2.23). **Effect exceeds obesity + physical inactivity; comparable to smoking cessation.** **EMPIRICAL-TRANSLATION FLAG** (new Rule 19 flag class per Opus N-7 candidacy; K=3 substrate quorum: converting OR to per-tick continuous hazard multiplier is a modeling assumption, NOT a source-reported quantity). Council #10 hard gate 2: either deflate β to 0.2-0.3 range (OR>HR common-outcome correction) OR add explicit timescale-calibration.
 - **Berkman & Syme 1979** *Am J Epidemiol* Alameda County 9-yr follow-up **N=4,725 analytic**: RR=2.3 men, 2.8 women for most-isolated vs most-connected.
-- **Darley & Latané 1968** *JPSP* bystander effect: alone 85% help / four-others 31% — direct rescue-choice modulator relevance.
+- **Darley & Latané 1968** *JPSP* 8(4):377-383 seizure study bystander effect: alone 85% help / four-others 31% (Council #10 Perplexity N-17 correction: previous framing "alone 85% / 100% eventually" corrected — primary reports 85% before cutoff; do NOT conflate with separate smoke-filled-room paper Latané & Darley 1968 *JPSP* 10(3):215-221) — direct rescue-choice modulator relevance.
 - **Fischer et al 2011** *Psychol Bull* meta-analysis k=105 N≈7,700: Hedges g = -0.35 bystander effect with danger-conditional reversal (Fischer 2006 dangerous emergencies eliminate inhibition).
 - **Cartwright-Harary 1956** *Psychol Rev* structural balance theorem — mathematical foundation for signed-graph reputation dynamics.
 - **Karau & Williams 1993** *JPSP* social loafing meta-analysis k=78: d≈0.44 with evaluation-potential strongest moderator.
@@ -5572,7 +5572,7 @@ Group Substrate extends existing pair-relational plane with world-scope + per-Si
 
 Rescue-choice softmax (Stage 3.8 M2) gains 3 new modulator classes:
 - Group-size (Latané 1981 Impact = s·N^t with t=0.4)
-- In-group multiplicative boost (Levine 2002 magnitude)
+- In-group multiplicative boost (β_ingroup = CALIBRATION-CHOICE — Council #10 Perplexity N-14 correction: Levine 2002 is qualitative-experimental paper with NO reported β or multiplicative modifier at primary; "β ~ .5" and "~20 percentage-point" claims are NOT in the paper; supports DIRECTION of in-group bias but NOT magnitude; 3-value sensitivity sweep 0.3/0.5/0.7 mandatory)
 - Reputation (Fowler-Christakis 2010 cascade)
 
 Kindness-action synthesis extends with:
@@ -5585,9 +5585,10 @@ Layer 3 accumulator adds channels:
 - In-group affinity boost (Tajfel-Turner SIT)
 
 Mortality mechanics extends:
-- Holt-Lunstad 2010 hazard multiplier applied to chronic causes
-- β = ln(1.50) ≈ 0.405 (unidimensional); β = ln(1.91) ≈ 0.647 (multidimensional integration)
-- Empirically massive: isolated Sim 2× mortality vs connected
+- Holt-Lunstad 2010 hazard multiplier applied to chronic causes — **EMPIRICAL-TRANSLATION FLAG** (new Rule 19 flag class per Opus N-7 candidacy)
+- β = ln(1.50) ≈ 0.405 (unidimensional) or DEFLATE to 0.2-0.3 range per K=3 quorum + Council #10 hard gate 2 (OR overstates HR/RR for common outcomes like mortality in survival sim); β = ln(1.91) ≈ 0.647 (multidimensional integration) same caveat
+- Alternative: add explicit timescale-calibration step pinning cumulative sim-horizon mortality to empirical effect (K=2 verify required)
+- Empirically substantial: isolated Sim ~2× mortality vs connected (magnitude subject to β choice)
 
 **UI composition changes (Tier 9 shipped 2026-07-11; Tier 11 pending):**
 
@@ -5602,14 +5603,27 @@ Mortality mechanics extends:
 
 **15-hypothesis empirical harness scaffold** (per Post 0197 discipline; recursion n=11 → n=12 after Tier 10 harness clears):
 
-H-group-1 (balance-tension convergence per Cartwright-Harary) · H-group-2 (Caplow coalition prediction accuracy) · H-group-3 (Granovetter forbidden-triad closure) · H-group-4 (Watts-Strogatz clustering emergence) · H-group-5 (Girvan-Newman modularity Q≥0.3) · H-group-6 (Moody-White structural cohesion) · H-group-7 (Darley-Latané bystander effect on rescue-choice) · H-group-8 (Fischer 2006 danger reversal) · H-group-9 (Levine 2002 in-group boost) · H-group-10 (Latané-Williams-Harkins social loafing scaling) · H-group-11 (Burke 2010 TMT MS effect calibrated downward per Klein 2022) · H-group-12 (Eisenberger 2003 ostracism pain signature) · H-group-13 (Fowler-Christakis reputation cascade 3-degree) · H-group-14 (Berkman-Syme social support mortality reduction) · H-group-15 (Ostrom institution stability)
+H-group-1 (balance-tension convergence per Cartwright-Harary) · H-group-2 (Caplow coalition prediction accuracy) · H-group-3 (Granovetter forbidden-triad closure) · H-group-4 (Watts-Strogatz clustering emergence) · H-group-5 (Community modularity Q≥0.3 per **Newman & Girvan 2004** *Phys Rev E* 69:026113 — Council #10 N-11 correction: Q≥0.3 threshold originates 2004 paper, NOT Girvan-Newman 2002 which introduced edge-betweenness only) · H-group-6 (Moody-White structural cohesion) · H-group-7 (Darley-Latané bystander effect on rescue-choice) · H-group-8 (Fischer 2006 danger reversal) · H-group-9 (In-group boost — Levine 2002 direction-anchor only; β_ingroup = CALIBRATION-CHOICE per N-14) · H-group-10 (Latané-Williams-Harkins social loafing scaling) · **H-group-11 REMOVED** — MortalitySalienceState DEFERRED per K=3 quorum on Klein 2022 (formerly Burke 2010 TMT MS effect) · H-group-12 (Eisenberger 2003 ostracism pain signature — dACC-overlap VERIFIED but provides NO quantitative stress constants per K=3 quorum; k_ostracism = CALIBRATION-CHOICE with 3-value sensitivity sweep mandatory) · H-group-13 (Fowler-Christakis reputation cascade 3-degree) · H-group-14 (Berkman-Syme social support mortality reduction) · H-group-15 (Ostrom institution stability)
 
-**Non-Inertness Gate empirical prediction (Rule 27):** Tier 10 v1 clears **K=5/N=8 channels** at ≥20% differentiation; Tier 12 v2 extends to **K=9/N=15**. Falsification clause: if fewer than K channels differentiate at ≥20% spread, mechanism is architecturally inert.
+**Council #10 Rule 27 category-slippage discipline (per Opus N-3 candidacy):** Following Opus's clarification that Rule 27's precedent measures K/N over NAMED OUTPUT VARIABLES within one harness (H-mem-7: 3/3 channels {totalEncoded, longFrac, meanValence}; H-rescue-6: 3/4 rescue-choice channels), the 15 hypotheses above are RECLASSIFIED:
+- **NON-INERTNESS-GATE channels** (must show ≥20% differentiation): H-group-1, H-group-7, H-group-9, H-group-12, H-group-14 (the spec's v1 K=5 subset)
+- **VALIDITY hypotheses** (accuracy/correlation/stability — do NOT count toward K/N gate): H-group-3, H-group-4, H-group-5 (Q≥0.3 threshold not differentiation), H-group-6 (correlation orthogonal to differentiation), H-group-13 (seed-fraction threshold not differentiation)
+- Recomputed v1 K/N: 5 gate-channels of 5 gate-channels = 100% (previously miscounted as 5/8 = 62.5% below precedent band)
+
+**Non-Inertness Gate empirical prediction (Rule 27):** Tier 10 v1 K=5 gate-channels (balance + bystander + in-group + ostracism + social-support) all at ≥20% differentiation per Council #10 Opus N-5 corrected subset (MortalitySalienceState EXCLUDED per K=3 quorum on Klein 2022; agenda's original fallback subset {SS + ostracism + MS} superseded by spec's v1 K=5). Rule 27 category-slippage clarification per Opus N-3 candidacy: "channel" = named output variable within one harness, not hypothesis; validity hypotheses (H-group-3/4/5/6/13) reclassified out of gate accounting. Falsification clause: if fewer than 4 of 5 gate-channels differentiate at ≥20% spread, mechanism is architecturally inert.
 
 **Framework flags per Rule 19:**
 - Perceived-vs-objective isolation dissociation LOAD-BEARING (Cacioppo-Hawkley)
-- Chronic vs acute MS distinction LOAD-BEARING + SPECULATIVE-EXTRAPOLATION flag (Landau chapter-level; empirical thinner than acute MS)
-- Burke 2010 TMT r=0.35 CALIBRATION-CHOICE (post-Klein 2022 downward recalibration)
+- MortalitySalienceState DEFERRED per Council #10 K=3 substrate quorum on Klein 2022 Many-Labs-4 non-replication + Landau 2011 chapter metadata UNVERIFIED at primary (N-20); previously flagged SPECULATIVE-EXTRAPOLATION now upgraded to DEFER
+- Burke 2010 TMT r=0.35 REJECT-STALE (r=.35 "likely inflated by publication bias" per Bayesian reanalyses per Klein 2022 Many-Labs-4 N=2,281 failure at 21 labs)
+- Holt-Lunstad OR→per-tick-hazard translation: EMPIRICAL-TRANSLATION flag (new Rule 19 flag class per Opus N-7 candidacy; K=3 substrate quorum: form is defensible but IS a modeling assumption not source-reported)
+- Sabater-Sierra 2005 citation fabrication corrected: authors J. Sabater + C. Sierra (fused surname wrong); RepAge from Sabater-Mir/Paolucci/Conte 2006 JASSS not the 2005 review (per N-10)
+- Girvan-Newman 2002 Q≥0.3 modularity threshold misattribution corrected: threshold originates Newman-Girvan 2004 (per N-11)
+- Latané 1981 "canonical t=0.4" not in primary: reclassify as CALIBRATION-CHOICE within [0.33, 0.52] domain-dependent range (per N-13)
+- Levine 2002 β_ingroup=0.5 magnitude unsupported at primary: reclassify as CALIBRATION-CHOICE with 3-value sensitivity sweep mandatory (per N-14)
+- Hollander 1958 β=likability fabricated attribution removed: retain only α=competence which is primary-supported; single-axis leadership superseded by Cluster F2 dominance/prestige dual-axis (per N-15)
+- Darley-Latane 1968 alone-condition 85% not 100% (per N-17); disambiguated from separate Latané-Darley 1968 smoke-filled-room JPSP 10(3):215-221 paper
+- Eisenberger 2003 dACC-overlap VERIFIED but provides NO quantitative stress constants: k_ostracism zero primary anchor per K=3 substrate quorum
 - Balance measure partition-based canonical / walk-based diagnostic-only (Facchetti-Iacono-Altafini 2011 vs Estrada-Benzi 2014 methodological tension explicit)
 - Reputation update rule: standing strategy (Panchanathan-Boyd 2004) v1; leading eight (Ohtsuki-Iwasa 2004) deferred to v2
 - Group-size effect Latané 1981 power-form Impact = s·N^t (NOT 1/N folk formula which is empirically wrong)
