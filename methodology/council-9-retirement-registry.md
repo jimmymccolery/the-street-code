@@ -317,4 +317,54 @@ Four-surface propagation clean; no Rule 20 Family A canonization-propagation gap
 
 **UPDATE 2026-07-10 late (Fire #11 four-safe-reductions ratification post-Grok-pilot):** +1 RETIRE entry (Q5 review question — first agenda-hygiene retirement in framework methodology) + 1 REBOUND cross-reference entry (Item 149 to Council #10 — first formal REBOUND-to-future-Council move). Registry now 4 formal RETIRE compliance entries + 1 REBOUND cross-reference entry + 1 loose-ends batch.
 
-**PENDING:** Additional RETIRE compliance instances will be logged here as they occur pre-Council #9 or as Council #9 review actions.
+**UPDATE 2026-07-10 late (Council #9 batch-1 ratification — accelerated close arc; 3 framework rule canonizations):** Per Council #9 accelerated close (following 8-agent parallel review + operator signature), 3 framework rules canonized at `operational_discipline_rules.canonical.md` v2.1.0 → v2.2.0:
+
+### Rule 26 CANONIZED 2026-07-10 late per Council #9 batch-1 (Item 100 → Rule 26)
+
+**Original candidacy:** Item 100 Rule 26 candidacy proposal — Retired-Workflow-Recurrence Discipline consolidating Items 20+33+66.
+
+**Empirical foundation for canonization:**
+- n=10+ empirical instances at retired-workflow-recurrence + gap-claim-propagates families
+- Items 20+33+66 SUBSUMED into Item 100 (Phase A reduction sweep 2026-07-10 late) = 3 within-arc absorption instances
+- 5 post-canonization retirement instances: Q65 (2026-07-07) + Item 55 falsification (2026-07-07) + Item 101 (2026-07-10) + Rule 24 (2026-07-09) + Item 149 REBOUND (2026-07-10)
+- Framework's own reduction discipline empirically demonstrated pre-Council
+
+**Cross-refs:**
+- Canonical file: `~/Projects/master-setup/operational_discipline_rules.canonical.md` §Rule 26
+- Council agenda: `council-9-review-agenda-draft-2026-07-05.md` Item 100 RATIFIED annotation
+
+### Rule 27 CANONIZED 2026-07-10 late per Council #9 batch-1 (Item 132 → Rule 27)
+
+**Original candidacy:** Item 132 Non-Inertness Gate framework rule candidacy — forward-facing generalization of A1 M10 finding.
+
+**Empirical foundation for canonization:**
+- n=4 substrate ships CLEARED Non-Inertness Gate empirically:
+  - H-mem-7 (Item 148 Arch 3 a7Memory Layer 4→5 coupling): 3/3 memory-channels differentiate ≥20% spread
+  - H-rescue-6 (Item 151 Stage 3.8 M1-M12 arc): ≥3/4 rescue-substrate channels differentiate ≥20%
+  - H27 post-hoc (Item 145): DEFINITIVE KILL of capital_conversion channel via Poisson GLM ΔAIC=-5241.618
+  - A1 pilot (Item 126 amendment): SUBSTANTIVELY_DIFFERENTIATED verdict with mechanism attribution
+
+**Cross-refs:**
+- Canonical file: `~/Projects/master-setup/operational_discipline_rules.canonical.md` §Rule 27
+- Council agenda: `council-9-review-agenda-draft-2026-07-05.md` Item 132 RATIFIED annotation
+- Related items: 148 (H-mem-7 clearance), 151 (H-rescue-6 clearance), 145 (H27 KILL), 126 (A1 pilot)
+
+### Rule 28 CANONIZED 2026-07-10 late per Council #9 batch-1 (Item 154 → Rule 28)
+
+**Original candidacy:** Item 154 Defensive-reducer discipline for nested-object rebuilds — post-M14 session-log-driven canonicalization.
+
+**Empirical foundation for canonization:**
+- n=1 defect-of-record substrate fix at sim-ai `0ef8fcd` (2026-07-10 late)
+- 6/6 regression harness PASS at 1000-iteration scale (`pairFieldPreservation.test.ts`)
+- All 1660 sim-ai tests PASS post-fix
+- Session-log seed-42 (563-entry post-M14 snapshot at t=3428) as defect-of-record
+- Framework methodology extension: first session-log-post-mortem-driven canonization (complement to Post 0197 synthetic-harness discipline)
+
+**Cross-refs:**
+- Canonical file: `~/Projects/master-setup/operational_discipline_rules.canonical.md` §Rule 28
+- Council agenda: `council-9-review-agenda-draft-2026-07-05.md` Item 154 RATIFIED annotation
+- Substrate fix: sim-ai `0ef8fcd` at `islandWorld.ts:3016` (6-line ...pair spread fix)
+
+Registry now 4 formal RETIRE compliance entries + 3 CANONIZATION entries + 1 REBOUND cross-reference entry + 1 loose-ends batch.
+
+**PENDING:** Additional RETIRE + CANONIZATION compliance instances will be logged here as they occur through Council #9 batches 2-7 execution.

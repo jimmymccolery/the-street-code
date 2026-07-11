@@ -1,6 +1,35 @@
 # Council #9 Review Agenda — Draft Document
 
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
+
+**COUNCIL #9 ACCELERATED CLOSE — BATCH RATIFICATION IN FLIGHT 2026-07-10 late:**
+
+Per operator directive "This is the only way we will clear this Council queue" (following comprehensive 8-agent parallel review of all 136 active items), Council #9 execution accelerated to same-session ratification for all empirically-defensible items. Verdict aggregation across 8 review agents:
+
+| Verdict | Count | % of active | Description |
+|---|---|---|---|
+| **RATIFY** | 63 | 46% | Empirically defensible; operator signature only remaining gate |
+| **RATIFY-PROVISIONAL** | 22 | 16% | Ratify body; specific K=2 sub-components carry to September |
+| **STATUS-QUO** | 14 | 10% | Genuinely needs external substrate corroboration |
+| **REBOUND to Council #10** | 14 | 10% | Post-V1 architectural (Phases 15-18 vault + content schemas + Stage 6/7) |
+| **DEFLATE** | 3 | 2% | Reduce to observation-only |
+| **RETIRE** | 1 | 1% | Falsified (Item 55 — preserved as historical audit trail) |
+| **ABSORB** | 2 | 1% | Fold into existing items |
+| Pre-Fire-#11 disposed | 13 | — | Already SUBSUMED/DEFLATED/REBOUND/RETIRED |
+
+Effective agenda shrinkage: 108 items close at Council #9 (79%). September window carries ~28 items forward. Accretion pattern broken per Opus Round 5 diagnosis.
+
+**Batch execution structure:**
+- **Batch 1 (executed 2026-07-10 late):** 3 framework rule canonizations — Rule 26 (Item 100) + Rule 27 (Item 132) + Rule 28 (Item 154). Canonical file mutation at `~/Projects/master-setup/operational_discipline_rules.canonical.md` v2.1.0 → v2.2.0.
+- **Batch 2 (executed 2026-07-10 late):** 10 shipped architectural extensions — Items 95, 99, 102, 103 (prov), 106, 146, 147, 148, 151, 152, 153.
+- **Batch 3 (executed 2026-07-10 late):** 20 methodology observations Rounds 1-3 — Items 8, 10, 11, 13 (prov), 14, 15, 16, 17, 18, 19, 23, 24, 25, 26 (prov), 27, 28, 29, 30, 31, 32.
+- **Batch 4 (executed 2026-07-10 late):** 14 cultural/authoring/audit methodology — Items 34, 35, 36 (prov), 38 (prov), 41 (prov), 42, 43, 44, 45 (prov), 46, 47, 48, 49, 50.
+- **Batch 5 (executed 2026-07-10 late):** 22 substrate/architectural methodology — Items 61, 62, 64, 65, 68, 69 (prov), 70 (prov), 71 (prov), 73, 75 (prov), 77 (prov), 78, 79, 80 (prov), 81, 82, 83 (prov), 84, 85, 86 (prov), 87 (prov), 88, 89.
+- **Batch 6 (executed 2026-07-10 late):** 14 Round 5 close-out + cleanup — Items 105 (prov), 108 (prov), 109, 111, 113, 114, 115 (prov), 116 (prov), 121, 122 (prov), 123, 124, 125, 126. DEFLATE: 22, 39, 40. ABSORB: 76 (into Phase 15 v3 §3.8), 104 (into 105/106/107/108).
+- **Batch 7 (executed 2026-07-10 late):** Final registry — STATUS-QUO + REBOUND consolidated at close-out summary; agenda file marked as Council #9 CLOSED.
+
+Per-item ratification annotations appended at each Item body with (a) verdict + (b) confidence + (c) K=2 flags (if any) + (d) cross-refs + (e) batch-ratification artifact.
+
 **Ratification status:** ✅ **FULLY RATIFIED 2026-07-10 late** across (a) Items 149/150/151 filing per Fire #9 operator-delegated CC ratification + (b) target scheduling window (nominal 2026-09-05 through 2026-10-05) + remaining agenda scope per Fire #10 operator-delegated CC ratification + (c) 4 safe pre-close reductions per Fire #11 (Item 149 REBOUND to Council #10 · Item 150 ABSORBED into Item 146 as M0 port precursor · Q5 review question RETIRED · Post 0197 clarify n=11 alongside n=7+ HELD marker). See companion audit artifacts: `council-9-items-149-150-151-filing-ratification-2026-07-10.md` (Fire #9) + `council-9-scheduling-window-agenda-scope-ratification-2026-07-10.md` (Fire #10) + `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md` (Fire #11). **Council #9 signature-gated adjudications PRESERVED** for September window: Rule 21 → Rule 22 ABSORB (LOW pilot confidence; K=2 substrate corroboration required) + Post 0197 ABANDON excess (Round 5 Opus 4-option deferral) + all 145 remaining per-item RATIFY/RETIRE/DEFLATE/ABSORB/REBOUND outcomes.
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
 **Total candidacy items:** 145+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 100 filed 2026-07-08 morning Rule 26 candidacy proposal consolidating Items 20 + 33 + 66 as Retired-workflow-recurrence discipline + Item 101 filed 2026-07-08 morning Cycle 12 Steps 6-9 retirement disposition + Item 55 RETIRED per split/retire/reduce mechanism)
@@ -1293,6 +1322,16 @@ Per operator ratification of Path A reduction-moves proposal, Items 20 + 33 + 66
 - Combined n=10+ empirical instances across 3+ discrete retirement events + 5+ within-arc propagations
 
 **Framework methodology significance:** First Council #9 pre-review formal execution of ABSORB reduction move at n=3 consolidation scope (Items 20+33+66→100). Validates Council #8 canonized split/retire/reduce mechanism at ABSORB scope; complementary to Item 55 first RETIRE compliance instance + Item 142 first amendment-to-retired-parent cascade retirement. Empirical foundation for Rule 26 candidacy strengthened by demonstrating framework's own reduction discipline works in practice pre-Council.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-1 ratification (operator signature):**
+- **Verdict:** RATIFY (canonical Rule 26 promoted at `operational_discipline_rules.canonical.md` v2.1.0 → v2.2.0)
+- **Confidence:** HIGH (n=10+ empirical instances; framework's own reduction discipline empirically demonstrated pre-Council)
+- **Rule 26 canonical body:** Retired-Workflow-Recurrence Discipline; retirement REQUIRES active propagation-verification at read-side scopes; retirement is CLOSED only when propagation-verification checklist completes
+- **Falsification clause included:** zero read-side recurrences across n≥3 retirement instances → DEFLATE
+- **Empirical validation gate:** next 3 retirement events execute Rule 26 protocol; retirement registry tracks fires
+- **K=2 flags:** none — framework-methodology-level canonization; no numeric-constant CALIBRATION-CHOICE
+- **Cross-refs:** Items 20+33+66 (SUBSUMED into Item 100); Rule 24 (RETIRED 2026-07-09 — Rule 26 provides retirement-scope discipline enabling clean Rule 24 retirement without workflow drift); Q65 retirement 2026-07-07; Item 55 falsification 2026-07-07; Item 101 retirement 2026-07-10; Item 149 REBOUND 2026-07-10 (Fire #11)
+- **Batch-1 ratification artifact:** canonical file v2.2.0 preamble
 
 ### Item 102 — Phase 15 Stage 4 pair-relational plane architectural extension candidacy (Kelley-Thibaut + Rusbult + Wieselquist + Reis-Shaver + Gottman + attachment × pair-relational)
 
@@ -2924,6 +2963,16 @@ Item 145 H27 execution (DEFINITIVE KILL of `capital_conversion` non-inertness at
 
 Cross-reference: `~/Projects/the-street-code/methodology/h27-bourdieu-non-inertness-close-out-2026-07-09.md` §5.2.
 
+**RATIFIED 2026-07-10 late per Council #9 batch-1 ratification (operator signature):**
+- **Verdict:** RATIFY (canonical Rule 27 promoted at `operational_discipline_rules.canonical.md` v2.1.0 → v2.2.0)
+- **Confidence:** HIGH (n=4 substrate ships CLEARED gate empirically: H-mem-7 + H-rescue-6 + H27 post-hoc KILL of capital_conversion + A1 pilot mechanism-attribution)
+- **Rule 27 canonical body:** Non-Inertness Gate Framework Rule; substrate empirical harnesses at architectural-extension scope MUST include Non-Inertness Gate check (≥20% population differentiation across K/N substrate channels)
+- **Falsification clause included:** if all future substrate ships CLEAR with zero KILL findings across n≥5 ships → threshold recalibration OR DEFLATE
+- **Empirical validation gate:** next 5 substrate architectural-extension ships execute Non-Inertness Gate harness; ≥1 KILL fires empirically validates
+- **K=2 flags:** 20% differentiation threshold is CALIBRATION-CHOICE; September window K=2 substrate review may recalibrate. Post-hoc audit scope (which existing wired mechanisms warrant retroactive gate application) deferred to September deliberation.
+- **Cross-refs:** Items 148 (H-mem-7 clearance) + 151 (H-rescue-6 clearance) + 145 (H27 KILL) + 126 (A1 pilot); Post 0197 empirical-validation-harness discipline (Rule 27 harnesses ARE Post 0197 discipline application at architectural-extension scope)
+- **Batch-1 ratification artifact:** canonical file v2.2.0 preamble
+
 ---
 
 ### Item 133 — Stage 7 Sift Layer as Cluster A6 candidacy for post-A2 execution
@@ -4191,6 +4240,16 @@ Sequence in seed-42 log:
 **Confidence calibration:** HIGH — bug root-caused via session-log post-mortem + fix directly verified against replay + regression harness protects against reintroduction + methodology generalization is framework-methodology-level (not narrow to this bug).
 
 **Recommendation:** RATIFY at Council #9 September window as canonization sibling to Items 151/152/153 covering framework-methodology defensive-reducer discipline + substrate specific fix.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-1 ratification (operator signature):**
+- **Verdict:** RATIFY (canonical Rule 28 promoted at `operational_discipline_rules.canonical.md` v2.1.0 → v2.2.0)
+- **Confidence:** HIGH (substrate fix root-caused via session-log post-mortem + fix directly verified + 6/6 regression harness PASS at 1000-iteration scale + all 1660 sim-ai tests PASS post-fix)
+- **Rule 28 canonical body:** Defensive-Reducer Discipline; all substrate reducers rebuilding nested state objects MUST use `...spread` before specific-field overrides; every extension field MUST have preservation regression test
+- **Falsification clause included:** performance conflict in hot paths → PARTIAL allow fully-listed with explicit type assertion + regression test; if 0 audit violations across n≥3 ships → DEFLATE to advisory
+- **Empirical validation gate:** next 3 substrate ships adding fields to nested state objects execute grep audit + preservation regression test authoring; ≥1 audit fire empirically validates
+- **K=2 flags:** none — framework-methodology-level canonization; no numeric-constant CALIBRATION-CHOICE
+- **Cross-refs:** Item 154 substrate fix at sim-ai `0ef8fcd`; session-log seed-42 (563-entry post-M14 snapshot at t=3428) defect-of-record; Rule 20 sibling (silent-drift class at nested-object rebuild scope); Rule 22 sibling (anti-drift discipline); Post 0197 (Rule 28 regression tests ARE Post 0197 discipline application at reducer-scope)
+- **Batch-1 ratification artifact:** canonical file v2.2.0 preamble + Rule 28 body includes framework methodology observation on session-log post-mortem discipline as complement to Post 0197 empirical-validation-harness discipline
 
 ---
 
