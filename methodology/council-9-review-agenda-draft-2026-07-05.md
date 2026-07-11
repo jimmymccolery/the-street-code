@@ -4124,6 +4124,76 @@ Two Sims lived 9653 ticks (~6.7 game days) on the same 25×10 island in **comple
 
 ---
 
+### Item 154 — Defensive-reducer discipline for nested-object rebuilds (post-M14 session-log-driven canonicalization)
+
+**Filed 2026-07-10 late.** Framework methodology discipline extension surfaced by session-log seed-42 (563-entry post-M14 snapshot at t=3428).
+
+**Origin:** After M11 + M13 + M14 shipped in three consecutive same-session milestones, operator ran a fresh 2-Sim seed-42 session to observe the fixes in flight. Rescue at tick 3427; modal narrated "the pair never registered a mutual first encounter" despite `pair.coLocatedTicks: 458` and `sentimentAtoB: 0.31` / `sentimentBtoA: 0.18`. Meta-analysis surfaced the actual root cause: `detectAndApplyPairInteractions` at `islandWorld.ts:3016` rebuilt the pair state as a fully-listed object without `...pair` spread:
+
+```typescript
+pair: {
+  sentimentAtoB: newSentimentAtoB,
+  sentimentBtoA: newSentimentBtoA,
+  pairHistory: newPairHistory,
+  landmarkEvents: pair.landmarkEvents,
+  coLocatedTicks: newCoLocatedTicks,
+}
+```
+
+This silently NUKED every field added post-Phase-2.8 whenever the function ran (every tick both Sims alive + not rescued):
+- `hasEncountered` (M13)
+- `firstEncounterTick` (M13)
+- `preDepartureSentimentSnapshot` (M13)
+- `pairStage4` (M4 bridge)
+- `ticksBelowMechanism1Threshold` (M4)
+- `lastCoShelterDissolution` (M4)
+- `lastAggressionEventTick` (M4)
+
+Sequence in seed-42 log:
+1. Tick 570 — Sim A `search_horizon` populated `knownPartnerDirection` (M14 working).
+2. Tick 1882 — Sims first hit Chebyshev ≤ 3 → composition-scope M13 code set `pair.hasEncountered = true` + encoded fi-6 memory.
+3. Tick 1883 (and every tick after) — `detectAndApplyPairInteractions` rebuilt pair, dropped `hasEncountered` back to undefined.
+4. Tick 3427 — rescue modal read `firstEncounterTick: null` → showed "never registered."
+
+**Bug class**: nested-object rebuild without spread. Silently violates forward-compat when new fields are added elsewhere. Not caught by TypeScript (all listed fields ARE part of the type; missing fields are simply omitted from the returned object).
+
+**Substrate fix (shipped this session at sim-ai `<FIX SHA>`):**
+- Add `...pair` spread at `islandWorld.ts:3016` before the specific-field overrides. 6-line change.
+- Regression harness `pairFieldPreservation.test.ts` (6 tests) verifies each M13 + M4 field survives the reducer across 1 and 1000 sequential calls. Prevents reintroduction.
+
+**Composition-scope fixes (companion RoomToLife commit):**
+- Modal fallback: when `pair.firstEncounterTick` is null but `pair.coLocatedTicks >= 30` (close-contact threshold), show "First-encounter marker lost, but they co-located for N ticks — enough to sustain the arc." Backward-compat shim for sessions in flight when substrate fix ships.
+- Modal enrichment: adds rescue-choice-history narrative ("This offer was accepted after N prior refusals") pulled from `actionHistory.filter(h => h.actionId === 'refuse_rescue_entirely')`. Also adds compact stats strip: co-loc ticks, first encounter tick, refusals.
+- New `KnownPartnerDirectionPanel` — observability for M14 substrate mechanic. Shows each Sim's coarse-direction knowledge (position + source + staleness age) + narrative gate ("pre-encounter" vs "post-encounter — investigate_partner_direction disabled").
+
+**Discipline generalization (framework methodology-level, this Item 154's contribution beyond bug fix):**
+- **All substrate reducers that rebuild nested objects MUST use `...spread`** before specific-field overrides. Fully-listed rebuilds are a code smell — they encode "I know all the fields" which becomes false as fields are added elsewhere.
+- **Every extension field on a nested state object** (e.g., new fields on `PairRelationalState`, `SimStateSnapshot`) SHOULD have a preservation regression test covering all reducer paths that rebuild the parent object. Pattern: create state with field=X, run reducer, assert field=X post-reducer.
+- **Grep audit at each substrate-shipping milestone**: `grep -n "^  <fieldParent>: {$" src/**/*.ts | grep -v "\.\.\." ` catches fully-listed rebuilds without spread. Add to substrate CI or pre-commit hook.
+
+**Anchor stack:** No external anchor (framework methodology; not empirical).
+
+**Framework flags per Rule 19:** N/A — no numeric constants.
+
+**Cross-refs:**
+- Item 151 (Stage 3.8 M1-M12 arc) — introduced M4 fields (ticksBelowMechanism1Threshold, lastAggressionEventTick, etc.) that were subject to the same nuke bug pre-fix. Item 154 fix retroactively protects M4 fields too.
+- Item 152 (M13 successful-rescue departure narrative arc) — M13 introduced `hasEncountered`, `firstEncounterTick`, `preDepartureSentimentSnapshot` fields that manifested the bug. Item 152 canonization was empirically CORRECT but silently broken by the reducer defect; Item 154 fix restores correct behavior.
+- Item 153 (M14 pre-encounter partner-signal navigation) — M14 substrate is unaffected (uses `state.knownPartnerDirection` at top level, not nested inside pair). Only pair-scoped fields were affected.
+- session log at `~/Desktop/sim-ai-island-session-seed-42-563-entries-2026-07-11T05-09-46-328Z.json` as defect-of-record.
+
+**Filing pattern (Rule 14):** Pattern B — ADOPT FOLD (Rule 10 Conservative-Bias). Substrate bug + defensive-reducer discipline generalization; 6/6 regression harness PASS; all 1659 sim-ai tests PASS post-fix (one scheduler flake unrelated).
+
+**Falsification thresholds pre-registered:**
+- If Council #9 substrate review finds other reducer paths with fully-listed rebuilds beyond the one fixed: RATIFY Item 154 canonization but AMEND with the list.
+- If defensive-reducer discipline conflicts with performance in any hot path (fully-listed can be marginally faster than spread on cold JS engines): PARTIAL — allow fully-listed with explicit type assertion + regression test coverage per field.
+- If session-log-driven defect-mining pattern surfaces a Nth bug class not caught by current Post 0197 harness discipline: FILE amendment to Post 0197 requiring session-log-post-mortem as part of major-milestone-ship checklist.
+
+**Confidence calibration:** HIGH — bug root-caused via session-log post-mortem + fix directly verified against replay + regression harness protects against reintroduction + methodology generalization is framework-methodology-level (not narrow to this bug).
+
+**Recommendation:** RATIFY at Council #9 September window as canonization sibling to Items 151/152/153 covering framework-methodology defensive-reducer discipline + substrate specific fix.
+
+---
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
