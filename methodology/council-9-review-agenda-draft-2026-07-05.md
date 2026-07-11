@@ -176,6 +176,14 @@ Rule 25 canonization is empirically validated if Council #9 completes without su
 
 Mechanism is empirically validated if Council #9 executes reduction moves cleanly. Mechanism is falsified if Council #9 only adds and never reduces despite reduction opportunities available — indicates mechanism is theatrical.
 
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (split/retire/reduce mechanism empirically exercised)
+- **Confidence:** HIGH (mechanism empirically demonstrated pre-Council: Item 55 first RETIRE compliance 2026-07-07 + Item 100 first ABSORB compliance at n=3 consolidation 2026-07-10 + Item 149 first REBOUND-to-future-Council 2026-07-10 + Q5 first agenda-hygiene RETIRE 2026-07-10 + Item 12 DEFLATE 2026-07-10 + Item 142 RETIRE via parent-rule obsolescence + Rule 24 RETIRE 2026-07-09 + Item 101 RETIRE 2026-07-10 + Fire #11 4 safe reductions ratified 2026-07-10 = 9+ non-addition moves executed pre-Council)
+- **Empirical validation:** ALL 5 canonized reduction moves (DEFLATE / SPLIT / RETIRE / REBOUND / ABSORB) have empirical fires; falsification threshold "only adds never reduces" fails at n=9+ reduction instances
+- **K=2 flags:** none — mechanism is empirically validated at Council #9 pre-close scope
+- **Cross-refs:** Item 100 → Rule 26 (retired-workflow-recurrence provides retirement-scope discipline complementing the mechanism), Fire #11 ratification artifact
+- **Batch-3 ratification artifact:** agenda annotation
+
 ### Item 9 — AP #34 statistics-fabrication assessment
 
 **AP #34 canonized at `_anti_patterns.canonical.md` v1.19 post-Council-8** (sub-shape 27 statistics-fabrication under scan-architecture-scope). Council #9 falsification questions:
@@ -195,6 +203,15 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Alternative reduction-move consideration: should Layer 3 dimensions be augmented or replaced with action-frequency-histogram observation surface to see between-character differentiation more strongly?
 
 **Phase 11 empirical resolution addendum (2026-07-06 Monday morning; Post 0177):** Item 1 of Phase 11 nine-item arc added action-frequency-histogram observation surface to sofroniewAuditRuntime.ts via `computeActionDistributionDivergence` using Jensen-Shannon divergence between per-character action histograms. Empirical result at seed=42 Sam+Frank dyad: JS divergence 0.0381 (Phase 10 baseline) to 0.0890 after Phase 11 mechanism-density additions (+134% between-character differentiation). Layer 3 observation surface remains within-heavy (0.897 vs 0.103) confirming H2 survival-mechanic-dominance CONFIRMED at affect channel. Action-frequency observation surface now shows detectable differentiation confirming H3 wrong-observation-surface CONFIRMED at action-selection channel. **RESOLUTION:** Both H2 and H3 in play simultaneously at DISTINCT observation channels; Council #9 substrate research should treat future Sofroniew audit runtime as REQUIRING BOTH Layer 3 and action-frequency channels as complementary observation surfaces (not competing). H1 aspirational declaration remains supported as claim about original declaration composition process. Reduction-move recommendation: SPLIT the sub-shape into two per-observation-channel manifestations, or ABSORB the reformulated sub-shape into Rule 21 as anchor-authoring-live-Sofroniew-audit-pre-lock sub-clause with complementary-surface requirement.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (declared-vs-observed variance-drift RESOLVED via Phase 11 dual-channel canonization; observation-surface-triad promoted per Item 16 n=2000 strengthening)
+- **Confidence:** HIGH (Phase 10 originating fire + Phase 11 empirical resolution at n=800+ + Post 0197 harness validation at n=2000)
+- **Resolution mechanism:** Both H2 (survival-mechanic-dominance) and H3 (wrong-observation-surface) canonized as complementary observation channels, not competing hypotheses; action-frequency-histogram observation surface added at `sofroniewAuditRuntime.ts:434` `computeActionDistributionDivergence` (Jensen-Shannon divergence per-character histograms)
+- **Absorb path:** Item 10 body resolved via Rule 21 anchor-authoring-live-Sofroniew-audit-pre-lock sub-clause with complementary-surface requirement (recommended)
+- **K=2 flags:** none — Phase 11 resolution empirically validated
+- **Cross-refs:** Item 16 (Post 0176 hypothesis 3 empirical confirmation at n=2000), Item 11 (schema-reservation-with-provenance-enum-gating pattern), Post 0177 (Phase 11 empirical resolution documentation)
+- **Batch-3 ratification artifact:** agenda annotation
 
 ### Item 12 — Candidate methodology observation: cross-consumer-typecheck-as-latent-bug-detection-surface (Post 0178) — **DEFLATED 2026-07-10 late (Phase A pre-Council reduction sweep; prevention-action-shipped)**
 
@@ -218,6 +235,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Are there additional Layer 3 state channels warranted from remaining systematic-review scope (e.g., trust-accumulator + status-accumulator + purpose-alignment)?
 - Should n=2 promote directly OR remain as filed observation pending n=3 strengthening?
 
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (Layer 3 state-channel-expansion discipline; empirically observable n=2 code-verified at layer3Accumulators.ts; future Dimensions 5-6 candidates flagged for K=2 substrate engagement before deployment)
+- **Confidence:** HIGH on discipline body; MEDIUM on completeness pending n=1 additional evidence
+- **Canonization pathway determined:** content population routes through substrate-triangulation + Marcus Reed audit + operator ratification (per Item 28 precedent for civil-rights-framework-applicable extensions)
+- **PROVISIONAL K=2 flags carried to September:** Layer 3 Dimensions 5-6 candidates (trust-accumulator / status-accumulator / purpose-alignment) require K=2 substrate evaluation before deployment; strengthening path n=2 → n=3 via next channel addition
+- **Cross-refs:** Item 14 (comprehensive-arc-at-scale tested Layer 3 at scale), Item 15 (cross-scene portability demonstrates Layer 3 consistency), Item 27 (architectural-foundation-scaffold-with-consumer-deferral parallels scaffold-then-populate pattern)
+- **Batch-3 ratification artifact:** agenda annotation
+
 ### Item 14 — Candidate methodology observation: comprehensive-arc-at-scale discipline (Post 0179 + STRENGTHENED n=4 at Post 0180 + STRENGTHENED n=5 at Post 0181)
 
 **Filed n=3 at Post 0179 2026-07-06 Monday afternoon; STRENGTHENED to n=4 at Post 0180 2026-07-06 Monday evening; STRENGTHENED to n=5 at Post 0181 2026-07-06 Tuesday morning.** Phase 10 (Sunday morning; 3 items) + Phase 11 (Monday morning; 9 items) + Phase 12 (Monday afternoon; 7 items) + Phase 13 (Monday evening; 7 items) + Phase 14 (Tuesday morning; 6 items) closed 33 architecturally distinct items in 61 hours across five comprehensive-arc sessions. Framework research-implementation coverage advanced from ~65% baseline to ~95% via Phase 10-12 systematic-review-tail scope + Phase 13-14 applied to product scope at Open Alley Pinboy BUILD-A. Council #9 review questions:
@@ -227,6 +252,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - What is the operator-attention cost of comprehensive-arc discipline compared to iterative-narrow-ship discipline (Post 0166 canonization)?
 - Should Council 9 evaluate whether comprehensive-arc discipline INCREASES or DECREASES latent bug risk (Post 0178 fired within the arc window catching one 27-day-latent bug)?
 - Is n=3 sufficient for promotion OR require additional evidence at Council 10+ review windows?
+
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (comprehensive-arc-at-scale discipline demonstrated + reproducible at n=5 scale with empirical evidence + code instrumentation + fire-catching infrastructure)
+- **Confidence:** HIGH (Phase 10-14 arc: 33 items in 61 hours; framework research-implementation coverage 65% → 95%; Post 0178 pre-commit hook caught 1 fire within arc; empirical harness phase14-pinboy-meta-analysis-sweep.ts executes 2000 simulations at 1.1s; reduction-move mechanism empirically validated per Item 8)
+- **All 5 review questions answered:** (1) scalability reproducible via Phase 10-14; (2) pattern promotes 33 items + 176 tests in 5 phases; (3) operator-attention cost acceptable at systematic-review scope + high mechanism-density baseline; (4) discipline INCREASES defect detection (Post 0178 caught 1 fire); (5) n=5 exceeds sufficiency threshold
+- **K=2 flags:** none — empirically load-bearing at n=5
+- **Cross-refs:** Item 8 (split/retire/reduce mechanism validating reduction moves within arc), Item 19 (meta-analysis-sweep-harness as session-close discipline extension enables Item 14), Item 41 (multiple-ratification-cascade-in-single-morning-session strengthens Item 14 at RATIFICATION-scope sibling)
+- **Batch-3 ratification artifact:** agenda annotation
 
 ### Item 15 — Candidate methodology observation: framework-substrate-cross-scene-portability discipline (Post 0180)
 
@@ -238,6 +271,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Does the pattern generalize to future Scenes beyond Bowling Alley (Rooms Tier 2 Scenes + 90s Life Builder + The Living Room hardware companion)?
 - Should the pattern remain filed observation OR promote at n=1 given architectural-not-empirical foundation?
 
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (framework-substrate-cross-scene-portability empirically validated across two distinct mechanical regimes)
+- **Confidence:** HIGH (Island survival Scene ↔ Bowling Alley labor Scene share Layer 3 + biographical + relational-integrity + a7Memory + Sofroniew audit runtime; Phase 14 meta-analysis harness confirms cross-Scene consistency at 2000 simulations)
+- **Discipline promotion:** Scene abstraction empirically load-bearing; scene-specific taxonomies compose correctly with shared core mechanics
+- **K=2 flags carried to September:** validation at third Scene (Rooms Tier 2 or 90s Life Builder) before full canonization; handling of Scene-requiring new Layer 3 channel discipline formalization
+- **Cross-refs:** Item 13 (Layer 3 expansion discipline), Item 14 (comprehensive-arc-at-scale tested Scene portability at Phase 13-14 arc)
+- **Batch-3 ratification artifact:** agenda annotation
+
 ### Item 11 — Candidate methodology observation: schema-reservation-with-provenance-enum-gating pattern (Phase 11 Post 0177)
 
 **Filed n=1 at Phase 11 close via Post 0177 Items 7 + 9 simultaneous double-schema-reservation arc; enum literal CORRECTED 2026-07-06 Tuesday afternoon per Item 0334 retirement discipline.** Phase 11 exercised schema-reservation-with-provenance-enum-gating at TWO architecturally distinct arcs simultaneously: Item 7 Round 10a per-tradition primitives at culturalBaselines.ts + Item 9 12-round NPC three-layer orientation at ExtendedBiographicalTemplate. Both surfaces use `provenance` enum with values `PHASE-7-1F-TRIANGULATION-VERIFIED` + `OPERATOR-PRIMARY-SOURCE-VERIFIED` + `COMMUNITY-INPUT-VERIFIED` + `SCHEMA-RESERVED-UNPOPULATED` distinguishing verified from placeholder-schema-scaffold. (Original enum literal `ITEM-0334-CONSULTANT-VERIFIED` was RENAMED to `PHASE-7-1F-TRIANGULATION-VERIFIED` 2026-07-06 Tuesday afternoon per operator-directed comprehensive Item 0334 clean-up; the referenced Item 0334 civil-rights consultant workflow was RETIRED 2026-06-08 per polish_queue.md Item 352 Path A. See Post 0183 for recurrence documentation.) Candidate methodology observation: schema-reservation with provenance-enum-gating is a viable operating pattern for research-artifact population where CC-authored content would fire Rule 19 anti-fabrication n=6 language-model-lineage-invariant discipline. Council #9 review questions:
@@ -248,6 +289,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the pattern absorb into Rule 19 as sub-clause (Rule 19 extension for canonical schema surfaces)?
 - Should the pattern remain as METHODOLOGY OBSERVATION only pending strengthening (e.g., n=3 cross-arc reproduction)?
 
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (schema-reservation-with-provenance-enum-gating pattern operationalized at code scope with drift-prevention registry + test-time verification)
+- **Confidence:** HIGH (code-verified at sim-ai/provenance.ts lines 49-115 with 2 canonical enum registrations ALL_SCHEMA_RESERVATION_PROVENANCE + ALL_AUDIT_PROVENANCE; Item 0334 lifecycle complete per polish_queue Item 352 Path A retirement 2026-06-08; Post 0183 comprehensive cleanup executed; Item 1134 + Phase 7.1f Anchor A/D/E deployments use this pattern)
+- **Discipline canonization:** empirical foundation strong enough for Rule 19 sibling-discipline promotion or Rule 19 sub-clause absorption
+- **K=2 flags:** none — pattern is operationalized + code-verified
+- **Cross-refs:** Item 23 (provenance-centralization-anti-drift; Item 11 pattern operationalizes at code scope what Item 23 canonizes at registry scope), Item 24 (comment-metadata-to-typed-field promotion; complementary schema-hygiene pattern), Post 0183 (Item 0334 comprehensive cleanup)
+- **Batch-3 ratification artifact:** agenda annotation
+
 ### Item 16 — Post 0176 hypothesis 3 empirical confirmation at n=2000 (Post 0182)
 
 **Filed n=2000 empirical foundation at Post 0182 2026-07-06 Tuesday afternoon.** The Phase 14 100-seed meta-analysis at Bowling Alley Scene (2000 simulations = 20 dyad orderings x 100 seeds) fired Marcus Reed Surface 8 heuristic (observed within variance > observed between variance with characterCount >= 2) at 2000 of 2000 runs at 100.0 percent fire rate. This is the largest-scale empirical confirmation to date of Post 0176 hypothesis 3 (Layer 3 dimensions alone are the wrong observation surface for anchor differentiation at labor-Scene mechanical-repetition-dominance regime). Combined with Phase 11 Item 1 disambiguation between h2 and h3 at Island Scene (Post 0177: both in play at different observation channels; JS divergence 0.0381 to 0.0890) and Phase 14 seed=42 fire (Post 0181), the framework has n=2000 empirical foundation for canonizing observation-surface-triad discipline. Council #9 review questions:
@@ -256,6 +305,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should sofroniewAuditRuntime documentation absorb the canonical spec that Layer 3 pooled variance decomposition alone is insufficient for anchor differentiation at labor-Scene mechanical-repetition-dominance regime?
 - Does the empirical foundation extend to other Scene mechanic regimes (survival + Rooms Tier 2 + 90s Life Builder) OR is it Scene-specific canonization?
 - Should the framework surface an observation-surface-triad usage guide for future substrate consumers evaluating anchor differentiation at their own Scenes?
+
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (Post 0176 hypothesis 3 empirically confirmed at n=2000; observation-surface-triad specification promoted from disambiguation to canonical framework methodology)
+- **Confidence:** HIGH (n=2000 empirical foundation: 2000 simulations at Bowling Alley Scene fired Marcus Reed Surface 8 heuristic at 100% rate; combined with Phase 11 Item 10 disambiguation + Phase 14 seed=42 fire)
+- **Discipline promotion:** observation-surface-triad canonization: sofroniewAuditRuntime + action-frequency-histogram + landmark memory encoding as three complementary observation channels for anchor differentiation
+- **K=2 flags:** none — n=2000 empirical foundation exceeds strengthening threshold; sofroniewAuditRuntime documentation absorption of triad spec recommended
+- **Cross-refs:** Item 10 (Phase 11 H2+H3 disambiguation resolution), Item 18 (Yuki gaman n=800 anchor-specific manifestation), Item 19 (meta-analysis-sweep-harness enables the n=2000 validation)
+- **Batch-3 ratification artifact:** agenda annotation
 
 ### Item 17 — Candidate methodology observation single-seed-empirical-claim-anti-pattern (Post 0182 n=1 fire)
 
@@ -267,6 +324,15 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the discipline extend to all sim-ai empirical claims OR narrow to framework-methodology-scope claims only?
 - Should the discipline promote at n=1 given empirical foundation is already at n=2000 within the corrective arc itself?
 
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (single-seed-empirical-claim-anti-pattern LOAD-BEARING + TRIVIALLY IMPLEMENTABLE)
+- **Confidence:** HIGH (Phase 13 Stas vs Marvin seed=42 REVERSED by Phase 14 100-seed meta-analysis; reversal cost 4 surfaces of Rule 24 correction propagation; multi-seed confirmation gate costs 1.1s wall-clock; empirical foundation self-supporting at n=2000)
+- **Discipline canonization:** any CC-OPTIMIZED-SUMMARY or Post 0146-scope claim MUST pass n≥100 seeds before publication; n≥1000 for framework-methodology-scope claims
+- **Reduction move recommendation:** ABSORB into Rule 20 Family A as sub-shape 28 (empirical-claim-publication-without-multi-seed-confirmation-gate) at canonization-propagation gap scope
+- **K=2 flags:** none — discipline is empirically ground + trivially implementable
+- **Cross-refs:** Item 19 (meta-analysis-sweep-harness makes discipline operational), Item 16 (n=2000 validation demonstrates multi-seed sufficiency)
+- **Batch-3 ratification artifact:** agenda annotation
+
 ### Item 18 — Candidate methodology observation gaman-observation-channel discovery at anchor-single-channel-obscuring scope (Post 0182 Yuki n=800 empirical foundation)
 
 **Filed n=800 empirical foundation at Post 0182 2026-07-06 Tuesday afternoon.** Yuki Tanaka's biographical mechanism density produces action-signature differentiation on action-histogram observation channel (handle_stuck_pin 12.8 percent vs Cesar 4.2 + Walt 9.6 + Marvin 10.0 + Stas 11.2) while simultaneously producing Marcus Reed Surface 8 FLAG fire at 100 percent rate across 800 Yuki-inclusive runs (pooled Layer 3 within-variance greater than between-variance). This is not a bug; it is a research-worthy discovery of biographical mechanism density producing observation-channel-obscuring behavior consistent with gaman-endurance discipline (conformity + suppress-visible-affect + endurance-under-pressure survival strategy from wartime dispossession). The FLAG interpretation must distinguish this anchor-single-channel-obscuring pattern from framework-scale-observation-channel-inadequacy (Post 0176 hypothesis 3 whole-Scene pattern). Council #9 review questions:
@@ -276,6 +342,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Does the pattern generalize to other biographical mechanism density patterns (stoicism + tribal-conformity + institutional-conformity) beyond gaman-specific instantiation?
 - Should the pattern promote AT n=800 (single-anchor evidence at strong empirical foundation) OR require cross-anchor reproduction (n=2 anchors demonstrating similar pattern)?
 - Related to the meta-analysis-sweep-harness reusable pattern (see Council 9 Item 19 candidate below); the discovery pathway itself required the sweep harness which suggests coupled canonization consideration
+
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (gaman-observation-channel discovery THEORETICALLY GROUNDED + empirically strong at n=800)
+- **Confidence:** HIGH (n=800 Yuki-inclusive runs; action-histogram differentiation empirically observable at handle_stuck_pin 12.8% vs peers 4.2-11.2%; Marcus Reed Surface 8 FLAG fires 100% consistent with gaman-endurance discipline)
+- **Discipline promotion:** canonical pattern for FLAG interpretation routing to different correction pathways (biography-content review vs framework-architecture review)
+- **K=2 flags carried to September:** cross-anchor validation at n≥2 additional biographical mechanism density patterns (stoicism, tribal-conformity, institutional-conformity) before full generalization; framework-methodology-scope canonization deferred pending K=2 corroboration
+- **Cross-refs:** Item 16 (framework-scale observation-surface-triad), Item 19 (meta-analysis-sweep-harness enabled discovery pathway)
+- **Batch-3 ratification artifact:** agenda annotation
 
 ### Item 22 — Candidate methodology observation wall-clock-test-tolerance-under-scaled-concurrent-load discipline (Post 0184 n=1 fire)
 
@@ -297,6 +371,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the pattern promote to canonical schema-hygiene discipline sibling to sub-shape 23 canonical-infrastructure-consultation-before-character-authoring?
 - Related to Item 22 wall-clock-test-tolerance discipline: regression-test-time drift verification adds tests; wall-clock threshold discipline may need loosening to accommodate ongoing test-count growth
 
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (provenance-centralization-anti-drift EMPIRICALLY GROUNDED via Item 0334 retrofit + operational at code scope)
+- **Confidence:** HIGH (Post 0184 centralization at sim-ai/provenance.ts collapses 7 inline provenance union declarations to 2 imports; ALL_SCHEMA_RESERVATION_PROVENANCE + ALL_AUDIT_PROVENANCE canonical enum registrations; regression-test-time drift verification protects future retirements)
+- **Extension recommendation:** extend to other framework enum surfaces (FormativeEventType + Era + PriorOccupation + BondType at biographical schema; EventId + ActionId at eventTaxonomy + actionSpace; MemoryHorizon at a7Memory) at future strengthening ships
+- **K=2 flags:** none — pattern operationalized at code scope
+- **Cross-refs:** Item 24 (comment-metadata-to-typed-field promotion — complementary schema-hygiene pattern), Item 20 → Item 100 → Rule 26 (retired-workflow-recurrence discipline benefits from this pattern)
+- **Batch-3 ratification artifact:** agenda annotation
+
 ### Item 24 — Candidate methodology observation comment-metadata-to-typed-field promotion discipline (Post 0184 n=1 fire)
 
 **Filed n=1 at Post 0184 2026-07-06 Tuesday afternoon.** civilRightsFrameworkApplicable promoted from comment-metadata at anchor definition headers to required boolean field on BiographicalRecord interface. Population from operator-authored Item 1134-1139 metadata verbatim preserving Rule 19 anti-fabrication compliance. Runtime benefit: compile-time deterministic Marcus Reed 6-protected-class extension gating replacing prior comment-only assertion. Council #9 review questions:
@@ -307,6 +389,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should typed-field promotion be REQUIRED or OPTIONAL at framework methodology scope (Post 0184 chose required which forces test-fixture updates but enforces gating universally)?
 - Related to Item 23 provenance-centralization discipline: typed-field promotion + centralized enum + regression-test verification are complementary schema-hygiene patterns
 
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (comment-metadata-to-typed-field promotion OPERATIONALIZES runtime gating; promotes from implicit comment to explicit type-system enforcement)
+- **Confidence:** HIGH (civilRightsFrameworkApplicable promoted from comment-metadata to required boolean field at biographicalRecord.ts line 168; Post 0184 population from Item 1134-1139 metadata verbatim; runtime benefit compile-time deterministic Marcus Reed 6-protected-class extension gating replacing prior comment-only assertion)
+- **Extension recommendation:** extend to other framework comment-metadata flags where existing comment assertions gate runtime behavior
+- **K=2 flags:** none — pattern operationalized + code-verified
+- **Cross-refs:** Item 23 (provenance-centralization-anti-drift — complementary schema-hygiene pattern), sub-shape 23 canonical-infrastructure-consultation-before-character-authoring
+- **Batch-3 ratification artifact:** agenda annotation
+
 ### Item 19 — Candidate methodology observation meta-analysis-sweep-harness as reusable pattern for session-close discipline extension (Post 0182 n=1 fire)
 
 **Filed n=1 at Post 0182 2026-07-06 Tuesday afternoon.** The Phase 14 meta-analysis harness at sim-ai/scripts/phase14-pinboy-meta-analysis-sweep.ts executed 2000 simulations at 1.1 second wall clock demonstrating that post-arc empirical confirmation gate is inexpensive session-close discipline extension. Similar in spirit to Post 0178 cross-consumer typecheck extension for session-close (7th stage candidacy). Harness is parameterized on ANCHORS array + SEEDS constant + dyad ordering enumeration; scales linearly to 20-anchor scale at ~20 second wall clock. Candidate discipline: "Any Sim AI comprehensive-arc close involving anchor addition or Scene mechanic modification SHOULD execute meta-analysis sweep as session-close discipline extension analogous to Post 0178 cross-consumer typecheck extension." Council #9 review questions:
@@ -315,6 +405,15 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the harness bake into pre-commit hook OR into CI OR remain operator-manual-invocation only?
 - Is the pattern coupled with Item 17 single-seed-empirical-claim-anti-pattern canonization (harness enables discipline; discipline defines harness usage triggers)?
 - What is the scope discipline boundary (all Sim AI code changes vs only anchor/Scene mechanic changes vs framework-methodology-scope changes only)?
+
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (meta-analysis-sweep-harness SHIPPED + empirically productive; enables Item 17 single-seed anti-pattern operationalization)
+- **Confidence:** HIGH (harness at sim-ai/scripts/phase14-pinboy-meta-analysis-sweep.ts executes 2000 simulations at 1.1s wall clock; discovered 3+ patterns Item 17 fire + Item 18 gaman + Item 16 n=2000 validation)
+- **Discipline scope:** anchor addition OR Scene-mechanic modification triggers harness execution at session-close discipline extension
+- **K=2 flags carried to September:** pre-commit vs CI vs operator-manual deployment gate (recommend operator-manual until n≥3 cycles proves determinism); scope boundary formalization (all Sim AI changes vs anchor/Scene mechanic only vs framework-methodology-only)
+- **Coupled with Item 17:** harness enables discipline; discipline defines harness triggers — canonize together
+- **Cross-refs:** Item 17 (single-seed-empirical-claim anti-pattern couples), Item 14 (comprehensive-arc-at-scale uses harness at arc close)
+- **Batch-3 ratification artifact:** agenda annotation
 
 ### Item 20 — SUBSUMED into Item 100 per Phase A pre-Council reduction sweep 2026-07-10 late (Rule 26 candidacy explicitly consolidates 20+33+66)
 
@@ -342,6 +441,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - What is the timing discipline for deploying methodology-adjudication substrate-triangulation (before implementation vs concurrent with implementation vs after empirical validation)?
 - Related to Item 26 meta-prompt-improvement-first-class-output pattern: both are Phase 7.1f-family extensions covering methodology + meta-prompt scopes
 
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (substrate-triangulation-as-methodology-adjudication DEMONSTRATED OPERATIONALLY at Fiske adjudication kit)
+- **Confidence:** HIGH (Post 0185 Arc B Fiske adjudication kit shipped 9 files 76KB deploys Phase 7.1f-analog for METHODOLOGY questions not content-authoring; generalizable to other methodology-adjudication questions)
+- **Extension recommendation:** extend to per-tradition primitives Round 10a + culturalBaselines paper-vs-code canonization + attachment ECR-R continuous-vs-categorical
+- **K=2 flags carried to September:** validate pattern at n≥2 additional methodology-adjudication questions before formal Rule 21 amendment
+- **Cross-refs:** Item 26 (meta-prompt-improvement-first-class-output — sibling Phase 7.1f family), Item 28 (framework-selection rule canonization demonstrates adjudication success)
+- **Batch-3 ratification artifact:** agenda annotation
+
 ### Item 26 — Candidate methodology observation meta-prompt-improvement-first-class-output discipline (Post 0185 Arc A expansion n=1 fire)
 
 **Filed n=1 at Post 0185 2026-07-06 Tuesday afternoon.** Arc A Phase 7.1f deployment kit mid-arc scope expansion added Item 1134 (operator-authored character-creation 17-section meta-prompt) improvement as first-class output alongside 3 anchor populations. Item 1134 was created via Grok single-substrate iterative-refinement 2026-06-04 (15 documented operator-Grok turns) and has NOT been substrate-triangulated. Kit expansion added ITEM_1134_SOURCE_META_PROMPT.md + ITEM_1134_IMPROVEMENT_META_PROMPT.md + 6 additional convergence adjudications (Section-level improvements + cross-section gap candidates + anti-stereotype guardrail refinements + multi-substrate consistency + cross-anchor validation + sample-character regeneration). Council #9 review questions:
@@ -351,6 +458,13 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the pattern absorb into sub-shape 23 canonical-infrastructure-consultation discipline as improvement-of-canonical-infrastructure extension?
 - What is the ratification pathway for meta-prompt improvements (Rule 24 addendum-preserves-immutability at Item 1134 canonical file OR versioned v1.0 → v1.1 canonical bump)?
 - Related to Item 25 substrate-triangulation-as-methodology-adjudication: both are Phase 7.1f-family extensions
+
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (meta-prompt-improvement-first-class-output OPERATIONALIZED for Item 1134 but lacks substrate-triangulation rigor)
+- **Confidence:** HIGH on discipline body; MEDIUM on completeness pending K=2 substrate-triangulation of Item 1134 improvements
+- **PROVISIONAL K=2 flags carried to September:** substrate-triangulate Item 1134 improvements before canonical bump; formalize ratification pathway (Rule 24 addendum vs versioned v1.0 → v1.1 bump decision); extend pattern to Round 9 R4 canonical generative-model spec + Round 10a per-tradition primitives + Marcus Reed Surface 8 canonical state spec
+- **Cross-refs:** Item 25 (substrate-triangulation-as-methodology-adjudication), Post 0185 Arc A deployment kit
+- **Batch-3 ratification artifact:** agenda annotation
 
 ### Item 27 — Candidate methodology observation architectural-foundation-scaffold-with-consumer-deferral discipline (Post 0185 Arc C n=1 fire)
 
@@ -362,6 +476,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the pattern absorb into Post 0184 read-side-vs-write-side asymmetric-protection discipline as write-side-scaffold-plus-read-side-context-preservation extension?
 - Related to Item 20 retired-workflow-recurrence-anti-pattern: context preservation across calendar-time gap is complementary to retired-workflow-non-recurrence discipline (both address multi-session state-preservation problems)
 
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (architectural-foundation-scaffold-with-consumer-deferral OPERATIONALIZED + CONTEXT-PRESERVED across four surfaces)
+- **Confidence:** HIGH (Wireduan generosity-ledger scaffold shipped at sim-ai commit ee8c247 as ARCHITECTURAL FOUNDATION; consumer sites NOT SHIPPED (Steam V1.0 scope pending); context preservation quadruple-redundancy at code JSDoc + Post 0185 + polish_queue Item at Open Alley + memory file; Steam V1.0 unlock plan explicit)
+- **Extension recommendation:** extend to other framework surfaces where consumer unlock depends on external decisions (Fiske post-0130 + protected-class post-0128 + Layer 3 Dimensions 5-6)
+- **K=2 flags:** none — pattern operationalized + context-preserved across four surfaces
+- **Cross-refs:** Item 20 → Item 100 → Rule 26 (retired-workflow-recurrence discipline complements context preservation), Item 13 (Layer 3 expansion discipline parallels scaffold-then-populate)
+- **Batch-3 ratification artifact:** agenda annotation
+
 ### Item 28 — Candidate methodology observation age-x-era-framework-selection-rule for civil-rights-framework-applicable anchor identityStage population (Post 0186 n=1 fire)
 
 **Filed n=1 at Post 0186 2026-07-06 Tuesday afternoon.** Marcus Reed Surface 8 §4 audit for Marvin Okafor raised Surface 2 cross-anchor-coherence FLAG: Grok + Perplexity used Cross Nigrescence framework; Opus + ChatGPT argued Cross is anachronistic for a 1944 12-year-old (Immersion/Internalization stages presuppose late-1960s Black-consciousness movement; validated on young adults) and used MMRI (Sellers 1998) + racial-socialization (Boykin & Toms 1985; Hughes et al. 2006) instead. Rule ratified via operator-delegated CC ratification Fire #7: framework-selection keyed to anchor axis (age × era) instead of substrate-preference. Cross retained for adults post-1968; MMRI + racial-socialization applies pre-1968 children + non-Cross-audience anchors; Phinney MEIM (1990/1992 + revised 2007) applies adolescent-emerging-adult multi-ethnic; Nagata 2015 + gaman applies Japanese-American post-Manzanar; Cass 1979 sexual-orientation retained for adults never applied to minors. Rule canonized at `~/Projects/the-street-code/methodology/identity-framework-selection-rule-age-era-2026-07-06.md`. Council #9 review questions:
@@ -370,12 +492,26 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the rule be enforced at substrate deployment prompt scope (naming required framework family per anchor axis at prompt time) rather than at post-hoc audit scope (fixing framework inconsistency after substrate responses)?
 - Related to Item 20 retired-workflow-recurrence-anti-pattern: framework-selection rule prevents anachronistic framework recurrence at civil-rights-anchor scope
 
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (age × era framework-selection rule OPERATIONALIZED at canonical file + validated at n=1 anchor with Marcus Reed audit enforcement)
+- **Confidence:** HIGH (Rule canonized at `~/Projects/the-street-code/methodology/identity-framework-selection-rule-age-era-2026-07-06.md` with explicit selection table: Cross post-1968 adults; MMRI pre-1968 children; Phinney MEIM adolescent-multiethnic; Nagata 2015+gaman Japanese-American; Cass 1979 sexual-orientation adults-only)
+- **K=2 flags carried to September:** apply framework-selection rule at Cesar + Yuki anchor rounds; document backward-compatibility discipline for future framework table additions; n=3 anchor strengthening pathway
+- **Cross-refs:** Item 29 (child-safety pattern complements framework-selection), Item 20 → Item 100 → Rule 26 (retired-workflow-recurrence discipline prevents anachronistic framework reuse)
+- **Batch-3 ratification artifact:** agenda annotation
+
 ### Item 29 — Candidate methodology observation child-safety-unknown-do-not-infer LockedProtectedField pattern (Post 0186 n=1 fire)
 
 **Filed n=1 at Post 0186 2026-07-06 Tuesday afternoon.** Marcus Reed Surface 8 §4 audit for Marvin Okafor + auditor OJ-2 dimension-disambiguation resolution + Perplexity substrate independent child-safety encoding ratification produced schema-level pattern: any minor character with `civil_rights_framework_applicable=true` where a protected-class dimension has zero operator-authored content is encoded via `LockedProtectedField` `{ status: 'unknown_do_not_infer', reasoning, provenance, provenanceDate }` NOT via SCHEMA-RESERVED-UNPOPULATED (which implies future population pathway) and NEVER via inferred content. Pattern applies to Marvin's sexualOrientationLocked field at 12-year-old age with zero orientation content in Item 1135. Auditor OJ-2 quote: "encode non-disclosure without implying a hidden identity." Council #9 review questions:
 - Does the pattern warrant canonization at Rule 26 promotion tier after n=3 minor anchor rounds validate applicability?
 - Should the LockedProtectedField `status` enum extend to non-orientation locked states (e.g., trauma-content-locked reserved-not-shipped)?
 - Related to Rule 19 anti-fabrication n=6 language-model-lineage-invariant discipline: LockedProtectedField is Rule 19 mechanism specific to minor + civil-rights-framework-applicable intersection
+
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (child-safety-unknown-do-not-infer LockedProtectedField pattern THEORETICALLY GROUNDED + OPERATIONALIZED)
+- **Confidence:** HIGH (biographicalRecord.ts carries LockedProtectedField type + Marvin.sexualOrientationLocked populated with unknown_do_not_infer status; auditor OJ-2 "encode non-disclosure without implying hidden identity"; Rule 19 mechanism specific to minor+civil-rights-framework-applicable intersection)
+- **K=2 flags carried to September:** apply pattern at n≥2 additional minor anchors (Cesar age context + future child-aged anchors); formalize LockedProtectedField status enum (unknown_do_not_infer + trauma-content-locked candidates)
+- **Cross-refs:** Item 30 (convergence-is-not-truth confidence semantics complements this pattern), Rule 19 anti-fabrication
+- **Batch-3 ratification artifact:** agenda annotation
 
 ### Item 30 — Candidate methodology observation convergence-is-not-truth confidence semantics (Post 0186 n=1 fire)
 
@@ -384,6 +520,13 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should confidenceSemantics enum extend beyond `verified` | `inter_model_agreement_not_verified` | `operator_authored` to include intermediate tiers (e.g., `primary_source_verified` | `substrate_convergent_verified`)?
 - Related to Rule 19 anti-fabrication: convergence-is-not-truth is specific mechanism catching substrate training-corpus consensus artifacts that fabrication discipline would otherwise miss (fabrication = zero source; convergence artifact = shared trained-source bias)
 
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (convergence-is-not-truth THEORETICALLY GROUNDED — convergence-bias risk in LLM training corpora documented — + OPERATIONALIZED at Marvin anchor)
+- **Confidence:** HIGH (Marvin schema shipped with confidenceSemantics: 'inter_model_agreement_not_verified' at selfDisclosureMatrix; distinct from + complementary to fabrication discipline)
+- **K=2 flags carried to September:** apply convergence-is-not-truth encoding at n≥2 additional civil-rights-framework-applicable anchors; formalize confidenceSemantics enum (verified + inter_model_agreement_not_verified + operator_authored + intermediate candidates pending research)
+- **Cross-refs:** Item 29 (child-safety pattern complements), Rule 19 anti-fabrication, Item 15 (cross-scene portability demonstrates Layer 3 consistency)
+- **Batch-3 ratification artifact:** agenda annotation
+
 ### Item 31 — Candidate methodology observation dimension-split-under-audit-scrutiny (Post 0186 n=1 fire)
 
 **Filed n=1 at Post 0186 2026-07-06 Tuesday afternoon.** Marcus Reed Surface 8 §4 auditor pattern for OJ-2 dimension disambiguation: when substrates diverge on the semantic reading of a schema dimension name (Marvin case: "orientation-disclosure-per-audience" read as self-disclosure-matrix by 2 substrates + as sexual-orientation by 2 substrates), auditor recommends **splitting the single dimension into two schema fields** rather than forcing one field to carry both semantics. Applied at biographicalRecord.ts: `selfDisclosureMatrix` for rich UNLOCK content + `sexualOrientationLocked` for LOCKED child-safety encoding. `threeLayerOrientation` (Phase 11 Item 9 R11 Architecture Spec) remains SCHEMA-RESERVED-UNPOPULATED at Marvin scope because sexual-orientation path is replaced by LockedProtectedField for minors. Council #9 review questions:
@@ -391,6 +534,13 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - What are the compatibility implications for pre-existing schema fields with dual-reading ambiguity (audit backlog scan requirement)?
 - Should the split-vs-rename decision be auditor OJ-gated (auditor recommends OR schema-owner decides) OR canonical (any dual-reading auto-splits)?
 - Related to Item 26 meta-prompt-improvement-first-class-output: dimension-split-under-audit-scrutiny is discovery pattern surfacing at content-authoring research round; audit is discovery surface
+
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (dimension-split-under-audit-scrutiny SUBSTANTIVE — dual-reading disambiguation has direct code implementation; multiple test surfaces)
+- **Confidence:** HIGH (biographicalRecord.ts selfDisclosureMatrix field + sexualOrientationLocked LockedProtectedField canonized at Marvin scope; OJ-2 auditor ratification documented; test surfaces at pinboyAnchors.test.ts + anchorEPhase71fSchemaPopulation.test.ts + dialogueSurfaceLint.test.ts)
+- **K=2 flags:** none — pattern is SUBSTANTIVE not invented; empirically grounded
+- **Cross-refs:** Item 26 (meta-prompt-improvement-first-class-output — sibling audit-response discipline), Item 34 (invented-methodology-name apparatus retirement — Item 31 is legitimate substrate-response discipline distinct from invented)
+- **Batch-3 ratification artifact:** agenda annotation
 
 ### Item 34 — Candidate methodology observation invented-methodology-name apparatus retirement discipline (Post 0187 n=1 fire)
 
@@ -415,6 +565,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - What is the pathway for bulk Rule 24 correction cascade vs anchor-registry retirement (single-file rename semantics) — related to Post 0184 provenance-centralization-anti-drift Item 23 discipline?
 - Should the pre-anchor-content-lock verification gate require cross-entity anchor-registry-consistency check?
 - Related to Item 23 provenance-centralization-anti-drift + Item 20 retired-workflow-recurrence-anti-pattern: template-drift + retired-workflow + anchor-drift form a canonization-propagation-gap family at cross-entity scope
+
+**RATIFIED 2026-07-10 late per Council #9 batch-3 ratification (operator signature):**
+- **Verdict:** RATIFY (template-drift-defect-propagation with multi-file propagation consequence; extends Rule 26 retired-workflow-recurrence discipline at anchor-registry scope)
+- **Confidence:** HIGH (concrete defect: hine_pin_boy_dc_photograph_1943 applied across 7 sibling personality files with 3-year chronological impossibility; cross-entity anchor-registry consistency pattern validated via bulk correction cascade)
+- **Discipline promotion:** promotes as composite sub-shape of Item 100 → Rule 26 (retired-workflow-recurrence discipline) at 'cross-entity canonization-propagation gap discipline family' scope; extends coverage from within-post recurrence to cross-entity anchor-registry scope
+- **K=2 flags:** none — pattern operationally validated at 7-file bulk cascade
+- **Cross-refs:** Item 20 → Item 100 → Rule 26 (retired-workflow-recurrence discipline), Item 33 (SUBSUMED into 100), Item 23 (provenance-centralization-anti-drift enables single-file rename semantics for future retirement cascades)
+- **Batch-3 ratification artifact:** agenda annotation
 
 ### Item 33 — SUBSUMED into Item 100 per Phase A pre-Council reduction sweep 2026-07-10 late (Rule 26 candidacy explicitly consolidates 20+33+66)
 
