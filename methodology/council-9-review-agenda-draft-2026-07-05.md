@@ -5222,6 +5222,64 @@ Sequence in seed-42 log:
 - **Cross-refs:** Item 154 substrate fix at sim-ai `0ef8fcd`; session-log seed-42 (563-entry post-M14 snapshot at t=3428) defect-of-record; Rule 20 sibling (silent-drift class at nested-object rebuild scope); Rule 22 sibling (anti-drift discipline); Post 0197 (Rule 28 regression tests ARE Post 0197 discipline application at reducer-scope)
 - **Batch-1 ratification artifact:** canonical file v2.2.0 preamble + Rule 28 body includes framework methodology observation on session-log post-mortem discipline as complement to Post 0197 empirical-validation-harness discipline
 
+**§7 Tooling operationalization amendment (shipped 2026-07-11):**
+
+Post-ratification tooling shipped for full Rule 28 defense-in-depth per operator directive "implement all three [Improvements] comprehensively." Three attack surfaces on the same failure class:
+
+- **Improvement 1 (reducer-audit lint):** `scripts/audit-reducers.ts` at sim-ai `7d89a2c`. ts-morph AST audit for fully-listed nested-state rebuilds without `...spread`. Wired to `npm run audit-reducers` + pre-commit hook Section C. Zero-violations gate at commit time. Regression self-test at `scripts/audit-reducers.test.ts` (4/4 PASS: bad-fixture detected + good-spread suppressed + inline-escape honored + current-substrate clean). Empirically found + fixed a SECOND field-nuke site (`islandWorld.ts:2741` in `tickSimB` — SimStateSnapshot rebuild lacked `...simB` spread; would silently drop any newly-added field across ticks). First empirical validation-gate PASS: initial audit run flagged 9 candidates → 3 legitimate allowlist entries (init factories + BehaviorSample subset) + 1 real defect fixed + 5 no-longer-flagged after tracked-key set narrowing.
+- **Improvement 2 (session-log post-mortem harness):** filed as sibling Item 155 below.
+- **Improvement 3 (state-migration shim):** `stateNormalization.ts` at sim-ai `e5f3134`. Runtime backfill for optional PairRelationalState fields at all 4 state factories + top of tickIslandWorld + loadSessionLog entry-map. Idempotent (reference-equal no-op when clean). 17/17 regression tests PASS. Precedent: sessionLogger.loadSessionLog v0.3.0 → v0.4.0 versioned migration. Defense-in-depth complement to Rule 28: even if a reducer nukes a field, next tick backfills before consumers observe.
+
+**Empirical validation post-canonization gate strengthened:**
+- 6-line spread fix at islandWorld.ts:3016 (original Item 154 patch) still holds; audit script verifies no similar defect exists elsewhere at commit time going forward.
+- Rule 28 falsification clause `if 0 audit violations across n≥3 ships → DEFLATE to advisory` — n=1 ship complete this session with 0 substrate violations (audit clean). n≥3 threshold pending post-Council-#10 accumulator.
+
+---
+
+### Item 155 — Session-log post-mortem discipline (Improvement 2 / Post 0197 complementary)
+
+**Filed 2026-07-11.** Framework methodology extension surfaced by Item 154 discovery pathway.
+
+**Origin:** Item 154 field-nuke bug was surfaced by ad-hoc session-log analysis (operator ran a fresh 2-Sim seed-42 session + exported log + asked CC to meta-analyze). This process is fragile — depends on operator noticing "something looks off" + running the session + exporting + requesting analysis. If the operator hadn't looked, the bug would have persisted through more substrate ships accumulating fields on top of it.
+
+**Discipline claim:** Post 0197 empirical-validation-harness discipline covers unit-scope hypothesis tests (synthetic; theory-driven; catches known failure modes). Session-log post-mortem discipline covers integration-scope trajectory validation (real; emergent; catches unknown failure modes). Both are needed. Formalize as substrate-ship-time gate.
+
+**Shipped this session at sim-ai `e381983`:**
+- `scripts/session-log-postmortem/run-fresh-seed42.ts` — CLI + programmatic harness. Deterministic mulberry32-seeded 2-Sim session with PROPER_ANCHOR_A/B archetypes. Configurable ticks (default 3000; --ticks 11000 for pre-Council substrate-review scope) + seed + write/no-write.
+- `scripts/session-log-postmortem/lib/analyze.ts` — 5 analyzers: session summary + pair-relational arc + encounter/position distribution + action histogram (top 10 per Sim) + substrate integrity (3-kind anomaly detector: pair_field_missing + colocation_without_encounter_after_threshold + rescue_without_snapshot).
+- `scripts/session-log-postmortem/lib/render.ts` — 6-section markdown renderer with verdict banner + suggested-action lines pointing back at Rule 28 audit + reducer-spread check.
+- `scripts/session-log-postmortem/postmortem.test.ts` — 4/4 PASS regression coverage: clean baseline + field-nuke detection sensitivity + colocation-without-encounter fire + markdown-render anomaly section.
+- `npm run postmortem` wired.
+- sim-ai `CLAUDE.md` extended with substrate-ship discipline section (audit → postmortem → tests ordered gate).
+
+**Discipline claim (framework methodology-level):**
+- **When a substrate ship modifies:** shared state fields on nested state objects OR reducer paths OR memory encoding paths OR cross-plane event emission paths:
+  1. `npm run audit-reducers` — Rule 28 (Improvement 1)
+  2. `npm run postmortem` — Item 155 (this Improvement 2)
+  3. `npm test` — existing Post 0197 unit harnesses
+- **Verdict `⚠️ N ANOMALIES`** → fix + re-run OR waive with commit-message rationale OR file Council follow-up.
+- **Extended horizon (11000 ticks) recommended pre-Council substrate review.**
+
+**Anchor stack:** Post 0136 (BUILD-mode-as-hypothesis) + Post 0197 (empirical-validation-harness) + Item 154 defect-of-record (session-log-driven bug discovery).
+
+**Framework flags per Rule 19:** N/A — no numeric constants under falsification.
+
+**Cross-refs:**
+- Item 154 → Rule 28 (Defensive-Reducer Discipline) — Improvement 2 provides the emergent-scope complement to Improvement 1's unit-scope Rule 28 lint gate.
+- Post 0197 — Item 155 is the integration-scope corollary; explicit "one covers what you think matters, the other covers what you didn't think mattered" framing.
+- Improvement 3 state-migration shim (Item 154 §7 amendment) — provides runtime defense-in-depth complementing Item 155's ship-time gate.
+
+**Filing pattern (Rule 14):** Pattern B — ADOPT FOLD (Rule 10 Conservative-Bias). Framework methodology extension; 4/4 regression harness PASS; 1685 sim-ai tests PASS post-ship; complementary discipline (not replacement) to Post 0197.
+
+**Falsification thresholds pre-registered:**
+- If n≥3 substrate ships pass postmortem clean AND independently ship without any regression that postmortem would have caught → DEFLATE to advisory (postmortem covers zero-value ground).
+- If postmortem catches a defect that both audit-reducers AND Post 0197 harnesses missed → RATIFY canonization + amend Post 0197 with integration-scope-required clause.
+- If postmortem output is noisy (>10% ships have ≥1 anomaly waiver) → refine anomaly detectors or thresholds.
+
+**Confidence calibration:** MEDIUM-HIGH — first-run harness verified working end-to-end; anomaly detectors verified against synthetic bad state; integration with substrate ship workflow deferred to first ship post-canonization for empirical validation.
+
+**Recommendation:** RATIFY at Council #9 (this batch or September window) as sibling to Item 154 Rule 28 canonization + Improvement 3 (Item 154 §7) shim.
+
 ---
 
 ## Council #9 methodology deployment structure
