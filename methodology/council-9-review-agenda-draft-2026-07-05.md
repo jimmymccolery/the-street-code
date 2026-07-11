@@ -1,7 +1,7 @@
 # Council #9 Review Agenda — Draft Document
 
 **Filed:** 2026-07-05 late evening (post-Council-8-close Phase 9 sweep); EXTENDED 2026-07-07 morning with 10 new candidacy items (36-45) from comprehensive session arc per `project_2026_07_07_morning_comprehensive_session_arc.md`
-**Ratification status:** DRAFT — awaiting operator ratification of Council #9 target scheduling window
+**Ratification status:** ✅ **FULLY RATIFIED 2026-07-10 late** across (a) Items 149/150/151 filing per Fire #9 operator-delegated CC ratification + (b) target scheduling window (nominal 2026-09-05 through 2026-10-05) + remaining agenda scope per Fire #10 operator-delegated CC ratification + (c) 4 safe pre-close reductions per Fire #11 (Item 149 REBOUND to Council #10 · Item 150 ABSORBED into Item 146 as M0 port precursor · Q5 review question RETIRED · Post 0197 clarify n=11 alongside n=7+ HELD marker). See companion audit artifacts: `council-9-items-149-150-151-filing-ratification-2026-07-10.md` (Fire #9) + `council-9-scheduling-window-agenda-scope-ratification-2026-07-10.md` (Fire #10) + `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md` (Fire #11). **Council #9 signature-gated adjudications PRESERVED** for September window: Rule 21 → Rule 22 ABSORB (LOW pilot confidence; K=2 substrate corroboration required) + Post 0197 ABANDON excess (Round 5 Opus 4-option deferral) + all 145 remaining per-item RATIFY/RETIRE/DEFLATE/ABSORB/REBOUND outcomes.
 **Target review window:** 2026-09-05 through 2026-10-05 (60-90 days from Council #8 close 2026-07-05)
 **Total candidacy items:** 145+ (Items 1-9 canonized-review questions + Items 10-35 filed pre-2026-07-07 + Items 36-45 filed 2026-07-07 morning session + Items 46-67 filed 2026-07-07 midday/afternoon + Items 68-69 filed 2026-07-07 late afternoon Gemini Deep Research Round 4 + Items 70-74 filed 2026-07-07 late afternoon Grok Round 6 enrichment + Items 75-79 filed 2026-07-07 late afternoon Perplexity Comet + ChatGPT 5.5 Round 7 comprehensive research + Items 82-86 filed 2026-07-07 late afternoon Perplexity Comet + Fable 5 context-free brainstorm ingestion + Item 87 filed 2026-07-07 late evening Stage 1 Week 1 Day 1 empirical UMAP diagnostic + Items 87.1 + 88 + 89 + 90 filed 2026-07-07 late evening Stage 1 Week 1 Days 3+6 empirical findings + Items 91 + 92 filed 2026-07-08 morning post-Path-1-arc CI-visibility + parallel-agent-execution-boundary-coordination gap fires + Items 93 + 94 filed 2026-07-08 morning retroactive corpus-wide disclosure abstraction candidacy + application-arc vs methodology-arc disclosure-scope stratification review question + Items 95 + 96 + 97 filed 2026-07-08 morning Path-1-empirical-harness ship arc + Item 98 filed 2026-07-08 morning recursive self-application of Post 0197 discipline + Item 99 filed 2026-07-08 morning Stage 3 architectural extension physical characteristics + attractive privilege + first-impression + charisma derivation + humor style vector with 7-hypothesis harness 7/7 PASS + Item 100 filed 2026-07-08 morning Rule 26 candidacy proposal consolidating Items 20 + 33 + 66 as Retired-workflow-recurrence discipline + Item 101 filed 2026-07-08 morning Cycle 12 Steps 6-9 retirement disposition + Item 55 RETIRED per split/retire/reduce mechanism)
 
@@ -16,6 +16,16 @@
 - `~/Desktop/COUNCIL-8-DEPLOY/RATIFICATION-DECISIONS.md` — Council #8 operator-delegated CC ratification decisions
 - `~/Projects/master-setup/operational_discipline_rules.canonical.md` v2.1.0 — canonical rules (Rules 1-25)
 - Post 0175 — Council #8 canonization outcome comprehensive
+- `council-9-items-149-150-151-filing-ratification-2026-07-10.md` — Fire #9 operator-delegated CC filing-ratification audit artifact (2026-07-10 late)
+- `council-9-scheduling-window-agenda-scope-ratification-2026-07-10.md` — Fire #10 operator-delegated CC scheduling window + agenda scope ratification audit artifact (2026-07-10 late)
+- `council-9-substrate-a-preliminary-pilot-2026-07-10.md` — Substrate A Grok DeepSearch PRELIMINARY pilot deployment audit artifact (2026-07-10 late; Option C ratification)
+- `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md` — Fire #11 operator-delegated CC ratification of 4 safe reductions post-Grok-pilot (2026-07-10 late; Item 149 REBOUND + Item 150 ABSORB + Q5 RETIRE + Post 0197 clarify)
+
+**Change log:**
+- 2026-07-10 late: Items 149/150/151 FILING RATIFIED via operator-delegated CC ratification Fire #9 per Path B+C operator direction. Filing scope only (canonical:1287-1301 four-condition compliance); Council #9 adjudication authority preserved. Companion audit artifact filed at `council-9-items-149-150-151-filing-ratification-2026-07-10.md`. Inline ratification blocks added at Items 149/150/151 body positions. Target scheduling window remains DRAFT.
+- 2026-07-10 late (~5-10 min post-Fire-9): Target scheduling window (nominal 2026-09-05 through 2026-10-05) + remaining agenda scope RATIFIED via operator-delegated CC ratification Fire #10 per operator "Comprehensively proceed with all mentioned actions" direction. Structural ratification only (canonical:1287-1301 four-condition compliance); Council #9 per-item adjudication authority preserved for operator signature at substrate deliberation window. Companion audit artifact filed at `council-9-scheduling-window-agenda-scope-ratification-2026-07-10.md`. Rule 14 pattern classification: Pattern D (scheduling window ORCHESTRATOR-CUSTOM) + Pattern C (agenda scope RATIFY BASE).
+- 2026-07-10 late (~2 hrs post-Fire-10): **Substrate A (Grok DeepSearch) PRELIMINARY pilot deployment** per operator Option C ratification. Rule 25 PASS (backbone declared); 10 dedicated YAMLs + 5 aggregated; 5 reduction opportunities surfaced (2 corroborate Fire #9 pre-registered patterns; 3 novel: Rule 21 → Rule 22 ABSORB, Post 0197 clarification/ABANDON, Q5 review question retirement). PRELIMINARY disposition per Option C — other 3 substrates deferred to nominal September window. Pilot artifact: `council-9-substrate-a-preliminary-pilot-2026-07-10.md`. Agenda annotations added at Q2 (line 63), Q5 (line 105), Item 95 amendment (line 1142+).
+- 2026-07-10 late (~4 hrs post-Fire-10; post-Grok-pilot + Agent C adjudication-safety research): **Fire #11 operator-delegated CC ratification** of 4 safe reductions per operator "comprehensively proceed with completing Council #9" + "I want to accelerate if we are not skipping any steps" direction. Four ratifications: (1) Item 149 REBOUND to Council #10 · (2) Item 150 ABSORB into Item 146 as M0 port precursor scope · (3) Q5 review question RETIRE · (4) Post 0197 recursion count clarify n=11 alongside n=7+ HELD preservation. All 4 pass canonical:1287-1301 four-condition compliance (NOT signature-gated: reversible deferral / candidacy fold / agenda hygiene / documentation reconciliation). Signature-gated territory preserved: Rule 21 → Rule 22 ABSORB (LOW pilot confidence) + Post 0197 ABANDON (Round 5 Opus 4-option deferral) reserved for K=2 substrate corroboration at September window. Companion artifact: `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md`. Applied to canonical surfaces: Item 149 REBOUND annotation (line 3767) + Item 150 ABSORB annotation (line 3829) + Item 146 body M0 port precursor amendment (line 3568+) + Q5 RETIRE annotation (line 96) + Post 0197 clarify annotation (line 1147+) + retirement registry entries (Q5 RETIRE + Item 149 REBOUND cross-reference).
 
 ---
 
@@ -55,6 +65,8 @@ Falsification threshold: if operator veto rate exceeds 80% of Rule 21 fires (ope
 
 Falsification threshold: if measurement wins on observed outcome AND operator wins on construct validity when metric rewards wrong mechanism produces empirical conflict at same decision >2 times, conflict-resolution rule needs REBOUND.
 
+**Pre-Council-9 discussion item (Grok pilot 2026-07-10 late):** Substrate A PRELIMINARY pilot deployment surfaced Rule 21 as HIGHEST-uncertainty rule in post-Council-8 window per Grok analysis. Grok flagged Rule 21 formal count-ledger gap (evidence pack Section 2: "no formal count-ledger updates found") as sub-shape 12 documentation failure candidate, and recommended reduction move: **REBOUND to simpler operator veto-rate metric OR ABSORB into Rule 22**. Grok verdict: NOT FIRED / LOW confidence. Grok adversarial case: "Rule 21 risks becoming unverifiable theater" absent formal ledger. Framework flag: Substrate A pilot signal preliminary; September window re-verification required before adjudication. See pilot artifact `council-9-substrate-a-preliminary-pilot-2026-07-10.md` + response `~/Desktop/COUNCIL-9-DEPLOY/COUNCIL-9-ATTACHMENTS/substrate-a-grok-deepsearch-2026-07-10.md`.
+
 ### Question 3 — Operator-delegated CC ratification policy assessment
 
 **Did any delegated ratification produce hidden downstream rework the operator would have caught?**
@@ -83,7 +95,10 @@ Falsification threshold: if canonical retirement registry has NOT been created b
 
 Falsification threshold: if freshness/precedence protocol produces >2 false-block events (blocking legitimate references), protocol needs REBOUND (loosen precedence hierarchy) or ADD-hardship-exception clause.
 
-### Question 5 — Rule 24 post-audit-correction assessment
+### Question 5 — Rule 24 post-audit-correction assessment — ❌ **RETIRED per Fire #11 2026-07-10 late**
+
+**RETIRE ratification** (Fire #11 operator-delegated CC 2026-07-10 late): Q5 review question RETIRED from Council #9 agenda. Rule 24 was retired 2026-07-09 late (cascade Item 142 retirement); reviewing a retired rule's post-audit-correction discipline is meta-move retiring the review question of an already-retired rule. Grok DeepSearch PRELIMINARY pilot signal: "retirement itself is reduction success; follow-up question risks re-accretion via new retirement-quality bureaucracy" — Rule 14 Pattern D ORCHESTRATOR-CUSTOM (agenda-hygiene meta-move; first-instance). See `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md`. Framework methodology observation candidacy (deferred to future Council): structural rule "if source rule retired, does its review question survive by default?" — Q5 retirement is n=1 fire. Historical Q5 body preserved below for audit trail; substrate deliberators at September window SHOULD NOT adjudicate this question (RETIRED).
+
 
 **Did addendum corrections leave future readers confused about current truth?**
 
@@ -96,6 +111,8 @@ Evidence required:
 Falsification threshold: if hybrid protocol produces >2 confused-reader events per quarter, addendum-only pattern was superior. Execute REBOUND to addendum-only OR DEFLATE hybrid protocol to load-bearing-only-not-all-posts.
 
 Falsification threshold: if terminal audit rule (one primary + one scoped audit-of-audit) proves too aggressive (audits stopped despite additional bugs revealed later), rule needs REBOUND.
+
+**Pre-Council-9 discussion item (Grok pilot 2026-07-10 late):** Substrate A PRELIMINARY pilot deployment surfaced Q5 as meta-observation candidate for review-question retirement. Grok note: **Rule 24 was RETIRED 2026-07-09 late; therefore Q5 review question itself may warrant RETIRE as meta-move** — "Retirement itself is reduction success; follow-up question risks re-accretion via new 'retirement-quality' bureaucracy." Grok verdict: NO-CHANGE (to successor discipline) / MEDIUM confidence. Grok adversarial case: retiring Q5 removes bureaucratic follow-up scope. Framework flag: Substrate A pilot signal preliminary; September window re-verification required before adjudication (may extend to broader agenda structural review: if source rule retired, does its review question survive?). See pilot artifact `council-9-substrate-a-preliminary-pilot-2026-07-10.md`.
 
 ## Additional review agenda items (per Council #8 outcomes)
 
@@ -1128,9 +1145,13 @@ Per operator ratification of Path A, Item 98 formally SUBSUMED into Item 95. Ite
 - n=8 Integration audit harness Post 0197 discipline extension unit→integration scope (2026-07-10)
 - n=9 Arch 3 memory album harness (2026-07-10)
 
-**Recursion count HELD at n=7+ per Round 5 Opus adjudication** — actual recurrence sites now n=9 through Arch 3 ship but formal count HELD pending Council #9 adjudication among 4 options (HELD / clarify / RETIRE / ABANDON per Deep Research R5 option).
+**Recursion count HELD at n=7+ per Round 5 Opus adjudication** — actual recurrence sites now n=11 through Stage 3.8 ship (n=9 through Arch 3 + n=10 H-mem-8 + n=11 Stage 3.8 H-rescue-6) but formal count HELD pending Council #9 adjudication among 4 options (HELD / clarify / RETIRE / ABANDON per Deep Research R5 option).
+
+**⚙️ CLARIFY ratification** (Fire #11 operator-delegated CC 2026-07-10 late): Post 0197 recursion count DOCUMENTED as n=11 actual alongside preserved n=7+ HELD formal marker. Grok DeepSearch PRELIMINARY pilot flagged as self-sealing accretion risk per Round 5 Opus meta-diagnosis (Paranoid Stoner failure mode 3 at 45% probability). Grok mitigation adopted: "formal count update only after independent cross-substrate audit of all 11 sites; treat excess as diagnostic of accretion risk, not proof of discipline strength." Rule 14 Pattern B ADOPT FOLD (documentation reconciliation; NOT rule mutation; n=7+ formal count preserved). ABANDON adjudication among Round 5 Opus 4 options RESERVED for Council #9 September window K=2+ substrate corroboration + operator signature. See `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md`.
 
 **Framework methodology significance:** First Council #9 pre-review formal ABSORB of an empirical-strengthening candidacy into its parent discipline candidacy. Validates Council #8 canonized ABSORB mechanism at n=2 consolidation scope (Item 98 → Item 95); complementary to Item 100 n=3 consolidation (Items 20+33+66) demonstrating framework's own reduction discipline works at varying consolidation sizes.
+
+**Pre-Council-9 discussion item (Grok pilot 2026-07-10 late):** Substrate A PRELIMINARY pilot deployment surfaced Post 0197 recursion count n=11 actual vs n=7+ formal HELD state as **self-sealing accretion risk candidate** per Round 5 Opus meta-diagnosis. Grok explicit warning (Paranoid Stoner Failure Mode 3, 45% probability): "Post 0197 'HELD at n=7+' while actual n=11 becomes self-sealing loop (canonization expectation generates recurrence sites that are then counted as evidence of the pattern)." Grok recommendation among Round 5 Opus 4 options: **clarify OR ABANDON excess** (n=11 → n=7+ discrepancy formalized OR abandoned above n=7+ threshold). Grok mitigation: "formal count update only after independent cross-substrate audit of all 11 sites; treat excess as diagnostic of accretion risk, not proof of discipline strength." Framework flag: Substrate A pilot signal preliminary; September window re-verification required before adjudication; if K=2 substrate corroboration at September window, clarify/ABANDON becomes empirically-supported reduction move. See pilot artifact `council-9-substrate-a-preliminary-pilot-2026-07-10.md`.
 
 ### Item 96 — Natural-vs-scripted-scenario-pair as empirical methodology pattern (candidate paired-scenario methodology)
 
@@ -3546,6 +3567,15 @@ At `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/fi
 
 **Recommendation:** RETAIN as candidacy at Council #9 review scope. Three-agent empirical foundation + framework methodology commitment M15 clarification value (prevents accidental double-counting of context modulation) + Layer 5 → Layer 6 coupling architectural completeness per Post 0146 canon + Empirically-defensible 5-signature distribution behavior differential + Interim RoomToLife diagnostic ship provides framework-methodology-discipline "signal the gap without pre-empting canonization" pattern instance make Item 146 a load-bearing framework methodology extension candidate.
 
+**AMENDMENT 2026-07-10 late (Fire #11 Item 150 ABSORB — M0 port precursor scope added):**
+
+Item 150 (approach-bias substrate port precursor scope discrepancy) ABSORBED into Item 146 body per Fire #11 operator-delegated CC ratification 2026-07-10 late. Item 146 substrate wiring cannot proceed without a precursor port step because `computeFirstEncounterApproachBias` (+ its `ApproachBiasInputs` / `ApproachBias` types + 5-signature distribution) lives ONLY at RoomToLife scope (`~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/firstEncounterApproachBias.ts:324`), NOT sim-ai substrate. Item 146 milestone extension:
+
+- **M0 (NEW; from Item 150 ABSORB):** Port `firstEncounterApproachBias.ts` from RoomToLife → sim-ai substrate. Includes approx 500 LOC (v3 Level A additive-with-modulator redesign per `project_arch1_approach_bias_v3_level_a_redesign_2026-07-10.md` memory pointer), `ApproachBiasInputs` + `ApproachBias` + `ApproachBiasDistribution` type surface migration, associated empirical validation harness co-migration at `~/Projects/roomtolife/scripts/first-encounter-approach-bias-empirical-harness/`, Round 1 audit corrections (Perplexity + Grok R1/R6/R7 arc) preservation at port, substrate-scope regression tests. Post-port state: RoomToLife imports from `sim-ai/sim-ai/firstEncounterApproachBias` via path alias; roomtolife/vendor/sim-ai propagates via rsync.
+- M1+ (existing Item 146 substrate wiring at `decideNextAction` candidate-action weighting): proceeds after M0 port complete.
+
+Rationale: Grok DeepSearch PRELIMINARY pilot corroborated Fire #9 Pattern B ADOPT FOLD ABSORB option classification independently at pilot scope; HIGH confidence grep-verified substrate discrepancy warrants precursor scope explicit in Item 146 body. Item 150 body preserved as SUBSUMED historical record for absorption audit trail. Cross-reference: `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md`. Reversible pre-Council-#9-substrate-deployment (split back out if K=2 substrate corroboration at September flags standalone RATIFY more appropriate).
+
 **AMENDMENT 2026-07-10 (post-Arch-2 ship + Item 147 filing):**
 
 Item 147 (Stage 3.6) filed as sibling to Item 146 covering the close-contact impression revision — the "second photo when the Sims actually meet" architecture per operator-ratified Arch 1 → Arch 2 → Arch 3 sequencing. Item 147 uses the same Arch 1 diagnostic-only ship posture at RoomToLife scope; substrate coupling deferred to same Council #9 window.
@@ -3750,7 +3780,10 @@ Substrate coupling deferred to Item 148 ratification at September Council #9 win
 
 ---
 
-### Item 149 — "PREVENTED" as 6th canonized reduction move (extends Council #8 split/retire/reduce mechanism)
+### Item 149 — "PREVENTED" as 6th canonized reduction move (extends Council #8 split/retire/reduce mechanism) — 🔄 **REBOUND to Council #10 per Fire #11 2026-07-10 late**
+
+**REBOUND ratification** (Fire #11 operator-delegated CC 2026-07-10 late): Item 149 REBOUND from Council #9 September window to Council #10 window (nominal Nov-Dec 2026) pending n≥2 strengthening. Grok DeepSearch PRELIMINARY pilot corroborated Fire #9 Pattern F HOLD-pending-additional-fires classification independently at pilot scope. Rationale: n=1 anchor (Item 12 DEFLATE) is minimum viable for canonization proposal but not yet strengthened; premature canonization risks accretion pattern per Round 5 Opus meta-diagnosis. Item body preserved verbatim; retirement registry entry logged as REBOUND move (not RETIRE — item preserved as candidacy). See `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md`. Reversible pre-Council-#10.
+
 
 **Filed:** 2026-07-10 late (Phase A pre-Council reduction sweep surfaced empirical anchor via Item 12 DEFLATE analysis)
 
@@ -3801,9 +3834,21 @@ Framework rule candidacy: canonize **PREVENTED** as 6th reduction move within Co
 
 **Recommendation:** RATIFY at Council #9 September window as narrowly-scoped 6th reduction move canonization. Empirical foundation modest (n=1) but discipline structure operationally clear + falsification threshold pre-registered + Item 12 DEFLATE ratification in Phase A pre-Council sweep provides immediate operational compliance opportunity. Alternative: REBOUND to Council #10 if n≥2 strengthening desired first.
 
+**Filing ratification — 2026-07-10 late (Fire #9 operator-delegated CC ratification):**
+- **Filing status:** RATIFIED as properly-scoped Council #9 candidacy
+- **Filing pattern (Rule 14):** Pattern F — HOLD-pending-additional-fires (item body explicitly holds canonization pending n≥2 strengthening OR ABSORB adjudication)
+- **Delegation authority:** operator quote "ratify agenda + Items 149/150/151 NOW" 2026-07-10 late
+- **Signature-gated scope preserved:** Council #9 adjudication authority (canonical-rule creation → operator signature at September window)
+- **Validation gate:** Council #9 substrate deliberation empirically tests filing appropriateness at n=1 sufficiency question
+- **Rollback state:** filing revertible pre-Council per numbering-preservation discipline
+- **Audit artifact:** `council-9-items-149-150-151-filing-ratification-2026-07-10.md`
+
 ---
 
-### Item 150 — Item 146 approach-bias substrate port precursor scope discrepancy (Phase B substrate audit finding)
+### Item 150 — Item 146 approach-bias substrate port precursor scope discrepancy (Phase B substrate audit finding) — ⚙️ **ABSORBED into Item 146 as M0 port precursor scope per Fire #11 2026-07-10 late**
+
+**ABSORB ratification** (Fire #11 operator-delegated CC 2026-07-10 late): Item 150 ABSORBED into Item 146 body as M0 port precursor scope. Grok DeepSearch PRELIMINARY pilot corroborated Fire #9 Pattern B ADOPT FOLD ABSORB option classification independently at pilot scope. Item 146 body extended (see Item 146 amendment section) with M0 port precursor milestone. Item 150 body preserved as SUBSUMED historical record for absorption audit trail. See `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md`. Reversible pre-Council-#9-substrate-deployment (split back out if K=2 substrate corroboration at September flags standalone RATIFY more appropriate).
+
 
 **Filed:** 2026-07-10 late (Phase B pre-Council substrate audit surfaced discrepancy between Item 146 body claim + current sim-ai substrate state)
 
@@ -3860,6 +3905,15 @@ Once ported, `computeFirstEncounterApproachBias` becomes a substrate primitive c
 **Architectural spec:** Sim-ai substrate port of RoomToLife-scope `firstEncounterApproachBias.ts` with type surface preservation + empirical harness co-migration. Post-port state: RoomToLife imports from `sim-ai/sim-ai/firstEncounterApproachBias` via path alias; roomtolife/vendor/sim-ai propagates via rsync.
 
 **Recommendation:** RATIFY at Council #9 September window jointly with Item 146 as bundled precursor + wiring adjudication (avoids Item 146 ratification without acknowledged precursor). Alternative: ABSORB Item 150 into Item 146 body via amendment (single ratification). Alternative: REBOUND Item 146 to Council #10 pending precursor scope + Item 150 execution.
+
+**Filing ratification — 2026-07-10 late (Fire #9 operator-delegated CC ratification):**
+- **Filing status:** RATIFIED as properly-scoped Council #9 candidacy
+- **Filing pattern (Rule 14):** Pattern B — ADOPT FOLD (default Rule 10 Conservative-Bias); grep-verified factual discrepancy = auditable substrate finding
+- **Delegation authority:** operator quote "ratify agenda + Items 149/150/151 NOW" 2026-07-10 late
+- **Signature-gated scope preserved:** Council #9 ABSORB-into-146 adjudication (rule scope change → operator signature at September window per canonical:1296)
+- **Validation gate:** grep across sim-ai substrate at Council #9 window; if approach-bias signatures present, RETIRE per pre-registered falsification threshold
+- **Rollback state:** filing revertible pre-Council per numbering-preservation discipline
+- **Audit artifact:** `council-9-items-149-150-151-filing-ratification-2026-07-10.md`
 
 ---
 
@@ -3948,6 +4002,15 @@ Framework Stage 3.8 architectural extension sibling to Items 146+147+148 (Stage 
 **Confidence calibration:** HIGH — 8/8 substrate-scope empirical harness PASS + Non-Inertness Gate CLEARED + determinism 100% + integration with existing Items 146/147/148 substrate work + Rule 19 discipline applied throughout. Council #9 September window ratification path: RATIFY as Stage 3.8 architectural extension canonization with M12 kit enrichment complete.
 
 **Recommendation:** RATIFY at Council #9 September window as Stage 3.8 architectural extension canonization sibling to Items 146+147+148 Stage 3.5/3.6/3.7. Combined ecosystem-scope Non-Inertness Gate CLEARED evidence (H-mem-8 at Item 148 + H-rescue-6 at Item 151) materially strengthens Council #9 Item 132 amendment ratification path.
+
+**Filing ratification — 2026-07-10 late (Fire #9 operator-delegated CC ratification):**
+- **Filing status:** RATIFIED as properly-scoped Council #9 candidacy
+- **Filing pattern (Rule 14):** Pattern B — ADOPT FOLD (default Rule 10 Conservative-Bias); 8/8 empirical harness PASS + Non-Inertness Gate CLEARED + determinism 100% + integration verified = empirical foundation strong
+- **Delegation authority:** operator quote "ratify agenda + Items 149/150/151 NOW" 2026-07-10 late
+- **Signature-gated scope preserved:** Council #9 architectural-extension canonization adjudication (canonical-mutation scope → operator signature at September window)
+- **Validation gate:** K=2 substrate re-verification of Non-Inertness Gate H-rescue-6 at Council #9 window; if unreproducible, DEFLATE per pre-registered falsification threshold
+- **Rollback state:** filing revertible pre-Council per numbering-preservation discipline
+- **Audit artifact:** `council-9-items-149-150-151-filing-ratification-2026-07-10.md`
 
 ---
 

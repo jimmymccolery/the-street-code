@@ -209,6 +209,78 @@ Four-surface propagation clean; no Rule 20 Family A canonization-propagation gap
 
 ---
 
+### Question 5 (Rule 24 post-audit-correction review question) — RETIRED 2026-07-10 late (Fire #11 agenda-hygiene meta-move)
+
+**Original candidacy:** Q5 review question at Council #9 agenda (line 96+) reviewing Rule 24 post-audit-correction discipline.
+
+**Filed:** Council #8 close 2026-07-05 late evening (as one of 5 canonized review questions for Council #9 nominal window).
+
+**Empirical foundation for retirement:**
+- Rule 24 was RETIRED 2026-07-09 late (see Item 142 cascade entry above)
+- Reviewing a retired rule's post-audit-correction discipline is meta-move — no active rule to review
+- Grok DeepSearch PRELIMINARY pilot 2026-07-10 late surfaced Q5 retirement as adjudication-safe reduction opportunity ranked #5 in pilot's top-5 reduction opportunities list
+- Grok explicit signal: "retirement itself is reduction success; follow-up question risks re-accretion via new retirement-quality bureaucracy"
+
+**Retirement scope:**
+- Q5 review question FULLY RETIRED from Council #9 September window
+- Q5 historical body preserved at agenda (line 96+) for audit trail
+- Substrate deliberators at September window SHOULD NOT adjudicate Q5 (already retired)
+
+**Framework methodology significance:**
+- First agenda-hygiene retirement in framework methodology
+- First application of split/retire/reduce mechanism at agenda-question scope (previously applied only at candidacy-item scope + rule scope)
+- Rule 14 Pattern D ORCHESTRATOR-CUSTOM classification (agenda-hygiene meta-move; not standard 6-pattern)
+- Framework methodology observation candidacy DEFERRED to future Council: structural rule "if source rule retired, does its review question survive by default?" — Q5 retirement is n=1 fire; would require n≥2 for canonization proposal
+
+**Ratification:**
+- Fire #11 operator-delegated CC ratification 2026-07-10 late
+- Companion audit artifact: `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md`
+- Reversible pre-Council-#10 (Q5 restoration warranted if Rule 24-successor discipline defect surfaces before Council #10)
+
+**Cross-references:**
+- Rule 24 retirement: 2026-07-09 late (see Item 142 cascade entry above)
+- Q5 agenda body: `~/Projects/the-street-code/methodology/council-9-review-agenda-draft-2026-07-05.md:96+`
+- Grok pilot response: `~/Desktop/COUNCIL-9-DEPLOY/COUNCIL-9-ATTACHMENTS/substrate-a-grok-deepsearch-2026-07-10.md`
+- Fire #11 audit artifact: `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md`
+
+---
+
+### Item 149 — REBOUND to Council #10 2026-07-10 late (Fire #11 pre-Council-9 REBOUND move; NOT a RETIRE — item preserved as candidacy)
+
+**Original candidacy:** "PREVENTED" as 6th canonized reduction move (extending Council #8 split/retire/reduce mechanism from 5 to 6 moves). Filed 2026-07-10 late during Phase A pre-Council reduction sweep.
+
+**Filed:** Council #9 agenda 2026-07-10 late (line 3767+).
+
+**Rationale for REBOUND (not RETIRE):**
+- n=1 empirical anchor (Item 12 DEFLATE via Post 0178) is minimum viable for canonization proposal but not yet strengthened
+- Grok DeepSearch PRELIMINARY pilot 2026-07-10 late surfaced Item 149 REBOUND as adjudication-safe reduction opportunity ranked #1 in pilot's top-5 reduction opportunities list
+- Grok explicit signal: "n=1 is explicitly below Council #8 3-element requirement for new canonization. Premature; risks exactly the accretion pattern Round 5 Opus warned against."
+- Item body's own falsification threshold pre-registers REBOUND as legitimate disposition at agenda line 3801: "If Council #9 review finds n=1 empirical foundation (Item 12) insufficient for canonization: REBOUND to Council #10 or later with n≥2 additional empirical anchor sites"
+- Grok pilot corroborates Fire #9 Pattern F HOLD-pending-additional-fires classification independently
+
+**REBOUND scope:**
+- Item 149 REBOUND from Council #9 September window to Council #10 window (nominal Nov-Dec 2026)
+- Item body preserved verbatim at agenda (line 3767+)
+- NOT a RETIRE — item preserved as active candidacy at Council #10 review scope
+- Registry entry logged here for cross-reference visibility (per registry discipline "REBOUND moves — log at agenda" — this is REGISTRY-CROSS-REFERENCE entry, not a formal RETIRE entry)
+
+**Framework methodology significance:**
+- First formal REBOUND-to-future-Council move in framework methodology
+- Rule 14 Pattern F HOLD-pending-additional-fires (matches Fire #9 pre-registered classification; Grok pilot corroborates independently)
+
+**Ratification:**
+- Fire #11 operator-delegated CC ratification 2026-07-10 late
+- Companion audit artifact: `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md`
+- Reversible pre-Council-#10: revert to Council #9 candidacy status if n≥2 strengthening materializes before September window
+
+**Cross-references:**
+- Item 149 agenda body: `~/Projects/the-street-code/methodology/council-9-review-agenda-draft-2026-07-05.md:3767+`
+- Grok pilot response: `~/Desktop/COUNCIL-9-DEPLOY/COUNCIL-9-ATTACHMENTS/substrate-a-grok-deepsearch-2026-07-10.md`
+- Fire #9 filing artifact: `council-9-items-149-150-151-filing-ratification-2026-07-10.md`
+- Fire #11 audit artifact: `council-9-fire-11-four-safe-reductions-ratification-2026-07-10.md`
+
+---
+
 ## Registry maintenance discipline
 
 **When to add entries:**
@@ -242,5 +314,7 @@ Four-surface propagation clean; no Rule 20 Family A canonization-propagation gap
 **UPDATE 2026-07-09 late:** +1 entry: Item 142 RETIRED per parent Rule 24 retirement obsolescence cascade.
 
 **UPDATE 2026-07-10 late (Phase A pre-Council reduction sweep):** +1 entry: Item 101 RETIRED per operator ratification of disposition-item-native retirement. Registry now 3 formal RETIRE compliance entries + 1 loose-ends batch.
+
+**UPDATE 2026-07-10 late (Fire #11 four-safe-reductions ratification post-Grok-pilot):** +1 RETIRE entry (Q5 review question — first agenda-hygiene retirement in framework methodology) + 1 REBOUND cross-reference entry (Item 149 to Council #10 — first formal REBOUND-to-future-Council move). Registry now 4 formal RETIRE compliance entries + 1 REBOUND cross-reference entry + 1 loose-ends batch.
 
 **PENDING:** Additional RETIRE compliance instances will be logged here as they occur pre-Council #9 or as Council #9 review actions.
