@@ -1182,6 +1182,15 @@ Per operator ratification of Path A, Item 98 formally SUBSUMED into Item 95. Ite
 
 **Pre-Council-9 discussion item (Grok pilot 2026-07-10 late):** Substrate A PRELIMINARY pilot deployment surfaced Post 0197 recursion count n=11 actual vs n=7+ formal HELD state as **self-sealing accretion risk candidate** per Round 5 Opus meta-diagnosis. Grok explicit warning (Paranoid Stoner Failure Mode 3, 45% probability): "Post 0197 'HELD at n=7+' while actual n=11 becomes self-sealing loop (canonization expectation generates recurrence sites that are then counted as evidence of the pattern)." Grok recommendation among Round 5 Opus 4 options: **clarify OR ABANDON excess** (n=11 → n=7+ discrepancy formalized OR abandoned above n=7+ threshold). Grok mitigation: "formal count update only after independent cross-substrate audit of all 11 sites; treat excess as diagnostic of accretion risk, not proof of discipline strength." Framework flag: Substrate A pilot signal preliminary; September window re-verification required before adjudication; if K=2 substrate corroboration at September window, clarify/ABANDON becomes empirically-supported reduction move. See pilot artifact `council-9-substrate-a-preliminary-pilot-2026-07-10.md`.
 
+**RATIFIED 2026-07-10 late per Council #9 batch-2 ratification (operator signature):**
+- **Verdict:** RATIFY (empirical-validation-harness-parallel-to-diagnostic-UI discipline canonized as framework methodology at n=11 recursion sites documented + n=7+ formal HELD marker per Grok mitigation)
+- **Confidence:** HIGH (Item 98 SUBSUMED into Item 95 empirically strengthens from n=1 → n=7+; multiple Stage 3.x + Stage 4 + Stage 5 + Arch 1-3 + Stage 3.8 M10 + Path 1 + Path 3 harness deployments all applied the discipline)
+- **Post 0197 canonization body:** at every diagnostic-UI claim scope (empirical prediction implied by UI presentation), ship a parallel empirical validation harness that either PASSES the claim OR surfaces the divergence
+- **Falsification clause included in Post 0197 discipline:** ABANDON adjudication among Round 5 Opus 4 options RESERVED for K=2+ substrate corroboration at September window
+- **K=2 flags carried to September:** (a) formal count reconciliation n=11 vs n=7+ HELD — independent cross-substrate audit of all 11 sites required; (b) Post 0197 ABANDON excess adjudication (Round 5 Opus 4-option deferral)
+- **Cross-refs:** Item 98 (SUBSUMED into Item 95), Rule 27 (Non-Inertness Gate rules incorporate Post 0197 harness discipline), Items 89/99/102/103/146/147/148/151/152/153 (all executed Post 0197 discipline at ship)
+- **Batch-2 ratification artifact:** agenda annotation + retirement registry cross-ref
+
 ### Item 96 — Natural-vs-scripted-scenario-pair as empirical methodology pattern (candidate paired-scenario methodology)
 
 **Filed:** 2026-07-08 morning (from Path 1 empirical harness two-scenario design)
@@ -1277,6 +1286,15 @@ Per operator ratification of Path A, Item 98 formally SUBSUMED into Item 95. Ite
 **Architectural spec:** `~/Projects/Open Alley/architecture/phase-15-stage-3-physical-attractiveness-charisma-first-impression-architecture-2026-07-08.md`
 
 **Recommendation:** Retain as candidacy at Council #9 review scope for canonization consideration. Empirical harness verdict + 4-substrate empirical foundation + Marcus Reed cross-cultural personhood alignment + Post 0197 recursive discipline application make Item 99 a load-bearing framework methodology extension candidate.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-2 ratification (operator signature):**
+- **Verdict:** RATIFY (Stage 3 architectural extension formal canonization; already shipped end-to-end 2026-07-08 morning at 7 code modules + 7-hypothesis empirical harness 7/7 PASS + 1358 sim-ai tests PASS + Post 0197 discipline application)
+- **Confidence:** HIGH (4-substrate empirical foundation + Marcus Reed cross-cultural personhood alignment + 7 framework methodology commitments M1-M7 all empirically defensible)
+- **Framework methodology commitments RATIFIED:** M1 non-essentializing culture + M2 beauty-premium-as-outcome + M3 colorism as historically-honest + M4 first-impression as MOMENT not STATE + M5 charisma derived / humor stored (ENGINEERING CHOICE preserving HSQ construct distinctness per Item 105 remediation) + M6 empirical validation before authoritative citation + M7 WEIRD-defaults avoided
+- **Amendment note:** Item 105 audit round 1 surfaced 3 CRITICAL citation fabrications (Coetzee 2014, de Vries 2019, Vernon 2015); remediation applied 2026-07-08 late evening with honest citation-withdrawal + design-choice reframing at file headers + hypothesis test corrections + Post 0198 audit-round addendum. Architectural PIVOTS preserved (beauty-premium-as-outcome, first-impression-as-moment, charisma-as-derived, humor-as-stored, cultural-bundle-mediation); only GROUNDING reframed as DIRECTIONAL choices.
+- **K=2 flags carried to September:** substrate audit round 2 confirmation of remediation sufficiency (per Item 105 CAVEAT) before final Council #9 signature update; Item 111 revised M6 empirical validation before authoritative citation strengthening per Item 122 empirical failure
+- **Cross-refs:** Item 87 (empirical remediation), Item 89 (empirical-integration-harness), Item 95 (Post 0197 recursive discipline), Item 98 (SUBSUMED into 95), Item 105 (audit round 1 remediation), Item 111 (M6 revision), Item 146+147+148 (Arch 1/2/3 downstream substrate extensions)
+- **Batch-2 ratification artifact:** agenda annotation
 
 ### Item 100 — Rule 26 candidacy proposal: consolidation of Item 20 + Item 33 as "Retired-workflow-recurrence discipline" for canonization consideration
 
@@ -1378,6 +1396,15 @@ Per operator ratification of Path A reduction-moves proposal, Items 20 + 33 + 66
 
 **Recommendation:** Retain as candidacy at Council #9 review scope for canonization consideration. Empirical harness verdict + 4-substrate empirical foundation + Marcus Reed cross-cultural pair-relational alignment + Fire I production discipline preservation through migration + Post 0197 recursive discipline application at n=5+ make Item 102 a load-bearing framework methodology extension candidate.
 
+**RATIFIED 2026-07-10 late per Council #9 batch-2 ratification (operator signature):**
+- **Verdict:** RATIFY (Stage 4 pair-relational plane architectural extension formal canonization; already shipped end-to-end 2026-07-08 morning/late at pairRelationalPlane.ts with 17 fields + 14 event types + deterministic updatePairRelational + 7-hypothesis empirical harness 7/7 PASS + 3 architectural fixes surfaced by empirical validation before authoritative citation + 1385/1386 sim-ai tests PASS)
+- **Confidence:** HIGH (attachment sentiment-encoding modulation + Gottman four-horseman trust-erosion + turning-away encoding + Rusbult commitment formula Wieselquist trust-mediated path + baseline institutional attachment all wired empirically defensible)
+- **Framework methodology commitments RATIFIED:** M8 pair-relational as SEPARATE plane + M9 Fire I bond-history as DERIVED property (migrated from HEXACO-plane scalar per Phase 15-E vault recommendation) + M10 cultural bundle mediation of updatePairRelational + M11 empirical harness before citation
+- **M8 amendment adopted (Item 106 Option B):** HEXACO's pair-relational role formally scoped to Agreeableness-driven accommodation frequency; remaining 5 dimensions (H/E/X/C/O) active only at attractiveness/first-impression scope. Structural gap acknowledged; not routing more HEXACO dimensions at pair-relational scope per empirical evidence (H15 verdict PASS 4/4).
+- **K=2 flags carried to September:** substrate audit round 2/3 confirmation of Rusbult commitment formula + Wieselquist trust-mediated path calibration; Marshall 2008 + Rothbaum 2000 East-Asian-scoped vs Kito 2017 universal-scope split confirmation per Item 115 Round 5 Perplexity finding
+- **Cross-refs:** Item 89 (empirical-integration-harness), Item 95 (Post 0197 recursive discipline), Item 98 (SUBSUMED into 95), Item 99 (Stage 3), Item 100 (Rule 26 alignment), Item 106 (HEXACO-decorative M8 amendment adopted here), Item 115 (M10 wording precision), Item 122 (M6 empirical failure — Item 122 Option C consultation coupling adopted for Stage 4 anchor scope)
+- **Batch-2 ratification artifact:** agenda annotation
+
 ### Item 103 — Phase 15 Stage 5 Bourdieu habitus plane architectural extension candidacy (4-capital taxonomy + field theory + dual-process implicit dominance + symbolic capital non-linear emergence)
 
 **Filed:** 2026-07-08 morning (Day 4-5 of week plan executed same session per operator "spare no expense" directive + high execution velocity)
@@ -1401,6 +1428,18 @@ Bourdieu 1977 Outline + Bourdieu 1984 Distinction + Lizardo 2004 J Theory Social
 **Architectural spec:** `~/Projects/Open Alley/architecture/phase-15-stage-5-bourdieu-habitus-plane-architecture-2026-07-12.md`
 
 **Recommendation:** Retain as candidacy at Council #9 review scope for canonization consideration.
+
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-2 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (Stage 5 Bourdieu habitus plane architectural extension; shipped 2026-07-08 morning with 7/7 empirical harness PASS after 1 architectural fix; strong empirical foundation but recommendation text remained tentative — approved contingent on post-audit completion at K=2 substrate windows)
+- **Confidence:** HIGH on shipping + empirical foundation; MEDIUM on completeness pending audit
+- **Framework methodology commitments RATIFIED:** M12 habitus + capital + field as SEPARATE typed plane + M13 symbolic capital as NON-LINEAR emergent (Lin-Erickson 2008 interaction effects) + M14 dual-process implicit dominance (Vaisey 2009 60-70% automaticVsDeliberative)
+- **PROVISIONAL conditions (K=2 flags carried to September):**
+  - (a) Post 0200 methodology capture verification at K=2 substrate review scope
+  - (b) architectural spec completeness check at Open Alley `phase-15-stage-5-bourdieu-habitus-plane-architecture-2026-07-12.md`
+  - (c) substrate audit rounds 3+ confirmation that Stage 5 integrates cleanly with Stages 3-4 across all plane interactions
+  - (d) H27 KILL of capital_conversion channel (Item 145) post-hoc audit — investigate whether Stage 5 wired mechanisms require post-hoc Non-Inertness Gate under Rule 27 discipline
+- **Cross-refs:** Item 89 (empirical-integration-harness), Item 95 (Post 0197 recursive discipline at n=6+), Item 99 (Stage 3), Item 102 (Stage 4), Item 132 (Rule 27 Non-Inertness Gate — Stage 5 wired mechanisms subject to post-hoc audit), Item 145 (H27 capital_conversion KILL as first post-hoc Non-Inertness Gate application)
+- **Batch-2 ratification artifact:** agenda annotation
 
 ### Item 101 — Cycle 12 Steps 6-9 disposition (30+ day threshold exceeded per meta-analysis; RETIRE recommendation) — **RETIRED 2026-07-10 late per operator ratification (Phase A pre-Council reduction sweep)**
 
@@ -1565,6 +1604,16 @@ Framework claim that Stage 3 personality data (HEXACO) is exercised jointly with
 - `~/Projects/Open Alley/scripts/island-sim-ui-empirical-harness/h15-hexaco-effect-positive-assertion.ts` — H15 test
 
 **Confidence calibration:** HIGH — finding is empirically documented via 144 paired comparisons + traceable to specific line of substrate code + independently corroborated across n=2 sources (framework author + Grok).
+
+**RATIFIED 2026-07-10 late per Council #9 batch-2 ratification (operator signature; Option B M8 amendment adopted):**
+- **Verdict:** RATIFY (HEXACO-decorative-at-pair-relational-scope architectural finding formally canonized with Option B M8 amendment adopted; Item 102 Stage 4 M8 formally scoped to A-only wiring at pair-relational plane)
+- **Confidence:** HIGH (n=2 substrate convergence: framework author H8+H11 architectural observations + H15 systematic sweep 144 paired comparisons + Grok audit round 2 independent corroboration + code inspection `pairRelationalPlane.ts:295` shows perceiverHexaco.A is SINGLE HEXACO read in updatePairRelational)
+- **Option B ratified content:** Framework methodology commitment M8 formally amended to acknowledge HEXACO's pair-relational role limited to Agreeableness-driven accommodation frequency, with remaining 5 dimensions (H/E/X/C/O) active only at attractiveness/first-impression scope (Stage 3 scope, not Stage 4 scope)
+- **Option A DEPRIORITIZED:** routing more HEXACO dimensions at pair-relational scope not warranted per empirical evidence (H15 verdict PASS 4/4 shows Δaccommodation 51.69 units A=90 vs A=10 while Δsentiment/Δtrust/Δcommitment byte-identical across ALL HEXACO extremes — structural gap is REAL, not measurement artifact)
+- **Option C UNNECESSARY:** demoting HEXACO storage not needed once Option B explicitly scopes architecture; other plane updates (first-impression, attractiveness, charisma) DO route more HEXACO dimensions
+- **K=2 flags carried to September:** none — architectural amendment adopted; empirical foundation strong
+- **Cross-refs:** Item 102 (Stage 4 M8 amendment adopted here), Item 55 (personality-as-attractor RETIRED — Item 106 refines personality-scope architectural question), Item 104 (audit-round-methodology-improvement), Item 105 (audit round 1)
+- **Batch-2 ratification artifact:** agenda annotation + Item 102 amendment note
 
 ---
 
@@ -3650,6 +3699,15 @@ Cross-reference: audit dataset `~/Projects/roomtolife/scripts/island-sim-integra
 
 **Phase B pre-Council substrate audit finding (2026-07-10 late) — cross-ref Item 150:** Substrate deep audit surfaced that `computeFirstEncounterApproachBias` does NOT exist at sim-ai substrate (lives only at RoomToLife scope). Item 146 substrate wiring cannot skip a port precursor. See **Item 150** for concrete precursor scope + ratification path options (RATIFY jointly with Item 146 / ABSORB Item 150 into Item 146 / REBOUND Item 146 to Council #10 pending precursor).
 
+**RATIFIED 2026-07-10 late per Council #9 batch-2 ratification (operator signature; jointly with Item 150 ABSORB and M0 port precursor scope):**
+- **Verdict:** RATIFY (Stage 3.5 encounter-context-amplification + first-encounter approach-behavior differential; Arch 1 diagnostic-only shipped at RoomToLife 2026-07-09 late commits `06389ab` + diagnostic UI + empirical harness; Integration audit 2026-07-10 roomtolife `b0189de` validates 6/6 propositions PASS at tickIslandWorld tick loop scope)
+- **Confidence:** HIGH (5-signature behavior-distribution empirically anchored per Ashton-Lee 2007 + Mikulincer-Shaver 2007 + Main-Solomon 1986 + Nesse 2001/2005 Smoke Detector + Ripley 2008 + Ambady-Rosenthal 1992; Willis-Todorov ceiling-clamp boundary condition documented at KNOWN_LIMITATIONS.md as real Willis-Todorov 2006 boundary)
+- **M0 port precursor scope RATIFIED (Item 150 ABSORB):** Port `firstEncounterApproachBias.ts` from RoomToLife → sim-ai substrate before Item 146 M1+ substrate wiring proceeds. ~500 LOC + `ApproachBiasInputs` + `ApproachBias` + `ApproachBiasDistribution` type surface + associated empirical validation harness co-migration + Round 1 audit corrections preservation + substrate-scope regression tests. Post-port: RoomToLife imports from `sim-ai/sim-ai/firstEncounterApproachBias` via path alias; roomtolife/vendor/sim-ai propagates via rsync.
+- **Framework methodology commitment M15:** stakes modulate behavioral response, not encoding (Ambady-Rosenthal 1992 stakes-invariance-of-encoding)
+- **K=2 flags carried to September:** M0 port regression test coverage confirmation at K=2 substrate scope; substrate saturation-detection parity with diagnostic-only version; M15/M16 methodology documentation
+- **Cross-refs:** Item 147 (Stage 3.6 sibling), Item 148 (Stage 3.7 sibling), Item 150 (ABSORBED into Item 146 M0 port precursor scope per Fire #11), Item 55 (RETIRED — personality-as-attractor falsification refined the personality-scope architectural question)
+- **Batch-2 ratification artifact:** agenda annotation + Item 150 ABSORB completion
+
 ---
 
 ### Item 147 — Close-contact impression revision event + memory-shelf second-photo architecture (Stage 3.6 sibling to Item 146)
@@ -3728,6 +3786,13 @@ Combined with unit harnesses: 19/20 PASS · 1 PARTIAL across arch1 + arch2 + int
 **See also Item 148 (Stage 3.7 sibling)** — Arch 3 memory album diagnostic ship extends the Arch 1 → Arch 2 → Arch 3 ladder to Layer 4 → Layer 5 decision-loop coupling; combined ecosystem harness aggregate now 26/27 PASS across arch1 + arch2 + integration + arch3.
 
 Cross-reference: audit dataset `~/Projects/roomtolife/scripts/island-sim-integration-audit/output/audit-2026-07-10T14-26-02.dataset.json` (P5 measurements + all revision deltas).
+
+**RATIFIED 2026-07-10 late per Council #9 batch-2 ratification (operator signature):**
+- **Verdict:** RATIFY (Stage 3.6 close-contact impression revision + memory-shelf second-photo architecture; shipped as Arch 2 diagnostic-only at RoomToLife 2026-07-10 commits `73b1aba` + `9fac741`; Integration audit validates 7/7 PASS)
+- **Confidence:** HIGH (empirical anchors Willis-Todorov 2006 +15 confidence bump without accuracy increase + Ambady-Rosenthal 1992 +0.39 stakes-invariance-of-encoding + Nesse 2001/2005 baseline wariness attenuation; novel integration finding: Willis-Todorov ceiling-clamp artifact documented at KNOWN_LIMITATIONS.md — effective Δ = 14.82 vs theoretical +15 when parent confidence ≥85; narrowly-scoped architectural addition)
+- **K=2 flags carried to September:** memory-shelf UI cross-referencing correctness at K=2 substrate scope; sibling-filtering logic in NpcMemoryPanel sort
+- **Cross-refs:** Item 146 (Stage 3.5 parent), Item 148 (Stage 3.7 Arch 3 sibling), Item 140 (event-scope canonical registry extension — new event type already scoped there), Item 99 (Stage 3 cross-cultural personhood grounding)
+- **Batch-2 ratification artifact:** agenda annotation
 
 ---
 
@@ -3826,6 +3891,15 @@ Substrate coupling deferred to Item 148 ratification at September Council #9 win
 **Architectural spec:** Ship-first-methodology-follows posture matches Items 146 + 147. Preliminary implementation lands at `~/Projects/roomtolife/src/app/(dev)/prototype/island-npc-test/_components/` (new panels) + `~/Projects/roomtolife/scripts/arch3-memory-album-empirical-harness/` (new harness).
 
 **Recommendation:** RATIFY at Council #9 September window as coupled review with Items 146 + 147 (all three complete the Layer 5 memory-informed / stakes-modulated / close-contact-refined decision-making architecture per Post 0146 canon). OR file Item 148 as smallest scope (only `retrieveEmotionCongruent → decideNextAction` wiring; deferring Layer 5 EFE incorporation to Council #10) for potential mid-cycle mini-ratification. Operator judgment on ratification path.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-2 ratification (operator signature; coupled with Items 146+147):**
+- **Verdict:** RATIFY (Stage 3.7 Arch 3 a7Memory Layer 4→5 decision-loop coupling + memory-informed EFE; shipped as Arch 3 diagnostic-only at RoomToLife 2026-07-10 evening commits `1802cc2` + `32ce8d2`; substrate 90% complete at sim-ai commits `05b843b` + `cac822a`)
+- **Confidence:** HIGH (7-hypothesis empirical harness at scripts/arch3-memory-album-empirical-harness/ verdict 7/7 PASS · 0 PARTIAL · 0 FAIL; H-mem-7 Non-Inertness Gate CLEARED empirically 3/3 memory-channels differentiate ≥20% spread: totalEncoded 73.4% + longFrac 40.9% + meanValence 51.1%; combined ecosystem harness aggregate 26/27 PASS across arch1+arch2+integration+arch3)
+- **H-mem-7 Non-Inertness Gate CLEARED (first substrate-scope clearance):** empirical foundation strengthens Item 132 → Rule 27 canonization at Council #9 batch-1 (Non-Inertness Gate framework rule)
+- **Empirical anchor stack:** Hesp 2021 (a7Memory canonical framework) + Bower 1981 (mood-congruent recall) + Eich 1995 (state-congruent retrieval) + Ebbinghaus 1885 (forgetting curve) + Murre-Dros 2015 (Ebbinghaus replication) + Park 2023 (LLM memory persistence) + Post 0136/0118/0146/0197/0201
+- **K=2 flags carried to September:** H-mem-7 Non-Inertness Gate empirical reproducibility at K=2 substrate scope; memory retrieval context audit trail (ActionScoringContext.memoryRetrieved observability); Layer 5 EFE bias weighting calibration
+- **Cross-refs:** Item 146 (Stage 3.5 sibling), Item 147 (Stage 3.6 sibling), Item 132 → Rule 27 (Non-Inertness Gate — H-mem-7 empirical foundation), Item 140 (event-scope canonical registry), Item 95 → Post 0197 discipline recursion at n=8+
+- **Batch-2 ratification artifact:** agenda annotation
 
 ---
 
@@ -4061,6 +4135,14 @@ Framework Stage 3.8 architectural extension sibling to Items 146+147+148 (Stage 
 - **Rollback state:** filing revertible pre-Council per numbering-preservation discipline
 - **Audit artifact:** `council-9-items-149-150-151-filing-ratification-2026-07-10.md`
 
+**RATIFIED 2026-07-10 late per Council #9 batch-2 ratification (operator signature):**
+- **Verdict:** RATIFY (Stage 3.8 M1-M12 arc-complete architectural extension; shipped end-to-end 2026-07-10 late at sim-ai commits `3af54aa + 12c3f38 + 7d12413 + afe8ac8 + 4ab9d57 + 1535918 + fb91771 + 54cdcc6` + roomtolife `4bdc4fd` M11 UI observability + the-street-code `f94b61b` M12 Council #9 filing)
+- **Confidence:** HIGH (8/8 substrate empirical harness PASS at H-rescue-1 through H-rescue-8; Non-Inertness Gate H-rescue-6 CLEARED empirically; determinism 100% via H-rescue-7 replay; Rule 19 discipline applied throughout with Bonanno/Willis-Todorov/Baumeister/Mikulincer-Shaver/Awad/Marlowe/Bartholomew-Horowitz anchors)
+- **Framework methodology firsts:** first 3-rescue-type primitive (helicopter/ship/camp) + first 4-option rescue-choice with 6-modulator weighted softmax + first mutual-consent co-shelter cohabitation + first 3-mechanism bilateral dissolution + first landmark-mediated post-decision reflective recall + first 8-channel Layer 3 schema (guilt_b) + first vindictive satisfaction + moral violation events + first per-bundle rescue-choice priors + first perspective-swap-aware completeAction + first single-RNG-call refactor + first 8-hyp substrate-scope harness at architectural-extension scope
+- **K=2 flags carried to September:** Bonanno ±0.15 threshold (M13 anchor calibration) requires external substrate corroboration; Baumeister-Leary 1995 anchor selection for M14 requires K=2 verification; M14 weight scaling constants (1.5, HEXACO E scale, log-scaling) CALIBRATION-CHOICE per Rule 19; Mechanism 3 emergency-triggered dissolution empirically thin per Agent A; USAF PJ + Coast Guard rescue timing CALIBRATION-CHOICE; Vindictive satisfaction magnitude (+1 to +5) CALIBRATION-CHOICE; Guilt magnitude ([+10,+30] self-agency; [+4,+14] survivor) CALIBRATION-CHOICE; Bundle-specific rescue-choice priors K=2 quorum per Item 141
+- **Cross-refs:** Item 152 (M13 sibling), Item 153 (M14 sibling), Item 132 → Rule 27 (Non-Inertness Gate H-rescue-6 empirical foundation), Item 148 (H-mem-8 substrate-scope Non-Inertness precedent), Item 141 (K/N calibration), Item 154 → Rule 28 (defensive-reducer discipline discovered via Stage 3.8 session-log post-mortem)
+- **Batch-2 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 152 — Stage 3.8 M13 successful-rescue departure narrative arc (sibling extension to Item 151; session-log seed-42 defect-driven)
@@ -4111,6 +4193,16 @@ Framework Stage 3.8 architectural extension sibling to Items 146+147+148 (Stage 
 **Confidence calibration:** HIGH — substrate-scope tests 11/11 PASS at defect-of-record coverage; existing pairInteractionRescuedGuard + coShelter + Phase 2.8 tests still PASS (53/53); Rule 19 discipline applied.
 
 **Recommendation:** RATIFY at Council #9 September window as Stage 3.8 M13 canonization sibling to Item 151.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-2 ratification (operator signature):**
+- **Verdict:** RATIFY (Stage 3.8 M13 successful-rescue departure narrative arc; shipped 2026-07-10 late at sim-ai `50d3959` + roomtolife vendor-sync `9cb9a22` + roomtolife composition `02a2141`)
+- **Confidence:** HIGH (11/11 substrate empirical harness PASS at stage38M13PartnerRescuedDeparture.test.ts; session-log seed-42 defect-of-record fixed; 53/53 pair-interaction-rescued-guard + coShelter tests still PASS post-M13)
+- **Substrate additions RATIFIED:** LandmarkEventType extended with `partner_rescued_departure` + optional `valenceSignOverride: 1 | -1` field on LandmarkEvent; `partnerRescuedDepartureSign(preDepartureSentiment)` helper implementing Bonanno 2004 heterogeneous grief-response gating (≥+0.15 → -1 grief; <+0.15 → +1 relief); PairRelationalState extended with hasEncountered + firstEncounterTick + preDepartureSentimentSnapshot; seedPairFirstEncounter idempotent helper; pair co-location gate loosened exact-tile → Chebyshev ≤ 1 for observed_together + shared_storm_survival (shared_shelter + resource_conflict retain coLocatedExact); processMemoryTickPipeline reads valenceSignOverride ?? landmarkValenceSign(eventType)
+- **Composition-scope additions RATIFIED:** First-impression gate extended with partnerNarrativelyPresent check; pair.hasEncountered + firstEncounterTick seeded at first-impression fire; PartnerRescuedModal auto-pauses on first-Sim rescue transition; modal narrative with pre-departure sentiment context + Bonanno-mode inference
+- **K=2 flags carried to September (Rule 19 CALIBRATION-CHOICE items):** Bonanno ±0.15 threshold requires external substrate corroboration pre-publication; Chebyshev ≤ 1 loosening gate requires K=2 verification (regression protection at 20k-tick session horizons); Bonanno 2004 primary-anchor confirmation at K=2 substrate scope
+- **Falsification thresholds pre-registered active:** empirical validation gate carries through September window
+- **Cross-refs:** Item 151 (M1-M12 parent arc), Item 153 (M14 pre-encounter sibling; addresses seed-42 pre-encounter gap that made M13 relevant but non-firing), Item 154 → Rule 28 (defensive-reducer discipline; M13 field-nuke bug fixed by Item 154 substrate patch)
+- **Batch-2 ratification artifact:** agenda annotation
 
 ---
 
@@ -4170,6 +4262,16 @@ Two Sims lived 9653 ticks (~6.7 game days) on the same 25×10 island in **comple
 **Confidence calibration:** HIGH — 8/8 substrate harness PASS at defect coverage; full sim-ai suite 1654/1654 PASS; Rule 19 discipline applied throughout; anchor stack is well-established social psychology literature (not speculative extensions). Fixes empirically-observed pathology at defect-of-record.
 
 **Recommendation:** RATIFY at Council #9 September window as Stage 3.8 M14 canonization sibling to Items 151+152.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-2 ratification (operator signature):**
+- **Verdict:** RATIFY (Stage 3.8 M14 pre-encounter partner-signal navigation; shipped 2026-07-10 late at sim-ai `53e42b4`)
+- **Confidence:** HIGH (8/8 substrate empirical harness PASS at stage38M14PartnerSignalNavigation.test.ts covering H1-H5; empirically load-bearing — Sim A did 16 investigate_partner_direction fires per session log; encounter happened at tick 1882 that would not have happened without M14; session-log defect-of-record — 9653 ticks disjoint x-ranges [1,11] vs [16,28] min Chebyshev 7 — empirically validates necessity)
+- **Substrate additions RATIFIED:** New IslandActionId `investigate_partner_direction` (exploration class, 1-tick, no placeRequirement — same shape as move_toward_known_water); new state field `state.knownPartnerDirection: { position, encodedAtTick, source } | null` mirrored on top-level Sim A + SimStateSnapshot Sim B per perspective-swap discipline (Post 0168 sub-shape 22); detection at completeAction for search_horizon / climb_to_high_point / walk_beach completions when partner has observable signal (fires / hasShelter / signal_and_wait_for_partner / signal_for_rescue); synthesis at decideNextAction weighted `1.5 × (E/100) × (0.5 + 0.5×log(1+daysAlone)) × distanceUrgency`; stale-check clears at >5 cell drift; clears on pair.hasEncountered transition
+- **Anchor stack:** Baumeister-Leary 1995 (Psychol Bull 117(3):497-529) need-to-belong + Cacioppo-Hawkley 2010 (Trends Cogn Sci 14(9):447-454) loneliness-drives-approach + Gigerenzer 2007 (Rationality for Mortals) fast-and-frugal recognition heuristic — all NEW anchors for M14
+- **K=2 flags carried to September (Rule 19 CALIBRATION-CHOICE items):** Weight constant 1.5, HEXACO E scale factor, isolation-log scaling (0.5 + 0.5×log(1+days)), distance-urgency clamps [0.2, 1.0], stale-check threshold 5 cells; Baumeister-Leary 1995 primary anchor confirmation at K=2 substrate scope
+- **Falsification thresholds pre-registered active:** convergence-too-fast at 10k+ ticks → REVISE weight constants downward; degenerate herding at N-Sim → REBOUND to Council #10 pending N-Sim empirical evidence
+- **Cross-refs:** Item 151 (M1-M12 parent arc), Item 152 (M13 sibling — addresses post-rescue narrative gap that M14 defends against by ensuring encounter happens pre-rescue), Item 154 → Rule 28 (defensive-reducer discipline — M14's substrate state.knownPartnerDirection is top-level not nested inside pair, so unaffected by field-nuke bug; M14 was NOT compromised by the Item 154 bug even before fix)
+- **Batch-2 ratification artifact:** agenda annotation
 
 ---
 
