@@ -5468,6 +5468,40 @@ Post-Tier-6 4 remaining gaps identified. All 4 shipped comprehensively per opera
 2. Positive witness valence_f Δ across all pairs post-partner-death — investigate whether `propagateDeathBtoA` fires under composition-scope injection OR requires natural death path.
 3. B×C anchor pair asymmetric perception + weakest empathic witness response — worth substrate audit of B + C archetype interaction dynamics.
 
+**§6 Tier 8 composition-scope observability ship (2026-07-11 late — roomtolife `d5f77c8`+`e41596a`+`826ebf5`, sim-ai `ed1241a`):**
+
+Operator directed 3-parallel-agent research phase before design + implementation. Agents surveyed panel architecture + substrate data shape + framework methodology alignment. Design plan produced comprehensive 3-unit + parity ship sequence. Executed A → A' → C → B with checkpoint verification at each unit.
+
+**Critical substrate wiring gap discovered during research (Agent B):** `pair.ticksBelowMechanism1Threshold` (islandWorld.ts:369-374) + `pair.lastAggressionEventTick` (:382-387) are BRIDGING FIELDS — defined + read by substrate (M1 dissolution gate at :3339 + M4 reconciliation gate at :3407) but **never populated anywhere in substrate**. M1 dissolution counter never advances + M4 gate treats null as infinite sustained peace. Composition-scope is the correct scope per Rule 28 discipline (substrate stays pure; composition orchestrates per-tick side effects). Fix belongs in the Tier 8 ship.
+
+**Second substrate gap discovered during Unit B implementation:** SimStateSnapshot (islandWorld.ts:191) exposes `lastRescueChoiceInfo` but NOT `lastMemoryInformedDecisionInfo`. Sim B's memory-informed decision info is computed in tickSimB (:4025) but not persisted onto the snapshot. Sim B panel deferred pending substrate ship. Field ordering asymmetry filed for future Council ratification.
+
+**Shipped:**
+
+- **Unit A (roomtolife `d5f77c8`):** composition-scope substrate wiring gap fix. New `mechanism1M4Constants.ts` canonical constants (M1_SENTIMENT_THRESHOLD=-0.30 + M1_SUSTAINED_TICKS_MINIMUM=500 + M4_SUSTAINED_PEACE_TICKS=24 + M4_GRACE_PERIOD_TICKS=1440 + M4_RECONCILIATION_PROXIMITY_MAX=2 + M4_RECONCILIATION_SENTIMENT_MIN=-0.2 + M4_AGGRESSION_EVENT_TYPES). IslandSimulation.tsx tick loop extended with hysteretic M1 counter maintenance + M4 aggression event detection via pair-history delta scan. Rule 28 defensive-reducer discipline preserved (spread before overrides).
+
+- **Unit A' (sim-ai `ed1241a`):** harness parity. `maintainM1M4SentinelFields` helper in run-fresh-seed42.ts mirrors composition-scope M1/M4 sentinel wiring so sweep-scale observability includes these fields. 3 new regression tests (M1 counter under normal sentiment + reset semantics + no-op baseline). Sim-ai test count 1712 → 1715 PASS. Audit clean.
+
+- **Unit C (roomtolife `e41596a`):** M1M4SentinelChipRow. Compact 4-chip row visualizing (1) M1 drift counter progress toward 500-tick threshold, (2) M4 sustained-peace timer, (3) M4 reconciliation eligibility 4-input gate composite, (4) most recent co-shelter dissolution record. Mount adjacent to FireOnceDisciplineStateChips inside the 2-Sim conditional block. Matches design language (chip factory + tone-based color map + inline PANEL_STYLE tokens per RescueChoiceDetailPanel + KnownPartnerDirectionPanel precedent).
+
+- **Unit B (roomtolife `826ebf5`):** MemoryInformedDecisionPanel. Per-Sim detail panel (Sim A only pending substrate ship for Sim B). Renders 3-cell retrieval summary (trace count + top congruence with gradient bar + Non-Inertness Gate CLEARED/INERT status) + Rule 27 trailing-window CLEAR rate with 20% threshold marker (green ≥20% / yellow 10-19% / red <10%) + top-5 action modulations bar chart bounded ±30% per MEMORY_INFORMED_MODULATION_MAGNITUDE + three-horizon memory count breakdown per Post 0146. Rolling window ref (500-sample bounded ring buffer) sampled every tick where retrievedTraceCount > 0.
+
+**Empirical predictions filed:**
+- M1 drift chip rarely enters `armed` state under PROPER_ANCHOR_A×B seed 42 (sentiment plateau 0.06 stays above -0.30). Validates that M1 dissolution empirically dormant.
+- M4 recon chip frequently `disabled` (no prior dissolution). Validates M4 path dormant under default sessions.
+- MemoryInformedDecisionPanel CLEAR rate ≈ 0.0% empirical in current substrate. Divergence between browser + harness = substrate calibration signal.
+
+**Novel Council follow-up filed:**
+1. Substrate gap fix for `ticksBelowMechanism1Threshold` + `lastAggressionEventTick` population — could move to substrate OR remain composition-scope; document design decision.
+2. SimStateSnapshot field ordering asymmetry (lastRescueChoiceInfo exposed but not lastMemoryInformedDecisionInfo) — file substrate ship to close gap.
+3. Composition-scope wiring gap discovery pattern — could Rule 27 or Rule 28 amendment cover "substrate defines + reads bridging fields" as a canonical anti-pattern to detect at future ships?
+
+**Sim-ai ship:** commit `ed1241a` — 2 files changed +100 insertions (harness parity + regression tests). Test count 1712 → 1715 sim-ai suite PASS. Audit clean.
+
+**RoomToLife ship:** 3 commits — `d5f77c8` + `e41596a` + `826ebf5` — 5 files changed +588 insertions. precheck GREEN at each checkpoint. Rule 28 discipline preserved.
+
+**Framework methodology first:** first same-session composition-scope-observability ship at recursion depth 5 (Tier 1-4 → Tier 5 → Tier 6 → Tier 7 → Tier 8). Substrate + composition + harness coverage now approximately 100% of Stage 3.8 mechanic surface at all 3 scopes.
+
 ---
 
 ## Council #9 methodology deployment structure
