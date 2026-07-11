@@ -361,6 +361,15 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Does the discipline extend to other Phase D scaling tests + Phase 2.x-8 tests carrying wall-clock assertions?
 - Should the discipline absorb into Rule 20 read-side sub-shape family covering wall-clock-test-tolerance-under-scaled-concurrent-load as canonization-propagation-gap fire?
 
+**DEFLATED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** DEFLATE (CI infrastructure issue, not methodology candidacy; wall-clock timing tests are ORDER-OF-MAGNITUDE sanity checks with 500x margin — further tightening under concurrent load adds brittleness without catching real bugs)
+- **Confidence:** MEDIUM (flake is CI-concurrency-induced not algorithmic-regression-induced; H32g test passes isolated (26/26) + serial (1026/1026); Post 0184 +25 provenance tests surfaced pre-existing CI-noise sensitivity)
+- **Deflate rationale:** Item 22 payload does NOT warrant Rule 20 family promotion; capture as CI-infrastructure observation not framework-methodology discipline
+- **Future path (deferred to CI-infrastructure work):** isolated-pool CI configuration OR memory-footprint instrumentation replacement — CI infrastructure work not framework methodology
+- **K=2 flags:** none — deflated to observation-only
+- **Cross-refs:** Item 23 (provenance-centralization — adds test count, compounds wall-clock brittleness)
+- **Batch-6 ratification artifact:** agenda annotation
+
 ### Item 23 — Candidate methodology observation provenance-centralization-anti-drift discipline (Post 0184 n=1 fire)
 
 **Filed n=1 at Post 0184 2026-07-06 Tuesday afternoon.** Post 0183 Item 0334 rename operation at sim-ai touched 5 code files + 5 test files carrying provenance enum literal declarations. Post 0184 centralization at src/sim-ai/provenance.ts collapses 7 inline provenance union declarations to 2 imports (biographicalRecord.ts IdentityStageMarker + ThreeLayerOrientation + 3 SofroniewAudit declarations + culturalBaselines.ts PaperLayerBaselineStub + PerTraditionPrimitive) + ships framework-wide canonical enum registrations ALL_SCHEMA_RESERVATION_PROVENANCE + ALL_AUDIT_PROVENANCE enabling regression-test-time drift verification. Future retired-workflow-recurrence-remediation now has single-file rename semantics instead of multi-file sed cascade. Council #9 review questions:
@@ -660,6 +669,15 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Related to Item 20 retired-workflow-recurrence-anti-pattern + Item 38 index-freshness-preemptive-refresh: all three at read-side-drift family scope
 - Falsification threshold: if similar checklist-item-drift pattern observed n≥3 times across Council #8-Council #9 window, discipline warrants promotion
 
+**DEFLATED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** DEFLATE (session-planning problem not framework methodology; root cause is human — checklist drifted without re-check after inference completed)
+- **Confidence:** MEDIUM (n=1 at documentation-hygiene scope; falsification threshold at n≥3 requires strong evidence cluster not yet met)
+- **Deflate rationale:** capture as operational note in Rule 22 (verify-against-canonical-files) documentation but do NOT promote as standalone discipline; investment in formalized "session-close discipline sweeps checklist items" likely lower ROI than targeted operator awareness
+- **Future path:** targeted operator awareness at cascade-plan checklist authoring time; if similar pattern observed n≥3 times across Council #8-#9 window, promote to Rule 22 canonization
+- **K=2 flags:** none — deflated to observation-only
+- **Cross-refs:** Item 20 → Item 100 → Rule 26 (retired-workflow-recurrence), Item 38 (index-freshness — sibling read-side-drift family)
+- **Batch-6 ratification artifact:** agenda annotation
+
 ### Item 40 — Candidate methodology observation meta-analysis-count-comparison-surfacing-false-gaps sub-shape (Item 8 historical-events grounding 2026-07-07 n=1 fire)
 
 **Filed n=1 at 2026-07-07 morning session** (embedded within multi-agent meta-analysis + operator correction dialogue). Meta-analysis Agent 3 (content-kb research + substrate arcs) flagged "historical-event grounding for Marvin + Cesar" as coverage gap comparing Yuki (Items 2007-2009 exist per Chicago Nikkei bundle grounding) vs Marvin + Cesar (no equivalent items exist). CC propagated as Item 8 recommendation in synthesis without cross-referencing operator's stated systematic-research intent (schemas populated via Schema Architecture v0.2 Phase A-F systematic pipeline; per-anchor ad-hoc historical-event creation would duplicate that work). Operator correctly caught the recommendation as false-gap: Items 2007-2009 exist as PRE-Schema-v0.2 canonization artifact + reference pattern, NOT as ad-hoc-per-anchor discipline that should be replicated. Count-comparison surfaced "gap" without cross-referencing intent. Pattern: meta-analysis surfaces false gaps when read-side asymmetry has valid systematic-resolution pathway that count-comparison methodology cannot see. Council #9 review questions:
@@ -669,6 +687,15 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - What is the mitigation discipline (meta-analysis agent prompt requires cross-referencing operator's stated intent BEFORE surfacing count-comparison gaps)?
 - Related to Item 20 retired-workflow-recurrence-anti-pattern + Item 38 index-freshness-preemptive-refresh: all three at read-side-navigation-surface-drift family; count-comparison surfacing false gaps is read-side-analysis-drift specifically
 - Related to sub-shape 20 CC-authored-operational-cost-framing-without-empirical-grounding: meta-analysis count-comparison is CC-authored-gap-identification-without-intent-verification analog
+
+**DEFLATED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** DEFLATE (CC-side empirical-grounding failure not discipline worth canonizing; root cause is one-time meta-analysis-agent oversight)
+- **Confidence:** MEDIUM (n=1 fire at meta-analysis-methodology scope; not a pattern where false gaps occur repeatedly)
+- **Deflate rationale:** fix is straightforward — add intent-cross-reference to meta-analysis agent prompts; do NOT canonize as permanent discipline
+- **Operational note:** meta-analysis prompts must cross-reference operator's stated intent before surfacing count-comparison gaps
+- **K=2 flags:** none — deflated to observation-only
+- **Cross-refs:** Item 20 → Item 100 → Rule 26 (retired-workflow-recurrence)
+- **Batch-6 ratification artifact:** agenda annotation
 
 ### Item 41 — Candidate methodology observation multiple-ratification-cascade-in-single-morning-session discipline (2026-07-07 morning n=1 fire; strengthens Item 14 comprehensive-arc-at-scale)
 
@@ -911,6 +938,15 @@ First pre-Council RETIRE compliance instance for the split/retire/reduce mechani
 - Cross-reference active canonization at Phase 15 v3 §12.1 for canonical scope-of-falsification framing
 
 **Council #9 review question REPLACED by procedural verification:** does the split/retire/reduce mechanism successfully prevent verification theater when pre-Council falsification occurs? Item 55 retirement = first empirical instance testing this.
+
+**RETIRE CONFIRMED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RETIRE CONFIRMED (Item 55 falsified at n=3 substrate consensus; retirement preserved as historical audit trail; empirically-validated first pre-Council RETIRE compliance instance)
+- **Confidence:** HIGH (Opus damped-spring dynamics rigorous math refutation + Grok + Perplexity n=3 substrate consensus)
+- **RETIRE preservation rationale:** framework's split/retire/reduce mechanism empirically demonstrated at first-instance scope; Item 55 falsification-methodology observation ABSORBED into Item 47 (gate-reference-inherited); Vault Item 55 falsification scope explicitly captured in Phase 15 v3 canonical §12.1
+- **Framework methodology significance:** first empirical instance testing Council #8 canonized split/retire/reduce mechanism at RETIRE move; mechanism successfully prevented verification theater
+- **K=2 flags:** none — retirement empirically-validated at n=3 substrate consensus
+- **Cross-refs:** Item 47 (gate-reference-inherited — Item 55 ABSORBED as strengthening evidence), Item 67 (operator-terminology-translation-drift — Vault Item 54 refactored per Item 67 fold), Phase 15 v3 §12.1 (canonical scope-of-falsification framing preserved)
+- **Batch-6 ratification artifact:** agenda annotation + retirement registry cross-ref
 
 ### Item 56 — Candidate methodology observation utterance-manifold-per-Grice-Brown-Levinson-Sacks-Schegloff (Phases 15-18 vault Part 3 n=1 fire)
 
@@ -1260,6 +1296,15 @@ Council #9 review questions:
 **Observation:** Perplexity Round 7 recommends `confidence` + `sourceReliability` + `evidenceCount` + `lastConfirmedAt` as FIRST-CLASS FIELDS on belief/memory/pair-sentiment planes (not metadata). Ferson & Stepanov 2023 distinguishes epistemic uncertainty (lack of knowledge) from aleatory variation (randomness); treating epistemic as ordinary Monte Carlo variation is inappropriate. Unlocks rumors + mistaken beliefs + unreliable gossip + false confidence + social manipulation + dramatic irony.
 
 **Council #9 assessment question:** Should novel plane elements identified via cross-substrate research be treated as canonical additions to plane inventory even when no anchor NPC currently requires them? What's the ratification protocol for architectural additions not tied to specific anchor requirements?
+
+**ABSORBED-INTO-N 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** ABSORB (into Phase 15 v3 §3.8 certainty-first-class field definition under belief/memory plane)
+- **Confidence:** HIGH (H-NEW-2 ratification + Stage 2 scope already canonized; Perplexity R7 observation sound but implementation belongs at belief-plane scope not novel "certainty plane")
+- **Absorb rationale:** substrate observation identified real architectural gap; Phase 15 v3 addresses it via different canonical surface; no new first-class plane required (redundancy with appraisal-magnitude modeling)
+- **Post 0197 H4 empirical validation:** GAMYGDALA appraisal empirically demonstrates certainty-as-appraisal-magnitude-multiplier (not as independent plane)
+- **K=2 flags carried to September:** epistemic-vs-aleatory calibration in PAD certainty amplification (Post 0197 H4 shows certainty AMPLIFIES but does it distinguish epistemic from random); memory-plane certainty-decay-over-time (how fast does confidence fade for unconfirmed memories)
+- **Cross-refs:** Phase 15 v3 §3.8 (target absorption surface), H-NEW-2 ratification, Post 0197 H4
+- **Batch-6 ratification artifact:** agenda annotation
 
 ### Item 77 — salience-as-sparse-activation-field-not-permanent-geometric-axis
 
@@ -1979,6 +2024,15 @@ Per operator ratification of Path A, Item 110 formally SUBSUMED into Item 104. I
 
 **Framework methodology significance:** Third ABSORB compliance instance in Phase A pre-Council sweep (following Item 100 n=3 absorption + Item 95 empirical strengthening absorption). Demonstrates ABSORB mechanism handles confidence-recalibration candidacies as well as duplicate-scope candidacies + n≥3 discipline consolidations.
 
+**ABSORBED-INTO-N 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** ABSORB (into Items 105 + 106 + 107 + 108 audit-round findings — Item 104 candidacy body is empirically PRODUCED substance formally instantiated across sibling audit-round Items)
+- **Confidence:** MEDIUM (n=4 substrate empirical trail per Item 110 SUBSUMED but Opus discount reduces to n≤3 effective per shared-family analysis)
+- **Absorb rationale:** ten-point audit-round posture is LIVE PRACTICE captured in Items 105+ (citation-integrity fire, HEXACO-decorative finding, mutation-testing discipline, statistical methodology) — carrying as separate candidacy inflates agenda without adding scope
+- **Framework methodology significance:** demonstrates audit-round-methodology-improvement produces genuine substrate findings not caught by initial posture; if audit rounds produce findings but framework does not fold them, posture becomes process theater
+- **K=2 flags:** none — audit-round posture body is now embedded in siblings' RATIFY dispositions
+- **Cross-refs:** Item 105 (citation-integrity fire), Item 106 (HEXACO-decorative), Item 107 (mutation-testing), Item 108 (statistical methodology), Item 110 (SUBSUMED per Phase A reduction sweep)
+- **Batch-6 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 105 — Substrate-audit-round-1 corpus-wide citation-integrity fire + remediation-applied documentation
@@ -2031,6 +2085,15 @@ Per operator ratification of Path A, Item 110 formally SUBSUMED into Item 104. I
 **Confidence calibration:** HIGH — findings are empirically documented + verified against actual primary sources + remediation is byte-verifiable at file-diff scope.
 
 **AMENDMENT 2026-07-08 late evening (post Opus round 4 verdict on M6):** Opus round 4 finding: "Round 1 remediation fixed the named critical fabrications but ALSO demonstrates prior M6 failure; it should not support recursion increment without a post-remediation citation-manifest audit." Item 105 AMENDED to explicitly note: **remediation-applied documentation does NOT constitute pre-publication empirical validation for M6 discipline** (per revised M6 filed at Item 111). Item 105 is evidence of audit process value, NOT evidence of framework's pre-publication M6 compliance. Post 0197 recursion count contribution from Round 1 = 0 (audit-methodology validation only; publication-methodology validation blocked).
+
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (substrate-audit-round-1 corpus-wide citation-integrity fire + remediation-applied documentation; canonization gate mandatory conditions)
+- **Confidence:** HIGH (findings empirically documented + verified against primary sources + remediation byte-verifiable; Rule 19 anti-fabrication discipline empirically fired at framework scope)
+- **Discipline promotion:** rule 19 anti-fabrication empirically-strengthened; framework methodology commitment M5 revised (charisma derived + humor stored as ENGINEERING CHOICE preserving HSQ construct distinctness, not behavioral-genetic independence)
+- **PROVISIONAL K=2 flags carried to September:** (a) remediation does NOT constitute pre-publication M6 validation (per Item 111 revised M6); (b) Post 0197 recursion count contribution from Round 1 = 0 pending Round 2 clean-verification; (c) substrate audit round 2 clean-verification of remediation sufficiency required before recursion increment
+- **Non-application scope PRESERVED:** architectural PIVOTS (beauty-premium-as-outcome + first-impression-as-moment + charisma-as-derived + humor-as-stored + cultural-bundle-mediation) remain load-bearing; only GROUNDING reframed as DIRECTIONAL choices
+- **Cross-refs:** Item 104 (audit-round-methodology-improvement candidacy — Item 105 is empirical foundation), Item 108 (statistical methodology framework-scope canonization), Post 0198 (Stage 3 addendum), Rule 19 (empirically-fired at framework scope)
+- **Batch-6 ratification artifact:** agenda annotation
 
 ---
 
@@ -2167,6 +2230,14 @@ Full harness aggregate post-remediation: framework produces honest architectural
 
 **AMENDMENT 2026-07-08 late evening (post Opus round 4 verdict):** Opus round 4 recommendation 9: "Reconsider Item 108 because M15/M16 should be filed as PROSPECTIVE commitments pending proof of whole-harness migration and SESOI pre-registration, not as post-hoc validation of Round 3 fixes." Item 108 accordingly amended: M15 + M16 are **PROSPECTIVE candidacies** pending H18 whole-harness statistical migration audit clean-verification (H18 built + ran Round 4; verdict 4/4 PASS with M15 CANONIZATION READY + M16 CANONIZATION READY status). Confidence calibration downgraded from HIGH to **MEDIUM** pending Item 113 discount application (n=4 → n≤3 substrate convergence). Council #9 review: M15/M16 canonization contingent on (a) H18 clean-verification at future audit rounds + (b) SESOI pre-registration artifacts stored per null-claim + (c) Opus Item 113 discount methodology applied to convergence signal.
 
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (statistical methodology framework-scope canonization contingent on H18 clean-verification + SESOI pre-registration + Item 113 discount)
+- **Confidence:** MEDIUM (per Opus amendment; n=4 → n≤3 substrate convergence discount)
+- **Canonization gate:** M15 (canonical statistical methodology 10-item) + M16 (native MC power + Latin Hypercube) filed as PROSPECTIVE
+- **PROVISIONAL K=2 flags carried to September:** (a) H18 whole-harness statistical migration clean-verification completion; (b) SESOI pre-registration artifacts stored per null-claim; (c) Item 113 convergence-discount methodology application to convergence signal
+- **Cross-refs:** Item 105 (Round 1 audit fires), Item 106 (HEXACO-decorative Round 2), Item 107 (mutation-testing Round 2), Item 109 (ASA 2016 continuous-evidence), Item 113 (convergence discount)
+- **Batch-6 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 109 — ASA 2016 continuous-evidence-over-binary-threshold discipline (Post 0197 recursion count discipline extension)
@@ -2199,6 +2270,14 @@ H16 native Monte Carlo power test empirically demonstrates: framework's hexaco.A
 - Post 0197 (empirical-validation-harness-parallel-to-diagnostic-UI discipline — Item 109 extends to methodology of evidence reporting)
 
 **Confidence calibration:** MEDIUM — canonical literature verdict is clear; operator preference for binary pass/fail (per framework's existing PASS/PARTIAL/FAIL system) requires operator ratification before framework corpus overhaul.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RATIFY (ASA 2016 continuous-evidence-over-binary-threshold discipline; shift internal harnesses to continuous reporting; retain binary at operator-facing interfaces per REBOUND option)
+- **Confidence:** MEDIUM (canonical literature verdict clear; operator preference for binary held at UI surfaces per pre-registered falsification option)
+- **Discipline promotion:** framework empirical validation harnesses report continuous evidence (raw effect sizes + exact p-values + calibrated standardized measures against simulation-generated null distribution); binary PASS/PARTIAL/FAIL retained at operator UI scope
+- **K=2 flags carried to September:** operator preference for binary thresholds noted at Item 109 text; continuous internals sufficient for Round 5 close-out canonization
+- **Cross-refs:** Item 108 (statistical methodology canonization sibling), ASA 2016 (Wasserstein-Lazar), Post 0197 (empirical-validation-harness discipline — Item 109 extends to evidence-reporting methodology)
+- **Batch-6 ratification artifact:** agenda annotation
 
 ---
 
@@ -2278,6 +2357,15 @@ All findings were framework-integrity issues the framework author self-critique 
 
 **Confidence calibration:** HIGH — Opus verdict is empirically documented; framework's actual M6 practice is directly observable across n=3 audit rounds; revised M6 wording is directly implementable.
 
+**RATIFIED 2026-07-10 late per Council #9 batch-6 ratification (operator signature; coupled with Item 122 Option C):**
+- **Verdict:** RATIFY (M6 modification per Opus round 4 recommendation 1; empirical-validation-before-authoritative-citation temporal discipline explicit; coupled with Item 122 Option C substrate-consultation intermediate step)
+- **Confidence:** HIGH (Opus verdict empirically documented; framework's actual M6 practice directly observable across n=3 audit rounds)
+- **M6 REVISED body:** "Authoritative citation requires (1) verified source access AND (2) passing empirical harness BEFORE publication. Post-audit remediation does NOT retroactively count as pre-validation. Post 0197 recursion count discipline applies to instances that satisfied validation BEFORE publication — remediated instances contribute to audit-methodology validation (Item 104), NOT to publication-methodology validation (M6/Post 0197)."
+- **Amendment coupling:** Item 122 empirical failure surfaced framework author self-verification ~33% error rate; recommend Option C substrate-consultation intermediate step coupling with M6 revision
+- **K=2 flags:** none — M6 wording revision is directly implementable
+- **Cross-refs:** Item 105 (Round 1 citation fabrications trail), Item 108 (Round 3 statistical errors trail), Item 122 (M6 empirical failure — Option C coupling adopted), Post 0197 recursion count discipline (M6 canonical enforcement mechanism)
+- **Batch-6 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 112 — M10 substrate architectural extension candidacy (cultural bundle mediation of updatePairRelational)
@@ -2347,6 +2435,14 @@ Applying discount to current audit round: (Perplexity + Grok + Deep Think + Deep
 
 **Confidence calibration:** MEDIUM — discount rules are empirically motivated by Opus's specific finding but require operator ratification for framework-scope application.
 
+**RATIFIED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RATIFY (cross-substrate convergence discount methodology; 3 discount rules canonized: substrate-family / inheritance / materials-inheritance)
+- **Confidence:** MEDIUM (Opus finding empirically motivates discount; prevents false-confidence-inflation from counting corroborating substrates as independent)
+- **Discipline promotion:** discount rules mandatory post-audit methodological step; prevents self-sealing convergence loops (load-bearing for Item 122 credibility)
+- **K=2 flags:** none — discount rules canonized per Opus specific finding
+- **Cross-refs:** Item 104 (audit-round-methodology-improvement — Item 113 refines convergence-counting rule), Item 110 SUBSUMED (n=4 → n≤3 discount), Rule 11 (multi-substrate research workflow)
+- **Batch-6 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 114 — Disposition matrix non-foldable exclusions audit (Opus recommendation on core-architecture-protection anti-pattern)
@@ -2381,6 +2477,14 @@ Disposition matrix non-foldable exclusions require empirical justification per e
 - Opus round 4 verdict on substrate audit round self-consistency
 
 **Confidence calibration:** HIGH — Opus finding is directly documented; framework's disposition matrix exclusions text is byte-verifiable; adjudication requires Council #9 methodology deployment.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RATIFY (disposition matrix non-foldable exclusions audit; requires operator adjudication per exclusion — 4 pre-registered exclusions each require evidence-based verdict)
+- **Confidence:** HIGH (Opus finding directly documented; framework audit methodology sound in principle but runs risk of protecting core architecture from falsification via exclusion default)
+- **Discipline promotion:** Item 114 surfaces meta-methodological risk that audit can force remediation around architecture but cannot easily falsify architecture itself; strengthens audit rigor via exclusion adjudication requirement
+- **K=2 flags carried to September:** 4 exclusions require individual operator adjudication (HEXACO ratification re-open + Post 0197 invalidate + bundle content withdrawal + plane merging); Council #9 adjudicates ≥2 exclusions as anti-pattern → disposition matrix confidence downgrade
+- **Cross-refs:** Item 104 (audit-round-methodology-improvement — Item 114 tests whether Item 104 methodology is self-consistent), Item 111 (M6 revision), Item 112 (M10 plane merging)
+- **Batch-6 ratification artifact:** agenda annotation
 
 ---
 
@@ -2732,6 +2836,15 @@ Framework's M10 wording is 2/3 over-specific (Marshall 2008 + Rothbaum 2000 are 
 
 **Confidence calibration:** HIGH — Round 5 Perplexity accessible-abstract evidence is empirically documented + operator can re-verify Kito 2017 DOI 10.1111/pere.12174 directly.
 
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (M10 wording revision REVISED per Round 5 Perplexity finding; split universal-scope Kito 2017 from bundle-scope Marshall + Rothbaum)
+- **Confidence:** HIGH on discipline body (Round 5 Perplexity accessible-abstract evidence is empirically documented); MEDIUM on completeness pending Kito 2017 continued cross-cultural verification
+- **M10 REVISED body:** universal-scope Kito 2017 (relational mobility framework applies across cultures); bundle-scope Marshall 2008 + Rothbaum 2000 (East-Asian cultural expectations; Bundle E appropriate); bundle-specific citations remain per bundle
+- **PROVISIONAL K=2 flags carried to September:** Kito 2017 continued universal-scope confirmation at K=2 substrate; Rothbaum 2000 year correction preserved (was 2002 per Round 5 Perplexity DOI verification)
+- **Meta-finding:** framework author's H23 self-critique was PARTIALLY WRONG; Round 5 substrate audit caught at citation-verification scope; empirical evidence for Item 122 M6 empirical failure discipline
+- **Cross-refs:** Item 122 (M6 discipline empirical test — Item 115 IS empirical evidence for Item 122), Item 111 (M6 revision), Item 121 (ISBN/edition-specificity — Item 115 is 8th ISBN/scope error caught by Round 5 that framework author missed)
+- **Batch-6 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 116 — M10 fold effect-size threshold recalibration (H19 empirical finding)
@@ -2757,6 +2870,15 @@ Framework should either:
 - Council #9 Item 106 Option B REBOUND M8 canonical resolution
 
 **Confidence calibration:** MEDIUM — 3 options require operator ratification for scope; Item 112 is Council-review-scope work (not operator-executable independently)
+
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-6 ratification (operator signature; Option C selected):**
+- **Verdict:** RATIFY-PROVISIONAL (M10 fold effect-size threshold recalibration; Option C accept-weak-effect selected — RETIRE M10 fold candidate at trajectory-Δ scope per A1 substantive-significance calibration empirical finding)
+- **Confidence:** MEDIUM (H19 empirical measurement Δtrust=1.19 barely exceeds SESOI 1.0; sentiment PROVEN NULL via TOST; framework research index A1 DOWNSTREAM SIM-SCALE CALIBRATION confirms M10 fold contribution INERT ≤4% trajectory Δ)
+- **Option C ratified:** M10 REVISED verdict remains honest at composition scope; substrate extension is Item 112 REBOUND to Council #10 pending Item 116 verdict selection
+- **A1 empirical grounding:** framework research index A1 substantive-significance calibration shipped 2026-07-09 verified M10 fold INERT; mechanism attribution accommodationModulator = HEXACO A × attachment.avoidance exactly matches empirical accommodation ordering
+- **PROVISIONAL K=2 flags carried to September:** H19 empirical gate provides falsification path; A1 substantive-significance calibration provides mechanism attribution; recommendation ground verdict in A1 empirical evidence M10 INERT finding rather than H19 alone
+- **Cross-refs:** Item 106 Option B REBOUND M8 canonical resolution (parallels Item 116 Option C), Item 112 (REBOUND to Council #10), Item 126 (A1 pilot empirical foundation)
+- **Batch-6 ratification artifact:** agenda annotation
 
 ---
 
@@ -2798,6 +2920,14 @@ Extend Rule 24 (post-audit-correction hybrid protocol) to specifically govern IS
 - Round 5 Perplexity substrate audit findings (7 ISBN corrections applied)
 
 **Confidence calibration:** HIGH — 7 empirical fires in Round 5 alone; discipline body empirically motivated + directly implementable via Rule 24 extension.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RATIFY (ISBN/edition-specificity discipline directly implementable + empirically motivated at 7 fires in Round 5 alone)
+- **Confidence:** HIGH (7 ISBN/edition errors surfaced; framework author self-verification did NOT catch; discipline body clear + operationally simple)
+- **Discipline promotion:** Rule 24 extension (mandatory ISBN consistency sweep when substrate audit surfaces error); explicit edition-year distinction + original-publication-year pinning + standard-version-vs-latest distinction + cross-Item ISBN consistency sweep
+- **K=2 flags:** none — pattern operationally validated at 7 fires
+- **Cross-refs:** Rule 19 anti-fabrication (n=8+ instances after Round 5), Rule 24 canonical-file correction protocol, Rule 20 canonization-propagation gap family (Item 121 fits Family A read-side sub-shape), Item 122 (M6 empirical failure — Item 121 is sub-component)
+- **Batch-6 ratification artifact:** agenda annotation
 
 ---
 
@@ -2903,6 +3033,15 @@ Opus rejects HELD / INCREMENT / DECREMENT as scoring an instrument that measures
 
 Framework preserves Post 0197 recursion count PENDING Council #9 review adjudication (per operator Path B disposition — do not unilaterally abandon; do not unilaterally increment either). Item 131 amended to note Opus RETIRE recommendation as candidate for Council review alongside preserve/clarify options. See Item 131 amended body.
 
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-6 ratification (operator signature; Option C selected):**
+- **Verdict:** RATIFY-PROVISIONAL (M6 discipline empirical failure documented; Option C substrate-consultation intermediate step recommended; qualitative finding preserved even though quantitative ~25-44% convergence claim retracted per Opus Round 5 amendment)
+- **Confidence:** HIGH on qualitative finding (framework author DID miss real issues at each of 5 scopes); LOW on quantitative convergence-rate claim (Opus rejection: small Ns make CIs overlap trivially)
+- **Option C ratified:** substrate-consultation intermediate step coupling with Item 111 M6 revision; framework author self-verification empirically insufficient at n=1 for satisfying revised M6 discipline
+- **Post 0197 recursion count:** HELD at n=7+ per Opus recommendation; do NOT unilaterally abandon; do NOT unilaterally increment; defer ABANDON adjudication among Round 5 Opus 4 options to September window K=2+ substrate corroboration + operator signature
+- **PROVISIONAL K=2 flags carried to September:** Post 0197 ABANDON adjudication (Round 5 Opus 4-option deferral); substrate-consultation intermediate step operationalization for M6 discipline; 5-scope convergence qualitative preservation vs quantitative retraction
+- **Cross-refs:** Item 111 (revised M6 discipline canonization + Option C coupling), Item 121 (ISBN/edition-specificity subset of M6 failure), Item 125 (emit/execution observability at implementation scope), Item 131 (Post 0197 semantics clarification)
+- **Batch-6 ratification artifact:** agenda annotation
+
 **Additional empirical fires beyond the phantom:**
 Grok Round 5a also produced valid findings against fresh (not stale) attachments:
 - HIGH-1 StatusBadge no fallback (compile-time-safe under TS strict; runtime fallback added defensively)
@@ -2958,6 +3097,14 @@ Before dispatching any substrate audit package that includes code attachments:
 
 **Confidence calibration:** HIGH — direct empirical fire n=1 with 4-artifact-drift secondary evidence; discipline body operationally simple + immediately implementable via SHA-256 shell utility; falsification-testable at next dispatch.
 
+**RATIFIED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RATIFY (audit-package byte-freshness discipline directly implementable + empirically motivated via Grok Round 5a phantom CRITICAL-1)
+- **Confidence:** HIGH (Grok phantom finding + n=4 stale artifacts at n=1 dispatch = 23.5% stale rate; SHA-256 discipline operationally simple + immediately implementable)
+- **Discipline promotion:** Rule 24 extension (substrate-dispatch pipeline as canonical-file consumer); implement SHA-manifest verification before next substrate audit dispatch
+- **K=2 flags:** none — pattern operationally validated + implementation cost bounded
+- **Cross-refs:** Item 122 (M6 discipline empirical test — Item 123 is prep-pipeline scope extension), Item 124 (Grok Round 5a valid findings fold record — post-fix verification)
+- **Batch-6 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 124 — Grok Round 5a valid findings fold record
@@ -2999,6 +3146,14 @@ Before dispatching any substrate audit package that includes code attachments:
 
 **Confidence calibration:** HIGH — 6 fold actions with byte-verified post-fold PASS across 4 empirical harnesses + unit tests + typecheck.
 
+**RATIFIED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RATIFY (Grok Round 5a valid findings fold record; audit-trail documentation; all folded findings have byte-verified PASS at post-fold scope)
+- **Confidence:** HIGH (6 fold actions with byte-verified post-fold PASS across 4 empirical harnesses + unit tests + typecheck)
+- **Discipline promotion:** serves as precedent for fold-and-verify pattern; no further operational decisions required
+- **K=2 flags:** none — audit record only
+- **Cross-refs:** Item 122 (M6 gap scope extension), Item 123 (audit-package byte-freshness — CRITICAL-1 phantom trigger)
+- **Batch-6 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 125 — Emit/execution observability-must-match-execution discipline candidacy
@@ -3026,6 +3181,15 @@ Cross-plane trace emit signatures whose semantic intent is "attempted-vs-actual"
 - Grok Round 5b MEDIUM-1 finding empirical fire
 
 **Confidence calibration:** MEDIUM — single empirical fire (n=1); discipline body operationally simple; falsification-testable at Gemini Deep Think Round 5 + Opus Round 5 dispatches.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RATIFY (emit/execution observability-must-match-execution discipline surfaces observability-vs-execution divergence at composition-substrate boundary)
+- **Confidence:** MEDIUM (n=1 empirical fire Grok R5b MEDIUM-1; discipline body operationally simple + falsification-testable)
+- **Discipline promotion:** cross-plane trace emit signatures whose semantic intent is "attempted-vs-actual" must receive same value that substrate receives; emit(attemptedImpact) == substrate(event.modulatedMagnitude)
+- **Recommended test:** add test case asserting emit(attemptedImpact) == substrate(event.modulatedMagnitude)
+- **K=2 flags:** none — discipline operationally simple + single empirical fire at n=1 sufficient
+- **Cross-refs:** Item 122 (M6 discipline empirical test — Item 125 is implementation-scope subset)
+- **Batch-6 ratification artifact:** agenda annotation
 
 ---
 
@@ -3147,6 +3311,16 @@ Deep Research R5 APPROVED Deep Think's NaN-filtering fold as canonical baseline 
 - Framework harness aggregate (currently 30/30 unit + 7 empirical hypotheses TOST-compliant)
 
 **Confidence calibration (amended):** HIGH — Deep Research literature grounding + operational simplicity (current basic BH sufficient at harness suite scale); graduation path documented for future Council #9 review.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-6 ratification (operator signature):**
+- **Verdict:** RATIFY (Item 126 CONSOLIDATED per Opus Round 5 discipline; A1 empirical operationalization complete; 88/88 tests PASS + 4-tier operational verdict taxonomy + H5-style precision-recall discipline extension canonized)
+- **Confidence:** HIGH on discipline body + implementation + verification; empirical anchor at proof-of-concept scale (N=15) with honest power-limit disclosure
+- **A1 empirical operationalization RATIFIED:** SUBSTANTIVELY_DIFFERENTIATED verdict with M10 fold contribution INERT; substrate accommodationModulator = HEXACO A × attachment.avoidance exactly matches empirical accommodation ordering
+- **Items 127 + 128 SUBSUMED into Item 126 per Opus R5 consolidation** — TOST treating saturation as equivalence + N≥5 discipline misapplied to deterministic harnesses (MCSE=0)
+- **H5-style precision-recall discipline extension:** CONVENTION for future recognition-scope harnesses; blind raters + matched-noise controls + preregistration + Cohen's d ≥ 0.8 + Krippendorff's α with xRR-aware interpretation
+- **K=2 flags carried to September:** H19 harness regression audit; BH-FDR NaN-filtering compliance across future harnesses; production-scale extension via Cluster A2
+- **Cross-refs:** Item 122 (M6 discipline empirical test), Item 127 (SUBSUMED), Item 128 (SUBSUMED), Post 0201 methodology publication candidate
+- **Batch-6 ratification artifact:** agenda annotation
 
 ---
 
