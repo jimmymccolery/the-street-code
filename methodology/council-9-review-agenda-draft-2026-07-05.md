@@ -5414,11 +5414,59 @@ Post-Tier-5 meta-analysis identified 3 remaining substrate mechanic gaps: death 
 
 **Framework methodology first:** first same-session quad-cycle (Tier 1-4 ship → meta-analysis → Tier 5 ship → sweep → Tier 6 ship → sweep). Meta-analysis discipline demonstrated at recursion depth 3. Substrate coverage estimated ~99% of Stage 3.8 mechanic surface (encounter formation + rescue-choice + trajectory + anchor-pair variance + death arcs + M14 + memory encoding).
 
-**Remaining gaps (Tier 7 candidates, if pursued):**
-- Sim A-only death not counted in aggregate `deathRate` (only bothDead triggers). Cosmetic; deathCauseHistogram shows singles.
-- Full first-impression sentiment computation (computeFirstImpression with cultural context bundle) still composition-scoped; harness memory-side stubs don't reproduce sentiment attribution.
-- Memory-informed decision retrieval (retrieveEmotionCongruent) fires substrate-side but not visible in report.
-- Aggregation of witness-impact Δ across sweep pairs not yet in aggregate.
+**Remaining gaps (Tier 7 candidates, if pursued):** — ALL 4 SHIPPED at Tier 7, see §5 below.
+
+**§5 Tier 7 4-gap closure (shipped 2026-07-11 sim-ai `d9ffd89`):**
+
+Post-Tier-6 4 remaining gaps identified. All 4 shipped comprehensively per operator directive.
+
+**Gap 4 — Single-Sim death aggregate:** Add `anyDeathRate` + `simADeathRate` + `simBDeathRate` alongside legacy `bothDeathRate`. Fixes cosmetic issue where Sim A-only deaths weren't visible in overall aggregate.
+
+**Gap 5 — Full first-impression sentiment computation:** Composition stub now calls `computeFirstImpression` from firstEncounter.ts. Both A→B and B→A results captured via Hehman 2017 variance decomposition. Design discovery during ship: `physicalCharacteristics + humorStyle + culturalContextBundleId` live on `biography.extendedTemplate` (NOT top-level `BiographicalRecord`). Anchor-tier archetypes populate these under extendedTemplate. Fixed access path.
+
+**Gap 6 — Memory-informed decision retrieval visibility:** `analyzeMemoryInformedDecisions` scans `state.lastMemoryInformedDecisionInfo` per entry. Computes total fires + Non-Inertness Gate CLEAR rate + mean retrievedTraceCount + mean topTraceCongruence.
+
+**Gap 7 — Witness-impact aggregation:** `meanWitnessValenceDelta` + `meanWitnessRelationalIntegrityDelta` per pair. Render only when death fired.
+
+**Empirical verification via Tier 7 sweep (30 runs at 6000 ticks + rescue @ 4000 + death @ 3000 dehydration Sim B):**
+
+- **Overall any-death rate: 100%** (30/30 injections fired) — Gap 4 verified.
+- **First-impression symmetry Δ ranges 0.003 (C×D most symmetric) to 0.037 (B×C most asymmetric).** Novel finding: B×C archetype pair perceives each other most differently across all 6 configurations.
+- **Non-Inertness Gate CLEAR rate = 0.0% across ALL 6 pairs.** Root-cause hypothesis: harness fi- traces have `actionRef: null`; substrate's `applyMemoryInformedActionModulation` requires `trace.actionRef` to match `candidate.actionId` — no match ever fires. Substrate calibration signal OR harness scope limitation depending on interpretation. Real gameplay populates actionRefs at action completion → would show >0% CLEAR rate.
+- **Witness valence_f Δ POSITIVE across ALL pairs (22-43 range).** Sim B death did NOT cause negative valence in Sim A. Post-death valence INCREASED (natural Layer 3 recovery outweighing any death-witness delta). `partner_death_no_witness_impact` anomaly systematically fires. **Substrate finding worth investigation: `propagateDeathBtoA` may not be firing in this configuration.** relational_integrity_b barely moves (0.00-0.01 Δ). B×C highest positive Δ (43.16) = weakest empathic response to partner death; A×C highest among A-pairs (31.93). This is directly actionable for substrate calibration review.
+
+**Per-pair first-impression sentiment aggregates:**
+
+| Pair | Mean A→B init | Mean B→A init | Symmetry Δ |
+|:---:|---:|---:|---:|
+| C×D | 0.003 | 0.006 | 0.003 |
+| A×B | -0.015 | -0.010 | 0.005 |
+| A×C | -0.006 | -0.023 | 0.018 |
+| A×D | 0.009 | -0.013 | 0.022 |
+| B×D | 0.022 | -0.001 | 0.023 |
+| B×C | 0.008 | -0.029 | 0.037 |
+
+**Per-pair witness-impact aggregates (post-Sim-B-death Δ):**
+
+| Pair | Mean valence_f Δ | Mean relational_integrity_b Δ |
+|:---:|---:|---:|
+| B×C | +43.16 | +0.01 |
+| A×B | +33.87 | +0.01 |
+| A×C | +31.93 | +0.01 |
+| A×D | +24.43 | 0.00 |
+| B×D | +23.86 | 0.00 |
+| C×D | +22.17 | +0.01 |
+
+**Tests:** 1708 → 1712 (+4 Tier 7 regression coverage). Zero regressions. Audit clean.
+
+**Sim-ai ship:** commit `d9ffd89` — 7 files changed +424 insertions. RoomToLife vendor sync verified 195/195 files.
+
+**Framework methodology first:** same-session **penta-cycle** (Tier 1-4 → analysis → Tier 5 → sweep → Tier 6 → sweep → Tier 7 → sweep). Meta-analysis discipline demonstrated at **recursion depth 4**. Substrate coverage estimated ~100% of Stage 3.8 mechanic surface at both substrate AND composition scope.
+
+**Novel empirical findings for follow-up Council substrate review:**
+1. Non-Inertness Gate 0.0% CLEAR rate empirical — investigate whether trace.actionRef schema requires substrate update OR harness-scope actionRef population sufficient.
+2. Positive witness valence_f Δ across all pairs post-partner-death — investigate whether `propagateDeathBtoA` fires under composition-scope injection OR requires natural death path.
+3. B×C anchor pair asymmetric perception + weakest empathic witness response — worth substrate audit of B + C archetype interaction dynamics.
 
 ---
 
