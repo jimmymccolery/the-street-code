@@ -5331,6 +5331,53 @@ Operator directed 5-seed post-mortem demo sweep + meta-analysis to check for err
 - Roomtolife vendor sync — vendor manifest verified 195/195 files.
 - Post 0197 recursion count HELD at n=11 (post-mortem harness is Post 0197 corollary; not a new independent count).
 
+**§3 Tier 5 rescue-choice injection sweep integration (shipped 2026-07-11 sim-ai `ac60fe0`):**
+
+Post-Tier-1-4 meta-analysis identified single highest-payoff remaining gap: systematic rescue-arc coverage. Sweep at 6000-tick horizon achieved only 3.3% natural rescue rate (1/30 runs), leaving Stage 3.8 M2 rescue-choice mechanics largely unexercised at anchor-sweep scale. Tier 5 wires rescue-offer injection into the sweep runner + captures full 4-option softmax + 5-modulator-class snapshot into report + aggregate.
+
+**Design discovery during ship:** decideNextAction only fires when currentAction === null (islandWorld.ts:2431); injecting a rescueOffer mid-action (e.g. during 30-tick sleep) lets the offer sit + potentially evaporate before the choice short-circuit fires. Injector now nulls currentAction + actionProgress on the receiving Sim to force fresh decision. Deliberate substrate mutation for observability scope; naturalistic mid-action-during-rescue behavior remains a real substrate feature but out of scope for this harness.
+
+**Shipped:**
+- PostmortemReport.rescueChoice — RescueChoiceSnapshot with selected option + offer metadata + raw + normalized 4-option weights + sentiment + partner Chebyshev + memory trace count/congruence at choice moment.
+- Runner extracts from state.lastRescueChoiceInfo || state.simB.lastRescueChoiceInfo (persists across ticks per substrate design).
+- Markdown Section 6 renders 4-option softmax table with selected option marker + 5-modulator-class citation.
+- run-anchor-sweep.ts accepts `--inject-rescue-offer-at-tick N --rescue-type helicopter|ship --rescue-for a|b`; applies uniformly across all runs.
+- lib/aggregate.ts extended with rescueChoiceHistogram (per-option counts per pair) + fired count + mean sentiment + mean partner Chebyshev.
+- Per-run detail table includes `choice` column.
+
+**Empirical verification (baseline vs injected 6-pair × 5-seed sweep at 6000 ticks):**
+
+| Metric | Baseline | Injected (helicopter Sim A @ tick 4000) | Δ |
+|:---:|---:|---:|---:|
+| Overall rescue rate | 3.3% (1/30) | 46.7% (14/30) | **+43.4pp** |
+| Choice fire rate | 6.7% (2/30) | 100% (30/30) | +93.3pp |
+| Wall clock | 3.5s | 3.0s | -14% |
+
+**Per-pair rescue-choice distribution (injected):**
+
+| Pair | Rescue% | accept | signal | fetch | refuse | mean sentiment |
+|:---:|---:|---:|---:|---:|---:|---:|
+| C×D | 100% | 60% | 40% | 0% | 0% | 0.085 |
+| B×C | 60% | 20% | 60% | 0% | 20% | 0.012 |
+| A×B | 60% | 40% | 20% | 0% | 40% | 0.210 |
+| B×D | 40% | 40% | 40% | 0% | 20% | 0.049 |
+| A×D | 20% | 20% | 0% | 0% | 80% | 0.232 |
+| A×C | 0% | 0% | 20% | 0% | 80% | 0.033 |
+
+**Novel empirical findings from Tier 5 sweep:**
+- **`go_fetch_partner` NEVER selected** (0/30 across 6 pairs). Modulator calibration signal: the go-fetch path requires HIGH-H + HIGH-A + HIGH-E + spatial-feasibility simultaneously; PROPER_ANCHOR archetypes rarely satisfy all four. Worth review at rescueChoice.ts hexacoModulatorGoFetch calibration.
+- **C×D pair is 100% rescue rate** — consistent "pragmatic accepters" across seed variance (60% accept_immediate + 40% signal_and_wait; 0% refuse).
+- **A×C pair is 0% rescue rate** — consistent "loyalty pair" pattern (80% refuse_entirely; 0% accept_immediate).
+- **A×D shows highest choice-moment sentiment (0.232) BUT 80% refuse_entirely** — pair-relational modulator per Rusbult-Verette 1991 accommodation-trust amplifies loyalty when sentiment is high. Counter-intuitive but empirically substrate-consistent.
+- **A×B canonical seed-42-defect pair shows bimodal 40/20/0/40 distribution** — pair's rescue decisions are highly sensitive to seed conditions, consistent with parallel-lives-defect-of-record variance.
+- **Mean partner Chebyshev at choice varies 6.8 (A×C, close pair) to 13.0 (A×D + B×D, distant at choice)** — spatial feasibility modulator input for computeRescueChoiceWeights.
+
+**Sim-ai ship:** commit `ac60fe0` — 7 files changed +247 insertions. RoomToLife vendor sync verified 195/195 files.
+
+**Tests:** 1697 → 1700 (+3 rescue-choice). Zero regressions. Audit clean.
+
+**Framework methodology first:** first same-session tri-cycle (Tier 1-4 ship → post-ship meta-analysis → Tier 5 rescue-choice ship → post-Tier-5 sweep). Meta-analysis discipline demonstrated at recursion depth 2 — sweeps successfully surface substrate calibration signals (never-selected go_fetch_partner + per-pair rescue-choice signatures) beyond what unit tests reveal.
+
 ---
 
 ## Council #9 methodology deployment structure
