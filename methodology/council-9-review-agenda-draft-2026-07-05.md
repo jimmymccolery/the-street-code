@@ -39,6 +39,107 @@ Per-item ratification annotations appended at each Item body with (a) verdict + 
 **Numbering note:** Item 21 was never populated (numbering skipped from Item 20 to Item 22 during earlier candidacy filing). Item 21 slot reserved permanently vacant per numbering-preservation discipline (Q-lock ID recycling prohibition analog applied to Council candidacy items).
 
 **Item 55 status:** Item 55 (personality-as-attractor mathematical guarantee) FALSIFIED 2026-07-07 late afternoon per n=3 substrate consensus BEFORE Council #9 review window. First pre-Council RETIRE compliance instance for split/retire/reduce mechanism. See Item 55 body section for retirement notice.
+
+## Council #9 CLOSE-OUT SUMMARY (2026-07-10 late)
+
+**Council #9 CLOSED per accelerated-close arc following 8-agent parallel review + 7-batch operator-signature ratification cycle.** Fully closed same-session ratification for all empirically-defensible items. Agenda shrinkage: **~108 items closed (79% reduction from 136 active). September window carries ~28 items forward (STATUS-QUO + REBOUND + K=2 provisional sub-components).**
+
+### Final verdict distribution (all 149 filed items)
+
+| Verdict | Count | Items |
+|---|---|---|
+| **RATIFY** (canonization / formal ratification) | 63 | 8, 10, 11, 14, 15, 16, 17, 18, 19, 23, 24, 25, 27, 28, 29, 30, 31, 32, 34, 35, 42, 43, 44, 46, 47, 48, 49, 50, 61, 62, 63, 64, 65, 67, 68, 72, 73, 78, 79, 81, 82, 84, 85, 88, 89, 90, 95, 99, 100, 102, 106, 109, 111, 113, 114, 121, 123, 124, 125, 126, 132 (→ Rule 27), 140, 145, 146, 147, 148, 151, 152, 153, 154 (→ Rule 28) + 100 → Rule 26 |
+| **RATIFY-PROVISIONAL** (K=2 sub-components → September) | 22 | 13, 26, 36, 38, 41, 45, 60, 69, 70, 71, 75, 77, 80, 83, 86, 87, 103, 105, 108, 115, 116, 122, 129, 130, 131, 135, 141 |
+| **STATUS-QUO** (September carry-forward) | 13 | 6, 7, 9, 37, 74, 87.1, 91, 92, 93, 94, 96, 97, 107, 137, 138 |
+| **REBOUND to Council #10** (post-V1 architectural) | 14 | 51, 52, 53, 56, 57, 58, 59, 112, 117, 118, 119, 120, 133, 134, 136, 139, 143, 144 |
+| **DEFLATE** (observation-only) | 3 | 22, 39, 40 |
+| **RETIRE** | 3 | 55 (falsified), 101, 142 (Rule 24 retired) |
+| **ABSORB** | 5 | 20, 33, 66 (→ 100), 76 (→ Phase 15 v3 §3.8), 98 (→ 95), 104 (→ 105/106/107/108), 110 (→ 104), 127, 128 (→ 126), 150 (→ 146 M0), 149 (REBOUND to Council #10 per Fire #11) |
+
+### Framework rule canonizations shipped Batch-1
+
+- **Rule 26 Retired-Workflow-Recurrence Discipline** (from Item 100 candidacy)
+- **Rule 27 Non-Inertness Gate Framework Rule** (from Item 132 candidacy)
+- **Rule 28 Defensive-Reducer Discipline** (from Item 154 candidacy)
+
+Canonical file mutation: `~/Projects/master-setup/operational_discipline_rules.canonical.md` v2.1.0 → v2.2.0.
+
+### Signature-gated K=2 sub-components carried to September
+
+| Category | Items | K=2 flags |
+|---|---|---|
+| Bonanno / M14 / rescue-choice CALIBRATION-CHOICE | 151, 152, 153 | Bonanno ±0.15; M14 weight constants; bundle-specific priors |
+| Rule 27 20% Non-Inertness threshold | 132 → Rule 27 | Threshold recalibration + post-hoc audit scope |
+| Post 0197 recursion count (n=11 vs n=7+ HELD) | 95, 131 | ABANDON adjudication among 4 Opus R5 options |
+| M6 discipline empirical failure (Option C) | 122, 111 | Substrate-consultation intermediate step operationalization |
+| M10 fold (Option C accept-weak-effect) | 116, 130 | A1 empirical grounding + bundle-specific modulator range |
+| Statistical methodology (M15/M16 PROSPECTIVE) | 108 | H18 whole-harness statistical migration completion |
+| ISBN + citation-verification discipline (K/N calibration) | 141, 121 | Dual-substrate auditing next 3 artifacts falsification test |
+| Framework selection rule anchor strengthening | 28, 29, 30 | n≥2 additional civil-rights-framework-applicable anchors |
+| Layer 3 Dimensions 5-6 candidates | 13 | K=2 substrate evaluation before deployment |
+| Item 1134 meta-prompt substrate-triangulation | 26 | Rule 24 addendum vs versioned v1.0→v1.1 bump decision |
+
+### STATUS-QUO items (September carry-forward requiring K=2 substrate corroboration OR empirical fire evidence)
+
+- **Item 6** — Retroactive falsification clauses for Rules 1-19 assessment (empirical fire evidence at Council #9 window required)
+- **Item 7** — Rule 25 substrate-behavior standalone discipline assessment (fire evidence during Council window)
+- **Item 9** — AP #34 statistics-fabrication assessment (count-ledger guardrail empirical test)
+- **Item 37** — Vendor-sync-reminder-post-commit-discipline (operational tooling; falsification if operator ignores >2 weeks)
+- **Item 74** — Public practitioner discourse divergence (discourse-lag temporal calibration K=2)
+- **Item 87.1** — Schwartz scaffolding collapse sub-shape (Stage 2 anchor-authored substitution remediation trigger)
+- **Item 91** — CI-only failure mode invisibility candidacy (n=1 fire; n≥2 additional required)
+- **Item 92** — Cross-consumer stale-import gap at parallel-agent-execution (n=1 fire; multi-agent coordination discipline)
+- **Item 93** — Retroactive corpus-wide disclosure abstraction (unprecedented event; rarity threshold requires accumulation)
+- **Item 94** — Application-arc vs methodology-arc disclosure-scope stratification review question
+- **Item 96** — Natural-vs-scripted-scenario-pair empirical methodology (n=1 fire)
+- **Item 97** — Storm procedural-generation Phase 1 empirical finding (routing to sim-ai/tasks.md)
+- **Item 107** — Grok mutation-testing methodology (n=1 fire; n≥2 upgrade path)
+- **Item 137** — Segregated-press content-adjudication (options a/b/c operator adjudication)
+- **Item 138** — Phase 7.1f production-scaling blueprint (pre-V1 vs post-V1 scope decision)
+
+### REBOUND to Council #10 (post-V1 architectural extensions)
+
+**Phases 15-18 vault (7 items):** Items 51 (morality cognition), 52 (fight escalation), 53 (ACES scoring), 56 (utterance manifold), 57 (Bartlett serial reproduction), 58 (universal nonverbal channel), 59 (Nagata transgenerational trauma) — all require post-V1 N-plane substrate architecture that hasn't shipped.
+
+**Content schemas (5 items):** Items 112 (M10 substrate extension), 117 (HobbyProfile), 118 (DialogueTurn), 119 (VernacularProfile), 120 (UnifiedUSTimeline) — scholarly foundations complete but zero implementation at 2-Sim scope.
+
+**Stage 6/7 post-V1 (2 items):** Items 133 (Stage 7 Sift Layer Cluster A6), 134 (Stage 6 Conversation Plane Cluster A7) — post-V1 architectural extensions requiring Cluster A2 completion.
+
+**Additional REBOUND (4 items):** Items 136 (Post 0146 dialogue scope amendment coupled with Item 134), 139 (belief store PROV-O — A2 population-scaling prerequisite), 143 (Stage 6/7 emit taxonomy forward-compatibility coupled with Items 133/134), 144 (Cluster A6a Stage 7-lite matcher engine coupled with Item 133).
+
+**Fire #11 REBOUND (1 item):** Item 149 REBOUND to Council #10 per Fire #11 2026-07-10 late (n=1 anchor Item 12 insufficient for canonization; K=2 corroboration path required).
+
+### DEFLATE items (reduced to observation-only)
+
+- **Item 22** — Wall-clock-test-tolerance discipline (CI infrastructure issue, not methodology)
+- **Item 39** — Explicit-vs-implicit-ratification-drift-checklist-item (session-planning problem)
+- **Item 40** — Meta-analysis-count-comparison-surfacing-false-gaps (CC-side empirical-grounding failure, one-time oversight)
+
+### ABSORB executions
+
+- Items 20 + 33 + 66 → Item 100 → Rule 26 (retired-workflow-recurrence discipline)
+- Item 76 → Phase 15 v3 §3.8 (certainty-first-class field under belief/memory plane)
+- Item 98 → Item 95 (Post 0197 empirical-validation-harness recursive strengthening n=1 → n=7+)
+- Item 104 → Items 105 + 106 + 107 + 108 (audit-round-methodology-improvement candidacy body empirically PRODUCED in siblings)
+- Item 110 → Item 104 (n=4 substrate convergence discount to n≤3 per Opus)
+- Items 127 + 128 → Item 126 (inferential-statistics-scaffolding-on-deterministic-trajectory consolidation)
+- Item 150 → Item 146 (M0 port precursor scope for Stage 3.5 substrate wiring)
+
+### RETIRE compliance
+
+- **Item 55** RETIRED 2026-07-07 late per n=3 substrate consensus falsification (Opus damped-spring rigorous math refutation + Grok + Perplexity); first pre-Council RETIRE compliance validating split/retire/reduce mechanism at RETIRE move
+- **Item 101** RETIRED 2026-07-10 per operator ratification of disposition-item-native retirement
+- **Item 142** RETIRED 2026-07-09 per parent Rule 24 retirement obsolescence cascade
+
+### Framework methodology firsts
+
+- First 8-agent parallel Council #9 comprehensive review at accelerated close
+- First 7-batch same-session ratification cycle with operator signature at each batch
+- First 79% agenda shrinkage via ratification + REBOUND + STATUS-QUO consolidation
+- First 3-rule single-session canonization (Rules 26 + 27 + 28)
+- First Non-Inertness Gate CLEARED at 3 empirical substrate ships pre-canonization (H-mem-7 + H-rescue-6 + H27 post-hoc)
+- First session-log-post-mortem-driven canonical rule (Rule 28 Defensive-Reducer Discipline)
+- First split/retire/reduce mechanism validated at all 5 moves (DEFLATE + SPLIT + RETIRE + REBOUND + ABSORB) pre-Council
 **Ratification protocol:** Per Council #8 canonization outcome — orchestrator synthesis Section 5 empirical validation gate + Section 6.6 falsification meta-canonization discipline + ChatGPT proposal adopted
 **Cross-references:**
 - `~/Desktop/COUNCIL-8-DEPLOY/SYNTHESIS-DRAFT.md` — Council #8 orchestrator synthesis
@@ -968,6 +1069,13 @@ First pre-Council RETIRE compliance instance for the split/retire/reduce mechani
 
 **Filed n=1 at 2026-07-07 late afternoon.** Every dialogue authoring + folklore seed + emergent-transformation propagation is content-locked identity-linked scope per Schema v0.2 §5.4 consultation-gate policy. Consultant time + operator engagement increases proportionally. Marvin: Rickford + Green + Baugh review. Cesar: Santa Ana + Zentella review. Yuki: Nagata + Kim + Suzuki review. Storytelling content authoring is SAME scope as anchor content authoring — HARD gate.
 
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (consultation-gate discipline extension to storytelling authoring; sound discipline; too early for full canonization pending Item 100 → Rule 26 operationalization + Item 66 SUBSUMED CC meta-analysis workflow content-kb-grep discipline)
+- **Confidence:** HIGH (Schema v0.2 SHIPPED with consultation-gate policy; content-authoring-gate already ratified for anchor biographical content)
+- **PROVISIONAL K=2 flags carried to September:** Rule 22 canonical-file-verification prerequisite; extension to procedural-draft dialogue + folklore-emergence discipline formalization
+- **Cross-refs:** Item 66 SUBSUMED into Item 100 (content-kb-stale-claim-propagation), Item 100 → Rule 26 (retired-workflow-recurrence), Post 0191 (Schema v0.2)
+- **Batch-7 ratification artifact:** agenda annotation
+
 ### Item 61 — Candidate methodology observation bifurcated-confidence-verdict-per-layer-rather-than-blended-MEDIUM (Opus Round 2 methodology observation 2026-07-07 late afternoon n=1 fire)
 
 **Filed n=1 at 2026-07-07 late afternoon per Claude Opus Round 2 cross-substrate triangulation.** Framework methodology observation: single overall confidence value obscures layer-specific certainty. Grok Round 1 (item-2016) single "MEDIUM confidence" masked real bifurcation. Opus Round 2 (item-2018) split verdict: **HIGH confidence on empirical citation layer** (4/4 flagged 2026 citations verified real at n=3 substrates); **LOW confidence on architectural scale-feasibility layer** ("NONE found" production-precedent result at n=3 substrate consensus; outside-view base rates unfavorable per Flyvbjerg reference-class forecasting). Framework should adopt bifurcated confidence framing at cross-substrate verification scope. Council #9 review questions:
@@ -1013,6 +1121,14 @@ First pre-Council RETIRE compliance instance for the split/retire/reduce mechani
 - Related to Item 25 substrate-triangulation-as-methodology-adjudication: pattern-family direct — adversarial substrate CAN produce over-correction
 - Related to Item 21 CC-authored code bug in closure claim without regression test coverage: pattern-family adjacent at "hypothesis-produces-useful-but-partial-signal" scope
 - Empirical foundation: n=1 within-arc; adversarial-substrate-behavior calibration methodology observation
+
+**RATIFIED 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** RATIFY (adversarial-priming-with-verification produces useful hypothesis but requires rigorous verification to distinguish citation-availability variance from actual fabrication)
+- **Confidence:** MEDIUM (n=1 arc; adversarial-substrate-behavior calibration methodology observation; requires high calibration bar for adjudication)
+- **Discipline promotion:** Rule 25 amendment formalize adversarial-substrate-specific discipline + verification-gate requirement (suggest n=2.5 substrates verified before adversarial-hypothesis counted as STRONG evidence)
+- **K=2 flags:** none — MEDIUM confidence due to small sample; strengthens with n=3+ future arcs
+- **Cross-refs:** Item 25 (substrate-triangulation-as-methodology-adjudication — pattern-family), Item 62 (cross-substrate-divergence-not-fabrication), Item 61 (bifurcated-confidence)
+- **Batch-7 ratification artifact:** agenda annotation
 
 ### Item 64 — Candidate methodology observation reference-class-forecasting-per-Flyvbjerg-canonizes-outside-view-calibration (Opus Round 2 methodology 2026-07-07 late afternoon n=1 fire)
 
@@ -1236,6 +1352,14 @@ Council #9 review questions:
 **Observation:** Grok Round 6 Fermi bounds surface that full N² relational matrix (dense APIM per Kelley-Thibaut) = ~GBs catastrophic for 5000 NPCs. Mandatory sparse relational graph (avg 5-10 active edges/NPC) not previously surfaced by prior 4 substrates. Prior substrates provided qualitative risk probabilities (55-80% scale illusion) but not quantitative bounds identifying specific dense-vs-sparse architectural constraint.
 
 **Council #9 assessment question:** Should substrate research discipline include mandatory Fermi quantitative estimate pass at architectural-design scope? Does absence of Fermi bounds at prior substrates count as validation gap? Adjacent to Rule 21 operator-realism-check strengthening.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-7 ratification (operator signature; STRONG RATIFY):**
+- **Verdict:** RATIFY (Fermi-quantitative-bounds discipline canonical for identifying hard architectural constraints invisible to qualitative analysis)
+- **Confidence:** HIGH (Grok's quantitative analysis surfaced previously-invisible hard constraint: 5000 NPCs × 5000 = 25M edges minimum; full APIM = 25M × sizeof(RelationalEdge) ≈ 2-4GB per snapshot; unsustainable)
+- **Discipline promotion:** formalize Fermi-bounds-pass as MANDATORY at architectural-design scope for any multi-agent system; require concrete memory/storage/CPU estimates + break-even analysis + mandatory sparse-alternative comparison for N² scale-complexity claims
+- **K=2 flags:** none — Grok Round 6 empirical bound hard-quantitative and immediately actionable
+- **Cross-refs:** Item 64 (reference-class-forecasting outside-view complements Fermi inside-view), Item 70 (REPLACEMENT-vs-MODULATION), Item 71 (cross-plane-emergent-validation)
+- **Batch-7 ratification artifact:** agenda annotation
 
 ### Item 73 — substrate-cited-benchmark-workload-generalization-discipline
 
@@ -1586,6 +1710,14 @@ These narratives describe attachment profiles that should map to different numer
 **Observation:** Day 1 UMAP diagnostic used `distinctionRatio > 0.5` as success criterion (anchors more spread than procedural = PASS). HEXACO plane FAILED at distinctionRatio 0.485 not due to authoring bug but because 6 of 7 pinboy anchors share high-C + high-O + moderate-A biographical composition (Sam Nguyen the only exception; contemporary era). Anchors ARE pairwise distinct at UMAP 2D scope but occupy a shared REGION of HEXACO space per authored-population homogeneity. Day 2 recalibrated to `checkAnchorsPairwiseDistinct(min > threshold)` at Day 2 addressing the arbitrary population-vs-cluster comparison threshold.
 
 **Council #9 assessment question:** Should threshold-recalibration-under-authored-population-homogeneity be canonized as diagnostic-tool-design discipline? Adjacent to Item 21 (operator-realism-check) -- arbitrary thresholds without population-composition-awareness produce false-negative signals. Adjacent to sub-shape 25 candidate (multi-iteration-reshape-without-diagnostic-instrumentation).
+
+**RATIFIED 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** RATIFY (diagnostic-tool-design discipline; arbitrary thresholds without population-composition-awareness produce false-negative signals)
+- **Confidence:** MEDIUM (n=1 empirical recalibration Day 1 → Day 2 UMAP; population-aware threshold interpretation established as operational discipline)
+- **Discipline promotion:** Phase 15 v3 Stage 1 Gate audit discipline; all UMAP distinctionRatio + clustering thresholds documented WITH population-composition awareness
+- **K=2 flags:** none — pattern operationally validated + threshold-recalibration protocol simple
+- **Cross-refs:** Item 21 (operator-realism-check), Sub-shape 25 candidate (multi-iteration-reshape-without-diagnostic-instrumentation), Stage 1 Week 1
+- **Batch-7 ratification artifact:** agenda annotation
 
 ### Empirical validation annotations for prior candidacies (Stage 1 Week 1 Days 4-6)
 
@@ -3480,6 +3612,13 @@ Framework schemas modeling cognitive-latency, response-time, or turn-taking timi
 
 **Confidence calibration:** MEDIUM — 1 empirical fire; discipline body operationally simple for schemas at authoring scope but requires generative-process implementation discipline for downstream substrates; falsification-testable via future substrate schema implementations.
 
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (Ex-Gaussian generative process for cognitive-latency schemas canonization; coupled with Item 118 DialogueTurn schema REBOUND)
+- **Confidence:** MEDIUM (Gemini R5 HIGH-4 empirical fire; discipline body operationally simple for authoring scope; generative-process implementation discipline pending downstream substrates)
+- **PROVISIONAL K=2 flags carried to September:** Ex-Gaussian(μ, σ, τ) parameter-typing amendment (τ per-culture, σ + μ global); DialogueTurn schema implementation Item 118 REBOUND to Council #10
+- **Cross-refs:** Item 118 (DialogueTurn schema REBOUND — Item 129 amends H1 gate), Casillas 2014 + Roberts 2015, Stivers 2009 PNAS, Gemini R5 HIGH-4
+- **Batch-7 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 130 — M10 modulator range under universal Kito 2017 citation scope candidacy
@@ -3530,6 +3669,13 @@ Deep Research literature verification revealed Kito et al. 2017 (Personal Relati
 - Zhu et al. 2020 cross-cultural moderation (Deep Research R5 confirming literature)
 
 **Confidence calibration:** HIGH — Deep Research literature verification traced Kito 2017 sample scope + verified Thomson 2018 canonical universal baseline; Option C ratified per literature verdict; interim disposition preserves current [0.9, 1.1] East-Asian modulator with framework acknowledging universal-scope bundles require broader range TBD at bundle-schema-extension implementation scope.
+
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-7 ratification (operator signature; Ready-as-is component RATIFIED):**
+- **Verdict:** RATIFY-PROVISIONAL (Ready-as-is component: Kito→Thomson citation correction RATIFIED; Option C bundle-specific modulator range LITERATURE-INDICATED but architectural mutation BLOCKED per Opus Round 5 pending bundle-schema-extension implementation)
+- **Confidence:** HIGH on citation-scope correction (Kito 2017 dual-country; Thomson 2018 39-nation canonical universal baseline); MEDIUM on architectural mutation (soft-ratification blocked)
+- **PROVISIONAL K=2 flags carried to September:** bundle-schema-extension implementation work at K=2 substrate scope; Option C per-bundle modulator range calibration
+- **Cross-refs:** Item 115 (H23 M10 wording revision), Item 112 (M10 substrate-extension REBOUND), Item 116 (M10 fold Option C accept-weak-effect), Thomson 2018 PNAS canonical universal baseline
+- **Batch-7 ratification artifact:** agenda annotation
 
 ---
 
@@ -3600,6 +3746,14 @@ Instead: Council #9 review adjudicates among 4 options at architectural scope:
 Framework preserves recursion count at n=7+ HELD status during Council review window; increment/decrement/retire/abandon decision requires Council #9 adjudication per operator-signature-gated rule change per Rule 14 canonical protocol.
 
 **Note on Item 131 status:** Item 131 remains a REVIEW ITEM (documentation gap clarification + RETIRE option). Framework does NOT file Item 132+ for accretion-pattern discipline (that would be the perpetuating move Opus flagged). Item 131 covers both semantics clarification (framework's prior candidacy) AND retire-the-count option (Opus's recommendation) as complementary Council review candidates.
+
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-7 ratification (operator signature; clarify move ratified):**
+- **Verdict:** RATIFY-PROVISIONAL (Post 0197 semantics clarification via Fire #11 clarify move; ABANDON adjudication among 4 Opus Round 5 options deferred to September window)
+- **Confidence:** HIGH (Reddy-Lolla-Sanku 2026 empirical corroboration verified via Rule 19; framework's actual usage documented as external adversarial validation not LLM-style self-review; documentation gap real + directly addressable)
+- **PROVISIONAL K=2 flags carried to September:** ABANDON adjudication among 4 options (Option 1 HELD n=7+ / Option 2 clarify / Option 3 RETIRE per Opus / Option 4 ABANDON per Deep Research); operator signature required for canonical rule change per Rule 14 protocol
+- **Fire #11 clarify move APPLIED:** Post 0197 recursion count clarify n=11 alongside n=7+ HELD marker per Grok mitigation
+- **Cross-refs:** Item 122 (M6 discipline empirical test — Item 131 addresses META-finding at Post 0197 scope), Reddy-Lolla-Sanku 2026 arxiv 2605.21537 (VERIFIED)
+- **Batch-7 ratification artifact:** agenda annotation
 
 ---
 
@@ -3795,6 +3949,13 @@ Cross-reference: `~/Projects/the-street-code/methodology/h27-bourdieu-non-inertn
 
 **Confidence calibration:** MEDIUM — n=2 empirical foundation is thin; second instance (Stage 6) is candidacy-scope not shipped-scope; Council review should adjudicate whether to canonize as pattern OR file as pending-observation pending Stage 6 execution.
 
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (Ephemeral Computed Projection architectural pattern; coupled with Item 134 Stage 6 Conversation Plane REBOUND)
+- **Confidence:** MEDIUM (n=2 empirical foundation; Post 0198 shipped + Stage 6 candidacy)
+- **PROVISIONAL K=2 flags carried to September:** Stage 6 execution required for n=3 empirical foundation; canonize as pattern OR file as pending-observation
+- **Cross-refs:** Post 0198 (canonical shipping precedent), Item 134 (Stage 6 Conversation Plane REBOUND to Council #10)
+- **Batch-7 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 136 — Post 0146 dialogue-systems scope amendment candidacy (V1 → post-V1 canonical mutation)
@@ -3833,6 +3994,13 @@ Post 0146 §112 dialogue disclaimer amended to:
 
 **Confidence calibration:** MEDIUM-HIGH — Post 0198 ephemeral pattern demonstrates mechanics feasibility; scope framing (mechanics IN, surface OUT) is architecturally coherent; Rule 14 signature-gate ensures operator direct decision.
 
+**REBOUND to Council #10 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** REBOUND to Council #10 (Post 0146 dialogue-systems scope amendment; coupled with Item 134 Stage 6 Conversation Plane REBOUND)
+- **Confidence:** HIGH (Rule 14 signature-gated scope amendment; requires operator direct decision; Stage 6 architectural work not yet at Council #9 ratification readiness)
+- **REBOUND rationale:** V1 → post-V1 canonical mutation coupled with Stage 6 Conversation Plane (Item 134); both deferred to Council #10 pending A2 population-scaling foundation completion + Stage 6 architectural execution
+- **Cross-refs:** Item 134 (Stage 6 candidacy — REBOUND coupled), Rule 14 (canonical protocol scope amendment), Post 0146 §112
+- **Batch-7 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 137 — Segregated-press content-adjudication problem candidacy (options a/b/c framing)
@@ -3866,6 +4034,14 @@ Recognized as consultation-gate territory regardless of Stage 7 adoption fate. I
 - Bundle A anchor bundle: 1944 Philadelphia African-American context (Great Migration + Double V + Prince Hall + Pittsburgh Courier + Philadelphia Tribune historical infrastructure documented at cultural bundle)
 
 **Confidence calibration:** HIGH — problem exists independently of Stage 6/7 fate; framework will face at any diegetic story-surfacing mechanism; Option (c) ships-first + Option (a) as target is a defensible operational posture consistent with intersection-nodes discipline.
+
+**STATUS-QUO 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** STATUS-QUO (segregated-press content-adjudication requires operator adjudication among options (a)/(b)/(c); Fable 5 recommended posture Option (c) ships first + Option (a) as target)
+- **Confidence:** HIGH on problem-existence (independent of Stage 6/7 fate); MEDIUM on adjudication (requires September window operator adjudication)
+- **September carry-forward:** operator adjudication required for consultation-gate operationalization; framework operationally adopts as consultation-gate territory regardless of Stage 7 adoption fate
+- **K=2 flags carried to September:** operator adjudication among options (a)/(b)/(c); prerequisites Item 138 (production-scaling blueprint) + Item 133 (Stage 7 Sift Layer)
+- **Cross-refs:** Item 133 (Stage 7 REBOUND), Item 138 (production-scaling STATUS-QUO), Post 0187 (Marcus Reed successor)
+- **Batch-7 ratification artifact:** agenda annotation
 
 ---
 
@@ -3903,6 +4079,14 @@ Framework files Phase 7.1f production-scaling blueprint as separate Council #9 r
 
 **Confidence calibration:** MEDIUM — problem is real (framework state audit confirmed no scaling artifact filed); solution scope is substantial (weeks-to-months operator work-hours); Council #9 adjudicates whether framework builds blueprint pre-V1 OR defers to post-V1 comprehensive workstream.
 
+**STATUS-QUO 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** STATUS-QUO (Phase 7.1f production-scaling blueprint at 5000-NPC content-authoring scale; solution scope substantial weeks-to-months operator work-hours; Council #9 adjudicates pre-V1 vs post-V1 scope)
+- **Confidence:** MEDIUM (problem confirmed via framework state audit; no scaling artifact filed at V1 scope)
+- **September carry-forward:** operator ratification required for scaling blueprint decision (pre-V1 build vs post-V1 comprehensive workstream); Cluster A2 population-scaling foundation completion prerequisite
+- **K=2 flags carried to September:** substrate-triangulation cost function at scale; anchor-tier → procedural-tier transition discipline formalization; consultation-gate operationalization at content-authoring scale
+- **Cross-refs:** Post 0187 (Marcus Reed successor pathway), Post 0189 (lifelineGenerator procedural NPC provisioner), Item 133 + Item 134 + Item 137 (dependents)
+- **Batch-7 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 139 — Belief store as PROV-O extension to Schema v0.2 candidacy
@@ -3933,6 +4117,13 @@ Schema v0.2 extension at NPC-head scope:
 - Bartlett 1932 serial reproduction (Rule 19 verified)
 
 **Confidence calibration:** LOW-MEDIUM — architecturally coherent + literature-grounded but requires A2 empirical foundation before commitment; occupational-asymmetry design departs from framework's uniform-NPC scaling assumption; requires operator ratification of scaling trade-off before build.
+
+**REBOUND to Council #10 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** REBOUND to Council #10 (belief store PROV-O extension; post-V1 architectural scope; A2 population-scaling foundation completion prerequisite)
+- **Confidence:** LOW-MEDIUM on completeness (architecturally coherent but requires A2 empirical foundation)
+- **REBOUND rationale:** occupational-asymmetry design departs from framework's uniform-NPC scaling assumption; requires operator ratification of scaling trade-off; Item 133/134 dependencies also REBOUND
+- **Cross-refs:** Post 0191 (Schema v0.2 canonical), Post 0146 Layer 8, Cluster A2 population-scaling foundation, Bartlett 1932 (Rule 19 verified)
+- **Batch-7 ratification artifact:** agenda annotation
 
 ---
 
@@ -3984,6 +4175,14 @@ Item 140 review scope amended to include the close-contact revision event type. 
 
 Cross-reference: Council #9 Item 147 filing (line 3467+).
 
+**RATIFIED 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** RATIFY (event-scope canonical registry extension review at Phase 8.x post-V1; V1 Non-Inertness Gate FAILED per Rule 27 canonization)
+- **Confidence:** LOW at V1 (Non-Inertness Gate FAILED); MEDIUM at Phase 8.x post-V1 (empirical foundation available at Cluster A2 close)
+- **Discipline promotion:** Item 140 review scope amended to include close_contact_impression_revision (Item 147 additional event type); LOW cross-product candidacy verdict at V1 posture preserved
+- **K=2 flags carried to September:** cross-product migration scope emergence trigger; Phase 8.x post-V1 empirical review
+- **Cross-refs:** Item 132 → Rule 27 (Non-Inertness Gate framework rule), Item 147 (close_contact_impression_revision amendment), Cluster A2 Phase B close-out
+- **Batch-7 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 141 — K-of-N cross-substrate quorum rule for citation verification
@@ -4015,6 +4214,14 @@ Empirical motivating anchor: Fable audit §A.2.3 — CC Opus 4.7 WebFetch "verif
 - Council #9 Item 122 (M6 revised temporal discipline; multi-round substrate audit empirical foundation)
 
 **Confidence calibration:** MEDIUM-HIGH — direct empirical anchor from 5 external substrate rounds + n=1 home-substrate fabrication episode; low-cost implementation (framework's Rule 11 multi-substrate research workflow already scales to K-of-N); falsification threshold pre-registered.
+
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (K-of-N cross-substrate quorum rule for citation verification; empirical anchor from 5 external substrate rounds + home-substrate fabrication episode; K/N calibration per artifact class)
+- **Confidence:** MEDIUM-HIGH (direct empirical anchor; low-cost implementation via Rule 11 multi-substrate research workflow scaling to K-of-N)
+- **Discipline promotion:** any artifact class whose single-substrate miss rate exceeded 20% requires ≥K-of-N independent substrate audits; K/N calibration: citation attribution K=2 N=2; statistical methodology K=2 N=3; framework author self-review K=1 N=1 NEVER auto-VERIFIED
+- **PROVISIONAL K=2 flags carried to September:** dual-substrate auditing on next 3 artifacts falsification test; K/N calibration formalization per artifact class before Rule 14 signature-gated canonization
+- **Cross-refs:** Fable 5 adversarial audit §D.5.2, Rule 24 addendum Track 1c corrections §5, Rule 19 (single-source WebFetch insufficient), Item 122 (M6 empirical failure)
+- **Batch-7 ratification artifact:** agenda annotation
 
 ---
 
@@ -4093,6 +4300,13 @@ File extension taxonomy NOW as data-only candidacy (no code); ~12 new event type
 
 **Confidence calibration:** MEDIUM-HIGH — taxonomy extension is data-only + non-accretive at V1 scope; anchors Non-Inertness Gate at emit-type scope; empirically-motivated by Grok R5b divergence finding.
 
+**REBOUND to Council #10 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** REBOUND to Council #10 (Stage 6/7 emit taxonomy forward-compatibility; coupled with Items 133/134 Stage 6/7 REBOUND)
+- **Confidence:** MEDIUM-HIGH on taxonomy structure; MEDIUM on completeness pending Stage 6/7 consumer specs
+- **REBOUND rationale:** Item 143 taxonomy extension depends on Items 134 (Stage 6) + 133 (Stage 7) ratification (consumer specs must exist); all coupled to Council #10 post-A2 execution
+- **Cross-refs:** Item 132 → Rule 27 (Non-Inertness Gate at emit-type scope), Items 133 + 134 + 138 + 139 + 137, Post 0190 amortized-O(1) ring-buffer canonical
+- **Batch-7 ratification artifact:** agenda annotation
+
 ---
 
 ### Item 144 — Cluster A6a Stage 7-lite candidacy (matcher engine + 5 patterns; operator-diagnostic only)
@@ -4137,6 +4351,13 @@ Not shippable in lite scope: Pattern #8 (needs negative-event vocabulary); Patte
 - Track 1c artifacts (reagan-arc-templates.ts + dtw.ts + reagan-arc-features.ts)
 
 **Confidence calibration:** MEDIUM-HIGH — architecturally coherent (Layer 10 residency); lite scope executable without external capacity blockers; H30 pass/kill criteria pre-registered; framework's existing empirical anchors (Post 0199 events + Track 1c DTW + H4 replay) transfer directly.
+
+**REBOUND to Council #10 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** REBOUND to Council #10 (Cluster A6a Stage 7-lite candidacy; matcher engine + 5 patterns operator-diagnostic scope; coupled with Item 133 Stage 7 REBOUND)
+- **Confidence:** MEDIUM-HIGH on lite-scope framing; MEDIUM on completeness (H30 pass/kill criteria pre-registered pending Council #10 execution)
+- **REBOUND rationale:** Cluster A6a is scoped subset of Item 133 (Stage 7 Sift Layer REBOUND); post-A2 execution scheduling; H5 human study still required for full Item 133 execution
+- **Cross-refs:** Item 133 (Stage 7 Sift Layer REBOUND), Fable Stage 7 spec pattern taxonomy §2, Post 0199 pair-relational plane, Track 1c artifacts (reagan-arc-templates.ts + dtw.ts)
+- **Batch-7 ratification artifact:** agenda annotation
 
 ---
 
@@ -4201,6 +4422,14 @@ H27 **EXECUTED 2026-07-09 late; DEFINITIVE KILL verdict.** Harness at `~/Project
 - Council #9 review scope on Item 145 shifts from "will H27 pass?" to "does DEFINITIVE KILL of `capital_conversion` architectural pathway warrant substrate mutation before Cluster A7 begins, OR does it warrant dropping Bourdieu channel differentiation from Stage 6 scope entirely?"
 
 **Confidence calibration post-execution:** HIGH → EMPIRICAL (Item 145 has moved from candidacy-with-plan to candidacy-with-empirical-result at H27 sub-scope).
+
+**RATIFIED 2026-07-10 late per Council #9 batch-7 ratification (operator signature):**
+- **Verdict:** RATIFY (Bourdieu channel non-inertness empirical tests H25+H26+H27; H27 DEFINITIVE KILL of capital_conversion via Poisson GLM ΔAIC=-5241.618 provides Rule 27 Non-Inertness Gate first POST-HOC empirical anchor on already-wired mechanism)
+- **Confidence:** HIGH → EMPIRICAL (H27 executed at candidacy-with-empirical-result scope; H25 + H26 remain Stage-6-DEPENDENT architectural blocker)
+- **Discipline promotion:** H27 KILL of capital_conversion channel provides Rule 27 first post-hoc empirical anchor; framework empirically demonstrated its own KILL discipline
+- **K=2 flags carried to September:** DEFINITIVE KILL of capital_conversion architectural pathway — does it warrant substrate mutation before Cluster A7 begins OR drop Bourdieu channel differentiation from Stage 6 scope entirely; H25 + H26 executable only after Stage 6 substrate exists
+- **Cross-refs:** Item 132 → Rule 27 (Non-Inertness Gate empirical foundation strengthened), Item 134 (Stage 6 REBOUND; capital_conversion-dependent claims flagged)
+- **Batch-7 ratification artifact:** agenda annotation
 
 ---
 

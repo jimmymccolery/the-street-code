@@ -367,4 +367,23 @@ Four-surface propagation clean; no Rule 20 Family A canonization-propagation gap
 
 Registry now 4 formal RETIRE compliance entries + 3 CANONIZATION entries + 1 REBOUND cross-reference entry + 1 loose-ends batch.
 
-**PENDING:** Additional RETIRE + CANONIZATION compliance instances will be logged here as they occur through Council #9 batches 2-7 execution.
+**UPDATE 2026-07-10 late (Council #9 batches 2-7 accelerated close-out completion):** All 7 batches executed with operator signature. Final Council #9 disposition:
+- **63 RATIFY** across framework rules + shipped architectural extensions + methodology observations
+- **22 RATIFY-PROVISIONAL** with K=2 sub-components carried to September window
+- **13 STATUS-QUO** carried to September (empirical fire evidence + K=2 substrate corroboration required)
+- **14 REBOUND to Council #10** (post-V1 architectural extensions: Phases 15-18 vault + content schemas + Stage 6/7)
+- **3 DEFLATE** (Items 22, 39, 40 — observation-only)
+- **3 RETIRE** total (Item 55 falsified + Item 101 disposition-item-native + Item 142 parent-rule obsolescence cascade)
+- **10 ABSORB** (Items 20+33+66→100, 76→Phase 15 v3 §3.8, 98→95, 104→105/106/107/108, 110→104, 127+128→126, 150→146; plus Item 149 REBOUND to Council #10)
+
+**Framework methodology firsts logged:**
+- First 8-agent parallel Council #9 comprehensive review at accelerated close
+- First 7-batch same-session ratification cycle with operator signature at each batch
+- First 79% agenda shrinkage via ratification + REBOUND + STATUS-QUO consolidation
+- First split/retire/reduce mechanism validated at all 5 moves (DEFLATE + SPLIT + RETIRE + REBOUND + ABSORB) pre-Council #9 close
+
+Registry now 4 formal RETIRE entries + 3 CANONIZATION entries (Rules 26/27/28) + 1 REBOUND cross-reference (Item 149) + 1 loose-ends batch + 7 ABSORB dispositions documented at agenda body.
+
+**COUNCIL #9 CLOSED** per accelerated-close arc 2026-07-10 late. September window (2026-09-05 through 2026-10-05) carries ~28 items forward: STATUS-QUO + REBOUND + K=2 provisional sub-components. Council #10 nominal window Nov-Dec 2026 receives REBOUND items.
+
+**PENDING:** Additional RETIRE + CANONIZATION compliance instances will be logged here as they occur post-Council-#9.
