@@ -4014,6 +4014,57 @@ Framework Stage 3.8 architectural extension sibling to Items 146+147+148 (Stage 
 
 ---
 
+### Item 152 — Stage 3.8 M13 successful-rescue departure narrative arc (sibling extension to Item 151; session-log seed-42 defect-driven)
+
+**Filed 2026-07-10 late.** Sibling scope extension to Item 151 (Stage 3.8 rescue-choice + co-shelter cohabitation architectural extension).
+
+**Origin:** Session-log `~/Desktop/sim-ai-island-session-seed-42-1166-entries-2026-07-11T04-05-51-788Z (1).json` (seed 42, t=11056) surfaced that Stage 3.8's M5 landmark communication path covered failed-rescue return (`PendingConfession` + `failed_rescue_communicated`) but NOT the counterpart successful-rescue departure. Observable defects:
+
+1. First-impression memory (`fi-5`, salience 0.85) encoded on remaining Sim A when Sim A wandered onto rescued Sim B's frozen tile at t=10658, 1004 ticks post-rescue. Rescued partner should be narratively absent from perception-dependent events.
+2. Placeholder `storm_survived` LandmarkEventType used at rescue completion (islandWorld.ts:4145 + betrayalImpact.ts:168) — semantic pollution; no proper landmark type for partner departure.
+3. Zero pair-relational sentiment accumulation (`sentimentAtoB: 0`, `sentimentBtoA: 0`, `coLocatedTicks: 0`) across the entire 11056-tick run despite 62 ticks of tile co-location — exact-tile match gate too strict; adjacent perception (Chebyshev ≤ 1) was missed.
+4. Pair state lacked explicit "have they met" anchor; first-impression firing (RoomToLife scope) never seeded substrate pair-relational encounter state.
+5. No auto-pause or narrative transition when one Sim departed; sim continued as if nothing happened.
+
+**Substrate changes (shipped this session at sim-ai `50d3959`):**
+- `LandmarkEventType` extended with `partner_rescued_departure` + optional `valenceSignOverride: 1 | -1` field on `LandmarkEvent` for context-dependent sign at emission time.
+- `partnerRescuedDepartureSign(preDepartureSentiment)` helper — Bonanno 2004 heterogeneous grief-response gating: ≥ +0.15 → −1 (grief); < +0.15 → +1 (relief/mild).
+- `PairRelationalState` extended with `hasEncountered`, `firstEncounterTick`, `preDepartureSentimentSnapshot`.
+- `seedPairFirstEncounter(state, tick)` idempotent helper — called by composition-scope consumers when first-impression fires.
+- Pair co-location gate loosened from exact-tile to Chebyshev ≤ 1 for `observed_together` + `shared_storm_survival`. Shared-shelter + resource-conflict retain `coLocatedExact` gate (narrative-semantic requirement).
+- `processMemoryTickPipeline` reads `valenceSignOverride ?? landmarkValenceSign(eventType)` at Sim A + Sim B encoding sites (backward-compat).
+- Empirical harness `stage38M13PartnerRescuedDeparture.test.ts` 11/11 PASS covering H1-H4 hypotheses.
+
+**Composition-scope changes (shipped this session at roomtolife scope):**
+- First-impression gate at `IslandSimulation.tsx:496` extended with `partnerNarrativelyPresent` check — excludes rescued/dead partner from perception-dependent event firing.
+- Pair `hasEncountered` + `firstEncounterTick` seeded at first-impression fire site.
+- New `PartnerRescuedModal` — auto-pauses on first-Sim rescue transition, shows single-castaway narrative with pre-departure sentiment context + Bonanno-mode explanation. Continue-solo un-pauses.
+
+**Anchor stack:**
+- Bonanno 2004 (Am Psychol 59(1):20-28) — heterogeneous grief-response NEW for M13
+- Willis-Todorov 2006 (Psych Sci 17(7):592-598) — perception threshold PRESERVED from M5
+- Baumeister-Stillwell-Heatherton 1994 (Psychol Bull 115(2):243-267) — interpersonal transgression PRESERVED from M5
+
+**Framework flags:** Bonanno threshold ±0.15; magnitude 90; Chebyshev radius 1 — all CALIBRATION-CHOICE per Rule 19.
+
+**Cross-refs:**
+- Item 151 (Stage 3.8 M1-M12 architectural extension canonization) — M13 is a scope-adjacent extension sibling filing not an amendment; independent RATIFY/DEFLATE at Council #9 September window.
+- Q56 Post 0197 empirical-validation-harness-parallel-to-diagnostic-UI discipline (n=11 HELD).
+- session log at `~/Desktop/sim-ai-island-session-seed-42-1166-entries-2026-07-11T04-05-51-788Z (1).json` as defect-of-record.
+
+**Filing pattern (Rule 14):** Pattern B — ADOPT FOLD (Rule 10 Conservative-Bias). Substrate defect-driven; 11/11 empirical harness PASS at substrate scope + Vercel precheck GREEN at composition scope. Reversible pre-Council: substrate changes contained + backward-compat via optional fields; disable via revert of the 4 file changes.
+
+**Falsification thresholds pre-registered:**
+- If Council #9 review finds Bonanno threshold ±0.15 empirically miscalibrated at K=2 substrate scope: RATIFY M13 canonization but ABSORB into Item 151 amendment.
+- If Chebyshev ≤ 1 loosening surfaces sentiment inflation regression at longer horizons (e.g., 20k-tick session): REBOUND M13 to Council #10 + revert gate to exact-tile.
+- If Bonanno 2004 not confirmed as primary anchor at K=2 substrate: DEFLATE M13 → observational-only; retain code path but re-flag valenceSignOverride as UNVERIFIED.
+
+**Confidence calibration:** HIGH — substrate-scope tests 11/11 PASS at defect-of-record coverage; existing pairInteractionRescuedGuard + coShelter + Phase 2.8 tests still PASS (53/53); Rule 19 discipline applied.
+
+**Recommendation:** RATIFY at Council #9 September window as Stage 3.8 M13 canonization sibling to Item 151.
+
+---
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
