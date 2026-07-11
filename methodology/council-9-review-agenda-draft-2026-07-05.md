@@ -5539,6 +5539,100 @@ Comprehensive audit run across ALL panels in `IslandStage345Panels.tsx` (26 expo
 
 ---
 
+### Item 156 — Group Substrate architectural extension + Tier 9 UI selector infrastructure (Council #10 candidacy)
+
+**Filed 2026-07-11 evening** — Operator directive: "A world Sim that functions as close to reality as possible is our ultimate goal, and the most enriched end-product is what we are always working towards. Cutting no corners." Path 3 hybrid ratification: direct-ratify Tier 9 UI (composition-only, zero substrate risk); Council-triangulate Tier 10 Group Substrate.
+
+**Design surface:** Comprehensive ~9000-word architectural specification at `~/Projects/sim-ai/architecture/group-substrate-and-tier-9-ui-architecture-2026-07-11.md` (sim-ai commit `a7a4e92`).
+
+**Substrate additions (Tier 10 candidacy — pending Council #10 substrate-triangulation):**
+
+Group Substrate extends existing pair-relational plane with world-scope + per-Sim state layers:
+
+- `PopulationTopology` (signed graph per Cartwright-Harary 1956 balance theorem)
+- `ReputationLedger` (dual-channel private image / public reputation per Sabater-Sierra 2005 RepAge + standing strategy per Panchanathan-Boyd 2004)
+- `CoalitionState` (Caplow 1968 8-configuration + Palla et al 2005 k-clique overlapping communities)
+- `GroupCohesionState` (Elder 1974 low-resource-tail amplification)
+- `LeadershipEmergenceState` (Hollander 1958 idiosyncrasy credits + Bass 1990 trait predictors + Van Vugt-Ahuja 2010 followership heuristics)
+- Per-Sim `GroupIdentityState` (Tajfel-Turner 1979 SIT + Axelrod 1997 cultural markers + Brewer 1999 in-group/out-group decoupling)
+- Per-Sim `MortalitySalienceState` (Greenberg-Pyszczynski-Solomon 1986 TMT + Landau-Kosloff-Schmeichel 2011 chronic-vs-acute distinction — LOAD-BEARING for island survival context)
+- Per-Sim `OstracismState` (Williams 2001 4-need + Eisenberger 2003 dACC pain overlap)
+- Per-Sim `SocialSupportIndex` (Berkman-Syme 1979 SNI 4-factor + Cohen-Wills 1985 structural/functional + Cacioppo-Hawkley 2009/2010 perceived-vs-objective)
+
+**Empirical anchor strength — load-bearing:**
+- **Holt-Lunstad, Smith & Layton 2010** *PLoS Med* 7(7):e1000316 meta-analysis k=148 studies **N=308,849**: OR=1.50 (95% CI 1.42-1.59) mortality reduction; multidimensional integration OR=1.91. **Effect exceeds obesity + physical inactivity; comparable to smoking cessation.**
+- **Berkman & Syme 1979** *Am J Epidemiol* Alameda County 9-yr follow-up **N=4,725 analytic**: RR=2.3 men, 2.8 women for most-isolated vs most-connected.
+- **Darley & Latané 1968** *JPSP* bystander effect: alone 85% help / four-others 31% — direct rescue-choice modulator relevance.
+- **Fischer et al 2011** *Psychol Bull* meta-analysis k=105 N≈7,700: Hedges g = -0.35 bystander effect with danger-conditional reversal (Fischer 2006 dangerous emergencies eliminate inhibition).
+- **Cartwright-Harary 1956** *Psychol Rev* structural balance theorem — mathematical foundation for signed-graph reputation dynamics.
+- **Karau & Williams 1993** *JPSP* social loafing meta-analysis k=78: d≈0.44 with evaluation-potential strongest moderator.
+- **Burke, Martens & Faucher 2010** *Personality Soc Psychol Rev* TMT meta-analysis k=164, 277 experiments: r=0.35 (CALIBRATION-CHOICE per Klein 2022 Many-Labs 4 downward recalibration).
+
+**Modulator integration points (Tier 10 substrate):**
+
+Rescue-choice softmax (Stage 3.8 M2) gains 3 new modulator classes:
+- Group-size (Latané 1981 Impact = s·N^t with t=0.4)
+- In-group multiplicative boost (Levine 2002 magnitude)
+- Reputation (Fowler-Christakis 2010 cascade)
+
+Kindness-action synthesis extends with:
+- Social loafing dampener (Karau-Williams 1993 identifiability moderator)
+- Bystander damping conditional on danger (Fischer 2006 reversal)
+
+Layer 3 accumulator adds channels:
+- Social pain from ostracism (Eisenberger 2003 dACC pain overlap)
+- Group cohesion Layer 3 buffer (Cohen-Wills 1985 buffering)
+- In-group affinity boost (Tajfel-Turner SIT)
+
+Mortality mechanics extends:
+- Holt-Lunstad 2010 hazard multiplier applied to chronic causes
+- β = ln(1.50) ≈ 0.405 (unidimensional); β = ln(1.91) ≈ 0.647 (multidimensional integration)
+- Empirically massive: isolated Sim 2× mortality vs connected
+
+**UI composition changes (Tier 9 shipped 2026-07-11; Tier 11 pending):**
+
+**Tier 9 UI Foundation shipped composition-only** (roomtolife commits `5373824` prior + `19cc188` this session — vendor sync + PanelSelectorContext + PanelSelectors + simDataResolver):
+- 4-mode selector infrastructure (Single Sim / Perceiver-Target / Unordered Pair / Multi-Select Overlay)
+- URL state persistence (?sim=a&perceiver=a&target=b&pair=a-b&show=a,b)
+- Backwards compat at N=2 (defaults auto-select A/B/A×B; extends to N-Sim via availableSims prop)
+- Global selector strip mounted at top of page above TimeWeatherHeader
+- SimSlot uniform data resolver decouples panel signatures from A-at-top/B-nested substrate storage
+
+**Tier 11 UI Group Panels (post Council #10 substrate ratification)**: 12 new panels consuming Group Substrate — PopulationOverviewStrip + EncounterMatrix + SentimentHeatmap + GroupCohesionGauge + CoalitionVisualizer + ReputationMatrix + LeadershipEmergenceIndicator + MortalitySalienceStateIndicator + OstracismStateChipRow + SocialSupportIndexPanel + PopulationTopologyGraph + GroupIdentityStateVisualizer.
+
+**15-hypothesis empirical harness scaffold** (per Post 0197 discipline; recursion n=11 → n=12 after Tier 10 harness clears):
+
+H-group-1 (balance-tension convergence per Cartwright-Harary) · H-group-2 (Caplow coalition prediction accuracy) · H-group-3 (Granovetter forbidden-triad closure) · H-group-4 (Watts-Strogatz clustering emergence) · H-group-5 (Girvan-Newman modularity Q≥0.3) · H-group-6 (Moody-White structural cohesion) · H-group-7 (Darley-Latané bystander effect on rescue-choice) · H-group-8 (Fischer 2006 danger reversal) · H-group-9 (Levine 2002 in-group boost) · H-group-10 (Latané-Williams-Harkins social loafing scaling) · H-group-11 (Burke 2010 TMT MS effect calibrated downward per Klein 2022) · H-group-12 (Eisenberger 2003 ostracism pain signature) · H-group-13 (Fowler-Christakis reputation cascade 3-degree) · H-group-14 (Berkman-Syme social support mortality reduction) · H-group-15 (Ostrom institution stability)
+
+**Non-Inertness Gate empirical prediction (Rule 27):** Tier 10 v1 clears **K=5/N=8 channels** at ≥20% differentiation; Tier 12 v2 extends to **K=9/N=15**. Falsification clause: if fewer than K channels differentiate at ≥20% spread, mechanism is architecturally inert.
+
+**Framework flags per Rule 19:**
+- Perceived-vs-objective isolation dissociation LOAD-BEARING (Cacioppo-Hawkley)
+- Chronic vs acute MS distinction LOAD-BEARING + SPECULATIVE-EXTRAPOLATION flag (Landau chapter-level; empirical thinner than acute MS)
+- Burke 2010 TMT r=0.35 CALIBRATION-CHOICE (post-Klein 2022 downward recalibration)
+- Balance measure partition-based canonical / walk-based diagnostic-only (Facchetti-Iacono-Altafini 2011 vs Estrada-Benzi 2014 methodological tension explicit)
+- Reputation update rule: standing strategy (Panchanathan-Boyd 2004) v1; leading eight (Ohtsuki-Iwasa 2004) deferred to v2
+- Group-size effect Latané 1981 power-form Impact = s·N^t (NOT 1/N folk formula which is empirically wrong)
+
+**Rule 19 anti-fabrication audit** (per Section 10 of architecture doc): 100+ primary-source-verified citations; 11 UNVERIFIED items flagged (Curtis-Cornish-Franklin 1997 · Coon 1962 · Gonzales 2003 trade book status · Junger 2016 · Solnit 2009 · Chatters-Taylor-Jayakody 1994 · Whillans 1966 · Bowles 2006 · Poteete-Janssen-Ostrom 2010 · Wilson 2015 book · North 1990 book); 3 citation corrections applied inline (Levine 1999 → *Human Relations* not "Bulletin of American Academy"; Landau et al 2004 → *PSPB* not *JPSP*; Doreian-Krackhardt 2001 → *J Math Sociol* not *Social Networks*).
+
+**Cross-refs:**
+- Council #9 Item 154 Rule 28 (defensive-reducer discipline; substrate extensions MUST spread before overrides)
+- Council #9 Item 155 §1-§7 (post-mortem harness + Tier 1-8.1 arc; Item 155 §8 filed with this Tier 9 UI Foundation ship)
+- Post 0146 Layer 4→5 canonical spec (memory-informed decision coupling; Group Substrate extends to Layer-3-analog channels)
+- Post 0197 empirical-validation-harness discipline (recursion n=11 HELD; will increment n=12 after Tier 10 harness clears)
+- Post 0187 CulturalContextBundle (Axelrod culture model implementation directly extends bundle interaction dynamics)
+
+**Filing pattern (Rule 14):** Pattern B — ADOPT-FOLD (Rule 10 Conservative-Bias). Substrate architectural extension; Non-Inertness Gate pre-wired; complementary discipline (NOT replacement) to pair-relational plane.
+
+**Confidence calibration:** HIGH — 6-agent parallel deep-research pass with Rule-19 primary-source verification; 100+ verified citations; 15-hypothesis harness scaffold pre-designed; substrate additions are additive (zero displacement risk to ratified pair-relational mechanics per Rule 28 defensive-reducer discipline).
+
+**Recommendation:** **File as Council #10 candidate** for substrate-triangulated ratification per Rule 11. 4-substrate research round (Grok DeepSearch adversarial + Claude Opus Extended Thinking consistency + Perplexity Comet verification + optional ChatGPT DR red-team). Deploy kit preparation at `~/Desktop/COUNCIL-10-DEPLOY/` per Council #4/#8/#9 precedent. Empirical anchor strength (Holt-Lunstad meta-analysis n=308,849) justifies substrate-review confidence.
+
+**Council #9 impact:** Item 155 §8 amendment covers the composition-scope Tier 9 UI ship (already direct-ratified per Path 3 hybrid). Item 156 substrate proposal filed for Council #10 review. This is the first framework methodology transition from Council #9 to Council #10.
+
+---
+
 ## Council #9 methodology deployment structure
 
 **Recommended:** 3-4 substrate research round (smaller than Council #8's 5-substrate round; Council #9 is review not adjudication).
