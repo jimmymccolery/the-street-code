@@ -550,6 +550,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the discipline extend to POLICY (governance layer) as well as METHODOLOGY (research + audit layer)?
 - Related to Rule 19 anti-fabrication: substrate refusal-to-certify pattern is Rule 19 discipline applied at framework-vocabulary scope (substrate refuses to fabricate certification against nonexistent standard)
 
+**RATIFIED 2026-07-10 late per Council #9 batch-4 ratification (operator signature):**
+- **Verdict:** RATIFY (invented-methodology-name apparatus retirement discipline; substrate refusal-to-certify pattern reflects Rule 19 discipline at vocabulary scope)
+- **Confidence:** HIGH (n=2+ fires — Post 0186 Marvin + Post 0187 Cesar Opus refusal — with clear substantive-vs-invented distinction: external-reference disciplines RETAINED (Rule 19 anti-fabrication + age × era + Rule 24 discipline); internal-only verdict apparatus RETIRED (Marcus Reed Surface 8 §4 verdicts + Sofroniew Part 3 signatures + META-ARCH grading))
+- **Discipline promotion:** promotes to Rule 26-adjacent framework methodology discipline; substrate-refusal-to-certify pattern is Rule 19 discipline applied at framework-vocabulary scope
+- **K=2 flags:** none — distinction between substantive (external-reference) and invented (internal-only verdicts) is empirically defensible
+- **Cross-refs:** Item 45 (novel-contribution-recognition — pattern-inverse: retirement catches refusal-to-certify against invented rubrics; recognition catches substrate identification of legitimate novelty gap), Item 50 (symmetric-mechanism-defaults — pattern-adjacent at research-inspired-implementation-error scope), Rule 19 anti-fabrication
+- **Batch-4 ratification artifact:** agenda annotation
+
 ### Item 35 — Candidate methodology observation CulturalContextBundle inheritance pattern for scaling anchor + procedural tiers (Post 0187 n=1 fire)
 
 **Filed n=1 at Post 0187 2026-07-06 evening.** Post 0187 architectural pivot ships CulturalContextBundle inheritance layer at sim-ai enabling anchor + procedural characters to inhabit a place-time-community context. Bundle carries primary-source-verifiable institutional + linguistic + historical context at bundle scope; character carries specific-to-them authorial-voice details at anchor scope. First bundle `context_1946_sa_west_side_tejano_v1` shipped with 26 primary sources verified live 2026-07-06 evening. Council #6 population-scaling-foundation pass Decision 1 ratified 2026-07-04 targets 1,000-5,000+ post-V1 NPCs; Character Design Workflow Option C ratified 2026-07-05 morning canonizes hybrid anchor+procedural roster (12-30 anchor + 58-76 procedural = ~88 V1). CulturalContextBundle inheritance operationalizes Option C's procedural tier: procedural NPCs draw context at generation time from bundle registry by era + community scoping without per-character audit. Council #9 review questions:
@@ -557,6 +565,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - What is the coverage target for bundle registry? First bundle 1946 SA West Side Tejano; next Yuki bundle 1946 Chicago near-North Japanese-American resettlement; how many bundles are needed to cover the major place-time-community combinations for the game's population target?
 - Should bundle inheritance be gated by anchor-tier authoring priority (bundle registered when first anchor authored in that place-time-community) OR by procedural-tier scaling priority (bundles registered proactively for anticipated procedural NPCs)?
 - Related to Council #6 Decision 1 population-scaling-foundation pass + Option C ratification: Post 0187 CulturalContextBundle operationalizes both at anchor + procedural tier code level; canonization would ratify the pattern as canonical procedural-tier context inheritance mechanism.
+
+**RATIFIED 2026-07-10 late per Council #9 batch-4 ratification (operator signature):**
+- **Verdict:** RATIFY (CulturalContextBundle inheritance pattern OPERATIONALIZED at Post 0187 pivot for scaling anchor + procedural tiers; BLOCKING dependency for Memory Lanes V1 population-scaling foundation pass)
+- **Confidence:** HIGH (proceduralNPCProvisioner.ts + lifelineGenerator.ts consume getCulturalContextBundle; context_1946_sa_west_side_tejano_v1 shipped with 26 primary-source-verified; Council #6 Decision 1 + Character Design Workflow Option C both ratified procedural tier architecture)
+- **Fast-track flag:** Items 35 + 42 are BLOCKING DEPENDENCIES for Memory Lanes V1 population-scaling-foundation pass; ratification NOT deferred to future governance
+- **K=2 flags carried to September:** bundle-registry coverage target document (10-20 bundle estimate needs formalization); era+community scoping gates for procedural-generation-time lookup formalization
+- **Cross-refs:** Item 36 (CC-drafts-cultural-context-bundle-autonomously — bundle-authoring workflow), Item 42 (AUTHORING-vs-RUNTIME — CulturalContextBundle is compilation-layer artifact for procedural NPC provisioner)
+- **Batch-4 ratification artifact:** agenda annotation
 
 ### Item 32 — Candidate methodology observation template-drift-defect-propagation-across-sibling-items (Post 0186 Cesar arc n=1 fire)
 
@@ -598,6 +614,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should bundle registry expansion adopt CC-drafts-then-operator-review as canonical workflow for procedural tier scaling toward 10-20 target?
 - Related to Item 25 substrate-triangulation-as-methodology-adjudication + Item 26 meta-prompt-improvement-first-class-output: both are Phase 7.1f-family extensions covering CC-authored-content-with-operator-review scopes; bundle-drafting fits within family
 
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-4 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (CC-drafts-cultural-context-bundle-autonomously-with-operator-review pattern OPERATIONALIZED at Marvin bundle; requires n=2+ replication before formal canonization)
+- **Confidence:** HIGH on discipline body; MEDIUM on completeness (n=1 within-arc)
+- **PROVISIONAL K=2 flags carried to September:** n=2 replication required (Yuki bundle re-run OR new Roman-era-context bundle); operator-review discipline specification (line-by-line vs sample-check vs holistic); failure modes documentation (when does autonomous drafting fail); cost variance across bundle types (era + geography + cultural complexity)
+- **Pattern significance:** empirically bounds CC cost estimation + challenges prior "operator bandwidth constrained" framing at sub-shape 20 scope
+- **Cross-refs:** Item 20 → Item 100 → Rule 26 (CC-authored-operational-cost-framing sibling), Item 41 (multiple-ratification-cascade — CC-authored-content-with-review challenges default operator-bandwidth-constrained assumption at ratification scope)
+- **Batch-4 ratification artifact:** agenda annotation
+
 ### Item 37 — Candidate methodology observation vendor-sync-reminder-post-commit-discipline (Option D 2026-07-07 n=1 fire)
 
 **Filed n=1 at 2026-07-07 morning session per `project_option_d_vendor_sync_reminder_hook_ratified_2026-07-07.md`.** Post-commit hook at `~/Projects/sim-ai/.git/hooks/post-commit` installed via `bash scripts/install-hooks.sh` prints unmissable reminder + copy-pasteable rsync command + destination commit-message with auto-SHA-substitution after every sim-ai commit. Hook does NOT auto-execute (preserves operator control over WHEN to propagate to RoomToLife scope; internal-only refactors + test-only + docs-only changes skip vendor sync). Option B git submodule BLOCKED by local-only repo discipline (sim-ai has NO REMOTE per `project_local_only_git.md`); Option A auto-execute rejected because it removes deliberate propagation control that was proven useful during Phase 2.9-A Step 2 refactor 2026-07-07 morning (tests + typecheck at Open Alley alias verified BEFORE RoomToLife vendor rsync executed). New operational discipline pattern: automate the REMINDER not the ACTION. Council #9 review questions:
@@ -617,6 +641,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the pattern promote to standalone Rule 27 (index-freshness-preemptive-refresh-before-major-review-cycle-deployment)?
 - What is the trigger threshold (per-round vs per-Council-cycle vs per-shipped-substrate-artifact)?
 - Related to Item 20 retired-workflow-recurrence-anti-pattern: read-side drift is common root cause of both patterns (write-side canonical files updated + read-side navigation surfaces stale)
+
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-4 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (index-freshness-preemptive-refresh-before-Council-review-cycle discipline; sound operational practice; too early for standalone canonization at n=1)
+- **Confidence:** MEDIUM (n=1 fire at governance scope Council cycle readiness; adjacent to Item 20 retired-workflow-recurrence family at read-side-drift scope)
+- **Absorb path recommendation:** Rule 20 Family A sub-shape (read-side canonization-propagation) with trigger-timing discipline
+- **PROVISIONAL K=2 flags carried to September:** n=2 rounds verify trigger-timing discipline; formal Rule 20 sub-shape amendment vs standalone rule; per-round vs per-Council-cycle vs per-shipped-substrate-artifact trigger threshold
+- **Cross-refs:** Item 20 → Item 100 → Rule 26 (retired-workflow-recurrence discipline complementary at write-side scope; Item 38 addresses read-side)
+- **Batch-4 ratification artifact:** agenda annotation
 
 ### Item 39 — Candidate methodology observation explicit-vs-implicit-ratification-drift-checklist-item discipline (Marcus Reed Path α 2026-07-07 n=1 fire)
 
@@ -648,6 +680,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the pattern promote at n=1 given operator-attention-cost measurement is straightforward + pattern is reproducible?
 - Related to sub-shape 20 CC-authored-operational-cost-framing: multiple-ratification-cascade challenges CC's default "operator bandwidth constrained" framing at ratification-cost scope (parallel to Marvin bundle authoring-cost challenge)
 
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-4 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (multiple-ratification-cascade-in-single-morning-session discipline; ABSORB into Item 14 comprehensive-arc-at-scale as RATIFICATION-scope sibling)
+- **Confidence:** MEDIUM (n=1 fire at operational-velocity scope; enabling-condition observation not methodology; pattern is reproducible BUT depends on operator-attention-cost + framework-stability)
+- **Absorb path recommendation:** Item 14 comprehensive-arc-at-scale with sub-scopes (implementation-velocity vs decision-crystallization-velocity vs bundle-authoring-cost)
+- **PROVISIONAL K=2 flags carried to September:** cost model for 7-ratification cascade (operator time + CC iteration cycles + framework-stability assumptions); failure-mode documentation (what derails cascade mid-session); sustainability post-Council-#9
+- **Cross-refs:** Item 14 (comprehensive-arc-at-scale — Item 41 is RATIFICATION-scope sibling), Item 46 (ELI5-then-ratify-with-substrate-discipline-preservation — enabling condition for cascade)
+- **Batch-4 ratification artifact:** agenda annotation
+
 ### Item 42 — Candidate methodology observation AUTHORING-vs-RUNTIME compilation discipline (Round 6 Schema v0.2 canonization 2026-07-07 n=1 fire; empirical foundation across 6-round substrate arc)
 
 **Filed n=1 at 2026-07-07 morning per `project_schema_architecture_v0_2_canonization_2026-07-07.md` Section 2 canonical.** Round 4-6 substrate arc converged on AUTHORING-vs-RUNTIME distinction as LOAD-BEARING architectural pattern for Memory Lanes at 1,000-5,000 NPC scale: CIDOC-CRM RDF graph queries at gameplay-loop scale are "staggering" per ResearchSpace CRM-FR search paper; raw graph CANNOT be queried in tick loop. 4-layer authoring/runtime pattern: (1) AUTHORING GRAPH (CIDOC-CRM + PROV-O) + (2) VOCABULARY LAYER (SKOS + Getty AAT + 8-vocab supplement stack) + (3) COMPILED RUNTIME TABLES + (4) CONSULTATION-DERIVED PERMISSIONS. 11 compiled runtime tables + 5-attribute minimum row schema canonized. Pattern generalizes beyond CIDOC-CRM to any high-scale simulation architecture where authoring semantics + runtime performance are orthogonal concerns. Council #9 review questions:
@@ -657,6 +697,15 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - What is the compilation-layer canonization for existing sim-ai substrate modules (a7Memory + Layer 3 accumulators + biographicalRecord already effectively runtime-optimized; do they need explicit AUTHORING-vs-RUNTIME formalization)?
 - Related to Item 27 architectural-foundation-scaffold-with-consumer-deferral: AUTHORING-vs-RUNTIME distinction is compilation-layer specification for architectural-foundation scaffolding
 - Related to Item 35 CulturalContextBundle inheritance: bundles function as AUTHORING-layer artifacts; procedural NPC provisioner functions as compilation-to-runtime pathway; pattern extends naturally
+
+**RATIFIED 2026-07-10 late per Council #9 batch-4 ratification (operator signature; STRONG RATIFY + fast-track path):**
+- **Verdict:** RATIFY (AUTHORING-vs-RUNTIME compilation discipline LOAD-BEARING architectural discovery; empirically grounded in production-deployment requirements at Memory Lanes 1,000-5,000 NPC scale)
+- **Confidence:** HIGH (n=6 convergence at Round 1-6 substrate arc; ResearchSpace CRM-FR search paper documents raw graph queries "staggering" at gameplay-loop scale; authoring semantics + runtime performance are ORTHOGONAL concerns; 4-layer pattern (AUTHORING GRAPH + VOCABULARY LAYER + COMPILED RUNTIME TABLES + CONSULTATION-DERIVED PERMISSIONS) documented at Schema v0.2 canonical Section 2; 11 compiled runtime tables + 5-attribute minimum row schema canonized)
+- **Fast-track flag:** Items 35 + 42 are BLOCKING DEPENDENCIES for Memory Lanes V1 population-scaling foundation pass; this is architectural INFRASTRUCTURE not methodology observation
+- **Discipline promotion:** Post 0146 ten-layer NPC architecture cross-cutting compilation-layer addition; pattern generalizes beyond CIDOC-CRM to any high-scale simulation
+- **K=2 flags:** none — empirically load-bearing at n=6 substrate convergence
+- **Cross-refs:** Item 27 (architectural-foundation-scaffold-with-consumer-deferral — compilation-layer specification), Item 35 (CulturalContextBundle inheritance — bundles are AUTHORING-layer artifacts; procedural NPC provisioner is compilation-to-runtime pathway)
+- **Batch-4 ratification artifact:** agenda annotation
 
 ### Item 43 — Candidate methodology observation 4-source ISBN triangulation methodology (Bourdieu La Distinction French ISBN 2026-07-07 n=1 fire)
 
@@ -669,6 +718,15 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Related to sub-shape 20 CC-authored-operational-cost-framing: 4-source triangulation cost is empirically bounded ~10-15 minutes; discipline empirically bounds operator/CC cost estimation
 - Empirical foundation strengthener: Round 6 canonical doc Section 14.1 lists 5 divergence resolutions (Bourdieu ISBN + Cosmic Bowling trademark + HABS collection size + Getty ULAN + Kohlberg critique) — 5 concrete verification arcs
 
+**RATIFIED 2026-07-10 late per Council #9 batch-4 ratification (operator signature; STRONG RATIFY):**
+- **Verdict:** RATIFY (4-source ISBN triangulation methodology PRACTICAL verification discipline with measurable cost + high payoff)
+- **Confidence:** HIGH (n=1 originating fire strengthened by n=5 concrete verification arcs at Round 6 canonical doc Section 14.1: Bourdieu ISBN + Cosmic Bowling trademark + HABS collection + Getty ULAN + Kohlberg critique; empirically bounded cost 10-15 minutes per verification)
+- **Absorb path:** Rule 19 anti-fabrication as citation-verification sub-clause
+- **Extension recommendation:** extend beyond ISBN to other identifier types (DOI + PubMed ID + trademark registration + Getty AAT URI + LC Name Authority ID)
+- **K=2 flags:** none — cost empirically bounded + methodology reproducible
+- **Cross-refs:** Item 44 (6-dim rubric — complementary verification discipline), Rule 19 anti-fabrication (Item 43 absorbs as citation-verification sub-clause)
+- **Batch-4 ratification artifact:** agenda annotation
+
 ### Item 44 — Candidate methodology observation retrospective-audit-with-6-dimension-rubric strengthening (Post 0163 6-dim rubric applied to 6 substrate reports + Schema v0.2 canonical doc 2026-07-07 n=6+ arcs cumulative)
 
 **Filed n=6+ cumulative at 2026-07-07 morning per Rounds 1-6 substrate ingestion at `content-kb/substrate-reports/item-{2010,2011,2012,2013,2014,2015}-*.md` + Schema Architecture v0.2 canonical doc Section 18 audit record.** Post 0163 6-dimension grading rubric (D1 factual accuracy + D2 Rule 19 anti-fabrication + D3 internal consistency + D4 framework alignment + D5 actionability + D6 scope discipline) applied at each Round 1-6 substrate report ingestion — aggregate A/A+ across all 6 substrates. Then applied to Schema Architecture v0.2 canonical doc itself producing 4 audit corrections (Marvin Prince Hall Masons age-appropriateness + Family/Kinship gap flag + item-2012 substrate identity inference caveat + Yuki literacy claim calibration). Rubric functioning as reproducible-verification-discipline across substrate ingestion + canonical-doc authoring scope. Council #9 review questions:
@@ -679,6 +737,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Should the rubric evolve based on empirical observation (e.g., D6 scope discipline seldom fires empirically — is it necessary or can it absorb into D3 internal consistency)?
 - Related to Item 42 AUTHORING-vs-RUNTIME + Item 43 4-source ISBN triangulation: all three are Round 6-emergent verification-discipline strengthening candidates
 - Falsification threshold: if 6-dim rubric application produces zero corrections across n≥6 consecutive substrate ingestions, rubric is empirically theatrical (or substrate quality is uniformly A+); requires investigation
+
+**RATIFIED 2026-07-10 late per Council #9 batch-4 ratification (operator signature; STRONG RATIFY):**
+- **Verdict:** RATIFY (retrospective-audit-with-6-dimension-rubric strengthening REPRODUCIBLE verification-discipline; extends Rule 24 post-audit-correction from n=1-origination to n=6+-cumulative scope)
+- **Confidence:** HIGH (n=6+ cumulative arcs at Round 1-6 substrate ingestion + Schema v0.2 canonical doc audit; aggregate A/A+ across all 6 substrates; produced 4 concrete audit corrections; rubric is reproducible verification framework applied consistently)
+- **Discipline promotion:** promotes Rule 24 to Rule 26 candidacy with 6-dim rubric as embedded methodology; require 6-dim rubric application at ALL substrate ingestions + canonical-doc completions (not opt-in)
+- **K=2 flags carried to September:** D6 scope discipline empirical firing rate (seldom fires — necessary or absorb into D3?); cost model per rubric application
+- **Cross-refs:** Item 42 (AUTHORING-vs-RUNTIME — Round 6 emergent), Item 43 (4-source ISBN triangulation — Round 6 emergent; complementary verification discipline)
+- **Batch-4 ratification artifact:** agenda annotation
 
 ### Item 45 — Candidate methodology observation novel-contribution-recognition-in-academic-literature-gap discipline (Round 6 first-class intersection nodes 2026-07-07 n=1 fire)
 
@@ -691,6 +757,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Related to Item 34 invented-methodology-name apparatus retirement: pattern-inverse — retirement discipline catches substrate refusal-to-certify against invented rubrics; recognition discipline catches substrate identification of legitimate novelty gap
 - Empirical foundation: Round 6 finding is single-substrate but references verifiable academic-literature which can be independently cross-checked at cost bounded to ~30-60 minutes per contribution recognition
 
+**RATIFIED-PROVISIONAL 2026-07-10 late per Council #9 batch-4 ratification (operator signature):**
+- **Verdict:** RATIFY-PROVISIONAL (novel-contribution-recognition-in-academic-literature-gap discipline; useful for distinguishing genuine novelty from we-didn't-look-hard-enough; strategically important for framework identity but n=1 empirical threshold weak)
+- **Confidence:** MEDIUM (n=1 substrate observation; academic-literature gap verification valuable for scholarly-publication candidacy)
+- **Absorb path recommendation:** publication-track methodology as substrate-driven academic-literature-gap verification step
+- **PROVISIONAL K=2 flags carried to September:** establish n≥2 multi-substrate convergence threshold before upgrading to full canonization; academic-literature-gap verification template (search terms + database + review scope); cost model (30-60 minutes per contribution)
+- **Cross-refs:** Item 25 (substrate-triangulation-as-methodology-adjudication — Phase 7.1f-family extension), Item 34 (invented-methodology-name retirement — pattern-inverse: retirement discipline catches refusal-to-certify; recognition discipline catches identification of legitimate novelty)
+- **Batch-4 ratification artifact:** agenda annotation
+
 ### Item 46 — Candidate methodology observation ELI5-then-ratify-with-substrate-discipline-preservation pattern (Family/Kinship aspect 12 Option B ratification 2026-07-07 morning n=1 fire)
 
 **Filed n=1 at 2026-07-07 morning per Family/Kinship candidate aspect 12 Option B ratification arc.** Schema Architecture v0.2 canonization ~6 hours prior surfaced Family/Kinship gap at Section 15.2 (Grok Round 1 item-2010 originally proposed as first-class shelf; Rounds 5-6 collapsed into aspect 4 group memberships or made implicit). Operator requested ELI5 of 4 options (A: add as aspect 12 to v0.2.1 amendment / B: defer to Round 7 targeted research pass / C: collapse into aspect 4 formalized / D: accept as scope gap). CC recommendation: Option B — preserving Rule 11 multi-substrate discipline (aspect 12 requires n=3+ substrate validation matching 11-aspect matrix rigor) + Rule 20 canonization-propagation gap discipline (same-day v0.2.1 amendment ~6 hours post-v0.2 risks propagation gap) + Rule 21 operator-realism-check (Family/Kinship architecturally non-trivial: patrilineal/matrilineal + fictive kin + Bourdieu inheritance transmission warrants substantive research not pre-canonization architectural gymnastics). Operator ratified Option B. Pattern: ELI5 decision surface with numbered options + CC recommendation + substrate-discipline preservation via deferral option rather than same-day amendment temptation. Council #9 review questions:
@@ -702,6 +776,15 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Empirical foundation: n=1 within-arc; adjacent to n=5 prior ELI5-then-ratify surfaces this session (Marcus Reed Path α + Q63 Path (c) + Option D + Marvin bundle Option A + framework-research-index Option A)
 - Meta-observation: 6-of-6 operator ratifications this session preferred CC recommendation; may indicate CC recommendation quality or may indicate operator-CC alignment on substrate-discipline preservation as default judgment
 
+**RATIFIED 2026-07-10 late per Council #9 batch-4 ratification (operator signature):**
+- **Verdict:** RATIFY (ELI5-then-ratify-with-substrate-discipline-preservation pattern SOUND decision-surface-hygiene; ELI5 decision surfaces with numbered options enable rapid ratification without sacrificing multi-substrate rigor)
+- **Confidence:** HIGH (n=1 within-arc + 6-of-6 operator ratifications this session preferred CC recommendation; adjacent to n=5 prior ELI5-then-ratify surfaces this session)
+- **Absorb path:** Rule 22 verify-against-canonical-files as decision-surface-hygiene sub-clause
+- **Pattern significance:** demonstrates how CC provides structured recommendations while preserving operator authority + framework discipline
+- **K=2 flags:** none — pattern operationalized + reproducible; meta-observation on 6-of-6 CC-recommendation preference documented as diagnostic-not-load-bearing
+- **Cross-refs:** Item 39 (explicit-vs-implicit-ratification-drift — sibling decision-surface-hygiene), Item 41 (multiple-ratification-cascade — ELI5-then-ratify enables cascade)
+- **Batch-4 ratification artifact:** agenda annotation
+
 ### Item 47 — Candidate methodology observation gate-reference-inherited-across-close-artifacts-without-pivot-cascade-update pattern (Q65 retirement decision 2026-07-07 morning n=1 fire; Rule 20 Family A canonization-propagation gap candidate sub-shape)
 
 **Filed n=1 at 2026-07-07 morning per Q65 Marcus Reed Surface 8 designer sign-off pipeline RETIREMENT ratification arc.** Council #6 close artifacts (v4.1-spec-amendment + _POST_0187_PIVOT_ADDENDUM + context.md + marcus-reed-reconciliation-pathway-decision) inherited "Q65 Marcus Reed Surface 8 designer sign-off pipeline (Sam Nguyen sign-off pre-V1 BUILD gate)" as shorthand phrase from Council #6 close 2026-07-04. Q65 does NOT appear at primary tracking surfaces (tycoon-design.md + ROADMAP.md + polish_queue.md). Post 0187 architectural pivot 2026-07-06 afternoon RETIRED the verdict apparatus that Q65 depended on (Sofroniew Part 3 causal cluster analog signatures + Marcus Reed Surface 8 §4 verdict apparatus + META-ARCH verdict-language + PARTIAL-SHIP grading). Q65 references at close artifacts NOT UPDATED for Post 0187 pivot when the pivot canonized (canonization-propagation gap). Sam Nguyen (in-game character, NOT real-world designer) predates Post 0187 by ~1.5 days + Schema Architecture v0.2 canonization by ~2 days; Sam has no content-kb entity + no CulturalContextBundle + no multi-round substrate research foundation + no consultation-gate policy. Prior operator + CC interactions treated Q65 as active pending gate (surfaced at cc_nav_payload + framework-research-index + meta-analysis reports) despite Q65's methodological obsolescence. Operator critical inquiry 2026-07-07 morning ("isn't this character from before we changed our biography development workflow with research and schemas?") surfaced the gap; Q65 RETIRED per Option A ratification. Council #6 close: 5/5 gates CLEARED via Q65 retirement. Council #9 review questions:
@@ -712,6 +795,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Related to Item 20 retired-workflow-recurrence-anti-pattern: pattern-family adjacent (retirement discipline meta) but distinct at gate-close-condition scope (Item 20 is workflow recurrence at content-authoring scope; Item 47 is gate-reference obsolescence at close-condition scope)
 - Related to Item 46 ELI5-then-ratify-with-substrate-discipline-preservation pattern: Q65 retirement used ELI5 then Option A ratify pattern; ratification surface preserved substrate-discipline (Post 0187 retirement) rather than reintroducing retired methodology
 - Empirical foundation: n=1 within-arc; strengthens Rule 20 Family A candidate sub-shape count to n=28 candidate sub-shapes total; adjacent to CC-side-empirical-grounding-failure sub-family (CC + operator both treated Q65 as active pending despite methodological obsolescence within-conversation without independent Post 0187 pivot cross-check)
+
+**RATIFIED 2026-07-10 late per Council #9 batch-4 ratification (operator signature):**
+- **Verdict:** RATIFY (gate-reference-inherited-across-close-artifacts-without-pivot-cascade-update pattern; STRONG evidence with concrete consequences — obsolete gate blocked 5th close condition for 3 days until retirement)
+- **Confidence:** HIGH (n=1 within-arc with empirical trifecta: methodology retirement + artifact-predates-pivot + no primary-tracking-surface presence)
+- **Discipline promotion:** promotes to Rule 20 Family A sub-shape (n=28 cumulative sub-shapes); Council close artifacts require re-audit whenever architectural pivot lands to check for stale gate references
+- **K=2 flags:** none — empirical trifecta gates threshold
+- **Cross-refs:** Item 20 → Item 100 → Rule 26 (Item 47 at gate-close-condition scope; complementary to Item 20 at content-authoring scope), Item 46 (ELI5-then-ratify — Q65 retirement used this pattern)
+- **Batch-4 ratification artifact:** agenda annotation
 
 ### Item 48 — Candidate methodology observation empirical-baseline-regression-detected-post-multi-integration-arc-via-delayed-re-validation (Fires G-K reshape arc 2026-07-07 midday n=1 fire; Rule 20 Family A canonization-propagation gap candidate sub-shape n=29)
 
@@ -725,6 +816,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Empirical foundation: n=1 within-arc + 5 severe regressions detected + 5 discrete fires shipped to fix; adjacent Rule 20 Family A n=28 candidate sub-shapes + brings running total to n=29 candidate sub-shapes
 - Falsification threshold: if empirical re-validation post-multi-integration-arc fires on <20% of arcs (too infrequent to warrant Session-Close 7th-Stage extension) OR reveals no regressions when it does fire (verification theater), REBOUND or DEFLATE
 
+**RATIFIED 2026-07-10 late per Council #9 batch-4 ratification (operator signature; STRONG RATIFY):**
+- **Verdict:** RATIFY (empirical-baseline-regression-detected-post-multi-integration-arc pattern MAJOR empirical consequences; distinct failure mode from Item 12 cross-consumer-typecheck)
+- **Confidence:** HIGH (n=1 within-arc with 5 SEVERE regressions detected: RQ7 reversed +18.18 → -66.87; Sim A death; aggression cascade 6.5×; sentiment collapse; kindness near-zero; Fires G-K reshape arc via 3 parallel Explore agents + ALMA + DynAffect + Terzi + Vollhardt + Gottman literature systematically resolved)
+- **Discipline promotion:** promotes to Rule 26 candidacy (or Rule 20 Family A formal sub-shape); mandate Phase 3 empirical harness re-run after any Phase 10+ integration arc touching Layer 3 + biographical + memory systems
+- **K=2 flags carried to September:** Phase 3 empirical harness specification (reproducibility requirements); Phase 10+ integration arc registry (which arc combos require re-validation)
+- **Cross-refs:** Item 12 (cross-consumer-typecheck-as-latent-bug-detection — sibling failure-mode at "unit tests pass but downstream regresses" scope), Item 14 (comprehensive-arc-at-scale — Item 48 catches integration-arc regression risk that comprehensive-arc velocity trades against)
+- **Batch-4 ratification artifact:** agenda annotation
+
 ### Item 49 — Candidate methodology observation refactor-propagation-missed-scripts-folder-at-cross-directory-scope (Phase 2.9-A Step 2 refactor 2026-07-07 morning + midday n=1 fire; Rule 20 Family A canonization-propagation gap sub-shape n=30)
 
 **Filed n=1 at 2026-07-07 midday per Phase 2.9-A Step 2 refactor propagation gap discovered during Fires G-K reshape arc setup.** Phase 2.9-A Step 2 refactor 2026-07-07 morning moved `src/sim-ai/{worlds/island,worlds/bowling-alley}/ → src/sim-ai/scenes/{island,bowling-alley}/` at sim-ai. Refactor updated imports at 3 consumer sites (sim-ai src + Open Alley + RoomToLife) BUT MISSED `sim-ai/scripts/` folder (6 harness scripts with stale `worlds/` imports). Discovered when attempting to re-run `phase3-empirical-validation-seed42.ts` per operator directive (harness failed with module-not-found). Bonus meta-observation: MORNING AGENT 1 CANONIZATION-PROPAGATION SWEEP declared "PROPAGATION COMPLETE + PROPER" verdict for Scene refactor without checking scripts/ folder — false CLEAN verdict at n=1. Pattern: refactor propagation discipline applied within-project-tree at src/ scope but not extended to sibling folders (scripts/ + tools/ + tests/ + etc.). Council #9 review questions:
@@ -737,6 +836,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Related to Item 48 empirical-baseline-regression-detected-post-multi-integration-arc: pattern-family at "delayed detection of arc-completion-gap" scope
 - Empirical foundation: n=1 within-arc; Rule 20 Family A cumulative n=29 (Item 47) + n=30 (Item 49) sub-shape candidates within-session pace
 
+**RATIFIED 2026-07-10 late per Council #9 batch-4 ratification (operator signature):**
+- **Verdict:** RATIFY (refactor-propagation-missed-scripts-folder pattern with concrete detection failure — Agent 1 produced false-clean verdict; artifact-cascade-completion-gap at refactor scope)
+- **Confidence:** HIGH (n=1 within-arc + concrete detection failure at Agent 1 canonization-propagation-sweep; refactor propagation discipline applied within src/ scope but not extended to sibling folders scripts/ + tools/ + tests/ + etc.)
+- **Discipline promotion:** promotes to Rule 26 candidacy; Explore agent canonization-propagation sweep prompts must explicitly enumerate ALL project sub-directories; refactor propagation discipline extends beyond src/ to full project tree
+- **K=2 flags:** none — concrete detection failure documented at Agent 1 false-clean verdict
+- **Cross-refs:** Item 12 (cross-consumer-typecheck — sibling at same-repo inconsistent state scope), Item 47 (gate-reference-inherited — sibling at artifact-cascade-completion-gap scope), Item 48 (empirical-baseline-regression — sibling at delayed-detection-of-arc-completion-gap scope)
+- **Batch-4 ratification artifact:** agenda annotation
+
 ### Item 50 — Candidate methodology observation symmetric-mechanism-defaults-model-pathological-rather-than-healthy-behavior (Gottman override reshape via Fire J 2026-07-07 midday n=1 fire; Rule 21 operator-realism-check candidate)
 
 **Filed n=1 at 2026-07-07 midday per Fire J Gottman override asymmetric reshape.** Gottman override mechanic was implemented as SYMMETRIC positive-momentum + negative-momentum amplification per naive read of Hawkins-Carrere-Gottman 2002 sentiment-override research at Post 0177 Phase 11. Empirical test at Phase 3 seed=42 revealed symmetric override enabled aggression-cascade lock-in: once sentiment dropped negative, positive events dampened + negative events amplified → sentiment cannot recover. Per deeper Gottman research literature (Gottman "The Marriage Clinic" + Gottman & Silver "Seven Principles"): negative-momentum amplification is the PATHOLOGICAL pattern of DISTRESSED marital dynamics; HEALTHY couples show ASYMMETRIC response with repair attempts + time-based cooling that prevent negative cascade lock-in. Framework should default to HEALTHY couple dynamics + expose pathological toggles as extended options. Fire J shipped: asymmetric override blocking negative-momentum amplification when |sentiment| > 0.3. Council #9 review questions:
@@ -747,6 +854,14 @@ Mechanism is empirically validated if Council #9 executes reduction moves cleanl
 - Related to Item 34 invented-methodology-name apparatus retirement: pattern-adjacent at "research-inspired-mechanism-implementation-error" scope
 - Related to Item 25 substrate-triangulation-as-methodology-adjudication: pattern-adjacent at "deeper research reading via substrate-triangulation could have caught symmetric-default before shipping"
 - Empirical foundation: n=1 within-arc; Fire J empirically resolved cascade at seed=42 while preserving positive Gottman research grounding; test suite updated to reflect asymmetric default
+
+**RATIFIED 2026-07-10 late per Council #9 batch-4 ratification (operator signature):**
+- **Verdict:** RATIFY (symmetric-mechanism-defaults-model-pathological-rather-than-healthy-behavior pattern EMPIRICALLY GROUNDED via deeper research reading; Rule 21 operator-realism-check extension)
+- **Confidence:** HIGH (n=1 within-arc; Gottman override implementation error caught via empirical validation; deeper Gottman literature (The Marriage Clinic + Seven Principles) confirms negative-momentum amplification is PATHOLOGICAL distressed-couple pattern not HEALTHY-couple default; Fire J shipped asymmetric override preserving positive Gottman research grounding)
+- **Discipline promotion:** extend Rule 21 to require explicit "healthy baseline" annotations on mechanism implementations citing which research population baseline the mechanism models (distressed vs healthy)
+- **K=2 flags:** none — pattern reflects Rule 21 operator-realism-check inclusive-of-published-research-baseline scope
+- **Cross-refs:** Item 25 (substrate-triangulation-as-methodology-adjudication — deeper research reading via substrate-triangulation could have caught symmetric-default before shipping), Item 34 (invented-methodology-name retirement — pattern-adjacent at research-inspired-mechanism-implementation-error scope)
+- **Batch-4 ratification artifact:** agenda annotation
 
 ### Item 51 — Candidate methodology observation morality-cognition-scaffolding-absent-from-current-framework-blocks-authentic-social-simulation (Phases 15-18 design conversation vault 2026-07-07 late afternoon n=1 fire)
 
