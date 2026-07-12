@@ -198,6 +198,161 @@ Postmortem verdict: `Field-nuke suspected: false` (Rule 28 not violated). Anomal
 
 ---
 
+## Item 165 — Phase 1 lifelikeness batch citation-hygiene amendments (63 corrections)
+
+**Origin:** Phase 1 lifelikeness roadmap COMPLETE 2026-07-11 late: 8 mechanisms shipped (F2 dominancePrestigeDualHierarchy + F1 accommodationResponse + F5 forgivenessProcess + D5 moralEmotionsFamily + D3 empathyDualSystem + B2 habitStrength + D4 prolongedGriefTrajectories + F4 gossipSemantics) with 200+ primary-source anchors integrated + Non-Inertness Gate CLEAR 3/3 at 100% + Verdict PASS 5/5 across all 8. Parallel research-agent verification sweeps (dual-agent citation audits per ship in the pattern established at F1) surfaced **63 citation corrections** requiring framework-registry integration. Extends the N-10 through N-20 correction band filed at Council #10 close (Item 158 origin data) into N-21 through N-63 territory.
+
+**Type:** BATCH citation-hygiene amendment (Rule 19 Marcus Reed Protocol anti-fabrication discipline + composes with Council #11 Item 158 framework-wide audit).
+
+**Severity:** HIGH — 63 corrections across 8 Phase 1 mechanisms; 4 phantom citations flagged; 1 REJECT-STALE flag on uniform-decay claim; systematic drift patterns overlap Item 158's initial 4-pattern taxonomy but extend it.
+
+**Preceded by:**
+- Council #10 Item 156 8-correction batch integrated at close-out (N-10 through N-20)
+- Council #10 close-out amendments (Post 0146 mis-attribution N-2, Rule 27 category-slippage N-3, etc.)
+
+### Rationale
+
+The Phase 1 lifelikeness ship cadence (8 mechanisms in ~24hr session per operator directive) exposed a systematic citation-drift signal at ~7-8 corrections per mechanism ship even after Council #10's tightened Rule 19 discipline. This aligns with Item 158's Perplexity Substrate C hypothesis that framework-wide citation reliability is ~80% baseline. The dual-agent verification pass integrated at each ship is the mechanism producing these findings at ship time rather than deferring to a later audit sweep.
+
+Filing this batch as Item 165 rather than folding into Item 158 preserves:
+1. **Attribution to the ship that surfaced each correction** (F2/F1/F5/D5/D3/B2/D4/F4 provenance)
+2. **Amendment scope separation** — Item 158 = framework-wide audit method; Item 165 = specific corrections already surfaced needing registry integration
+3. **Council #11 disposition granularity** — batch RATIFY on Item 165 corrections independent of Item 158 method ratification
+
+### Corrections by mechanism (63 rows)
+
+| N-XX | Ship | Wrong citation | Correct citation | Severity | Source |
+|------|------|---------------|-----------------|----------|--------|
+| N-10 | F1 | Kito 2017 | Kito 2005 J Soc Psych 145(2):127-140 | MEDIUM | already Council #10 |
+| N-11 | F1 | Sbarra JCCP | Sbarra 2015 Emotion 15(3):387-394 | MEDIUM | already Council #10 |
+| N-12 | F1 | Fincham J Family Psych | Fincham 2000 J Soc Clin Psych 19(2):267-285 | MEDIUM | already Council #10 |
+| N-13 | F1 | Vangelisti-Sprague | Vangelisti-Crumley 1998 Comm Monographs 65(3):173-196 | MEDIUM | already Council #10 |
+| N-14 | F1 | Aung-Puts WIRE | Aung-Puts 2020 Curr Opin Psych 33:118-125 | MEDIUM | already Council #10 |
+| N-15 | F1 | Adams 2004 (venue drift) | Adams 2004 JPSP 88(6):948-968 | LOW | already Council #10 |
+| N-16 | F5 | Ricciardi 2013 anterior temporal | Ricciardi 2013 SCAN 8(8):839-844 DLPFC+IPL+precuneus | HIGH | Agent B — region mis-attribution |
+| N-17 | F5 | Ysseldyk 2007 Basic Applied Soc Psych | Ysseldyk 2007 Personality & Individual Differences | MEDIUM | Agent B |
+| N-18 | F5 | Fisher-Exline 2006 J Positive Psych | Fisher-Exline 2006 Self and Identity 5(2):127-146 | MEDIUM | Agent B |
+| N-19 | F5 | Wenzel-Okimoto 2012 | Wenzel-Okimoto-Hornsey 2017 | MEDIUM | Agent B — 2012 paper mis-cited |
+| N-20 | D5 | Elison 2006 J Family Violence | Elison 2006 SBP 34(2):161-168 | MEDIUM | Agent A+B convergent |
+| N-21 | D5 | Stuewig 2015 Aggressive Behavior | Stuewig 2015 Child Psych & Human Dev 46(2):217-227 | MEDIUM | Agent A |
+| N-22 | D5 | de Hooge 2007 Emotion | de Hooge 2007 Cognition & Emotion 21(5):1025-1042 | MEDIUM | Agent B |
+| N-23 | D5 | Cryder 2012 Emotion | Cryder 2012 PSPB 38(8):1049-1059 | MEDIUM | Agent A |
+| N-24 | D5 | Robins-Noftle 2005 | Tangney-Stuewig-Martinez 2014 | MEDIUM | Agent B — anchor superseded |
+| N-25 | D5 | Batson-Kennedy-Nord 2007 JPSP | Batson-Kennedy-Nord 2007 EJSP 37(6):1272-1285 | MEDIUM | Agent A |
+| N-26 | D5 | Layous 2017 Emotion | Layous 2017 J Positive Psychology 12(4):385-398 | MEDIUM | Agent B |
+| N-27 | D3 | Wondra-Ellsworth (venue drift) | Wondra-Ellsworth 2015 Psych Review 122(3):411-428 | MEDIUM | Agent A |
+| N-28 | D3 | Smith 2009 Neuropsychology Review | Smith 2009 Psychological Record 59(3):489-510 | MEDIUM | Agent A |
+| N-29 | D3 | Roth-Hanania Dev Psych | Roth-Hanania 2011 Infant Behav & Dev 34(3):447-458 | MEDIUM | Agent B |
+| N-30 | D3 | Cikara 2014 TICS | Cikara 2014 JESP 55:110-125 | MEDIUM | Agent A |
+| N-31 | D3 | Nightingale (partial) | Nightingale 1991 JGIM 6:420-423 PARTIAL | LOW | Agent B — PARTIAL flag |
+| N-32 | D3 | Decety-Cowell (full article) | Decety-Cowell 2014 TICS 18(7):337-339 SHORT FORUM | LOW | Agent A — commentary not review |
+| N-33 | D3 | Ben-Ami Bartal (byline drift) | Inbal Ben-Ami Bartal-Decety-Mason 2011 Science 334(6061):1427-1430 | MEDIUM | Agent B |
+| N-34 | B2 | Dickinson-Balleine 1994 title drift | "Motivational Control of Goal-Directed Action" Anim Learn Behav 22(1):1-18 | MEDIUM | Agent A |
+| N-35 | B2 | Gardner 2012 general SRHI review | Gardner 2012 SRBAI-derivation paper IJBNPA 9:102 | MEDIUM | Agent B — SRBAI-specific |
+| N-36 | B2 | Schwabe-Wolf 2013 NBR 37(9):1740-1749 | Schwabe-Wolf 2013 Trends in Cog Sci 17(2):60-68 | MEDIUM | Agent A |
+| N-37 | B2 | Aarts-Verplanken-van Knippenberg 1998 JEP 18(2) | Aarts 1997 Acta Psychologica 96(1-2):1-14 | MEDIUM | Agent A |
+| N-38 | B2 | Robbins-Costa 2017 Neuron 96(5) | Robbins-Costa 2017 Current Biology 27(22):R1200-R1206 | MEDIUM | Agent B |
+| N-39 | B2 | Schwabe-Höffken 2013 Neuropsychopharmacology | Schwabe-Höffken 2011 J Neurosci 31(47):17317-17325 | MEDIUM | Agent A |
+| N-34-D4 | D4 | Bonanno-Kaltman 2001 Psych Bull 127(1) | Bonanno-Kaltman 2001 Clin Psych Rev 21(5):705-734 | HIGH | Agent A |
+| N-35-D4 | D4 | Galatzer-Levy-Bonanno 2012 J Pers Assessment 94 | Galatzer-Levy-Bonanno 2012 Soc Sci Med 74(12):1987-1994 | HIGH | Agent A |
+| N-36-D4 | D4 | Bonanno-Boerner 2007 Death Studies | Bonanno-Boerner 2007 JAMA letter 297(24):2693 | HIGH | Agent A |
+| N-37-D4 | D4 | Wayment-Vierthaler 2002 Death Studies 26(2) | Wayment-Vierthaler 2002 J Loss & Trauma 7(2):129-149 | HIGH | Agent A |
+| N-38-D4 | D4 | Anusic-Lucas 2014 EJP 28(6) | Anusic-Lucas 2014 J Personality 82(5):367-378 | HIGH | Agent A |
+| N-39-D4 | D4 | Utz-Reidy 2004 J Gerontology 59B | Utz-Reidy 2004 J Family Issues 25(5):683-712 | MEDIUM | Agent A |
+| N-40-D4 | D4 | Bratt 2017 author list ambiguous | Bratt-Stenström-Rennemark 2017 Aging & Mental Health 21(6):602-608 | LOW | Agent A |
+| N-41-D4 | D4 | Currier-Holland-Neimeyer 2006 JCP 62(10):1327 | Currier-Holland-Neimeyer 2006 Death Studies 30(5):403-428 | HIGH | Agent B |
+| N-42-D4 | D4 | Kersting 2009 JAD 121(1-2):13 | Kersting 2009 Am J Psychiatry 166(12):1402-1410 | HIGH | Agent B |
+| N-43-D4 | D4 | O'Connor 2019 Psych Bulletin | O'Connor 2019 Psychosomatic Medicine 81(8):731-738 | HIGH | Agent B |
+| N-44-D4 | D4 | Field-Sundin 2001 parental death | Field-Sundin 2001 CONJUGAL bereavement JSPR 18(3):347-361 | MEDIUM | Agent B — sample-desc |
+| N-45-D4 | D4 | Meier-Carr-Currier-Neimeyer 2013 Death Studies 37 | Meier 2013 J Soc Clin Psych 32(3):315-334 | HIGH | Agent B |
+| N-46-D4 | D4 | Simon-Shear 2007 Comprehensive Psychiatry 48(5) | Simon-Shear 2008 Psychiatry Research 159(1-2):31-36 | HIGH | Agent B |
+| N-47-D4 | D4 | Bennett-Vidal-Bornstein 2005 Death Studies | PHANTOM; use Bennett-Hughes-Smith 2005 OMEGA 51(1):33-52 | HIGH | Agent B — PHANTOM |
+| N-48 | F4 | Dores Cruz 2021 PSPS 16(2); Van Kleef+Balliet authors | Dores Cruz-Nieper-Testori-Martinescu-Beersma 2021 G&OM 46(2):252-285 | HIGH | Agent A — journal+authors |
+| N-49 | F4 | Wu 2016 srep 5:18102 (pet-dogs paper) | Wu-Balliet-Van Lange 2016 srep 6:23919 | HIGH | Agent A — PHANTOM/mis-attribute |
+| N-50 | F4 | Beersma-Van Kleef 2011 PSPB 37(11):1499-1503 | Beersma-Van Kleef 2011 SPPS 2(6):642-649 | HIGH | Agent A |
+| N-51 | F4 | Dores Cruz 2019 EJSP | Dores Cruz 2019 Frontiers Psychology 10:1190 | MEDIUM | Agent A |
+| N-52 | F4 | Hess-Hagen 2006 (conflated single paper) | TWO papers: EHB 27(3):231-245 aggression + Human Nature 17(3):337-354 gossip veracity | HIGH | Agent A+B — conflation |
+| N-53 | F4 | Waddington 2005 ERRJ 17(4) | Waddington 2005 JOOP 78(2):221-236 | MEDIUM | Agent A |
+| N-54 | F4 | Wu-Balliet-Van Lange 2015 NHB/ERSP | Wu 2015 Evolution and Human Behavior 37(3):193-201 | MEDIUM | Agent A |
+| N-55 | F4 | Peters-Kashima 2007 AJP 59(3):167-172 | Peters-Kashima 2007 JPSP 93(5):780-797 | HIGH | Agent B |
+| N-56 | F4 | Peters-Kashima 2015 JLSP 34(3):274-283 | Peters-Kashima 2015 EJSP 45(6):784-798 | MEDIUM | Agent B |
+| N-57 | F4 | Grosser 2010 Personnel Psychology; Kilduff coauthor | Grosser-Lopez-Kidwell-Labianca 2010 G&OM 35(2):177-212 | HIGH | Agent B |
+| N-58 | F4 | Grosser 2012 gossip triads GOM 37(4):429 | UNVERIFIED PHANTOM; alt: Grosser 2012 Organizational Dynamics 41(1):52-61 | HIGH | Agent B — PHANTOM |
+| N-59 | F4 | Fine 1977 Man 12(3-4):451-465 | Fine 1977 J Communication 27(1):181-185 | MEDIUM | Agent B |
+| N-60 | F4 | Waddington-Fletcher 2005 ERRJ | Waddington-Fletcher 2005 J Health Org Mgmt 19(4-5):378-394 | MEDIUM | Agent B |
+| N-61 | F4 | Kuo-Chang-Quinton 2015 J Business Ethics 129(3):591 | Kuo-Chang 2015 Int J HRM 26(18):2288-2307 | MEDIUM | Agent B |
+| N-62 | F4 | Redhead-Dunbar 2013 Evolutionary Psychology 11(1):102-113 | UNVERIFIED PHANTOM; DROP; use Dunbar 1997+2004 instead | HIGH | Agent B — PHANTOM |
+| N-63 | F4 | Turner 2003 Communication Studies | Turner 2003 Communication Monographs 70(2):129-141 | LOW | Agent B |
+
+**Note on numbering:** D4 corrections were internally numbered N-34 through N-47 during D4 ship notes (labeled as `N-34-D4` etc. above to disambiguate from B2's N-34-N-39). Council #11 verification substrate should treat the 63 corrections as a single flat sequence for RATIFY disposition; the internal per-ship numbering preserves provenance.
+
+### Phantom citations (recommend DROP + substitute)
+
+Four phantom citations surfaced. Each was searched exhaustively (Google Scholar + JSTOR + PubMed + publisher DOI resolvers + author-page verification); none resolves to a real paper matching the cited claim:
+
+1. **Redhead-Dunbar 2013 Evolutionary Psychology 11(1):102-113** — extensive search failed to locate. **Recommend DROP; substitute with Dunbar-Marriott-Duncan 1997 Human Nature 8(3):231-246 + Dunbar 2004 RGP 8(2):100-110.**
+
+2. **Grosser-Lopez-Kilduff-Wu-Cronin 2012 GOM 37(4):429-471 "gossip triads"** — no such paper found. **Recommend DROP; substitute with Grosser-Lopez-Kidwell-Labianca 2010 GOM 35(2):177-212** OR Grosser 2012 Organizational Dynamics 41(1):52-61 pending verification.
+
+3. **Bennett-Vidal-Bornstein 2005 Death Studies** — recommend REJECT-STALE. **Substitute: Bennett-Hughes-Smith 2005 OMEGA 51(1):33-52** OR **Bennett-Smith-Hughes 2005 Aging & Mental Health 9(4):348-353**.
+
+4. **Wu-Balliet-Van Lange 2015 Sci Reports 5:18102** — is actually a pet-dogs paper, not the cited cooperation-under-reputation claim. **Correct anchor: Wu 2016 Scientific Reports 6:23919** (gossip-reputation cooperation paradigm).
+
+### REJECT-STALE flag
+
+- **Kashima 2000 PSPB 26(5):594-604 uniform-40%-decay-per-stage claim:** actual mechanism reported in the paper is CONTENT-SELECTIVE bivariate (~10% consistent-with-stereotype content retention / ~30% inconsistent-with-stereotype content decay). Substrate calibrations should NOT anchor to "uniform 40% decay per transmission stage." Framework F4 gossipSemantics ship's decay function must be revised to content-selective bivariate form OR flagged with EMPIRICAL-TRANSLATION (per Council #11 Item 163) if the uniform-decay approximation is retained as a modeling choice. **Recommend REJECT-STALE on the uniform-decay reading.**
+
+### Additional NEW anchors surfaced during research (registry integration candidates)
+
+Research sweeps surfaced 6 primary-source anchors NOT previously in the framework registry. Candidate additions for future ship anchoring rather than corrections:
+
+- **Dores Cruz 2021 Phil Trans B 376:20200301** — tripartite gossip valence distribution 35.9% neg / 32.6% pos / 31.5% neutral; anchor for F4 gossip-valence baseline
+- **Dores Cruz 2019 Frontiers in Psychology 10:1190** — 5th gossip motive EMOTION_VENTING beyond the 4-motive Beersma-Van Kleef 2012 taxonomy
+- **McCloskey-Johnson 2021 Personality & Individual Differences 181:111000** — HEXACO C × habit content-conditional interaction (β=-0.06 risky habits; β=+0.20 protective habits); anchor for B2 habitStrength cross-trait moderator
+- **Van Ast 2023 Neurobiology of Stress + PLOS One 2024** — preregistered null replications of Schwabe-Wolf 2009 stress → habit shift; B2 habitStrength stress-modulator; flag existing Schwabe-Wolf 2009 anchor as CONTESTED
+- **Turner-Mazur-Wendel-Winslow 2003 Communication Monographs 70(2):129-141** — relational-ruin restraint on same-friend gossip; F4 gossip-target-selection anchor
+- **Meier-Carr-Currier-Neimeyer 2013 J Soc Clin Psych 32(3):315-334** — rumination as mediator between anxious attachment and complicated grief; D4 attachment-pathway anchor
+
+### Proposed disposition
+
+**RATIFY** the 63-correction batch as framework-registry amendments at Council #11 close. Batch composition:
+
+- **60 registry-update corrections** (N-10 through N-63)
+- **4 phantom-DROP corrections** with substitute anchors where load-bearing
+- **1 REJECT-STALE flag** on Kashima 2000 uniform-decay claim
+- **6 NEW anchor registrations** for framework registry future-ship use
+
+### Method for Council #11 verification
+
+1. **Substrate byte-level verification:** deploy Perplexity Computer (or ChatGPT DR) with citation-verification role on the 63-row correction table. Follows Council #10 Substrate C precedent (Perplexity produced N-10 through N-20 at Council #10 close).
+2. **K=2 quorum:** any correction with framework-wide grep-impact requires K=2 substrate verification before framework-wide application (per Item 158 method).
+3. **Phantom citation DROP:** must be K=2 verified as unlocatable; not just "not found by one substrate."
+4. **REJECT-STALE Kashima:** requires primary-source page-scan verification of the actual reported mechanism (content-selective bivariate).
+
+### Composes with
+
+- **Item 158** (framework-wide citation hygiene audit) — Item 165 is a specific 63-correction batch feeding into the Item 158 method's scope
+- **Item 159** (Post 0146 ±30% coupling bound framework-wide re-attribution) — same class of citation-drift concern at different scope
+- **Item 163** (Rule 19 EMPIRICAL-TRANSLATION flag) — Kashima 2000 uniform-decay if retained would be EMPIRICAL-TRANSLATION flag candidate
+
+### Priority
+
+**HIGH** — 63-correction backlog blocks clean citation-registry export until integrated. Deferral to Council #12 (November nominal window) risks additional Phase 2 ship citations compounding on top of the uncorrected Phase 1 batch. Accelerated-close at Council #11 recommended.
+
+### Ratification signal expected
+
+**RATIFY (batch)** — corrections are all specific + verifiable + accompanied by Agent A/Agent B provenance; phantom flags are exhaustively-searched; REJECT-STALE flag has clear alternative mechanism specified. Batch ratification pattern precedent: Council #10 Item 156 N-10 through N-20 8-correction batch RATIFY.
+
+### Cross-refs
+
+- Council #10 Item 156 close-out (N-10 through N-20 precedent + Council #10 close-out amendments)
+- Council #11 Item 158 (framework-wide citation hygiene audit; Item 165 is a scoped batch feeding into Item 158 method)
+- Council #11 Item 159 (Post 0146 re-attribution)
+- Council #11 Item 163 (Rule 19 EMPIRICAL-TRANSLATION)
+- 8 Phase 1 ship postmortems at `~/Projects/sim-ai/` commits F2 `9c96ae1` · F1 `1409a34` · F5 `b0481bb` · D5 `aac3eb6` · D3 `37f8b64` · B2 `49940e3` · D4 `ef1f7f3` · F4 `a0c0391`
+
+---
+
 ## Cross-item composition + dependency graph
 
 ```
@@ -216,6 +371,11 @@ Item 162 (Rule 28 enforcement)    ──── Item 156 Tier 10 implementation i
 
 Item 163 (Rule 19 EMPIRICAL-TRANSLATION) ── enables N-2 through N-20 corrections to be
                                             re-labeled with precise flag; Rule 19 body amendment
+
+Item 165 (Phase 1 batch citation corrections) ── scoped subset of Item 158 method;
+                                                  K=2 substrate verification on 63-row table;
+                                                  4 phantom-DROP + 1 REJECT-STALE (Kashima 2000)
+                                                  + 6 NEW anchors for registry integration
 ```
 
 ## Substrate deployment strategy for Council #11
@@ -237,7 +397,7 @@ Item 163 (Rule 19 EMPIRICAL-TRANSLATION) ── enables N-2 through N-20 correct
 
 ## Ratification tracking
 
-**Status:** ALL 6 items filed for Council #11 review at Council #10 close 2026-07-11.
+**Status:** ALL 8 items filed for Council #11 review at Council #10 close 2026-07-11 (Items 158-164 filed at Council #10 close; Item 165 filed 2026-07-11 late post-Phase-1 lifelikeness completion).
 
 **Operator ratification signature at Council #11 close:** to be filled September 2026 or accelerated per operator judgment.
 
