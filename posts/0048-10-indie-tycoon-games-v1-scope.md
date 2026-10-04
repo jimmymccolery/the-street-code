@@ -38,6 +38,8 @@ cross_refs:
 
 I'm building a bowling-alley tycoon sim solo, targeting Early Access on October 31, 2026. In the middle of architectural lock-in for the V1 scope, I had to answer a question that mattered more than I initially realized: what did the comparable indie tycoon games actually ship at V1? Not the final, polished, multi-mode versions you see on Steam today. The V1. The first public release. Before the expansions, before the multi-mode features, before the modding scenes filled in the gaps.
 
+*Update, October 2026: the October 31 target mentioned above has moved. The game is now opening one decade at a time, starting with the 1950s, and I will share dates once they are firm. The research in this post is unchanged.*
+
 I ran the question past a research-rigor AI substrate with primary-source citation requirements across 10 indie and small-team tycoon titles spanning 1994 to 2018. The research came back with a finding so clean it changed how I scoped my own V1. This post is the finding.
 
 ## The 10 games
