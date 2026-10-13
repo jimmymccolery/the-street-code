@@ -1,6 +1,6 @@
 # The Street Code — POSTS-INDEX.md (CC-Scan Layer 1: Master Flat Index)
 
-**Purpose:** Fast-grep master index for CC scan efficiency. One line per post. All 191 posts (0001-0194; three post_id gaps at 0107-0109). CC greps this file to filter by project/task/phase/discipline before opening specific posts.
+**Purpose:** Fast-grep master index for CC scan efficiency. One line per post. 197 posts indexed (0001-0200; three post_id gaps at 0107-0109). Posts 0201-0203 exist in this folder but are not indexed yet (0202 is an unfinished draft). CC greps this file to filter by project/task/phase/discipline before opening specific posts.
 
 **Format:** `{post_id} | {date} | {title (60ch)} | proj:{scope} | task:{cc-task} | phase:{binding} | discipline:{family} | status:{state}`
 
