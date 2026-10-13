@@ -32,8 +32,8 @@ Recorded clean baselines from full-corpus audit runs. Tracks the state at which 
 ## Related
 
 - `../research/citations/modified-c-bis-canonical-citations.md` — Master citation file for the philosophical-content arc (Posts 0110-0128); enforces "primary text > review paper > secondary interpretation" and tracks flag retractions (F-8 through F-18) with direct quotes and page numbers
-- `../drafts/INDEX.md` — Current drafts pipeline state + the 2-digit drafts/ vs 4-digit posts/ numbering-system disambiguation
-- `../drafts/CANON.md` — Canon-vs-post boundary recommendation (Open Alley architecture/ as canonical home short-term; Room To Life migration post-V1)
+- `../drafts/INDEX.md` (kept private; not in the public repo) — Current drafts pipeline state + the 2-digit drafts/ vs 4-digit posts/ numbering-system disambiguation
+- `../drafts/CANON.md` (kept private; not in the public repo) — Canon-vs-post boundary recommendation (Open Alley architecture/ as canonical home short-term; Room To Life migration post-V1)
 - `../SUMMARY.md` — Per-post plain-language index covering all 125 published posts plus the 107-109 retraction entry
 
 ---

@@ -12,7 +12,7 @@ The work is operator-audit-shaped: writing serves as memory-keeping and audit tr
 
 - posts/ - Substantive published methodology research writing
 - methodology/ - Framework documentation and operational disclosure
-- drafts/ - Work-in-progress posts not yet ready for publication
+- Work-in-progress drafts are kept private and are not part of this public repository
 
 ## Conventions
 
