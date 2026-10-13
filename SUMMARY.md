@@ -1,6 +1,6 @@
 # What This Repo Documents: A Plain-Language Summary
 
-> **Status note (2026-10-13):** this narrative summary covers posts 0001 through 0128 (125 posts). The repository now holds 200 numbered posts (0001 through 0203, with slots 0107 to 0109 retired). For the complete list, use [`posts/POSTS-INDEX.md`](posts/POSTS-INDEX.md), which indexes the later posts.
+> **Status note (2026-10-13):** the per-post summaries below cover all 200 numbered posts (0001 through 0203, with slots 0107 to 0109 retired). The introductory paragraphs were written when the repository held 125 posts (0001 through 0128) and have not been revised since. For a flat, filterable list of posts, see [`posts/POSTS-INDEX.md`](posts/POSTS-INDEX.md).
 
 The Street Code is a personal AI discipline framework: a set of rules and procedures for catching the kinds of mistakes that AI substrates (the AI programs executing the work, like Claude or Grok or Gemini) reliably make under sustained operator use. The framework's core is a canonical record (an authoritative state kept across reference files that every substrate session reads). Within that canonical record sits an anti-pattern catalogue (named failure modes, each with a rule, an example, and a recovery procedure). The framework also includes verification (check passes against canonical state at structurally-independent gates), a multi-role architecture for cross-checking work, and explicit operational discipline rules for sustained-session work.
 

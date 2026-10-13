@@ -2,6 +2,18 @@
 
 Methodology research on AI-assisted work: cross-substrate audit chains, canonical-state discipline, framework-encoded verification.
 
+## Start here (plain English)
+
+This repository is a public notebook. It records what I have learned from using AI tools to help build software and write, and the rules I use to catch AI mistakes such as making things up or skipping checks. Most posts were written with AI assistance, and each one says so. It is a personal project, separate from my career in customer success and training (see [jimmymccolery.com](https://jimmymccolery.com)).
+
+If you only read three posts:
+
+1. [How a Personal AI Discipline Framework Earns Its First Rules](posts/0005-how-a-personal-ai-discipline-framework-earns-its-first-rules.md): the core idea in short form.
+2. [Cross-Substrate Triangulation as Solo-Indie Methodology](posts/0039-cross-substrate-triangulation-as-solo-indie-methodology.md): why checking one AI's work with a different AI catches more errors.
+3. [What the Gang Actually Does and What's Theater](posts/0040-what-the-gang-actually-does-and-whats-theater.md): an honest look at which parts of the process add value.
+
+Two terms you will see everywhere: a **substrate** is an AI tool or model (Claude, Gemini, Grok), and **CC** is Claude Code, the AI coding assistant.
+
 ## What this is
 
 This repo collects substantive writing on a personal framework for AI-assisted methodology research work. The framework operates across multiple AI substrates (Claude Code, Claude on web, Gemini, Grok) with explicit verification phases (Phase 1 canonical content read, Phase 3 generation, Phase 5 byte-level verification). Posts here document patterns observed during framework operation, architecture decisions, and methodology research findings.
