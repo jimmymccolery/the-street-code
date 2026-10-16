@@ -289,3 +289,21 @@
 - Discipline canonization uses supersession chain as empirical evidence
 
 **Extension proposal for Council #8:** Formalize this discipline at operational_discipline_rules level as post-audit-correction extension per Post 0163 + 0167 + 0171 + 0172 empirical foundation (n=3 within-Phase-3 arc).
+
+<!-- generated:begin supersedes-fields -->
+## Supersedes fields recorded in POSTS-INDEX.md (generated 2026-10-16)
+
+Every non-empty `supersedes:` value in the master index, with whether a chain above mentions the superseding post.
+
+| Superseding post | supersedes field | chain mentions it |
+| --- | --- | --- |
+| 0150 | 0146-partial | yes |
+| 0167 | 0166-attribution | yes |
+| 0171 | 0170-Fire-E | yes |
+| 0172 | 0169-Item-0334 | yes |
+| 0173 | 0146-A-B-C-labels-partial | yes |
+| 0174 | 0168-empirical-foundation-count-partial | yes |
+| 0183 | 0177+0179+0180+0182-Item-0334-residue-Chain-6 | yes |
+| 0187 | 0070+0095+0100+0101+0113+0146+0176+0186-invented-methodology-apparatus-Chain-7-LARGEST-supersession-event | yes |
+
+<!-- generated:end supersedes-fields -->

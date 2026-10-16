@@ -238,6 +238,10 @@ grep -A5 "Chain.*{post_id}" POSTS-SUPERSESSION-CHAIN.md
 
 ## Maintenance protocol
 
+**Update 2026-10-16:** the four `POSTS-BY-*` views and the supersession file now carry generated blocks (`<!-- generated:begin … -->` … `<!-- generated:end … -->`) with a complete per-section post list built from `POSTS-INDEX.md` by `scripts/build_post_views.py`. The hand-written notes above each block are curated and dated; the block is the complete, current list. After adding a post to `POSTS-INDEX.md`, run `python3 scripts/build_post_views.py`; `scripts/audit.sh` section H fails CI when the blocks are behind. Posts 0173 onward use free-form `task:` and `discipline:` tags; the views place them by keyword where a family fits and always list them in a final "free-form" or "outside the canonized families" section with their tags, so nothing is dropped.
+
+### Original protocol (2026-07-05)
+
 **Adding a new post:**
 1. Add v1.0 or v2.0 CC-OPTIMIZED-SUMMARY block at top (Layer 3)
 2. Add entry to POSTS-INDEX.md master flat index (Layer 1)

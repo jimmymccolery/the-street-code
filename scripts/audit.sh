@@ -230,6 +230,21 @@ else
 fi
 
 # ----------------------------------------------------------------------
+# I. Layer-2 post views complete (generated blocks match POSTS-INDEX.md)
+# ----------------------------------------------------------------------
+echo
+echo "I. Layer-2 post views (POSTS-BY-* + supersession appendix)"
+if command -v python3 >/dev/null 2>&1; then
+  if python3 scripts/build_post_views.py --check >/dev/null 2>&1; then
+    pass "POSTS-BY-PROJECT/PHASE/CC-TASK/DISCIPLINE + supersession appendix match POSTS-INDEX.md"
+  else
+    fail "Layer-2 views are behind POSTS-INDEX.md; run: python3 scripts/build_post_views.py"
+  fi
+else
+  warn "python3 not available; Layer-2 view check skipped"
+fi
+
+# ----------------------------------------------------------------------
 # Summary
 # ----------------------------------------------------------------------
 echo
