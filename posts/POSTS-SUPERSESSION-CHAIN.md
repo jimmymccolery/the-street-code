@@ -248,6 +248,21 @@
 
 ---
 
+### Chain 14: Post 0079 (in-place dated correction notice, 2026-11-21; no superseding post)
+
+**Scope:** Post 0079 said the portfolio's products do not share a codebase or an engine. That is no longer true: the products now share one engine and one player account; each product keeps its own world and saves.
+
+**Post 0079** (2026-06-09): "Aesthetic as Architecture: Cross-Product Ecosystem Coherence"
+- Load-bearing through-line argument (aesthetic coherence as a portfolio pattern) remains canonical
+- "Products do not share codebase engine" claim (INCORRECT going forward for codebase and engine)
+- Four-product list kept as written history; the hardware companion has since been deferred
+
+**Correction approach:** `> **CORRECTION NOTICE (added 2026-11-21)**` block after the CC-OPTIMIZED-SUMMARY and before the title; dated bracketed notes on the summary block's `canonical_rule` and `load_bearing_claims` lines; `superseded_by: none` kept with a parenthetical pointing to the notice; a dated correction line in the SUMMARY.md entry for Post 79. Body preserved per addendum-preserves-immutability discipline.
+
+**CC scanning guidance:** When consulting Post 0079, treat the through-line argument as canonical and the no-shared-engine claim as corrected. Do not cite this portfolio as an example of coherence without shared technical infrastructure.
+
+---
+
 ## Supersession pattern taxonomy
 
 **Pattern A: Citation-chain correction** (Post 0146 → 0150)

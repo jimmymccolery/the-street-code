@@ -3,16 +3,16 @@ post_id: 0079
 title: Aesthetic as architecture: how an emotional through-line can hold a cross-product portfolio together without shared technical infrastructure
 date_published: 2026-06-09
 status: published
-superseded_by: none
+superseded_by: none (correction notice 2026-11-21: the products now share one engine and one account; each product keeps its own world and saves)
 domain: brand-strategy emotional-through-line coheres cross-product portfolio without shared technical infrastructure
 project_scopes: cross-cutting, pin-paradise
 cc_task_relevance: portfolio-brand-architecture, emotional-through-line-design, cross-product-ecosystem-coherence
 phase_binding: era-independent
 discipline_family: none-applicable
-canonical_rule: Emotional through-line coheres cross-product portfolio when products do not share codebase engine character-roster or continuous world-state; portfolio coherence lives in shared emotional register memory-and-place
+canonical_rule: Emotional through-line coheres cross-product portfolio when products do not share codebase engine character-roster or continuous world-state; portfolio coherence lives in shared emotional register memory-and-place [2026-11-21 correction: this portfolio no longer fits the no-shared-engine condition; the products now share one engine and one account, with separate worlds and saves per product]
 load_bearing_claims:
-  - Four products under single publisher (tycoon sim cozy 3D-environment simulators physical card game hardware companion)
-  - Products do not share codebase engine character-roster or continuous world-state
+  - Four products under single publisher (tycoon sim cozy 3D-environment simulators physical card game hardware companion) [2026-11-21 note: list kept as written history; hardware companion deferred]
+  - Products do not share codebase engine character-roster or continuous world-state [2026-11-21 correction: no longer true for codebase and engine; the products now share one engine and one account; each product keeps its own world and saves]
   - Shared emotional through-line memory-and-place is the coherence mechanism
   - Ratified n=1 case with sustained cascade reuse across 10+ brand and architecture decisions in recent weeks
 applicability_triggers:
@@ -26,6 +26,8 @@ cross_refs:
   - Post 0073 (three legitimate play modes)
   - Post 0080 (per-decade trophy presentation conventions)
 -->
+
+> **CORRECTION NOTICE (added 2026-11-21):** This post says the products "do not share a codebase" or "an engine", and that each product would choose its own technical implementation. That is no longer true. The products now share one engine and one player account. Each product's world and saves stay separate: progress in one product never carries over into another. The list of four products below is kept as written in June; the hardware companion has since been deferred. The argument about an emotional through-line holding a portfolio together is unchanged; this portfolio is simply no longer an example of it working without shared technical infrastructure. The body below is preserved as written; this notice covers only the statements about separate codebases and engines, and the product list.
 
 # Aesthetic as architecture: how an emotional through-line can hold a cross-product portfolio together without shared technical infrastructure
 
